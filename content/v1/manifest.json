@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "content_version": "2026.11.11-1071",
+ "packs": {
+  "ja": {
+   "url": "ja.json",
+   "sha256": "23bcd7442f8154eed083c8569d049fa5896dbf83ede196faf7e994024487c7d3",
+   "items": 98
+  },
+  "en": {
+   "url": "en.json",
+   "sha256": "a14a98fc4f3c514c9a3d3d21a90e5fb8eca57ebb7accc298d499b22641c6c804",
+   "items": 98
+  },
+  "zh-Hans": {
+   "url": "zh-Hans.json",
+   "sha256": "26e02a216de4d9352cb126cda0b801b34fd95b45350071005eb8d6b22e252ca9",
+   "items": 98
+  },
+  "vi": {
+   "url": "vi.json",
+   "sha256": "6e563946c951e9e7f99ac434f7e2ce757bac6d7c8ecc7d97f857c8c01b55bedc",
+   "items": 98
+  },
+  "ko": {
+   "url": "ko.json",
+   "sha256": "96d5bbf4688258ed84c15dcfaa5e794a1181c90a27db02068b8fad6a97d4f338",
+   "items": 98
+  },
+  "hi": {
+   "url": "hi.json",
+   "sha256": "779d54d905e0d5c58a5f2adc224afaa09d0f1e03d7ca76e95a79d33ed42527cf",
+   "items": 98
+  }
+ }
+}

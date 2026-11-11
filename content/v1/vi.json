@@ -1,0 +1,4768 @@
+{
+ "schema": 1,
+ "language": "vi",
+ "categories": [
+  {
+   "id": "garbage",
+   "symbol": "trash",
+   "title": "Rác & tái chế"
+  },
+  {
+   "id": "home",
+   "symbol": "house",
+   "title": "Nhà ở & hàng xóm"
+  },
+  {
+   "id": "daily",
+   "symbol": "hand.wave",
+   "title": "Phép tắc hằng ngày"
+  },
+  {
+   "id": "moving",
+   "symbol": "shippingbox",
+   "title": "Chuyển nhà"
+  },
+  {
+   "id": "transit",
+   "symbol": "tram",
+   "title": "Tàu & xe buýt"
+  },
+  {
+   "id": "bicycle",
+   "symbol": "bicycle",
+   "title": "Xe đạp"
+  },
+  {
+   "id": "dining",
+   "symbol": "fork.knife",
+   "title": "Nhà hàng & cửa hàng tiện lợi"
+  },
+  {
+   "id": "bath",
+   "symbol": "bathtub",
+   "title": "Nhà tắm công cộng & suối nước nóng"
+  },
+  {
+   "id": "smoking",
+   "symbol": "smoke",
+   "title": "Hút thuốc & uống rượu"
+  },
+  {
+   "id": "residence",
+   "symbol": "person.text.rectangle",
+   "title": "Tư cách lưu trú"
+  },
+  {
+   "id": "crime",
+   "symbol": "building.columns",
+   "title": "Tội phạm & pháp luật"
+  },
+  {
+   "id": "emergency",
+   "symbol": "exclamationmark.triangle",
+   "title": "Khẩn cấp & thiên tai"
+  },
+  {
+   "id": "travel",
+   "symbol": "suitcase",
+   "title": "Du lịch & tham quan"
+  }
+ ],
+ "items": [
+  {
+   "id": "garbage-appliances",
+   "category": "garbage",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/recycle/kaden/tvrecycle.html",
+   "sources": [
+    {
+     "title": "いらなくなった家電製品は正しくリユース・リサイクル！",
+     "url": "https://www.env.go.jp/recycle/kaden/tvrecycle.html"
+    },
+    {
+     "title": "家電リサイクル法の概要",
+     "url": "https://www.env.go.jp/recycle/kaden/gaiyo.html"
+    },
+    {
+     "title": "環境省_廃棄物の処分に「無許可」の回収業者を利用しないでください！",
+     "url": "https://www.env.go.jp/recycle/kaden/tv-recycle/qa.html"
+    },
+    {
+     "title": "家電4品目（エアコン、テレビ、冷蔵庫・冷凍庫、洗濯機・衣類乾燥機）の出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00019.html"
+    },
+    {
+     "title": "特定家庭用機器再商品化法 第6条",
+     "url": "https://laws.e-gov.go.jp/law/410AC0000000097"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Điều hòa, TV, tủ lạnh, máy giặt phải tái chế",
+   "summary": "Điều hòa, TV, tủ lạnh và tủ đông, máy giặt và máy sấy quần áo thuộc đối tượng của Luật tái chế đồ gia dụng. Hãy giao cho cửa hàng bán đồ điện hoặc làm theo hướng dẫn của chính quyền địa phương. Người tiêu dùng trả phí tái chế và phí thu gom vận chuyển.",
+   "do": [
+    "Hỏi cửa hàng bán đồ điện hoặc xem hướng dẫn của địa phương",
+    "Kiểm tra phí tái chế và phí thu gom vận chuyển"
+   ],
+   "dont": [
+    "Giao cho đơn vị thu gom không có giấy phép"
+   ],
+   "keywords": [
+    "đồ gia dụng",
+    "tái chế",
+    "điều hòa",
+    "TV",
+    "tủ lạnh",
+    "máy giặt",
+    "rác"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "エアコン・テレビ・冷蔵庫・洗濯機はリサイクルに出す",
+    "summary": "エアコン、テレビ、冷蔵庫・冷凍庫、洗濯機・衣類乾燥機は家電リサイクル法の対象です。家電小売店に引き渡すか、市区町村の案内する方法でリサイクルします。リサイクル料金と収集運搬料金は消費者が負担します。"
+   }
+  },
+  {
+   "id": "garbage-illegal-dumping",
+   "category": "garbage",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://kanto.env.go.jp/page_00046.html",
+   "sources": [
+    {
+     "title": "不法投棄対策 | 関東環境局 | 環境省",
+     "url": "https://kanto.env.go.jp/page_00046.html"
+    },
+    {
+     "title": "生活環境の悪化につながる環境犯罪 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/kankyo/living_environment.html"
+    },
+    {
+     "title": "廃棄物の処理及び清掃に関する法律 第16条・第25条",
+     "url": "https://laws.e-gov.go.jp/law/345AC0000000137"
+    },
+    {
+     "title": "軽犯罪法 第1条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không vứt rác ra đường hay lên núi (xả rác, đổ rác trái phép)",
+   "summary": "Luật xử lý chất thải quy định không ai được vứt chất thải bừa bãi, vi phạm sẽ bị xử phạt. Vứt rác ra đường hoặc lên núi là một ví dụ. Vứt bừa vỏ lon, đầu lọc thuốc lá… ra đường hoặc công viên cũng bị Luật Vi phạm nhẹ (軽犯罪法) cấm.",
+   "do": [
+    "Xử lý rác theo cách chính quyền địa phương quy định",
+    "Khi không biết cách xử lý, hãy hỏi chính quyền địa phương"
+   ],
+   "dont": [
+    "Vứt rác ra đường, lên núi hoặc những nơi tương tự",
+    "Vứt vỏ lon hoặc đầu lọc thuốc lá ra đường"
+   ],
+   "keywords": [
+    "đổ rác trái phép",
+    "vứt rác",
+    "đầu lọc thuốc lá",
+    "rác",
+    "chất thải"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "道や山にごみを捨てない（ポイ捨て・不法投棄）",
+    "summary": "廃棄物処理法は、誰であっても、みだりに廃棄物を捨ててはならないと定めており、違反には罰則があります。道路や山にごみを捨てることなどがこれにあたります。空き缶や吸い殻などを道や公園にみだりに捨てることは、軽犯罪法でも禁じられています。"
+   }
+  },
+  {
+   "id": "garbage-collection-day",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "燃やすごみの出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00002.html"
+    },
+    {
+     "title": "外国人向け ごみの出し方ガイド（日本語）｜岡崎市公式ホームページ",
+     "url": "https://www.city.okazaki.lg.jp/kurashi/gomi/1012430/1002188/1002218/1002225.html"
+    },
+    {
+     "title": "福岡市 家庭ごみの出し方（ごみ出しルール）",
+     "url": "https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/katei-bunbetsu/kateigomi-dasikata.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Bỏ rác đúng ngày, đúng giờ, đúng nơi quy định",
+   "summary": "Mỗi loại rác có ngày và khung giờ thu gom riêng. Giờ giấc khác nhau theo khu vực: có nơi yêu cầu bỏ rác trước buổi sáng, có nơi như thành phố Fukuoka thu gom vào ban đêm.",
+   "do": [
+    "Kiểm tra ngày, giờ và điểm thu gom trong hướng dẫn hoặc lịch rác của chính quyền địa phương",
+    "Bỏ rác đúng giờ tại điểm thu gom được chỉ định"
+   ],
+   "dont": [
+    "Bỏ rác sai ngày hoặc ngoài khung giờ quy định"
+   ],
+   "keywords": [
+    "rác",
+    "bỏ rác",
+    "ngày thu gom",
+    "lịch rác",
+    "gomi"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみは決められた日・時間・場所に出す",
+    "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
+   }
+  },
+  {
+   "id": "garbage-oversized",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00016.html",
+   "sources": [
+    {
+     "title": "粗大ごみの出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00016.html"
+    },
+    {
+     "title": "「粗大ごみ」の出し方(事前申し込み制)",
+     "url": "https://www.city.tokyo-nakano.lg.jp/kurashi/gomi/sodaigomi/jizenmoshikomi.html"
+    },
+    {
+     "title": "粗大ごみの出し方",
+     "url": "https://www.city.fukuoka.lg.jp/kankyo/kateigomi/life/katei-bunbetsu/sodaigomi.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Rác cồng kềnh phải đăng ký trước",
+   "summary": "Đồ lớn như nội thất có thể không được bỏ như rác thường. Ví dụ ở quận Shinjuku, Nakano (Tokyo) và thành phố Fukuoka phải đăng ký trước, và Shinjuku có thu phí. Hãy kiểm tra quy định của chính quyền địa phương.",
+   "do": [
+    "Xem hướng dẫn của địa phương để biết loại đồ áp dụng và cách đăng ký",
+    "Kiểm tra có mất phí không và cách thanh toán"
+   ],
+   "dont": [
+    "Để đồ ở điểm thu gom mà không đăng ký"
+   ],
+   "keywords": [
+    "rác cồng kềnh",
+    "rác cỡ lớn",
+    "nội thất",
+    "rác",
+    "sodai gomi"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "粗大ごみは事前に申し込む",
+    "summary": "大きな家具などは、普通のごみとして出せないことがあります。例えば東京都新宿区・中野区や福岡市では事前の申し込みが必要で、新宿区では有料です。決まりは市区町村で確認してください。"
+   }
+  },
+  {
+   "id": "garbage-sorting",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/guide/info/ecojin/action/20240221.html",
+   "sources": [
+    {
+     "title": "ごみ出しのコツをつかんで楽しく分別しよう！| ecojin（エコジン）：環境省",
+     "url": "https://www.env.go.jp/guide/info/ecojin/action/20240221.html"
+    },
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Phân loại rác theo quy định của địa phương",
+   "summary": "Cách phân loại và tên gọi các loại rác khác nhau theo từng khu vực. Cách làm ở nơi cũ có thể không áp dụng sau khi chuyển nhà.",
+   "do": [
+    "Xem bảng phân loại rác của chính quyền nơi bạn sống",
+    "Khi không chắc, hãy hỏi quầy của chính quyền địa phương hoặc xem trang web"
+   ],
+   "dont": [
+    "Tiếp tục phân loại theo cách của nơi ở cũ"
+   ],
+   "keywords": [
+    "rác",
+    "phân loại rác",
+    "tái chế",
+    "gomi",
+    "rác cháy được"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみの分別は市区町村のルールに従う",
+    "summary": "分別の種類や呼び方は地域によって異なります。前に住んでいた地域のやり方が、引っ越し先でも同じとは限りません。"
+   }
+  },
+  {
+   "id": "home-lease-rules",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "民法 第612条",
+     "url": "https://laws.e-gov.go.jp/law/129AC0000000089"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không tự ý cho ở chung hoặc cho thuê lại",
+   "summary": "Tự ý cho người chưa khai báo ở chung có thể bị yêu cầu dọn đi. Muốn cho người khác thuê lại phòng cần có sự đồng ý của chủ nhà (Bộ luật Dân sự).",
+   "do": [
+    "Khai báo với chủ nhà hoặc công ty bất động sản khi có người ở chung",
+    "Kiểm tra điều khoản về ở chung và cho thuê lại trong hợp đồng"
+   ],
+   "dont": [
+    "Tự ý cho gia đình hoặc bạn bè vào ở",
+    "Cho thuê lại phòng khi chưa được đồng ý"
+   ],
+   "keywords": [
+    "thuê nhà",
+    "hợp đồng",
+    "ở chung",
+    "cho thuê lại",
+    "chủ nhà"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "無断で同居させない・又貸ししない",
+    "summary": "届け出のない人を無断で同居させると、退去を求められる場合があります。部屋を他の人に又貸しするには、貸主の承諾が必要です（民法）。"
+   }
+  },
+  {
+   "id": "home-moveout-notice",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Báo bằng văn bản trước hạn khi trả phòng",
+   "summary": "Khi chuyển đi, hãy báo chấm dứt hợp đồng bằng văn bản cho chủ nhà hoặc công ty bất động sản trước thời hạn ghi trong hợp đồng. Thời hạn tùy theo hợp đồng.",
+   "do": [
+    "Kiểm tra thời hạn báo trước trong hợp đồng",
+    "Báo bằng văn bản trước thời hạn đó"
+   ],
+   "dont": [
+    "Quyết định ngày trả phòng khi chưa xem hợp đồng"
+   ],
+   "keywords": [
+    "trả phòng",
+    "báo trước",
+    "chấm dứt hợp đồng",
+    "thuê nhà",
+    "chuyển nhà"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "退去するときは期限までに書面で知らせる",
+    "summary": "引っ越すときは、契約書に書かれている期限までに、家主や不動産店へ書面で解約を伝えます（解約予告）。期限は契約によって違います。"
+   }
+  },
+  {
+   "id": "home-shared-areas",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không để đồ ở hành lang và cầu thang",
+   "summary": "Hành lang và cầu thang ngoài phòng của bạn là khu vực chung, đồng thời là lối thoát hiểm khi khẩn cấp. Ban công cũng có thể là lối thoát hiểm.",
+   "do": [
+    "Để đồ cá nhân và rác trong phòng của mình",
+    "Giữ thông thoáng khu vực quanh cửa thoát hiểm ở ban công"
+   ],
+   "dont": [
+    "Để đồ cá nhân hoặc rác ở hành lang, cầu thang"
+   ],
+   "keywords": [
+    "khu vực chung",
+    "hành lang",
+    "cầu thang",
+    "ban công",
+    "thoát hiểm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "廊下や階段に物を置かない",
+    "summary": "自分の部屋以外の廊下や階段は共用部分で、いざというときの避難通路です。ベランダが避難通路になっている場合もあります。"
+   }
+  },
+  {
+   "id": "home-balcony",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/lrmhph000000hznx-att/202610_jp_p92-93.pdf",
+   "sources": [
+    {
+     "title": "住まいのしおり「17 バルコニー」 | UR都市機構",
+     "url": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/lrmhph000000hznx-att/202610_jp_p92-93.pdf"
+    },
+    {
+     "title": "住まいのしおり（住宅・設備等のご案内） | UR都市機構",
+     "url": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/index2.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Ban công cũng là lối thoát hiểm",
+   "summary": "Ban công có thể là lối thoát hiểm khi có hỏa hoạn hoặc tình huống khẩn cấp. Đừng để đồ lớn hoặc nặng trước tấm ngăn với nhà bên cạnh. Một số tòa nhà cấm dùng lửa như nướng thịt, hoặc phơi chăn đệm trên lan can. Liên kết là ví dụ của nhà thuê UR. Hãy kiểm tra quy định của tòa nhà bạn ở.",
+   "do": [
+    "Để trống đường thoát hiểm",
+    "Kiểm tra quy định của tòa nhà bạn ở"
+   ],
+   "dont": [
+    "Để đồ lớn hoặc nặng trước tấm ngăn với nhà bên cạnh",
+    "Dùng lửa dù quy định cấm"
+   ],
+   "keywords": [
+    "ban công",
+    "thoát hiểm",
+    "tấm ngăn",
+    "chăn đệm",
+    "nướng thịt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ベランダは避難路にもなる",
+    "summary": "ベランダやバルコニーは、火事などのときの避難路にもなります。隣との仕切り板の前に、大きな物や重い物を置かないようにします。バーベキューなどの火の使用や、手すりに布団を干すことを禁じている建物もあります。リンク先は UR 賃貸の例です。住んでいる建物の規約を確かめます。"
+   }
+  },
+  {
+   "id": "home-neighborhood-association",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tìm hiểu về hội khu phố",
+   "summary": "Hội khu phố (jichikai, chonaikai) là tổ chức do người dân địa phương tự thành lập. Hoạt động gồm chuyền tay thông báo của tòa thị chính và các nơi khác, chi phí do hội viên đóng góp. Hoạt động khác nhau tùy khu vực, nếu không rõ hãy hỏi chính quyền địa phương nơi bạn sống.",
+   "do": [
+    "Không rõ thì hỏi chính quyền địa phương nơi bạn sống"
+   ],
+   "dont": [
+    "Nghĩ rằng hoạt động ở đâu cũng giống nhau"
+   ],
+   "keywords": [
+    "hội khu phố",
+    "jichikai",
+    "chonaikai",
+    "thông báo chuyền tay",
+    "khu dân cư",
+    "hàng xóm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自治会・町内会を知っておく",
+    "summary": "自治会や町内会は、地域に住む人たちが自主的につくる団体です。市役所などからのお知らせの回覧などの活動をしていて、費用は会員が負担します。活動は地域によって違うので、分からないことは住んでいる市区町村に問い合わせます。"
+   }
+  },
+  {
+   "id": "home-noise-night",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "外国人が日本で安全に暮らすために",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/live_in_tokyo/anzen_kurashi.html"
+    },
+    {
+     "title": "生活騒音 互いの思いやりで騒音のない社会を",
+     "url": "https://www.env.go.jp/air/seikatsu.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Giữ yên lặng từ đêm đến sáng sớm",
+   "summary": "Ở chung cư, âm thanh dễ truyền sang phòng bên cạnh và tầng trên, tầng dưới. Hãy đặc biệt chú ý từ đêm đến sáng sớm.",
+   "do": [
+    "Nói nhỏ và giảm âm lượng TV",
+    "Chú ý tiếng máy hút bụi, máy giặt và tiếng đóng mở cửa"
+   ],
+   "dont": [
+    "Tổ chức tiệc vào ban đêm",
+    "Tắm khuya gây tiếng ồn lớn"
+   ],
+   "keywords": [
+    "tiếng ồn",
+    "âm thanh",
+    "ban đêm",
+    "chung cư",
+    "hàng xóm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "夜から早朝は生活音に気をつける",
+    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
+   }
+  },
+  {
+   "id": "home-pets",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/h2202.pdf",
+   "sources": [
+    {
+     "title": "住宅密集地における犬猫の適正飼養ガイドライン | 環境省",
+     "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/h2202.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Kiểm tra quy định trước khi nuôi thú cưng",
+   "summary": "Phần lớn nhà tập thể cấm nuôi thú cưng, và ngay cả nơi được phép, loại, kích thước, số lượng cũng hầu như được quy định sẵn. Tiếng kêu, mùi và phân không dọn là nguyên nhân gây rắc rối với hàng xóm.",
+   "do": [
+    "Trước khi nuôi, kiểm tra nội quy và hợp đồng",
+    "Khi dắt đi dạo, mang túi và đem phân về"
+   ],
+   "dont": [
+    "Phớt lờ quy định và nuôi lén",
+    "Bỏ phân lại"
+   ],
+   "keywords": [
+    "thú cưng",
+    "chó",
+    "mèo",
+    "nội quy",
+    "tiếng kêu",
+    "phân"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ペットは飼う前に規約を確かめる",
+    "summary": "集合住宅の多くはペットの飼育が禁止されていて、飼える場合でも動物の種類、大きさ、数が規約で決められていることがほとんどです。鳴き声、におい、ふんの放置は、近所とのトラブルのもとになります。"
+   }
+  },
+  {
+   "id": "home-shoes-off",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "Custom & Manners | Travel Japan | JNTO",
+     "url": "https://www.japan.travel/en/plan/custom-manners/"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Cởi giày ở lối vào trước khi vào nhà",
+   "summary": "Ở Nhật, cởi giày ở lối vào (genkan) rồi mới vào nhà là phong tục.",
+   "do": [
+    "Cởi giày ở lối vào rồi mới bước vào phòng"
+   ],
+   "dont": [
+    "Mang giày dép vào phòng"
+   ],
+   "keywords": [
+    "giày",
+    "cởi giày",
+    "lối vào",
+    "genkan",
+    "phong tục"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "家に上がるときは玄関で靴を脱ぐ",
+    "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
+   }
+  },
+  {
+   "id": "daily-spitting",
+   "category": "daily",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/323AC0000000039",
+   "sources": [
+    {
+     "title": "軽犯罪法 第1条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không khạc nhổ hay đi vệ sinh ngoài đường",
+   "summary": "Luật Vi phạm nhẹ (軽犯罪法) cấm khạc nhổ và đi tiểu, đi đại tiện ở đường phố, công viên và những nơi đông người, vi phạm có thể bị tạm giữ ngắn ngày hoặc phạt tiền nhẹ.",
+   "do": [
+    "Dùng nhà vệ sinh ở nhà ga, công viên…",
+    "Nhổ vào khăn giấy rồi vứt đi"
+   ],
+   "dont": [
+    "Khạc nhổ ngoài đường hoặc trong công viên",
+    "Đi vệ sinh ngoài đường hoặc chỗ khuất"
+   ],
+   "keywords": [
+    "khạc nhổ",
+    "tiểu bậy",
+    "nhà vệ sinh",
+    "Luật Vi phạm nhẹ",
+    "đường phố",
+    "công viên"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "道でつばを吐いたり、用を足したりしない",
+    "summary": "軽犯罪法は、道や公園など人が集まる場所で、たんやつばを吐くことや大小便をすることを禁じており、拘留または科料の対象になります。"
+   }
+  },
+  {
+   "id": "daily-park-rules",
+   "category": "daily",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.yamato.lg.jp/gyosei/soshik/13/yokuarushitsumon_kaitoshu/12581.html",
+   "sources": [
+    {
+     "title": "公園で花火をしてもいいのですか。 | 大和市",
+     "url": "https://www.city.yamato.lg.jp/gyosei/soshik/13/yokuarushitsumon_kaitoshu/12581.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xem quy định của công viên trước khi đốt pháo hoa",
+   "summary": "Có được đốt pháo hoa trong công viên hay không tùy thuộc vào địa phương và công viên. Ngay cả nơi được phép cũng có điều kiện như chuẩn bị sẵn nước, mang rác về, và có nơi cấm pháo bắn lên trời hoặc pháo có tiếng nổ. Liên kết là ví dụ của một thành phố. Hãy xem bảng thông báo của công viên hoặc trang web của địa phương.",
+   "do": [
+    "Xem bảng thông báo của công viên hoặc trang web của địa phương",
+    "Chuẩn bị sẵn nước và mang rác về"
+   ],
+   "dont": [
+    "Nghĩ rằng công viên nào cũng giống nhau"
+   ],
+   "keywords": [
+    "công viên",
+    "pháo hoa",
+    "pháo cầm tay",
+    "rác",
+    "quy định"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "公園の花火は、その公園のルールを確かめる",
+    "summary": "公園で花火ができるかどうかは、自治体や公園によって違います。できる公園でも、水の用意やごみの持ち帰りなどの条件があり、打ち上げ花火や音の出る花火を禁じているところがあります。リンク先は一つの市の例です。その公園の案内や自治体のページで確かめます。"
+   }
+  },
+  {
+   "id": "daily-cough-etiquette",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Che miệng và mũi khi ho hoặc hắt hơi",
+   "summary": "Khi ho hoặc hắt hơi, hãy che miệng và mũi bằng khẩu trang, khăn giấy hoặc khăn tay. Nếu không kịp, hãy dùng tay áo hoặc mặt trong khuỷu tay. Ho hoặc hắt hơi không để ý đến xung quanh cũng được nêu là hành vi gây khó chịu trên tàu điện.",
+   "do": [
+    "Che miệng và mũi bằng khẩu trang, khăn giấy, khăn tay",
+    "Nếu không kịp, che bằng tay áo hoặc mặt trong khuỷu tay"
+   ],
+   "dont": [
+    "Ho, hắt hơi thẳng về phía người xung quanh"
+   ],
+   "keywords": [
+    "ho",
+    "hắt hơi",
+    "khẩu trang",
+    "phép lịch sự khi ho",
+    "tàu điện"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "せきやくしゃみは口と鼻を覆う",
+    "summary": "せきやくしゃみをするときは、マスク、ティッシュ、ハンカチなどで口と鼻を覆います。とっさのときは、袖やひじの内側を使います。周りに配慮しないせきやくしゃみは、電車内で迷惑に感じる行為としても挙げられています。"
+   }
+  },
+  {
+   "id": "daily-greeting",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+   "sources": [
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chào hỏi bắt đầu từ cái cúi đầu nhẹ",
+   "summary": "Khi gặp ai đó hoặc ra vào cửa hàng, chỉ cần gật đầu hay cúi đầu nhẹ là đã thể hiện sự lịch sự. Bạn không cần nhớ các quy tắc chi tiết về cúi chào. Thường xuyên chào hỏi hàng xóm sẽ giúp ít xảy ra rắc rối hơn.",
+   "do": [
+    "Cúi đầu nhẹ khi gặp ai đó",
+    "Chào hỏi khi gặp hàng xóm"
+   ],
+   "dont": [
+    "Không chào vì quá lo về cách cúi chào"
+   ],
+   "keywords": [
+    "chào hỏi",
+    "cúi chào",
+    "hàng xóm",
+    "lịch sự",
+    "phép tắc"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "あいさつは軽いおじぎから",
+    "summary": "人に会ったときや店に出入りするときは、軽くうなずいたり頭を下げたりするだけで丁寧に伝わります。おじぎの細かい決まりを覚える必要はありません。近所の人と日ごろからあいさつを交わしておくと、トラブルが起きにくくなります。"
+   }
+  },
+  {
+   "id": "daily-hospital",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Bệnh nhẹ hoặc chấn thương nhẹ thì đến phòng khám gần nhà",
+   "summary": "Các cơ sở y tế ở Nhật có vai trò khác nhau, bệnh nhẹ hoặc chấn thương nhẹ thì trước hết đến phòng khám gần nhà. Nếu không xuất trình thẻ bảo hiểm My Number hoặc giấy tờ tương tự, bạn sẽ tự trả toàn bộ chi phí y tế. Nếu không nói được tiếng Nhật, bạn có thể hỏi chính quyền địa phương, hiệp hội giao lưu quốc tế hoặc NPO.",
+   "do": [
+    "Triệu chứng nhẹ thì đến phòng khám gần nhà",
+    "Mang theo thẻ bảo hiểm My Number hoặc giấy tờ tương tự",
+    "Nếu lo về ngôn ngữ, hãy hỏi chính quyền địa phương"
+   ],
+   "dont": [
+    "Đi khám mà không mang thẻ bảo hiểm My Number hoặc giấy tờ tương tự"
+   ],
+   "keywords": [
+    "bệnh viện",
+    "phòng khám",
+    "thẻ bảo hiểm",
+    "My Number",
+    "phiên dịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "軽い病気やけがは近くの診療所へ",
+    "summary": "日本の医療機関は役割が分かれていて、軽い病気やけがなら、まず身近な診療所に行きます。マイナ保険証などを提示しないと、医療費が全額自己負担になります。日本語が話せないときは、市区町村や国際交流協会、NPO に相談できます。"
+   }
+  },
+  {
+   "id": "daily-public-voice",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/",
+   "sources": [
+    {
+     "title": "Traveling Comfortably | Responsible Travel Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chú ý giọng nói và chỗ đứng ở nơi đông người",
+   "summary": "Nói to ở nơi đông người như đường phố, lối đi trong nhà ga, hoặc đi thành nhóm lớn chắn đường bị xem là gây phiền. Nói chuyện không phải là vấn đề, nói nhỏ thì không sao.",
+   "do": [
+    "Hạ giọng ở nơi đông người",
+    "Để trống lối đi và cửa ra vào"
+   ],
+   "dont": [
+    "Đi thành nhóm lớn chắn đường",
+    "Dừng lại trước cửa ra vào"
+   ],
+   "keywords": [
+    "nói to",
+    "giọng nói",
+    "đường đi",
+    "lối đi",
+    "cửa ra vào",
+    "nhóm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "人の多い場所では声と広がり方に気をつける",
+    "summary": "道や駅の通路など人の多い場所で大声で話したり、大勢で道をふさいだりすると、迷惑な行為と受け取られます。話すこと自体がいけないわけではなく、小さな声なら問題ありません。"
+   }
+  },
+  {
+   "id": "daily-toilet",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "京都市：外国人観光客向けトイレの使い方啓発ステッカー",
+     "url": "https://www.city.kyoto.lg.jp/kankyo/page/0000193917.html"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xả giấy vệ sinh xuống bồn cầu",
+   "summary": "Với bồn cầu xả nước ở Nhật, hãy dùng giấy có sẵn và xả giấy đã dùng xuống bồn cầu. Một số nước có thói quen bỏ giấy đã dùng vào thùng rác, nhưng giấy có sẵn rất hiếm khi gây tắc. Nơi có dép dành riêng cho nhà vệ sinh thì hãy đổi dép.",
+   "do": [
+    "Dùng giấy trong nhà vệ sinh và xả giấy đã dùng",
+    "Nếu có dép nhà vệ sinh thì đổi dép"
+   ],
+   "dont": [
+    "Bỏ giấy đã dùng vào thùng rác"
+   ],
+   "keywords": [
+    "nhà vệ sinh",
+    "giấy vệ sinh",
+    "xả nước",
+    "dép",
+    "thùng rác"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "トイレットペーパーは流す",
+    "summary": "日本の水洗トイレでは、備え付けの紙を使い、使った紙はトイレに流します。使った紙をごみ箱に捨てる習慣の国もありますが、備え付けの紙なら詰まることはめったにありません。トイレ専用のスリッパがある場所では履き替えます。"
+   }
+  },
+  {
+   "id": "daily-umbrella",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Cầm ô sao cho không va vào người khác",
+   "summary": "Ngày mưa, ô ướt chạm vào người khác hoặc đầu ô chĩa về phía người phía sau vừa gây phiền vừa nguy hiểm. Khi gập ô, hãy cầm sát người và để đầu ô hướng xuống.",
+   "do": [
+    "Cầm ô đã gập sát người, đầu ô hướng xuống"
+   ],
+   "dont": [
+    "Cầm ô ngang khi đi",
+    "Để ô ướt chạm vào người khác hoặc ghế"
+   ],
+   "keywords": [
+    "ô",
+    "dù",
+    "mưa",
+    "ô ướt",
+    "tàu điện",
+    "nhà ga",
+    "vỉa hè"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "傘は人に当たらないように持つ",
+    "summary": "雨の日に、ぬれた傘が人に当たったり、傘の先を後ろの人に向けたりすると、迷惑で危険です。たたんだ傘は先を下に向けて、体の近くで持ちます。"
+   }
+  },
+  {
+   "id": "moving-in-notification",
+   "category": "moving",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html",
+   "sources": [
+    {
+     "title": "総務省｜外国人住民に係る住基台帳制度｜転入・転出",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html"
+    },
+    {
+     "title": "住民基本台帳法 第22条・第23条・第52条",
+     "url": "https://laws.e-gov.go.jp/law/342AC0000000081"
+    },
+    {
+     "title": "総務省 転入・転出（English）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/english/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（简体中文）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/chi_kan/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（Tiếng Việt）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/vietnamese/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（한국어）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/korean/move-in_move-out.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chuyển nhà xong phải khai báo với địa phương",
+   "summary": "Sau khi bắt đầu sống ở địa chỉ mới, hãy nộp thông báo chuyển đến (tennyu-todoke) cho chính quyền địa phương trong thời hạn luật định. Nếu chuyển trong cùng địa phương thì nộp thông báo đổi chỗ ở (tenkyo-todoke). Không khai báo mà không có lý do chính đáng có thể bị phạt hành chính. Hãy xem thời hạn trên trang chính thức.",
+   "do": [
+    "Mang thẻ cư trú hoặc giấy chứng nhận vĩnh trú đặc biệt đến quầy",
+    "Xem thời hạn trên trang chính thức và làm thủ tục sớm"
+   ],
+   "dont": [
+    "Tiếp tục sống mà không khai báo"
+   ],
+   "keywords": [
+    "thông báo chuyển đến",
+    "tennyu",
+    "tenkyo",
+    "juminhyo",
+    "đổi địa chỉ",
+    "tòa thị chính"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越したら市区町村に届け出る",
+    "summary": "新しい住所に住み始めたら、法律で決められた期限内に市区町村へ転入届を出します。同じ市区町村の中で引っ越したときは転居届です。正当な理由なく届け出をしないと、過料の対象になります。期限は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "moving-out-notification",
+   "category": "moving",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html",
+   "sources": [
+    {
+     "title": "総務省｜外国人住民に係る住基台帳制度｜転入・転出",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html"
+    },
+    {
+     "title": "入学・就職・転勤等による引越しで、住所を異動される方は、「正確な住所の届出」が必要です！",
+     "url": "https://www.soumu.go.jp/main_content/000731260.pdf"
+    },
+    {
+     "title": "住民基本台帳法 第24条",
+     "url": "https://laws.e-gov.go.jp/law/342AC0000000081"
+    },
+    {
+     "title": "総務省 転入・転出（English）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/english/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（简体中文）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/chi_kan/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（Tiếng Việt）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/vietnamese/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（한국어）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/korean/move-in_move-out.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Nộp thông báo chuyển đi trước khi chuyển nhà",
+   "summary": "Khi chuyển sang địa phương khác, hãy nộp trước thông báo chuyển đi (tenshutsu-todoke) cho nơi đang sống. Khi rời Nhật Bản ra nước ngoài sống, về nguyên tắc cũng phải khai báo.",
+   "do": [
+    "Làm thủ tục tại quầy của địa phương trước khi chuyển",
+    "Nếu có thẻ My Number, có thể nộp trực tuyến qua Mynaportal"
+   ],
+   "dont": [
+    "Chuyển đi mà không khai báo"
+   ],
+   "keywords": [
+    "thông báo chuyển đi",
+    "tenshutsu",
+    "juminhyo",
+    "về nước",
+    "nước ngoài",
+    "Mynaportal"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越す前に転出届を出す",
+    "summary": "別の市区町村へ引っ越すときは、前もって今の市区町村に転出届を出します。日本を出て海外で暮らす場合も、原則として届け出が必要です。"
+   }
+  },
+  {
+   "id": "moving-greeting",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.higashihiroshima.lg.jp/jpn/6/34887.html",
+   "sources": [
+    {
+     "title": "06_近くに暮らす人と、快適コミュニケーション!（外国人住民用日本語版ページ）",
+     "url": "https://www.city.higashihiroshima.lg.jp/jpn/6/34887.html"
+    },
+    {
+     "title": "Higashihiroshima City (English)",
+     "url": "https://www.city.higashihiroshima.lg.jp/en/6/33872.html"
+    },
+    {
+     "title": "东广岛市（简体中文）",
+     "url": "https://www.city.higashihiroshima.lg.jp/cn/6/33757.html"
+    },
+    {
+     "title": "Thành phố Higashihiroshima (Tiếng Việt)",
+     "url": "https://www.city.higashihiroshima.lg.jp/vi/6/34654.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Sau khi chuyển nhà thường chào hàng xóm",
+   "summary": "Không bắt buộc, nhưng có phong tục đến chào hàng xóm sau khi chuyển đến: hai phòng hai bên nếu ở chung cư, vài nhà xung quanh nếu ở nhà riêng. Đây là ví dụ từ hướng dẫn của thành phố Higashihiroshima, tỉnh Hiroshima.",
+   "do": [
+    "Không cần nói dài, chỉ cần tự giới thiệu ngắn gọn"
+   ],
+   "dont": [],
+   "keywords": [
+    "chào hỏi",
+    "chuyển nhà",
+    "hàng xóm",
+    "tự giới thiệu"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越したら近所にあいさつする習慣がある",
+    "summary": "義務ではありませんが、引っ越したときに近所へあいさつに行く習慣があります。集合住宅なら両隣、一戸建てなら周りの数軒が目安です。これは広島県東広島市の案内の例です。"
+   }
+  },
+  {
+   "id": "moving-leave-clean",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không để lại gì khi trả phòng",
+   "summary": "Khi rời phòng, không để lại đồ đạc hay rác. Đây là cam kết trong bảng kiểm của sách hướng dẫn tìm nhà của Bộ Đất đai, Hạ tầng, Giao thông và Du lịch.",
+   "do": [
+    "Dọn hết đồ đạc và rác trước khi rời đi"
+   ],
+   "dont": [
+    "Để lại đồ không dùng hoặc rác trong phòng"
+   ],
+   "keywords": [
+    "trả phòng",
+    "chuyển nhà",
+    "dọn dẹp",
+    "rác"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "退去するときは部屋に何も残さない",
+    "summary": "部屋を出るときは、物もごみも残しません。国土交通省の部屋探しガイドブックのチェックシートにある約束です。"
+   }
+  },
+  {
+   "id": "moving-utilities",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tự làm thủ tục điện, ga, nước",
+   "summary": "Trước khi chuyển nhà, hãy báo cho công ty điện, công ty ga và bộ phận cấp nước của địa phương. Khi bắt đầu dùng ga ở nhà mới, bạn phải có mặt lúc mở ga.",
+   "do": [
+    "Liên hệ sớm với từng nơi khi đã quyết định chuyển nhà",
+    "Liên hệ công ty ga và có mặt khi mở ga"
+   ],
+   "dont": [
+    "Chuyển đi mà không báo"
+   ],
+   "keywords": [
+    "điện",
+    "ga",
+    "nước",
+    "chuyển nhà",
+    "mở ga"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電気・ガス・水道の手続きは自分でする",
+    "summary": "引っ越しの前に、電力会社、ガス会社、市区町村の水道担当へ移転の連絡をします。新しい家でガスを使い始めるときは、開栓に本人の立ち会いが必要です。"
+   }
+  },
+  {
+   "id": "transit-escalator",
+   "category": "transit",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.pref.saitama.lg.jp/a0310/escalator.html",
+   "sources": [
+    {
+     "title": "埼玉県エスカレーターの安全な利用の促進に関する条例",
+     "url": "https://www.pref.saitama.lg.jp/a0310/escalator.html"
+    },
+    {
+     "title": "名古屋市エスカレーターの安全な利用の促進に関する条例",
+     "url": "https://www.city.nagoya.jp/bousai/anzen/1034530/1015520/1015522.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đứng yên trên thang cuốn",
+   "summary": "Một số địa phương có quy định yêu cầu đứng yên trên thang cuốn, dù ở bên trái hay bên phải. Liên kết là ví dụ của một tỉnh. Hãy làm theo hướng dẫn ở nhà ga và cơ sở.",
+   "do": [
+    "Đứng yên trên bậc thang",
+    "Làm theo hướng dẫn ở nhà ga và cơ sở"
+   ],
+   "dont": [
+    "Đi bộ hoặc chạy trên thang cuốn"
+   ],
+   "keywords": [
+    "thang cuốn",
+    "đi bộ",
+    "nhà ga",
+    "quy định địa phương",
+    "đứng yên"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "エスカレーターでは立ち止まって乗る",
+    "summary": "エスカレーターでは、左右どちらの側でも立ち止まって利用するよう、条例で定めている自治体があります。リンク先は一つの県の例です。駅や施設の案内に従います。"
+   }
+  },
+  {
+   "id": "transit-women-only-car",
+   "category": "transit",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/women/index.html",
+   "sources": [
+    {
+     "title": "女性専用車 | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/women/index.html"
+    },
+    {
+     "title": "鉄道：鉄道係員に対する暴力行為・カスタマーハラスメント等について - 国土交通省",
+     "url": "https://www.mlit.go.jp/tetudo/tetudo_tk2_000077.html"
+    },
+    {
+     "title": "女性専用車両 | 鉄道用語事典 | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/knowledge/term/16394.html"
+    },
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chú ý biển báo toa dành cho phụ nữ",
+   "summary": "Một số công ty đường sắt có toa dành riêng cho phụ nữ. Khung giờ và tuyến khác nhau tùy công ty, và có thể không áp dụng tùy tình hình chạy tàu. Ví dụ ở Tokyo Metro, trẻ từ học sinh tiểu học trở xuống, người khuyết tật và người chăm sóc cũng được đi.",
+   "do": [
+    "Xem biển báo ở sân ga và trên toa để biết khung giờ và vị trí lên tàu",
+    "Khi không rõ, hãy hỏi nhân viên nhà ga"
+   ],
+   "dont": [],
+   "keywords": [
+    "toa dành cho phụ nữ",
+    "tàu điện",
+    "tàu điện ngầm",
+    "giờ cao điểm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "女性専用車の表示を確認する",
+    "summary": "女性専用車を設けている鉄道会社があります。時間帯や路線は会社によって異なり、運行状況によって実施しないこともあります。例えば東京メトロでは、小学生以下の子ども、体の不自由な方とその介護者も乗車できます。"
+   }
+  },
+  {
+   "id": "transit-backpack",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/",
+   "sources": [
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    },
+    {
+     "title": "西武鉄道からのお願い ：西武鉄道Webサイト",
+     "url": "https://www.seiburailway.jp/safety/cooperationrequest/"
+    },
+    {
+     "title": "マナーポスター（迷惑図絵） ：西武鉄道Webサイト",
+     "url": "https://www.seiburailway.jp/safety/cooperationrequest/mannerposter/"
+    },
+    {
+     "title": "Tokyo Metro | Introducing good manners when using subways",
+     "url": "https://www.tokyometro.jp/en/tips/mannervideo/index.html"
+    },
+    {
+     "title": "2023年度 駅と電車内の迷惑行為ランキング | マナーアンケート | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2023.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không đeo ba lô sau lưng trên tàu đông",
+   "summary": "Trên tàu đông, hành khách được yêu cầu ôm ba lô và hành lý phía trước, xách tay hoặc để lên giá hành lý.",
+   "do": [
+    "Ôm ba lô phía trước hoặc xách tay",
+    "Để lên giá hành lý nếu có thể"
+   ],
+   "dont": [
+    "Đeo ba lô sau lưng khi tàu đông"
+   ],
+   "keywords": [
+    "ba lô",
+    "giá hành lý",
+    "hành lý",
+    "tàu điện"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混んだ車内ではリュックを背負わない",
+    "summary": "混雑した車内では、リュックなどの荷物は前に抱える、手に持つ、網棚に置くよう案内されています。"
+   }
+  },
+  {
+   "id": "transit-bus-boarding",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/",
+   "sources": [
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Cách trả tiền xe buýt khác nhau tùy tuyến",
+   "summary": "Với xe buýt tính tiền theo quãng đường, hãy lấy vé có số khi lên xe, khi xuống thì xem số trên bảng và trả tiền. Với xe buýt đồng giá, trả tiền khi lên xe. Có xe buýt không dùng được thẻ IC, và có máy không trả lại tiền thừa.",
+   "do": [
+    "Nếu có vé số thì lấy khi lên xe",
+    "Kiểm tra có dùng được thẻ IC không và chuẩn bị tiền xu"
+   ],
+   "dont": [
+    "Lên xe mà không lấy vé số"
+   ],
+   "keywords": [
+    "xe buýt",
+    "vé số thứ tự",
+    "tiền vé",
+    "thẻ IC",
+    "tiền xu"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "バスの運賃の払い方は路線で違う",
+    "summary": "距離で運賃が変わるバスでは、乗るときに番号の書かれた整理券を受け取り、降りるときにボードで番号を確かめて運賃を払います。どこまで乗っても同じ運賃のバスでは、乗るときに払います。IC カードが使えないバスや、おつりが出ない機械もあります。"
+   }
+  },
+  {
+   "id": "transit-earphone-sound",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/",
+   "sources": [
+    {
+     "title": "Traveling Comfortably | Responsible Travel Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chú ý không để tai nghe lọt âm",
+   "summary": "Nghe nhạc to trên tàu và xe buýt sẽ làm phiền người khác. Hãy để tai nghe không lọt âm và không phát tiếng qua loa điện thoại.",
+   "do": [
+    "Giảm âm lượng và chú ý xem có lọt âm không"
+   ],
+   "dont": [
+    "Phát tiếng qua loa điện thoại"
+   ],
+   "keywords": [
+    "tai nghe",
+    "lọt âm",
+    "âm nhạc",
+    "tàu điện",
+    "xe buýt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "イヤホンの音漏れに気をつける",
+    "summary": "電車やバスの中で大きな音で音楽を聞くと迷惑になります。イヤホンから音が漏れないようにし、スマートフォンの音を外に出して再生しないようにします。"
+   }
+  },
+  {
+   "id": "transit-eating-drinking",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Hạn chế ăn uống trên tàu đông",
+   "summary": "Trong khảo sát của hiệp hội đường sắt, ăn uống trên tàu đông được nêu là một trong các hành vi gây khó chịu. Đây không phải là quy định, nhưng hãy tránh khi tàu đông.",
+   "do": [
+    "Khi tàu đông, hãy ăn uống sau khi xuống tàu"
+   ],
+   "dont": [
+    "Ăn uống trong toa tàu đông"
+   ],
+   "keywords": [
+    "ăn uống",
+    "tàu điện",
+    "thức ăn",
+    "đồ uống",
+    "đông người"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混んだ車内では飲食を控える",
+    "summary": "鉄道会社の団体が行ったアンケートでは、混雑した車内での飲食が迷惑な行為の一つに挙げられています。決まりではありませんが、混んでいるときは控えます。"
+   }
+  },
+  {
+   "id": "transit-loud-talk",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không nói to trên tàu và xe buýt",
+   "summary": "Nói to hoặc làm ồn trên tàu điện và xe buýt sẽ làm phiền người khác. Khi nói chuyện, hãy nói nhỏ để không làm phiền người xung quanh.",
+   "do": [
+    "Nói chuyện nhỏ nhẹ"
+   ],
+   "dont": [
+    "Nói hoặc cười to",
+    "Làm ồn hoặc nô đùa trên toa"
+   ],
+   "keywords": [
+    "nói to",
+    "nói chuyện",
+    "giọng nói",
+    "ồn ào",
+    "tàu điện",
+    "xe buýt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "車内では大きな声で話さない",
+    "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
+   }
+  },
+  {
+   "id": "transit-phone-calls",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "車内での携帯電話の利用マナーについては、どのような呼びかけを行っていますか。",
+     "url": "https://jreastfaq.jreast.co.jp/faq/show/1090?category_id=39&site_domain=default"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không gọi điện trên tàu và xe buýt",
+   "summary": "Hành khách được yêu cầu để điện thoại ở chế độ im lặng và không gọi điện. Gần ghế ưu tiên, một số công ty đường sắt yêu cầu tắt nguồn khi tàu đông.",
+   "do": [
+    "Để điện thoại ở chế độ im lặng",
+    "Làm theo thông báo trên tàu khi ở gần ghế ưu tiên"
+   ],
+   "dont": [
+    "Gọi điện trên tàu, xe"
+   ],
+   "keywords": [
+    "tàu điện",
+    "tàu điện ngầm",
+    "xe buýt",
+    "gọi điện",
+    "điện thoại",
+    "im lặng"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電車やバスの中では通話しない",
+    "summary": "車内ではスマートフォンをマナーモードにし、通話は控えるよう案内されています。優先席の近くでは、混雑時に電源を切るよう求める鉄道会社もあります。"
+   }
+  },
+  {
+   "id": "transit-platform-line",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf",
+   "sources": [
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Đi phía trong vạch vàng trên sân ga",
+   "summary": "Ở mép sân ga, bạn có thể bị tàu va vào hoặc rơi xuống đường ray. Hãy đi và đợi tàu ở phía trong dải gạch vàng dành cho người khiếm thị.",
+   "do": [
+    "Đi và đợi tàu ở phía trong vạch vàng"
+   ],
+   "dont": [
+    "Đi dọc mép sân ga",
+    "Dựa vào cửa chắn sân ga"
+   ],
+   "keywords": [
+    "sân ga",
+    "vạch vàng",
+    "gạch dẫn đường",
+    "cửa chắn",
+    "rơi xuống",
+    "nhà ga",
+    "an toàn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ホームでは黄色い線の内側を歩く",
+    "summary": "駅のホームの端は、電車と接触したり線路に落ちたりするおそれがあります。目の不自由な人のための黄色い点字ブロックより内側を歩き、内側で電車を待ちます。"
+   }
+  },
+  {
+   "id": "transit-priority-seats",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "Tokyo Metro | Introducing good manners when using subways",
+     "url": "https://www.tokyometro.jp/en/tips/mannervideo/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "Traveling Comfortably: How to Get Around Japan Like a Pro",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Nhường ghế cho người cần",
+   "summary": "Hãy nhường ghế cho người cao tuổi, người khuyết tật, người có bệnh nội tạng, người đi cùng trẻ nhỏ và người mang thai. Có trường hợp nhìn bên ngoài không nhận ra, và việc này không chỉ áp dụng ở ghế ưu tiên.",
+   "do": [
+    "Mời và nhường ghế cho người có vẻ cần",
+    "Chú ý đến người đeo Help Mark"
+   ],
+   "dont": [
+    "Chỉ nhìn bề ngoài rồi cho rằng họ không cần ghế"
+   ],
+   "keywords": [
+    "ghế ưu tiên",
+    "ghế",
+    "nhường ghế",
+    "Help Mark",
+    "tàu điện",
+    "xe buýt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "席を必要としている人に譲る",
+    "summary": "高齢の方、体の不自由な方、内部障害のある方、乳幼児を連れた方、妊娠している方に席を譲りましょう。見た目では分からない場合もあります。優先席に限りません。"
+   }
+  },
+  {
+   "id": "transit-queue",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf",
+   "sources": [
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    },
+    {
+     "title": "Traveling Comfortably: How to Get Around Japan Like a Pro",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "2023年度 駅と電車内の迷惑行為ランキング | マナーアンケート | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2023.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chờ người xuống rồi lên theo hàng",
+   "summary": "Khi lên tàu, người xuống đi trước. Hãy xếp hàng chờ trên sân ga và lên theo thứ tự.",
+   "do": [
+    "Xếp hàng chờ ở hai bên cửa",
+    "Lên sau khi người xuống đã xuống hết"
+   ],
+   "dont": [
+    "Chen ngang hàng",
+    "Cố lên trước khi người khác xuống"
+   ],
+   "keywords": [
+    "tàu điện",
+    "tàu điện ngầm",
+    "xếp hàng",
+    "lên tàu",
+    "sân ga"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "降りる人を待ってから、並んだ順に乗る",
+    "summary": "電車に乗るときは、降りる人が先です。ホームでは列に並んで待ち、並んだ順番を守って乗ります。"
+   }
+  },
+  {
+   "id": "transit-rushing-doors",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không lao vào tàu khi cửa đang đóng",
+   "summary": "Chạy lao vào tàu khi cửa sắp đóng rất nguy hiểm: bạn có thể bị cửa kẹp hoặc va vào người khác trên sân ga. Hãy đến ga sớm, nếu không kịp thì đợi chuyến sau.",
+   "do": [
+    "Đi sớm để có thời gian lên tàu",
+    "Khi cửa bắt đầu đóng thì đợi chuyến sau"
+   ],
+   "dont": [
+    "Chạy lao vào khi cửa sắp đóng"
+   ],
+   "keywords": [
+    "lao lên tàu",
+    "cửa tàu",
+    "tàu điện",
+    "sân ga",
+    "nguy hiểm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "駆け込み乗車をしない",
+    "summary": "閉まりかけたドアに走って乗り込むと、ドアに挟まれたり、ホームで人とぶつかったりして危険です。時間に余裕を持って駅に向かい、間に合わなければ次の電車を待ちます。"
+   }
+  },
+  {
+   "id": "transit-seat-space",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không nằm trên ghế, chỉ ngồi một chỗ",
+   "summary": "Nằm trên ghế hoặc duỗi, dang chân sẽ khiến người khác không có chỗ ngồi và gây phiền. Hãy ngồi sát vào nhau, để hành lý trên đùi hoặc trên giá hành lý.",
+   "do": [
+    "Ngồi sát vào nhau",
+    "Để hành lý trên đùi hoặc trên giá hành lý"
+   ],
+   "dont": [
+    "Nằm trên ghế",
+    "Ngồi duỗi hoặc dang rộng chân",
+    "Đặt hành lý lên ghế",
+    "Ngồi bệt gần cửa hoặc giữa lối đi"
+   ],
+   "keywords": [
+    "ghế",
+    "ngủ",
+    "nằm",
+    "chân",
+    "hành lý",
+    "ngồi bệt",
+    "tàu điện",
+    "xe buýt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "座席に寝そべらず、一人分に座る",
+    "summary": "座席に横になったり、足を伸ばしたり広げたりすると、ほかの人が座れず迷惑になります。座席は詰めて座り、荷物はひざの上や網棚に置きます。"
+   }
+  },
+  {
+   "id": "transit-taxi-door",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/content/001893740.pdf",
+   "sources": [
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không tự mở, đóng cửa taxi",
+   "summary": "Cửa sau bên trái của taxi tự động mở và đóng, và về nguyên tắc không mở, đóng cửa sau bên phải. Bạn cũng không cần đưa tiền tip.",
+   "do": [
+    "Chờ cửa mở",
+    "Lên xuống bằng cửa bên trái"
+   ],
+   "dont": [
+    "Mở hoặc đóng cửa bên trái bằng tay",
+    "Lên xuống bằng cửa bên phải"
+   ],
+   "keywords": [
+    "taxi",
+    "cửa",
+    "cửa tự động",
+    "tiền tip"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "タクシーのドアは自分で開け閉めしない",
+    "summary": "タクシーの後部左側のドアは自動で開閉し、後部右側のドアは原則として開け閉めしません。チップを渡す必要もありません。"
+   }
+  },
+  {
+   "id": "transit-walking-phone",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không vừa đi vừa dùng điện thoại trong ga",
+   "summary": "Vừa đi vừa dùng điện thoại hoặc máy chơi game trên sân ga và lối đi trong ga có thể khiến bạn va vào người khác hoặc rơi xuống đường ray. Khi cần dùng, hãy dừng lại ở chỗ không cản đường.",
+   "do": [
+    "Dừng lại ở chỗ không cản đường rồi mới dùng"
+   ],
+   "dont": [
+    "Vừa nhìn màn hình vừa đi trên sân ga hoặc cầu thang"
+   ],
+   "keywords": [
+    "vừa đi vừa dùng điện thoại",
+    "điện thoại",
+    "game",
+    "nhà ga",
+    "sân ga"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "駅では歩きながらスマホを使わない",
+    "summary": "駅のホームや通路で、スマートフォンやゲーム機を使いながら歩くと、人とぶつかったり、ホームから落ちたりするおそれがあります。使うときは、通行のじゃまにならない場所で立ち止まります。"
+   }
+  },
+  {
+   "id": "bicycle-drunk-riding",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/insyu/info.html",
+   "sources": [
+    {
+     "title": "みんなで守る「飲酒運転を絶対にしない、させない」｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/insyu/info.html"
+    },
+    {
+     "title": "自転車の交通反則通告制度（青切符）の導入 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html"
+    },
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "道路交通法 第65条・第117条の2の2",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    },
+    {
+     "title": "Tokyo Metropolitan Police: Traffic rules (English)",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/traffic_safety/traffic_rules/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đã uống rượu bia thì không đi xe đạp",
+   "summary": "Luật Giao thông đường bộ quy định không ai được điều khiển phương tiện khi có hơi men, bao gồm cả xe đạp. Không chỉ người điều khiển mà cả người cung cấp xe đạp hoặc rượu bia, người đi cùng cũng có thể bị xử phạt.",
+   "do": [
+    "Sau khi uống, về nhà bằng phương tiện công cộng hoặc đi bộ"
+   ],
+   "dont": [
+    "Đi xe đạp vì nghĩ mình chỉ uống một chút",
+    "Mời rượu bia người sắp đi xe đạp"
+   ],
+   "keywords": [
+    "xe đạp",
+    "rượu bia",
+    "say rượu",
+    "uống rượu"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "お酒を飲んだら自転車に乗らない",
+    "summary": "道路交通法は「何人も、酒気を帯びて車両等を運転してはならない」と定めており、自転車も含まれます。運転した人だけでなく、自転車やお酒を提供した人、同乗した人も処罰の対象になります。"
+   }
+  },
+  {
+   "id": "bicycle-left-side",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html",
+   "sources": [
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "自転車は車のなかま～自転車はルールを守って安全運転～｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/info.html"
+    },
+    {
+     "title": "自転車に係る主な交通ルール（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/img/3-13.pdf"
+    },
+    {
+     "title": "道路交通法 第17条・第18条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xe đạp đi bên trái lòng đường",
+   "summary": "Về nguyên tắc, xe đạp đi dưới lòng đường và bên trái. Vỉa hè là ngoại lệ và người đi bộ được ưu tiên. Được đi trên vỉa hè khi có biển cho phép, khi dưới 13 tuổi hoặc từ 70 tuổi trở lên, khi có khuyết tật khiến việc đi dưới lòng đường gặp khó khăn, hoặc khi bất đắc dĩ vì an toàn.",
+   "do": [
+    "Đi sát mép trái lòng đường",
+    "Khi được đi trên vỉa hè, đi chậm ở phía gần lòng đường"
+   ],
+   "dont": [
+    "Đi bên phải lòng đường",
+    "Cản trở người đi bộ trên vỉa hè"
+   ],
+   "keywords": [
+    "xe đạp",
+    "lòng đường",
+    "bên trái",
+    "vỉa hè",
+    "đi ngược chiều"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は車道の左側を走る",
+    "summary": "自転車は車道を通行するのが原則で、左側を走ります。歩道は例外で、歩行者が優先です。歩道を通れるのは、標識で認められているとき、13歳未満や70歳以上の人、車道の通行に支障がある身体の障害がある人、安全のためやむを得ないときなどです。"
+   }
+  },
+  {
+   "id": "bicycle-phone-use",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/keitai/info.html",
+   "sources": [
+    {
+     "title": "やめよう！運転中のスマートフォン・携帯電話等使用｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/keitai/info.html"
+    },
+    {
+     "title": "自転車の交通反則通告制度（青切符）の導入 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html"
+    },
+    {
+     "title": "自転車の新しい制度｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/system.html"
+    },
+    {
+     "title": "自転車をはじめとする軽車両の反則行為と反則金の額（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/jitensyahansokukoui.pdf"
+    },
+    {
+     "title": "道路交通法 第71条・第118条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    },
+    {
+     "title": "Tokyo Metropolitan Police: Traffic rules (English)",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/traffic_safety/traffic_rules/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không dùng điện thoại khi đi xe đạp",
+   "summary": "Vừa đi xe đạp vừa cầm điện thoại nói chuyện hoặc nhìn chăm chú vào màn hình bị cấm theo Luật Giao thông đường bộ, có hình phạt và chế độ tiền phạt (vé xanh). Thao tác khi đang dừng thì không thuộc đối tượng. Xem chi tiết trên trang chính thức.",
+   "do": [
+    "Dừng ở nơi an toàn rồi mới thao tác"
+   ],
+   "dont": [
+    "Vừa đi vừa cầm điện thoại nói chuyện",
+    "Vừa đi vừa nhìn màn hình"
+   ],
+   "keywords": [
+    "xe đạp",
+    "điện thoại",
+    "vé xanh",
+    "ao kippu"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車に乗りながらスマホを使わない",
+    "summary": "自転車に乗りながら、手に持って通話したり画面を注視したりすることは、道路交通法で禁止されており、罰則と反則金の制度があります。止まっているときの操作は対象外です。詳しくは公式ページを確認してください。"
+   }
+  },
+  {
+   "id": "bicycle-registration",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/guard/bicycle.html",
+   "sources": [
+    {
+     "title": "自転車防犯登録 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/guard/bicycle.html"
+    },
+    {
+     "title": "Q5 自転車防犯登録はしないといけないのですか？／大阪府警本部",
+     "url": "https://www.police.pref.osaka.lg.jp/sodan/faq/hanzaihigai/boshi/3124.html"
+    },
+    {
+     "title": "自転車防犯登録制度｜埼玉県三芳町",
+     "url": "https://www.town.saitama-miyoshi.lg.jp/bousai/koutsu/2023-0306-1146-24.html"
+    },
+    {
+     "title": "自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律 第12条",
+     "url": "https://laws.e-gov.go.jp/law/355AC1000000087"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đăng ký chống trộm cho xe đạp",
+   "summary": "Theo luật, người sử dụng xe đạp phải đăng ký chống trộm (bohan toroku). Không chỉ xe mới mà xe cũ hoặc xe được cho cũng vậy. Nơi đăng ký khác nhau theo khu vực; ví dụ ở Tokyo là các cửa hàng xe đạp được ủy thác.",
+   "do": [
+    "Đăng ký tại cửa hàng khi mua xe đạp",
+    "Với xe được cho, hãy tìm hiểu thủ tục ở khu vực của bạn rồi đăng ký"
+   ],
+   "dont": [
+    "Tiếp tục sử dụng mà không đăng ký"
+   ],
+   "keywords": [
+    "xe đạp",
+    "đăng ký chống trộm",
+    "bohan toroku",
+    "mất trộm",
+    "xe cũ"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は防犯登録をする",
+    "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
+   }
+  },
+  {
+   "id": "bicycle-parking",
+   "category": "bicycle",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.shinjuku.lg.jp/seikatsu/kotsu02_000001_00016.html",
+   "sources": [
+    {
+     "title": "新宿区の放置自転車対策について",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/kotsu02_000001_00016.html"
+    },
+    {
+     "title": "放置自転車等の撤去",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/hochijitensya/"
+    },
+    {
+     "title": "自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律 第6条",
+     "url": "https://laws.e-gov.go.jp/law/355AC1000000087"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Để xe đạp đúng nơi quy định",
+   "summary": "Một số địa phương thu dọn xe đạp để bừa bãi. Ví dụ ở quận Shinjuku (Tokyo), xe để trong khu vực cấm có thể bị thu dọn ngay và phải trả phí khi nhận lại. Ngay cả ngoài khu vực đó cũng không được để bừa bãi.",
+   "do": [
+    "Để ở bãi đỗ xe đạp hoặc nơi quy định",
+    "Nếu bị thu dọn, hãy xem hướng dẫn của địa phương về nơi giữ xe và cách nhận lại"
+   ],
+   "dont": [
+    "Để xe trước nhà ga hoặc trên vỉa hè"
+   ],
+   "keywords": [
+    "xe đạp",
+    "đỗ xe",
+    "bãi đỗ xe đạp",
+    "xe bỏ bừa bãi",
+    "thu dọn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は決められた場所に止める",
+    "summary": "放置自転車を撤去する自治体があります。例えば東京都新宿区では、放置禁止区域の自転車は即時撤去の対象で、返還には手数料がかかります。区域の外でも、放置してよいわけではありません。"
+   }
+  },
+  {
+   "id": "dining-chopsticks",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.kanoya.lg.jp/documents/6094/20250119chiebukuro1.pdf",
+   "sources": [
+    {
+     "title": "かのやの 食べて育む 知恵袋（鹿屋市）",
+     "url": "https://www.city.kanoya.lg.jp/documents/6094/20250119chiebukuro1.pdf"
+    },
+    {
+     "title": "食事マナーを守りましょう！（大阪市）",
+     "url": "https://www.city.osaka.lg.jp/kenko/page/0000295445.html"
+    },
+    {
+     "title": "箸の正しい使い方（作法）について教えてください。：農林水産省",
+     "url": "https://www.maff.go.jp/j/heya/sodan/1911/01.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không cắm đũa vào cơm, không chuyền thức ăn bằng đũa",
+   "summary": "Cắm đũa thẳng đứng vào cơm (tatebashi) và chuyền thức ăn từ đũa sang đũa (hashiwatashi) là những động tác giống nghi thức tang lễ nên cần tránh.",
+   "do": [
+    "Khi chia thức ăn, đặt vào đĩa nhỏ rồi đưa"
+   ],
+   "dont": [
+    "Cắm đũa thẳng đứng vào cơm",
+    "Chuyền thức ăn từ đũa sang đũa"
+   ],
+   "keywords": [
+    "đũa",
+    "tatebashi",
+    "hashiwatashi",
+    "bữa ăn",
+    "phép lịch sự"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "箸を立てない・箸から箸へ渡さない",
+    "summary": "ご飯に箸を突き刺して立てる「立て箸」と、箸と箸で料理を受け渡す「箸渡し」は、葬儀の作法と同じ動作なので避けられています。"
+   }
+  },
+  {
+   "id": "dining-food-waste",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/guide/info/ecojin_backnumber/issues/19-01/19-01d/knowledge.html",
+   "sources": [
+    {
+     "title": "3010運動って？ | 環境省 エコジン",
+     "url": "https://www.env.go.jp/guide/info/ecojin_backnumber/issues/19-01/19-01d/knowledge.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Trong tiệc, gọi lượng vừa đủ ăn hết",
+   "summary": "Bộ Môi trường giới thiệu các hoạt động như 'phong trào 3010' để giảm thức ăn thừa trong tiệc. Đây là lời kêu gọi chứ không phải quy định, tên gọi và nội dung khác nhau tùy vùng. Hãy gọi lượng vừa phải và giữ tinh thần 'mottainai', không lãng phí.",
+   "do": [
+    "Gọi lượng vừa đủ ăn hết"
+   ],
+   "dont": [
+    "Gọi nhiều quá rồi bỏ thừa"
+   ],
+   "keywords": [
+    "lãng phí thực phẩm",
+    "thức ăn thừa",
+    "tiệc",
+    "phong trào 3010",
+    "mottainai"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "宴会では食べきれる量を頼む",
+    "summary": "環境省は、宴会の食べ残しを減らす「3010運動」などの取り組みを紹介しています。決まりではなく呼びかけで、地域によって呼び名や内容は違います。適量を注文し、「もったいない」を心がけます。"
+   }
+  },
+  {
+   "id": "dining-no-tip",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    },
+    {
+     "title": "Japanese Etiquette",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không cần đưa tiền tip",
+   "summary": "Ở Nhật không có thói quen đưa tiền tip, và việc này thường khiến đối phương bối rối.",
+   "do": [
+    "Trả đúng số tiền trên hóa đơn"
+   ],
+   "dont": [
+    "Cố đưa tiền tip cho nhân viên"
+   ],
+   "keywords": [
+    "tiền tip",
+    "thanh toán",
+    "nhà hàng",
+    "hóa đơn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "チップは渡さなくてよい",
+    "summary": "日本にはチップの習慣がなく、渡すと戸惑われることがよくあります。"
+   }
+  },
+  {
+   "id": "dining-otoshi",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/content/001893740.pdf",
+   "sources": [
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Món otoshi ở izakaya có thể tính thêm tiền",
+   "summary": "Ở izakaya, bạn có thể được phục vụ một món nhỏ gọi là otoshi, và món này có thể được tính tiền riêng. Nếu băn khoăn, hãy hỏi nhân viên.",
+   "do": [
+    "Hỏi nhân viên nếu băn khoăn về chi phí"
+   ],
+   "dont": [
+    "Không hỏi mà khẳng định là tính nhầm khi thanh toán"
+   ],
+   "keywords": [
+    "otoshi",
+    "izakaya",
+    "món khai vị",
+    "chi phí",
+    "thanh toán"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "居酒屋の「お通し」には別料金がかかることがある",
+    "summary": "居酒屋では「お通し」という小さな料理が出ることがあり、別料金がかかることがあります。気になるときは店の人に聞きます。"
+   }
+  },
+  {
+   "id": "dining-register-queue",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xếp hàng ở quầy thu ngân và trước cửa hàng",
+   "summary": "Ở Nhật, mọi người xếp hàng trong nhiều tình huống: lên tàu, thanh toán, vào nhà hàng, chờ cửa hàng mở cửa.",
+   "do": [
+    "Xếp vào cuối hàng"
+   ],
+   "dont": [
+    "Chen ngang hàng"
+   ],
+   "keywords": [
+    "quầy thu ngân",
+    "xếp hàng",
+    "thanh toán",
+    "nhà hàng"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "レジや店の前では列に並ぶ",
+    "summary": "日本では、電車、レジ、飲食店、開店待ちなど、さまざまな場面で列に並びます。"
+   }
+  },
+  {
+   "id": "dining-reservation",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đến đúng giờ đã đặt, không đến được thì hủy sớm",
+   "summary": "Hãy đến đúng giờ đã đặt chỗ. Nếu không đến được, hãy hủy sớm.",
+   "do": [
+    "Liên hệ nhà hàng ngay khi biết mình không đến được"
+   ],
+   "dont": [
+    "Bỏ chỗ đã đặt mà không báo"
+   ],
+   "keywords": [
+    "đặt chỗ",
+    "hủy",
+    "không đến",
+    "nhà hàng"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "予約した時間に行き、行けないなら早めに取り消す",
+    "summary": "予約した店には時間どおりに行きます。行けなくなったら、早めにキャンセルします。"
+   }
+  },
+  {
+   "id": "dining-store-trash",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/8/4/1/16693.html",
+   "sources": [
+    {
+     "title": "コンビニエンスストアや事業所等のごみ箱へ家庭ごみを捨てないでください／東広島市ホームページ",
+     "url": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/8/4/1/16693.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không bỏ rác nhà vào thùng rác của cửa hàng",
+   "summary": "Một số địa phương kêu gọi không bỏ rác sinh hoạt vào thùng rác của cửa hàng tiện lợi và doanh nghiệp. Đây là ví dụ từ thành phố Higashihiroshima, tỉnh Hiroshima.",
+   "do": [
+    "Bỏ rác sinh hoạt ở điểm thu gom vào đúng ngày quy định"
+   ],
+   "dont": [
+    "Bỏ rác sinh hoạt vào thùng rác của cửa hàng tiện lợi và những nơi tương tự"
+   ],
+   "keywords": [
+    "thùng rác",
+    "cửa hàng tiện lợi",
+    "rác sinh hoạt",
+    "rác"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "家庭のごみを店のごみ箱に捨てない",
+    "summary": "コンビニや事業所のごみ箱に家庭ごみを捨てないよう呼びかけている自治体があります。これは広島県東広島市の例です。"
+   }
+  },
+  {
+   "id": "bath-no-photos",
+   "category": "bath",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/keiji1/keiji12_00200.html",
+   "sources": [
+    {
+     "title": "法務省：性犯罪関係の法改正等 Ｑ＆Ａ",
+     "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html"
+    },
+    {
+     "title": "盗撮事犯に係る防犯対策",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/tosatsu_bouhanntaisaku.pdf"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律 第2条",
+     "url": "https://laws.e-gov.go.jp/law/505AC0000000067"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không chụp ảnh trong phòng thay đồ và phòng tắm",
+   "summary": "Chụp ảnh trong phòng thay đồ và phòng tắm bị cấm theo quy định của cơ sở. Ngoài ra, lén chụp cơ thể khỏa thân hoặc hình ảnh tình dục có thể bị pháp luật xử phạt.",
+   "do": [
+    "Cất điện thoại và máy ảnh khi ở phòng thay đồ và phòng tắm"
+   ],
+   "dont": [
+    "Chụp ảnh trong phòng thay đồ hoặc phòng tắm",
+    "Lén chụp cơ thể khỏa thân của người khác"
+   ],
+   "keywords": [
+    "chụp ảnh",
+    "ảnh",
+    "máy ảnh",
+    "chụp lén",
+    "sento",
+    "onsen",
+    "phòng thay đồ"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "脱衣所や浴室で撮影しない",
+    "summary": "脱衣所や浴室での撮影は、施設のルールとして禁止されています。さらに、裸などの性的な姿をひそかに撮影すると、法律で罰せられることがあります。"
+   }
+  },
+  {
+   "id": "bath-tattoo",
+   "category": "bath",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/ryokan/list_ja-6.html",
+   "sources": [
+    {
+     "title": "旅館Q&A あなたの疑問に答えます！",
+     "url": "https://www.mlit.go.jp/kankocho/ryokan/list_ja-6.html"
+    },
+    {
+     "title": "入れ墨（タトゥー）がある外国人旅行者の入浴に関する対応について",
+     "url": "https://www.mhlw.go.jp/content/001165667.pdf"
+    },
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Quy định về hình xăm tùy từng cơ sở",
+   "summary": "Cách đối xử với người có hình xăm khác nhau rất nhiều tùy cơ sở, và bạn có thể bị từ chối vào tắm. Một số nơi gợi ý che bằng miếng dán, đến vào giờ khác hoặc dùng phòng tắm riêng.",
+   "do": [
+    "Hỏi cơ sở trước khi đến",
+    "Hỏi có dùng được phòng tắm riêng hoặc miếng dán che không"
+   ],
+   "dont": [
+    "Mặc định rằng mình sẽ được vào tắm"
+   ],
+   "keywords": [
+    "hình xăm",
+    "xăm",
+    "onsen",
+    "sento",
+    "suối nước nóng",
+    "ryokan"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "入れ墨・タトゥーの扱いは施設によって違う",
+    "summary": "入れ墨・タトゥーのある人への対応は施設によって大きく異なり、入浴を断られることもあります。シールで隠す、時間帯をずらす、貸切風呂を使うといった方法が案内されることもあります。"
+   }
+  },
+  {
+   "id": "bath-dry-off",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.1010.or.jp/guide/howto/",
+   "sources": [
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "How to enjoy Sento | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/english/how-to-enjoy-sento/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Lau khô người trước khi về phòng thay đồ",
+   "summary": "Khi từ phòng tắm trở lại phòng thay đồ, hãy dùng khăn lau khô người.",
+   "do": [
+    "Lau khô người bằng khăn trước khi ra khỏi phòng tắm"
+   ],
+   "dont": [
+    "Về phòng thay đồ khi người còn ướt"
+   ],
+   "keywords": [
+    "nhà tắm công cộng",
+    "sento",
+    "onsen",
+    "phòng thay đồ",
+    "khăn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "脱衣所に戻る前に体を拭く",
+    "summary": "浴室から脱衣所に戻るときは、ぬれた体をタオルでよく拭きます。"
+   }
+  },
+  {
+   "id": "bath-towel",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf",
+   "sources": [
+    {
+     "title": "「温泉法第18条第１項の規定に基づく禁忌症及び入浴又は飲用上の注意の掲示等の基準」及び「鉱泉分析法指針（平成26年改訂）」について",
+     "url": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf"
+    },
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không để khăn vào bồn tắm",
+   "summary": "Để giữ sạch nước trong bồn, không để khăn vào bồn tắm.",
+   "do": [
+    "Để khăn bên ngoài bồn"
+   ],
+   "dont": [
+    "Nhúng khăn vào nước",
+    "Vắt khăn trong bồn"
+   ],
+   "keywords": [
+    "nhà tắm công cộng",
+    "sento",
+    "onsen",
+    "khăn",
+    "bồn tắm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "タオルを湯船に入れない",
+    "summary": "湯船のお湯を清潔に保つため、タオルは湯船に入れません。"
+   }
+  },
+  {
+   "id": "bath-wash-first",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf",
+   "sources": [
+    {
+     "title": "「温泉法第18条第１項の規定に基づく禁忌症及び入浴又は飲用上の注意の掲示等の基準」及び「鉱泉分析法指針（平成26年改訂）」について",
+     "url": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf"
+    },
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "How to enjoy Sento (English)",
+     "url": "https://www.1010.or.jp/english/how-to-enjoy-sento/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tắm rửa trước khi vào bồn",
+   "summary": "Ở nhà tắm công cộng và suối nước nóng, hãy tắm rửa trước để giữ sạch bồn tắm chung.",
+   "do": [
+    "Tắm và xả sạch ở khu vực rửa rồi mới vào bồn"
+   ],
+   "dont": [
+    "Vào bồn mà không tắm rửa"
+   ],
+   "keywords": [
+    "nhà tắm công cộng",
+    "sento",
+    "onsen",
+    "suối nước nóng",
+    "bồn tắm",
+    "tắm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "湯船に入る前に体を洗う",
+    "summary": "銭湯や温泉では、みんなが入る湯船を清潔に保つため、先に体を洗ってから入ります。"
+   }
+  },
+  {
+   "id": "drinking-public-nuisance",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/336AC0100000103",
+   "sources": [
+    {
+     "title": "酒に酔つて公衆に迷惑をかける行為の防止等に関する法律 第2条・第4条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/336AC0100000103"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Không làm phiền người khác khi say rượu",
+   "summary": "Luật pháp Nhật Bản cấm người say rượu có lời nói, hành động thô bạo gây phiền cho người khác ở nơi công cộng hoặc trên phương tiện giao thông như đường phố, nhà ga, tàu điện; vi phạm có thể bị tạm giữ ngắn ngày hoặc phạt tiền nhẹ. Luật này cũng yêu cầu không ép người khác uống rượu.",
+   "do": [
+    "Uống trong giới hạn của mình",
+    "Không ép người khác uống rượu"
+   ],
+   "dont": [
+    "Say rượu rồi la hét hoặc gây sự với người khác"
+   ],
+   "keywords": [
+    "rượu",
+    "say rượu",
+    "uống rượu",
+    "gây phiền",
+    "tàu điện",
+    "đường phố"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "酔って人に迷惑をかけない",
+    "summary": "法律は、酒に酔った人が、道や駅、電車など人の集まる場所や乗り物で、周りに迷惑をかける乱暴な言動をすることを禁じており、拘留または科料の対象になります。同じ法律は、飲酒を無理に勧めないよう求めています。"
+   }
+  },
+  {
+   "id": "drinking-under-20",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/MINJI/minji07_00238.html",
+   "sources": [
+    {
+     "title": "法務省：民法（成年年齢関係）改正 Ｑ&Ａ",
+     "url": "https://www.moj.go.jp/MINJI/minji07_00238.html"
+    },
+    {
+     "title": "20歳未満の者の飲酒防止等に関する取組等",
+     "url": "https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2025/pdf/0019-1.pdf"
+    },
+    {
+     "title": "二十歳未満ノ者ノ飲酒ノ禁止ニ関スル法律 第1条",
+     "url": "https://laws.e-gov.go.jp/law/211AC1000000020"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Dưới 20 tuổi không được uống rượu bia",
+   "summary": "Tuổi thành niên ở Nhật là 18, nhưng giới hạn tuổi với rượu bia vẫn là 20. Luật cấm người dưới 20 tuổi uống rượu bia, và cửa hàng cũng không được bán hoặc phục vụ rượu bia cho họ.",
+   "do": [
+    "Không uống rượu bia cho đến khi đủ 20 tuổi"
+   ],
+   "dont": [
+    "Mời rượu bia người dưới 20 tuổi"
+   ],
+   "keywords": [
+    "rượu bia",
+    "uống rượu",
+    "vị thành niên",
+    "20 tuổi",
+    "giới hạn tuổi"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "20歳未満はお酒を飲めない",
+    "summary": "日本の成年年齢は18歳ですが、お酒の年齢制限は20歳のままです。法律で20歳未満の飲酒は禁じられており、店が20歳未満の人にお酒を売ったり出したりすることも禁じられています。"
+   }
+  },
+  {
+   "id": "drunk-driving",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/insyu/info.html",
+   "sources": [
+    {
+     "title": "みんなで守る「飲酒運転を絶対にしない、させない」｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/insyu/info.html"
+    },
+    {
+     "title": "道路交通法 第65条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đã uống rượu bia thì không lái xe",
+   "summary": "Luật Giao thông đường bộ cấm điều khiển phương tiện khi có hơi men, bất kể lượng uống. Không chỉ người lái mà cả người cho mượn xe, người mời rượu bia và người đi cùng cũng có thể bị xử phạt.",
+   "do": [
+    "Không uống nếu định lái xe",
+    "Sau khi uống, dùng phương tiện công cộng hoặc tương tự"
+   ],
+   "dont": [
+    "Lái xe vì nghĩ uống một chút không sao",
+    "Đi xe của người đã uống rượu bia"
+   ],
+   "keywords": [
+    "lái xe khi say",
+    "rượu bia",
+    "ô tô",
+    "lái xe"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "お酒を飲んだら運転しない",
+    "summary": "道路交通法は、酒気を帯びて車両等を運転することを、量にかかわらず禁じています。運転した人だけでなく、車を貸した人、お酒を出した人、同乗した人も処罰の対象になります。"
+   }
+  },
+  {
+   "id": "smoking-indoor",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://jyudokitsuen.mhlw.go.jp/point/",
+   "sources": [
+    {
+     "title": "改正法のポイント - なくそう！望まない受動喫煙。 - 厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/point/"
+    },
+    {
+     "title": "なくそう！望まない受動喫煙｜厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/"
+    },
+    {
+     "title": "国民のみなさまへ - なくそう！望まない受動喫煙。 - 厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/people/"
+    },
+    {
+     "title": "健康増進法 第29条",
+     "url": "https://laws.e-gov.go.jp/law/414AC0000000103"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Trong nhà về nguyên tắc cấm hút thuốc",
+   "summary": "Theo Luật Tăng cường sức khỏe, trong nhà tại các cơ sở nhiều người sử dụng và nhà hàng về nguyên tắc cấm hút thuốc. Có thể hút trong phòng hút thuốc đạt yêu cầu. Trường học, bệnh viện, cơ sở phúc lợi trẻ em, cơ quan hành chính về nguyên tắc cấm hút trong toàn khuôn viên. Người dưới 20 tuổi không được vào khu vực hút thuốc.",
+   "do": [
+    "Tìm biển báo phòng hút thuốc và khu vực hút thuốc"
+   ],
+   "dont": [
+    "Hút thuốc ở nơi cấm",
+    "Đưa người dưới 20 tuổi vào khu vực hút thuốc"
+   ],
+   "keywords": [
+    "hút thuốc",
+    "cấm hút thuốc",
+    "phòng hút thuốc",
+    "khói thuốc",
+    "nhà hàng"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "屋内は原則禁煙",
+    "summary": "健康増進法により、多くの人が利用する施設や飲食店などの屋内は原則禁煙です。要件を満たす喫煙室では吸えます。学校、病院、児童福祉施設、行政機関などは原則として敷地内禁煙です。20歳未満の人は喫煙エリアに入れません。"
+   }
+  },
+  {
+   "id": "smoking-under-20",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/MINJI/minji07_00238.html",
+   "sources": [
+    {
+     "title": "法務省：民法（成年年齢関係）改正 Ｑ&Ａ",
+     "url": "https://www.moj.go.jp/MINJI/minji07_00238.html"
+    },
+    {
+     "title": "二十歳未満ノ者ノ喫煙ノ禁止ニ関スル法律 第1条",
+     "url": "https://laws.e-gov.go.jp/law/133AC1000000033"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Dưới 20 tuổi không được hút thuốc",
+   "summary": "Tuổi thành niên ở Nhật là 18, nhưng giới hạn tuổi với thuốc lá vẫn là 20. Luật cấm người dưới 20 tuổi hút thuốc.",
+   "do": [
+    "Không hút thuốc cho đến khi đủ 20 tuổi"
+   ],
+   "dont": [
+    "Mời thuốc lá người dưới 20 tuổi"
+   ],
+   "keywords": [
+    "hút thuốc",
+    "thuốc lá",
+    "vị thành niên",
+    "20 tuổi",
+    "giới hạn tuổi"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "20歳未満はたばこを吸えない",
+    "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
+   }
+  },
+  {
+   "id": "smoking-street",
+   "category": "smoking",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/aramashi.html",
+   "sources": [
+    {
+     "title": "千代田区生活環境条例のあらまし",
+     "url": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/aramashi.html"
+    },
+    {
+     "title": "千代田区生活環境条例",
+     "url": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/jore.html"
+    },
+    {
+     "title": "路上喫煙を禁止する区域を大阪市内全域に拡大しました",
+     "url": "https://www.city.osaka.lg.jp/kankyo/page/0000630108.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Một số nơi cấm hút thuốc trên đường",
+   "summary": "Một số địa phương cấm hút thuốc trên đường bằng quy định riêng và thu tiền phạt hành chính khi vi phạm. Ví dụ toàn bộ quận Chiyoda ở Tokyo (trừ Hoàng cung) và toàn thành phố Osaka. Khu vực và số tiền khác nhau tùy địa phương.",
+   "do": [
+    "Hút thuốc ở nơi quy định",
+    "Kiểm tra quy định của địa phương nơi bạn sống"
+   ],
+   "dont": [
+    "Hút thuốc trên đường trong khu vực cấm"
+   ],
+   "keywords": [
+    "hút thuốc",
+    "thuốc lá",
+    "hút thuốc trên đường",
+    "quy định",
+    "tiền phạt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "路上喫煙が禁止の地域がある",
+    "summary": "路上喫煙を条例で禁止し、違反すると過料を取る自治体があります。例えば東京都千代田区は皇居を除く全域、大阪市は市内全域が対象です。区域と金額は自治体ごとに違います。"
+   }
+  },
+  {
+   "id": "residence-card-address",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00023.html",
+   "sources": [
+    {
+     "title": "住居地の変更届出（中長期在留者）",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00023.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第19条の9",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đổi chỗ ở thì khai báo tại địa phương (thẻ cư trú)",
+   "summary": "Người cư trú trung và dài hạn khi chuyển đến chỗ ở mới phải khai báo tại quầy của chính quyền địa phương trong thời hạn, không phải cục xuất nhập cảnh. Cần xuất trình thẻ cư trú. Không khai báo sẽ bị phạt và có thể là lý do hủy tư cách lưu trú. Hãy xem thời hạn trên trang chính thức.",
+   "do": [
+    "Mang thẻ cư trú đến quầy của chính quyền địa phương",
+    "Xem thời hạn trên trang chính thức và khai báo sớm"
+   ],
+   "dont": [
+    "Tiếp tục sống mà không khai báo"
+   ],
+   "keywords": [
+    "thẻ cư trú",
+    "chỗ ở",
+    "đổi địa chỉ",
+    "khai báo",
+    "chuyển nhà",
+    "tòa thị chính"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "住む場所が変わったら市区町村で届け出る（在留カード）",
+    "summary": "中長期在留者は、新しい住居地に移ったら、期限内に市区町村の窓口で届け出ます。入管ではありません。在留カードの提示が必要です。届け出をしないと罰則があり、在留資格の取消事由になることもあります。期限は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-card-carry",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html",
+   "sources": [
+    {
+     "title": "Answer (Q1～Q79） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html"
+    },
+    {
+     "title": "Ｑ＆Ａ特別永住者の制度について！よくある質問 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/applications/faq/newimmiact_2_q-and-a.html"
+    },
+    {
+     "title": "特定在留カード交付申請について",
+     "url": "https://www.moj.go.jp/isa/tokutei"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第23条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Luôn mang theo thẻ cư trú",
+   "summary": "Người cư trú trung và dài hạn có nghĩa vụ luôn mang theo thẻ cư trú và xuất trình khi được yêu cầu. Người dưới 16 tuổi được miễn mang theo. Người vĩnh trú đặc biệt không cần luôn mang giấy chứng nhận nhưng phải xuất trình khi được yêu cầu. Người lưu trú ngắn hạn không có thẻ cư trú thì mang hộ chiếu.",
+   "do": [
+    "Mang thẻ cư trú khi ra ngoài",
+    "Xuất trình khi cảnh sát hoặc người có thẩm quyền yêu cầu"
+   ],
+   "dont": [
+    "Để thẻ cư trú ở nhà vì nghĩ đã có hộ chiếu"
+   ],
+   "keywords": [
+    "thẻ cư trú",
+    "zairyu",
+    "mang theo",
+    "hộ chiếu",
+    "vĩnh trú đặc biệt",
+    "giấy tờ tùy thân"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留カードは常に持ち歩く",
+    "summary": "中長期在留者は在留カードを常に携帯する義務があり、求められたら提示します。16歳未満は携帯が免除されます。特別永住者は証明書を常に持ち歩く必要はありませんが、求められたら提示します。在留カードのない短期滞在の人はパスポートを携帯します。"
+   }
+  },
+  {
+   "id": "residence-reentry",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/immigration/procedures/16-5.html",
+   "sources": [
+    {
+     "title": "再入国許可申請 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/immigration/procedures/16-5.html"
+    },
+    {
+     "title": "出入国審査・在留審査Q&A",
+     "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第26条・第26条の2",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Kiểm tra thủ tục tái nhập cảnh khi rời Nhật",
+   "summary": "Người có hộ chiếu còn hiệu lực và thẻ cư trú, nếu bày tỏ ý định quay lại khi xuất cảnh, có thể quay lại trong thời gian quy định mà không cần giấy phép tái nhập cảnh (tái nhập cảnh đặc biệt). Thời gian này không thể gia hạn ở nước ngoài. Nếu dự kiến vượt quá, hãy xin giấy phép tái nhập cảnh trước khi xuất cảnh. Xem thời gian trên trang chính thức.",
+   "do": [
+    "Trước khi xuất cảnh, kiểm tra thời hạn lưu trú và kế hoạch quay lại",
+    "Khi xuất cảnh, cho nhân viên xuất nhập cảnh biết ý định quay lại"
+   ],
+   "dont": [
+    "Ở nước ngoài quá thời gian mà không có giấy phép"
+   ],
+   "keywords": [
+    "tái nhập cảnh",
+    "tái nhập cảnh đặc biệt",
+    "xuất cảnh",
+    "về nước",
+    "thẻ cư trú"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "日本を出て戻るときは再入国の手続きを確認する",
+    "summary": "有効なパスポートと在留カードを持つ人は、出国するときに再入国の意思を示せば、決められた期間内は再入国許可なしで戻れます（みなし再入国）。この期間は海外で延長できません。超える予定なら、出国前に再入国許可を取ります。期間は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-renewal",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+   "sources": [
+    {
+     "title": "在留期間更新許可申請 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/16-3.html"
+    },
+    {
+     "title": "在留期間の更新（入管法第21条）",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/koushin_00001.html"
+    },
+    {
+     "title": "出入国審査・在留審査Q&A",
+     "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第21条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xin gia hạn trước khi hết thời hạn lưu trú",
+   "summary": "Muốn tiếp tục cư trú, hãy xin gia hạn trước khi hết thời hạn lưu trú tại cơ quan quản lý xuất nhập cảnh khu vực phụ trách nơi bạn sống. Người từ 18 tuổi trở lên tự nộp đơn, trừ khi qua người được ủy quyền. Xem thời điểm có thể nộp và lệ phí trên trang chính thức.",
+   "do": [
+    "Xem ngày hết hạn trên thẻ cư trú và chuẩn bị sớm",
+    "Xem thời điểm nộp, giấy tờ cần thiết và lệ phí trên trang chính thức"
+   ],
+   "dont": [
+    "Đợi qua ngày hết hạn rồi mới làm thủ tục"
+   ],
+   "keywords": [
+    "thời hạn lưu trú",
+    "gia hạn",
+    "visa",
+    "xuất nhập cảnh",
+    "tư cách lưu trú"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留期間は満了前に更新を申請する",
+    "summary": "在留を続けるには、在留期間が満了する前に、住んでいる地域を管轄する地方出入国在留管理官署で更新を申請します。18歳以上の人は、取次者による場合を除いて本人が申請します。申請できる時期と手数料は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-work-permit",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/16-8.html",
+   "sources": [
+    {
+     "title": "資格外活動許可申請",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/16-8.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第19条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Làm thêm với tư cách du học v.v. cần có giấy phép",
+   "summary": "Người có tư cách lưu trú giới hạn phạm vi hoạt động như du học, gia đình (Bảng phụ lục 1 của Luật Xuất nhập cảnh) cần có giấy phép hoạt động ngoài tư cách để làm công việc có thu nhập ngoài phạm vi đó. Các cơ sở kinh doanh giải trí người lớn và tương tự không được cấp phép. Người vĩnh trú, vợ/chồng người Nhật, người định trú và tương tự không thuộc thủ tục này.",
+   "do": [
+    "Trước khi đi làm, xem đối tượng và điều kiện trên trang chính thức",
+    "Xem các điều kiện như số giờ được làm trong nội dung giấy phép"
+   ],
+   "dont": [
+    "Làm công việc có thu nhập khi không có giấy phép",
+    "Làm tại cơ sở kinh doanh giải trí người lớn"
+   ],
+   "keywords": [
+    "làm thêm",
+    "arubaito",
+    "hoạt động ngoài tư cách",
+    "du học sinh",
+    "tư cách lưu trú",
+    "việc làm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "留学などの在留資格で働くには許可が必要",
+    "summary": "留学や家族滞在など、活動の範囲が決められた在留資格（入管法の別表第一）の人が、その範囲の外で収入を得る活動をするには、資格外活動許可が必要です。風俗営業などは許可の対象になりません。永住者、日本人の配偶者等、定住者などは、この手続きの対象ではありません。"
+   }
+  },
+  {
+   "id": "crime-bank-account",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/250110/04.html",
+   "sources": [
+    {
+     "title": "通帳・キャッシュカードの譲渡は犯罪です！ | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/250110/04.html"
+    },
+    {
+     "title": "口座の売買・譲渡し（譲受け）は犯罪です。 | 大阪府警察",
+     "url": "https://www.police.pref.osaka.lg.jp/seikatsu/hanzaisyueki/13559.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "犯罪による収益の移転防止に関する法律 第26条",
+     "url": "https://laws.e-gov.go.jp/law/419AC0000000022"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không bán hoặc đưa tài khoản ngân hàng cho người khác",
+   "summary": "Bán hoặc đưa tài khoản ngân hàng, thẻ rút tiền, sổ ngân hàng, thông tin đăng nhập cho người khác là phạm tội. Không nhận tiền cũng có thể là phạm tội. Tài khoản không dùng nữa, ví dụ khi về nước, hãy đóng tại ngân hàng.",
+   "do": [
+    "Đóng tài khoản tại ngân hàng trước khi về nước",
+    "Nếu có người hỏi mua tài khoản, hãy từ chối và trao đổi với cảnh sát"
+   ],
+   "dont": [
+    "Bán hoặc đưa tài khoản, thẻ, sổ, mã PIN, thông tin đăng nhập cho người khác",
+    "Mua hoặc nhận lại tài khoản của người khác"
+   ],
+   "keywords": [
+    "tài khoản ngân hàng",
+    "sổ ngân hàng",
+    "thẻ rút tiền",
+    "mua bán tài khoản",
+    "về nước",
+    "đóng tài khoản"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "銀行口座を売らない・人に渡さない",
+    "summary": "銀行口座やキャッシュカード、通帳、ログイン情報を売ったり、人に渡したりすることは犯罪です。お金を受け取らない場合でも犯罪になることがあります。帰国などで使わなくなる口座は、金融機関で解約します。"
+   }
+  },
+  {
+   "id": "crime-driving-license",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html",
+   "sources": [
+    {
+     "title": "外国の運転免許をお持ちの方｜警察庁",
+     "url": "https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "道路交通法 第64条・第107条の2",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Kiểm tra bằng lái có dùng được không trước khi lái xe",
+   "summary": "Để lái ô tô hoặc xe máy ở Nhật, bạn cần bằng lái Nhật, bằng lái quốc tế theo công ước, hoặc bằng lái nước ngoài kèm bản dịch theo quy định. Thời gian được sử dụng có giới hạn và các nước áp dụng được quy định sẵn. Lái xe không có bằng là lái xe không phép.",
+   "do": [
+    "Trước khi lái, kiểm tra trên trang chính thức xem bằng của bạn có dùng được không"
+   ],
+   "dont": [
+    "Lái xe không có bằng",
+    "Lái xe bằng loại bằng đã quá thời gian được dùng"
+   ],
+   "keywords": [
+    "bằng lái",
+    "bằng lái quốc tế",
+    "không có bằng",
+    "ô tô",
+    "xe máy",
+    "bản dịch",
+    "thuê xe"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "運転できる免許か確かめてから運転する",
+    "summary": "日本で車やオートバイを運転するには、日本の運転免許、条約に基づく国際運転免許証、または決められた翻訳文を付けた外国の運転免許のいずれかが必要です。使える期間には上限があり、対象の国も決まっています。免許なしで運転すると無免許運転になります。"
+   }
+  },
+  {
+   "id": "crime-drugs",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/sosikihanzai/yakubutujyuki/illegal_cannabis/index.html",
+   "sources": [
+    {
+     "title": "大麻対策のためのポータルサイト｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/sosikihanzai/yakubutujyuki/illegal_cannabis/index.html"
+    },
+    {
+     "title": "麻薬及び向精神薬取締法 第27条・第66条・第66条の2",
+     "url": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tránh xa cần sa và các chất cấm khác",
+   "summary": "Ở Nhật, pháp luật cấm không chỉ tàng trữ, chuyển giao cần sa mà cả việc sử dụng. Ở nước ngoài có bán kẹo và thực phẩm chứa thành phần cần sa, và đã có người bị bắt khi định mang về Nhật làm quà. Cũng đừng đụng đến những thứ được quảng cáo là 'hợp pháp'.",
+   "do": [
+    "Dứt khoát từ chối khi bị rủ",
+    "Khi du lịch hoặc du học nước ngoài, cũng không thử vì tò mò"
+   ],
+   "dont": [
+    "Nghĩ rằng 'một lần thôi sẽ không bị bắt'",
+    "Mang thực phẩm chứa thành phần cần sa vào Nhật"
+   ],
+   "keywords": [
+    "cần sa",
+    "ma túy",
+    "THC",
+    "quà lưu niệm",
+    "mang vào Nhật"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "大麻などの違法薬物に手を出さない",
+    "summary": "日本では、大麻の所持や譲渡に加えて使用も法律で禁止されています。海外では大麻成分入りのお菓子などが売られていることがあり、お土産として日本に持ち込もうとして検挙された例もあります。「合法」などとうたって売られているものにも手を出さないでください。"
+   }
+  },
+  {
+   "id": "crime-groping",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html",
+   "sources": [
+    {
+     "title": "痴漢・盗撮事犯対策｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html"
+    },
+    {
+     "title": "痴漢等の性犯罪被害防止対策 | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/koramu2/koramu8.html"
+    },
+    {
+     "title": "刑法 第176条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Sàm sỡ là tội phạm nghiêm trọng",
+   "summary": "Sàm sỡ người khác trên tàu điện hay nơi khác là tội phạm nghiêm trọng, xúc phạm nhân phẩm, và bị xử phạt theo quy định địa phương hoặc Bộ luật Hình sự. Nếu là nạn nhân, đừng ngần ngại gọi 110.",
+   "do": [
+    "Nếu là nạn nhân, hãy gọi 110",
+    "Cũng có thể gọi đường dây tư vấn nạn nhân tội phạm tình dục #8103"
+   ],
+   "dont": [
+    "Chạm vào cơ thể người khác khi chưa được đồng ý"
+   ],
+   "keywords": [
+    "sàm sỡ",
+    "chikan",
+    "tàu điện",
+    "tội phạm tình dục",
+    "110"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "痴漢は重大な犯罪",
+    "summary": "電車の中などで人の体に触る痴漢は、個人の尊厳を踏みにじる重大な犯罪で、条例や刑法で処罰されます。被害にあったら、迷わず 110 番に通報してください。"
+   }
+  },
+  {
+   "id": "crime-knife-carry",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/hamono/hamono.html",
+   "sources": [
+    {
+     "title": "刃物の話 | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/hamono/hamono.html"
+    },
+    {
+     "title": "銃砲刀剣類所持等取締法 第22条",
+     "url": "https://laws.e-gov.go.jp/law/333AC0000000006"
+    },
+    {
+     "title": "軽犯罪法 第1条第2号",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không mang theo dao",
+   "summary": "Pháp luật cấm mang theo dao khi không có lý do chính đáng như công việc. Tự vệ không phải là lý do chính đáng. Ngay cả văn phòng phẩm như kéo, dao rọc giấy, nếu mang trong trạng thái dùng được ngay mà không có lý do chính đáng cũng có thể bị xử lý. Giấu trong xe cũng có thể bị coi là mang theo.",
+   "do": [
+    "Dao mua ở cửa hàng thì mang thẳng về nhà",
+    "Dao dùng cho công việc chỉ mang khi công việc cần"
+   ],
+   "dont": [
+    "Mang dao để tự vệ",
+    "Mang kéo, dao rọc giấy trong trạng thái dùng được ngay"
+   ],
+   "keywords": [
+    "dao",
+    "dao bếp",
+    "dao rọc giấy",
+    "kéo",
+    "tự vệ",
+    "luật vũ khí"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "刃物を持ち歩かない",
+    "summary": "仕事などの正当な理由なく刃物を持ち歩くことは、法律で禁じられています。護身用は正当な理由にあたりません。はさみやカッターナイフなどの文房具でも、正当な理由なくすぐ使える状態で持ち歩くと取締りの対象になります。車の中に隠して持つことも、携帯にあたる場合があります。"
+   }
+  },
+  {
+   "id": "crime-lost-property",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-road.html",
+   "sources": [
+    {
+     "title": "路上等（施設以外）で落とし物を拾った場合 | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-road.html"
+    },
+    {
+     "title": "お店等の施設（駅、ホテル、娯楽施設、学校等）で落とし物を拾った場合 | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-institution.html"
+    },
+    {
+     "title": "遺失物法 第4条",
+     "url": "https://laws.e-gov.go.jp/law/418AC0000000073"
+    },
+    {
+     "title": "刑法 第254条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không giữ lại đồ nhặt được",
+   "summary": "Nếu nhặt được đồ thất lạc, hãy trả cho người mất hoặc nộp cho cảnh sát. Nếu nhặt được trong nhà ga, cửa hàng hoặc cơ sở tương tự, hãy đưa cho nhân viên. Giữ làm của riêng có thể bị truy cứu tội chiếm đoạt tài sản thất lạc.",
+   "do": [
+    "Nhặt được trên đường thì trả cho người mất hoặc nộp ở đồn cảnh sát, koban",
+    "Nhặt được ở nhà ga, cửa hàng, khách sạn thì đưa ngay cho nhân viên"
+   ],
+   "dont": [
+    "Giữ lại ví hoặc tiền nhặt được"
+   ],
+   "keywords": [
+    "đồ thất lạc",
+    "ví",
+    "koban",
+    "nhặt được",
+    "đồn cảnh sát"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "拾った物を自分のものにしない",
+    "summary": "落とし物を拾ったら、落とし主に返すか警察に届けます。駅や店などの施設の中で拾ったときは、係員や店員に届けます。自分のものにすると、遺失物横領の罪に問われる可能性があります。"
+   }
+  },
+  {
+   "id": "crime-others-bicycle",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.pref.saitama.lg.jp/a0311/bouhanjyohou/hanzaitaisaku1.html",
+   "sources": [
+    {
+     "title": "自転車盗・オートバイ盗対策 - 埼玉県",
+     "url": "https://www.pref.saitama.lg.jp/a0311/bouhanjyohou/hanzaitaisaku1.html"
+    },
+    {
+     "title": "刑法 第235条・第254条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không tự ý dùng xe đạp của người khác",
+   "summary": "Không được tự ý đi hoặc lấy xe đạp của người khác. Ngay cả xe trông như bị bỏ lại, nếu tự ý lấy đi cũng là tội chiếm đoạt tài sản bị thất lạc.",
+   "do": [
+    "Đi xe của mình hoặc xe đã thuê, đã mượn"
+   ],
+   "dont": [
+    "Tiện tay đi xe đạp của người khác",
+    "Lấy xe đạp trông như bị bỏ lại"
+   ],
+   "keywords": [
+    "xe đạp",
+    "trộm xe đạp",
+    "xe bỏ lại",
+    "trộm cắp",
+    "chiếm đoạt"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "他人の自転車を勝手に使わない",
+    "summary": "他人の自転車に勝手に乗ったり、持っていったりしてはいけません。放置されているように見える自転車でも、勝手に持っていくと占有離脱物横領の罪になります。"
+   }
+  },
+  {
+   "id": "crime-phone-contract",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/sodan/nettrouble/jirei_other/moble_phone_scam.html",
+   "sources": [
+    {
+     "title": "携帯電話等を販売店からだまし取る行為は犯罪です！ | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/sodan/nettrouble/jirei_other/moble_phone_scam.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律 第7条・第20条・第21条",
+     "url": "https://laws.e-gov.go.jp/law/417AC1000000031"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không tự ý đưa điện thoại đã ký hợp đồng cho người khác",
+   "summary": "Chuyển điện thoại đã ký hợp đồng cho người khác mà không có sự đồng ý của công ty điện thoại có thể bị xử phạt vì vi phạm pháp luật. Ký hợp đồng dù không định dùng, rồi đưa máy để lấy tiền, là lừa đảo cửa hàng. Khi không dùng nữa, ví dụ khi về nước, hãy liên hệ công ty điện thoại để hủy hợp đồng.",
+   "do": [
+    "Muốn chuyển cho người khác thì hỏi công ty điện thoại trước",
+    "Trước khi về nước, liên hệ công ty điện thoại để hủy hợp đồng"
+   ],
+   "dont": [
+    "Nhận lời ký hợp đồng để lấy tiền",
+    "Giao giấy tờ tùy thân để người khác ký hợp đồng thay"
+   ],
+   "keywords": [
+    "điện thoại",
+    "SIM",
+    "hợp đồng",
+    "cho mượn tên",
+    "hủy hợp đồng",
+    "về nước"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "契約した携帯電話を勝手に人に渡さない",
+    "summary": "契約した携帯電話を、携帯電話会社の承諾を得ずに人に譲り渡すと、法律違反として処罰されることがあります。使うつもりがないのに契約して端末を渡し、お金を受け取ることは、販売店をだます詐欺にあたります。帰国などで使わなくなるときは、携帯電話会社に連絡して解約します。"
+   }
+  },
+  {
+   "id": "crime-residence-card",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html",
+   "sources": [
+    {
+     "title": "Answer (Q1～Q79)（Q21） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第73条の3〜第73条の6",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không đưa thẻ cư trú cho người khác, không dùng thẻ của người khác",
+   "summary": "Có quy định xử phạt đối với việc đưa thẻ cư trú của mình cho người khác, dùng, nhận hoặc giữ thẻ mang tên người khác, và liên quan đến thẻ giả. Người nước ngoài làm những việc này, xúi giục hoặc giúp người khác làm cũng thuộc diện bị cưỡng chế xuất cảnh.",
+   "do": [
+    "Tự mình quản lý thẻ cư trú",
+    "Nếu thấy đáng ngờ khi bị yêu cầu đưa thẻ, hãy liên hệ cơ quan chính thức"
+   ],
+   "dont": [
+    "Đưa thẻ của mình cho người khác",
+    "Dùng, nhận hoặc giữ thẻ mang tên người khác hoặc thẻ giả",
+    "Nhờ làm hoặc giúp làm những việc này"
+   ],
+   "keywords": [
+    "thẻ cư trú",
+    "zairyu",
+    "thẻ giả",
+    "cho mượn",
+    "cưỡng chế xuất cảnh"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留カードを人に渡さない・他人のカードを使わない",
+    "summary": "自分の在留カードを他人に提供すること、他人名義のカードを使う・受け取る・持つこと、偽造されたカードに関わることには罰則があります。こうした行為をしたり、そそのかしたり、手伝ったりした外国人は、退去強制の対象にもなります。"
+   }
+  },
+  {
+   "id": "crime-secret-filming",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/keiji1/keiji12_00200.html",
+   "sources": [
+    {
+     "title": "性犯罪関係の法改正等 Ｑ＆Ａ | 法務省",
+     "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html"
+    },
+    {
+     "title": "痴漢・盗撮事犯対策｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html"
+    },
+    {
+     "title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律 第2条",
+     "url": "https://laws.e-gov.go.jp/law/505AC0000000067"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không quay lén cơ thể hoặc đồ lót của người khác",
+   "summary": "Quay lén bộ phận nhạy cảm hoặc đồ lót đang mặc của người khác mà không có lý do chính đáng là phạm tội. Đưa hình ảnh cho người khác hoặc công khai cũng bị xử phạt.",
+   "do": [
+    "Nếu là nạn nhân, hãy gọi 110 hoặc đường dây tư vấn nạn nhân tội phạm tình dục #8103"
+   ],
+   "dont": [
+    "Dùng điện thoại hoặc thiết bị khác quay lén cơ thể, đồ lót của người khác",
+    "Gửi hình ảnh cho người khác hoặc đăng lên mạng"
+   ],
+   "keywords": [
+    "quay lén",
+    "chụp lén",
+    "điện thoại",
+    "máy ảnh",
+    "tội phạm tình dục",
+    "đồ lót"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "人の体や下着をこっそり撮影しない",
+    "summary": "正当な理由なく、人の性的な部位や身に着けている下着などをひそかに撮影することは犯罪です。撮影した画像を人に渡したり公開したりすることも処罰の対象です。"
+   }
+  },
+  {
+   "id": "crime-shoplifting",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/relations.files/leaflet.pdf",
+   "sources": [
+    {
+     "title": "「たかが万引き」と思っていませんか？ | 東京万引き防止官民合同会議事務局・警視庁生活安全総務課",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/relations.files/leaflet.pdf"
+    },
+    {
+     "title": "万引きに関する調査研究報告書～外国人と日本人の意識の差に関する検討～",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf"
+    },
+    {
+     "title": "刑法 第235条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Ăn cắp ở cửa hàng là tội phạm, dù giá trị nhỏ",
+   "summary": "Mang hàng ra khỏi cửa hàng mà không trả tiền là hành vi ăn cắp, thuộc tội trộm cắp. Giá trị nhỏ vẫn bị xử lý như cùng một tội. Trả lại hàng hoặc bồi thường không có nghĩa là xong chuyện.",
+   "do": [
+    "Thanh toán tại quầy rồi mới ra khỏi cửa hàng"
+   ],
+   "dont": [
+    "Lấy đi vì nghĩ chỉ một chút hoặc đồ rẻ",
+    "Nghĩ rằng trả lại là được bỏ qua"
+   ],
+   "keywords": [
+    "ăn cắp",
+    "trộm cắp",
+    "cửa hàng",
+    "mua sắm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "万引きは少額でも犯罪",
+    "summary": "店の商品を代金を払わずに持ち出す万引きは、窃盗罪にあたる犯罪です。金額が少なくても同じ犯罪として扱われます。商品を返したり弁償したりすれば済む問題ではありません。"
+   }
+  },
+  {
+   "id": "crime-violence",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/140AC0000000045",
+   "sources": [
+    {
+     "title": "刑法 第204条・第208条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Bạo lực là phạm tội, dù đối phương không bị thương",
+   "summary": "Dùng bạo lực với người khác là tội hành hung dù đối phương không bị thương, và là tội gây thương tích nếu họ bị thương. Dù là đánh nhau trong bữa nhậu, đánh người vẫn là phạm tội.",
+   "do": [
+    "Nếu sắp xảy ra đánh nhau, hãy rời đi",
+    "Nếu thấy nguy hiểm, hãy gọi 110"
+   ],
+   "dont": [
+    "Đánh, đá người khác",
+    "Động tay chân vì đang uống rượu"
+   ],
+   "keywords": [
+    "bạo lực",
+    "hành hung",
+    "thương tích",
+    "đánh nhau",
+    "rượu",
+    "110"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "暴力は、相手がけがをしなくても犯罪",
+    "summary": "人に暴力をふるうと、相手がけがをしなくても暴行の罪に、けがをさせれば傷害の罪になります。お酒の席のけんかでも、人を殴れば犯罪です。"
+   }
+  },
+  {
+   "id": "crime-yami-baito",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/yuugaiboshuu.html",
+   "sources": [
+    {
+     "title": "職業安定法に基づく周知｜闇バイトの募集について｜厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/yuugaiboshuu.html"
+    },
+    {
+     "title": "＃BAN 闇バイト | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/yami_arbeit/ban_yamiarbeit.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không nhận việc làm thêm phạm pháp 'lương cao, dễ dàng'",
+   "summary": "Có những tin tuyển 'yami-baito' dùng các từ như 'lương cao', 'trả tiền mặt trong ngày', 'chỉ cần nhận giấy tờ' để tìm người thực hiện tội phạm. Giấy tờ tùy thân gửi khi ứng tuyển có thể bị dùng để đe dọa 'sẽ đến nhà', 'sẽ làm hại gia đình', khiến bạn không thể bỏ việc. Nếu bị rủ hoặc đã lỡ ứng tuyển, hãy trao đổi ngay với cảnh sát.",
+   "do": [
+    "Gọi đường dây tư vấn cảnh sát #9110 hoặc đến đồn cảnh sát gần nhất",
+    "Kiểm tra nội dung công việc và người tuyển dụng trước khi ứng tuyển"
+   ],
+   "dont": [
+    "Gửi giấy tờ tùy thân khi chưa biết rõ công việc",
+    "Làm theo yêu cầu cài ứng dụng có tính ẩn danh cao"
+   ],
+   "keywords": [
+    "yami baito",
+    "lương cao",
+    "tiền mặt trong ngày",
+    "việc phụ",
+    "mạng xã hội",
+    "làm thêm",
+    "lừa đảo"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "「高収入・簡単」の闇バイトに応じない",
+    "summary": "「高額」「即日現金」「書類を受け取るだけ」といった言葉で、犯罪の実行役を集める「闇バイト」があります。応募のときに送った身分証明書を使って「家に行く」「家族に危害を加える」と脅され、やめられなくなることがあります。誘われたり応募してしまったりしたら、すぐ警察に相談してください。"
+   }
+  },
+  {
+   "id": "crime-one-person",
+   "category": "crime",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/JINKEN/jinken21.html",
+   "sources": [
+    {
+     "title": "外国人のための人権相談 | 法務省",
+     "url": "https://www.moj.go.jp/JINKEN/jinken21.html"
+    },
+    {
+     "title": "外国人の人権を尊重しましょう | 法務省",
+     "url": "https://www.moj.go.jp/JINKEN/jinken04_00101.html"
+    },
+    {
+     "title": "外国人の受入れ・秩序ある共生のための総合的対応策（令和8年1月23日）",
+     "url": "https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/pdf/kettei_sougoutekitaiousaku_honbun.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tội phạm của một người có thể thành lời chỉ trích mọi người nước ngoài",
+   "summary": "Tội phạm do một người nước ngoài gây ra có khi không chỉ là chuyện của riêng người đó, mà lan thành lời chỉ trích tất cả những người nước ngoài đang sống tuân thủ quy định, với những câu như 'người nước ngoài thì...'. Điều này không có nghĩa lời chỉ trích đó là đúng. Tuân thủ pháp luật không chỉ bảo vệ bạn mà còn bảo vệ những người sống cùng bạn. Khi bị phân biệt đối xử, bạn có thể dùng dịch vụ tư vấn nhân quyền của Bộ Tư pháp.",
+   "do": [
+    "Đừng xem nhẹ, hãy kiểm tra quy định ở Nhật",
+    "Nếu bị rủ làm việc phạm pháp, hãy từ chối và liên hệ cơ quan chính thức",
+    "Khi bị phân biệt đối xử, hãy dùng dịch vụ tư vấn nhân quyền. Ngôn ngữ tư vấn có hạn, hãy xem trong liên kết"
+   ],
+   "dont": [
+    "Dính vào việc phạm pháp vì người quen rủ hoặc vì nghĩ không sao",
+    "Nghĩ rằng 'ai cũng làm' hoặc 'sẽ không bị phát hiện'"
+   ],
+   "keywords": [
+    "người nước ngoài",
+    "tội phạm",
+    "định kiến",
+    "phân biệt đối xử",
+    "tư vấn nhân quyền",
+    "chung sống"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "一人の犯罪が、外国人みんなへの非難に広がることがある",
+    "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。"
+   }
+  },
+  {
+   "id": "emergency-evacuation-info",
+   "category": "emergency",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/",
+   "sources": [
+    {
+     "title": "避難情報に関するガイドラインの改定（令和８年３月）: 防災情報のページ - 防災庁",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/"
+    },
+    {
+     "title": "避難情報のポイント",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/pdf/point.pdf"
+    },
+    {
+     "title": "避難情報に関するガイドライン 令和８年３月",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/pdf/hinan_guideline_r8_1.pdf"
+    },
+    {
+     "title": "防災気象情報と警戒レベルとの対応について",
+     "url": "https://www.jma.go.jp/jma/kishou/know/bosai/alertlevel.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Có thông tin sơ tán thì sơ tán sớm",
+   "summary": "Thông tin sơ tán do người đứng đầu chính quyền địa phương ban hành. Nhất định phải sơ tán muộn nhất là khi có \"lệnh sơ tán\" ở cảnh báo cấp 4. Ở cấp 3, người cao tuổi và những người cần nhiều thời gian sẽ sơ tán. Dù chưa có thông tin, nếu thấy nguy hiểm, hãy tự quyết định và sơ tán.",
+   "do": [
+    "Chuẩn bị cách nhận thông tin phòng chống thiên tai của địa phương",
+    "Nếu thấy nguy hiểm, sơ tán mà không chờ thông báo"
+   ],
+   "dont": [
+    "Chờ đến cấp 5 mới hành động"
+   ],
+   "keywords": [
+    "lệnh sơ tán",
+    "cảnh báo cấp",
+    "hinan shiji",
+    "phòng chống thiên tai",
+    "bão",
+    "mưa lớn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "避難情報が出たら早めに避難する",
+    "summary": "避難情報は市区町村長が出します。警戒レベル4の「避難指示」までに必ず避難します。レベル3の「高齢者等避難」では、高齢者など避難に時間がかかる人が避難します。情報が出ていなくても、危険を感じたら自分で判断して避難してください。"
+   }
+  },
+  {
+   "id": "emergency-hazard-map",
+   "category": "emergency",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://disaportal.gsi.go.jp/",
+   "sources": [
+    {
+     "title": "ハザードマップポータルサイト",
+     "url": "https://disaportal.gsi.go.jp/"
+    },
+    {
+     "title": "わがまちハザードマップ",
+     "url": "https://disaportal.gsi.go.jp/hazardmapportal/hazardmap/index.html"
+    },
+    {
+     "title": "指定緊急避難場所・指定避難所データ | 国土地理院",
+     "url": "https://www.gsi.go.jp/bousaichiri/hinanbasho.html"
+    },
+    {
+     "title": "避難場所に関すること : 防災情報のページ - 防災庁",
+     "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Xem nơi sơ tán trên bản đồ nguy cơ",
+   "summary": "Có thể xem bản đồ nguy cơ của từng địa phương qua cổng thông tin bản đồ nguy cơ quốc gia; trang này chỉ có tiếng Nhật. Nơi chạy đến khi thảm họa xảy ra là \"địa điểm sơ tán khẩn cấp được chỉ định\", nơi ở tạm một thời gian là \"nơi lánh nạn được chỉ định\"; hai nơi này khác nhau.",
+   "do": [
+    "Kiểm tra nguy cơ quanh nhà, nơi làm việc và trường học",
+    "Kiểm tra địa điểm sơ tán cho từng loại thảm họa"
+   ],
+   "dont": [
+    "Cho rằng địa điểm sơ tán và nơi lánh nạn là một"
+   ],
+   "keywords": [
+    "bản đồ nguy cơ",
+    "hazard map",
+    "địa điểm sơ tán",
+    "nơi lánh nạn",
+    "phòng chống thiên tai",
+    "động đất",
+    "lũ lụt",
+    "sóng thần"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ハザードマップで避難先を確認しておく",
+    "summary": "国のハザードマップポータルサイトから、市区町村のハザードマップを確認できます。サイトは日本語のみです。災害が起きたときに逃げるのは「指定緊急避難場所」、しばらく滞在するのは「指定避難所」で、別のものです。"
+   }
+  },
+  {
+   "id": "emergency-110-119",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/japanese/finding_services/living_guide/living_guide_7.html",
+   "sources": [
+    {
+     "title": "こまったときは、どこに電話すればいいの？　警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/japanese/finding_services/living_guide/living_guide_7.html"
+    },
+    {
+     "title": "Who do I call if I need help?（こまったときは、どこに電話すればいいの？）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/finding_services/living_guide/living_guide_e_7.html"
+    },
+    {
+     "title": "ご意見、各種相談・情報提供等｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/goiken_index.html"
+    },
+    {
+     "title": "救急車利用マニュアル A guide for ambulance services | 救急お役立ち ポータルサイト | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/portal/post2.html"
+    },
+    {
+     "title": "警視庁 困ったときの電話（中文）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/chinese/finding_services/living_guide/living_guide_c_7.html"
+    },
+    {
+     "title": "경시청 곤란할 때 전화（한국어）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/korean/finding_services/living_guide/living_guide_k_7.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Tội phạm, tai nạn gọi 110; cháy, cấp cứu gọi 119",
+   "summary": "Tội phạm và tai nạn gọi cảnh sát 110; cháy, bệnh đột ngột và bị thương gọi cứu hỏa 119. Tư vấn với cảnh sát khi không khẩn cấp gọi #9110. Khi gọi xe cấp cứu, trước tiên hãy nói \"kyukyu desu\" (gọi cấp cứu).",
+   "do": [
+    "Bình tĩnh nói rõ địa điểm và tình hình"
+   ],
+   "dont": [
+    "Gọi 110 để hỏi việc không khẩn cấp"
+   ],
+   "keywords": [
+    "110",
+    "119",
+    "cảnh sát",
+    "xe cấp cứu",
+    "cứu hỏa",
+    "cháy",
+    "khẩn cấp",
+    "điện thoại"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "事件・事故は110番、火事・救急は119番",
+    "summary": "事件や事故は警察の110番、火事や急病・けがは消防の119番です。緊急でない警察への相談は「#9110」です。救急車を呼ぶときは、最初に「救急です」と伝えます。"
+   }
+  },
+  {
+   "id": "emergency-ambulance-use",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html",
+   "sources": [
+    {
+     "title": "救急安心センター事業（♯7119）ってナニ？",
+     "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html"
+    },
+    {
+     "title": "救急車を上手に使いましょう ～救急車 必要なのはどんなとき?～",
+     "url": "https://www.fdma.go.jp/publication/portal/items/portal002_japanese121.pdf"
+    },
+    {
+     "title": "3　増大する救急需要への対応 | 令和7年版 消防白書 | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/hakusho/r7/report4/69209.html"
+    },
+    {
+     "title": "訪日外国人のための救急車利用ガイド | 救急お役立ち ポータルサイト | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/portal/post1.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Nơi hỏi khi phân vân có nên gọi xe cấp cứu",
+   "summary": "Khi không biết có nên gọi xe cấp cứu hay không, một số khu vực có tư vấn qua điện thoại #7119 hoặc số khác. Dịch vụ này không có ở mọi nơi, số điện thoại và giờ khác nhau theo khu vực. Hãy kiểm tra xem có tư vấn bằng tiếng nước ngoài không. Nếu triệu chứng có vẻ đe dọa tính mạng, hãy gọi 119 ngay.",
+   "do": [
+    "Nếu triệu chứng có vẻ đe dọa tính mạng, gọi 119 ngay",
+    "Tìm trước số tư vấn của khu vực bạn trên trang chính thức"
+   ],
+   "dont": [
+    "Cho rằng #7119 dùng được trên toàn quốc"
+   ],
+   "keywords": [
+    "xe cấp cứu",
+    "119",
+    "7119",
+    "tư vấn",
+    "bệnh viện",
+    "bệnh đột ngột"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "救急車を呼ぶか迷ったときの相談先",
+    "summary": "救急車を呼ぶべきか判断に困ったときは、地域によっては#7119などの電話で相談できます。全国どこでも使えるわけではなく、番号や時間は地域で違います。外国語で相談できるかは確認が必要です。命に関わりそうな症状があるときは、ためらわず119番に電話してください。"
+   }
+  },
+  {
+   "id": "emergency-disaster-171",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/hakusho-kids/howto/usesp/usesp_08.html",
+   "sources": [
+    {
+     "title": "情報通信白書 for Kids：インターネットを使ってみよう：災害時にもスマートフォン・SNSを活用しよう",
+     "url": "https://www.soumu.go.jp/hakusho-kids/howto/usesp/usesp_08.html"
+    },
+    {
+     "title": "災害時に活用できる 情報伝達手段",
+     "url": "https://www.soumu.go.jp/main_content/000497711.pdf"
+    },
+    {
+     "title": "How to Use | Disaster Emergency Message Dial(171) | Corporate Information | NTT EAST",
+     "url": "https://www.ntt-east.co.jp/en/saigai/voice171s/goriyou.html"
+    },
+    {
+     "title": "Q&A Disaster Emergency Message Dial (171) Measure for natural disaster - Telecommunications and ICT Services and Solutions",
+     "url": "https://www.ntt-west.co.jp/dengon/english/qa/"
+    },
+    {
+     "title": "Overview of the service and how you can access it",
+     "url": "https://www.ntt-west.co.jp/dengon/web171/english/overview/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Dùng đường dây nhắn tin thảm họa 171 để liên lạc",
+   "summary": "Khi có thảm họa lớn, điện thoại khó kết nối và dịch vụ 171 để lại lời nhắn bằng giọng nói sẽ hoạt động. Bình thường không dùng được, hướng dẫn thoại chỉ có tiếng Nhật và không dùng được từ nước ngoài. Còn có web171 để lại lời nhắn bằng chữ. Hãy hạn chế gọi điện và dùng dữ liệu di động.",
+   "do": [
+    "Thống nhất trước cách liên lạc với gia đình",
+    "Khi không gọi được, dùng dữ liệu di động hoặc web171"
+   ],
+   "dont": [
+    "Cho rằng 171 lúc nào cũng dùng được"
+   ],
+   "keywords": [
+    "171",
+    "đường dây nhắn tin thảm họa",
+    "web171",
+    "động đất",
+    "liên lạc",
+    "an toàn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "災害時の連絡には災害用伝言ダイヤル171",
+    "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
+   }
+  },
+  {
+   "id": "travel-drone-rules",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/en/koku/uas.html",
+   "sources": [
+    {
+     "title": "Flight Rules for Unmanned Aircraft (Drones and Model Aircraft, etc.) | MLIT",
+     "url": "https://www.mlit.go.jp/en/koku/uas.html"
+    },
+    {
+     "title": "無人航空機(ドローン・ラジコン機等)の飛行ルール | 国土交通省",
+     "url": "https://www.mlit.go.jp/koku/koku_tk10_000003.html"
+    },
+    {
+     "title": "Responsible Photography in Japan | JNTO",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Kiểm tra quy định bay trước khi bay flycam",
+   "summary": "Bay flycam (drone) ở Nhật có thể cần đăng ký thiết bị. Nếu không được phép, bạn không thể bay quanh sân bay, trên khu đông dân cư và những nơi tương tự.",
+   "do": [
+    "Trước tiên, xem hướng dẫn chính thức về đăng ký và nơi được bay",
+    "Kiểm tra cả quy định của đền, chùa, công viên và các cơ sở khác"
+   ],
+   "dont": [
+    "Bay quanh sân bay hoặc trên khu phố khi chưa được phép"
+   ],
+   "keywords": [
+    "flycam",
+    "drone",
+    "máy bay không người lái",
+    "luật hàng không",
+    "đăng ký",
+    "chụp ảnh",
+    "du lịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ドローンは飛行ルールを確認してから飛ばす",
+    "summary": "日本でドローンを飛ばすには、機体の登録が必要な場合があります。空港の周辺や人が多い地区などでは、許可なく飛ばせません。"
+   }
+  },
+  {
+   "id": "travel-medicine-check",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.customs.go.jp/english/c-answer_e/sonota/9005_e.htm",
+   "sources": [
+    {
+     "title": "9005 海外旅行者向け(医薬品・化粧品等)カスタムスアンサー | 税関",
+     "url": "https://www.customs.go.jp/tetsuzuki/c-answer/sonota/9005_jr.htm"
+    },
+    {
+     "title": "医療用麻薬・覚醒剤原料・向精神薬を携帯して海外へ渡航する際の手続きについて | 近畿厚生局",
+     "url": "https://kouseikyoku.mhlw.go.jp/kinki/shinsei/mayaku_torishimari/kaigai.html"
+    },
+    {
+     "title": "Application Guidance | Narcotics Control Department",
+     "url": "https://www.ncd.mhlw.go.jp/en/application2.html"
+    },
+    {
+     "title": "医薬品等を海外から購入しようとされる方へ | 厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Kiểm tra quy định trước khi mang thuốc vào Nhật",
+   "summary": "Một số thuốc mang từ nước ngoài có giới hạn số lượng hoặc cần làm thủ tục trước. Amphetamine, methamphetamine và cần sa không được mang vào, kể cả để điều trị.",
+   "do": [
+    "Trước khi đi, xem hướng dẫn chính thức theo loại thuốc",
+    "Mang thuốc kê đơn cùng bản sao đơn thuốc hoặc giấy chứng nhận của bác sĩ"
+   ],
+   "dont": [
+    "Mang thuốc vào mà không kiểm tra có cần thủ tục hay không",
+    "Mang thuốc giúp người khác"
+   ],
+   "keywords": [
+    "thuốc",
+    "dược phẩm",
+    "mang vào",
+    "hải quan",
+    "đơn thuốc",
+    "ma túy",
+    "amphetamine",
+    "cần sa",
+    "du lịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "薬を持ち込む前にルールを確認する",
+    "summary": "海外から持ち込む薬には、数量の決まりや事前の手続きが必要なものがあります。アンフェタミンなどの覚醒剤や大麻は、治療のためでも持ち込めません。"
+   }
+  },
+  {
+   "id": "travel-passport-carry",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/326CO0000000319",
+   "sources": [
+    {
+     "title": "出入国管理及び難民認定法 第23条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Mang theo hộ chiếu khi đi du lịch",
+   "summary": "Du khách không có thẻ cư trú phải luôn mang theo hộ chiếu và xuất trình khi cảnh sát hoặc người có thẩm quyền yêu cầu. Có một số ngoại lệ, vui lòng xem thông tin chính thức để biết chi tiết.",
+   "do": [
+    "Mang theo hộ chiếu khi ra ngoài",
+    "Xuất trình khi cảnh sát hoặc người có thẩm quyền yêu cầu"
+   ],
+   "dont": [
+    "Để hộ chiếu ở khách sạn khi ra ngoài"
+   ],
+   "keywords": [
+    "hộ chiếu",
+    "mang theo",
+    "lưu trú ngắn hạn",
+    "du lịch",
+    "du khách"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "旅行中はパスポートを持ち歩く",
+    "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
+   }
+  },
+  {
+   "id": "travel-shinkansen-luggage",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+   "sources": [
+    {
+     "title": "東海道・山陽・九州・西九州新幹線への特大荷物のお持ち込みについて | JR東海",
+     "url": "https://railway.jr-central.co.jp/oversized-baggage/"
+    },
+    {
+     "title": "Luggage information | Central Japan Railway Company",
+     "url": "https://global.jr-central.co.jp/en/info/oversized-baggage/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Đặt chỗ trước khi mang hành lý lớn lên Shinkansen",
+   "summary": "Trên các tuyến Shinkansen Tokaido, Sanyo, Kyushu và Nishi-Kyushu, hành lý vượt quá kích thước nhất định cần đặt ghế có chỗ để hành lý. Xem hướng dẫn chính thức để biết kích thước.",
+   "do": [
+    "Chọn ghế có chỗ để hành lý quá khổ khi mua vé",
+    "Cân nhắc dịch vụ chuyển hành lý hoặc tủ khóa"
+   ],
+   "dont": [
+    "Lên tàu với hành lý lớn mà không đặt chỗ"
+   ],
+   "keywords": [
+    "shinkansen",
+    "tàu cao tốc",
+    "hành lý",
+    "vali",
+    "hành lý quá khổ",
+    "đặt chỗ",
+    "tủ khóa",
+    "du lịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "新幹線に大きな荷物を持ち込むときは予約する",
+    "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
+   }
+  },
+  {
+   "id": "travel-eating-walking",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Etiquette | JNTO",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    },
+    {
+     "title": "鎌倉市公共の場所におけるマナーの向上に関する条例について | 鎌倉市",
+     "url": "https://www.city.kamakura.kanagawa.jp/kankou/mannerruleshead.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không vừa đi vừa ăn ở nơi đông người",
+   "summary": "Vừa đi vừa ăn bị xem là bất lịch sự ở hầu hết nơi công cộng. Ở đường hẹp hoặc đông người, bạn còn có thể làm bẩn quần áo người khác.",
+   "do": [
+    "Ăn ở chỗ có thể ngồi hoặc đứng yên",
+    "Mang rác theo và bỏ sau"
+   ],
+   "dont": [
+    "Vừa đi vừa ăn trên đường đông người"
+   ],
+   "keywords": [
+    "vừa đi vừa ăn",
+    "đồ ăn đường phố",
+    "đông người",
+    "du lịch",
+    "tham quan"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混雑した場所では歩きながら食べない",
+    "summary": "歩きながら食べるのは、多くの場所で行儀が悪いと受け取られます。狭い道や混雑した場所では、ほかの人の服を汚すこともあります。"
+   }
+  },
+  {
+   "id": "travel-minpaku-noise",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/minpaku/",
+   "sources": [
+    {
+     "title": "民泊制度ポータルサイト | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/minpaku/"
+    },
+    {
+     "title": "住宅宿泊事業法 第9条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/429AC0000000065"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Giữ yên lặng ban đêm khi ở nhà cho thuê (民泊)",
+   "summary": "Nhà cho thuê ngắn ngày (民泊) thường nằm trong khu dân cư, xung quanh có người sinh sống. Theo luật, chủ nhà phải giải thích cho khách những điều cần chú ý để tránh gây ồn. Hãy tuân theo quy định được hướng dẫn và giữ yên lặng vào ban đêm và sáng sớm.",
+   "do": [
+    "Tuân theo quy định chủ nhà hướng dẫn",
+    "Giữ yên lặng vào ban đêm và sáng sớm"
+   ],
+   "dont": [
+    "Làm ồn trong phòng vào ban đêm",
+    "Tụ tập làm ồn trước tòa nhà hoặc ngoài đường"
+   ],
+   "keywords": [
+    "nhà cho thuê",
+    "minpaku",
+    "chỗ ở",
+    "tiếng ồn",
+    "ban đêm",
+    "hàng xóm",
+    "du lịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "民泊では夜の音に気をつける",
+    "summary": "民泊は住宅街にあることが多く、まわりで人が暮らしています。法律で、民泊の事業者は宿泊者に騒音を防ぐための注意を説明することになっています。説明された決まりを守り、夜や早朝は静かに過ごします。"
+   }
+  },
+  {
+   "id": "travel-photo-manners",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/",
+   "sources": [
+    {
+     "title": "Responsible Photography in Japan | JNTO",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    },
+    {
+     "title": "鎌倉市公共の場所におけるマナーの向上に関する条例について | 鎌倉市",
+     "url": "https://www.city.kamakura.kanagawa.jp/kankou/mannerruleshead.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Chụp ảnh có ý tứ với người và nơi xung quanh",
+   "summary": "Hãy hỏi trước khi chụp người lạ. Đừng vào đất tư nhân hoặc vượt qua hàng rào để chụp ảnh, và tuân theo biển cấm chụp ảnh.",
+   "do": [
+    "Xin phép trước khi chụp người khác",
+    "Tuân theo biển cấm chụp ảnh và hướng dẫn của nhân viên",
+    "Đi đúng lối đi quy định"
+   ],
+   "dont": [
+    "Vào đất tư nhân hoặc vượt hàng rào để chụp ảnh",
+    "Bước xuống đường xe chạy để chụp ảnh",
+    "Chụp ảnh ở nơi nguy hiểm như gần đường ray"
+   ],
+   "keywords": [
+    "ảnh",
+    "chụp ảnh",
+    "đất tư nhân",
+    "cấm vào",
+    "selfie",
+    "chân máy",
+    "du lịch",
+    "tham quan"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "写真を撮るときは人と場所に配慮する",
+    "summary": "知らない人を撮るときは、先に声をかけます。写真のために私有地や柵の中に入らず、撮影禁止の表示に従います。"
+   }
+  },
+  {
+   "id": "travel-shrine-temple",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/shrine-and-temple-traditions/",
+   "sources": [
+    {
+     "title": "Shrine and Temple Traditions | JNTO",
+     "url": "https://www.japan.travel/en/guide/shrine-and-temple-traditions/"
+    },
+    {
+     "title": "FAQ | JNTO",
+     "url": "https://www.japan.travel/en/faq/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Giữ yên lặng và tôn trọng ở đền, chùa",
+   "summary": "Đền và chùa là nơi thờ tự. Hãy giữ yên lặng và làm theo biển báo, hướng dẫn. Nếu không biết cách lễ, chỉ cần làm theo những người xung quanh là được.",
+   "do": [
+    "Giữ yên lặng",
+    "Cởi giày khi có hướng dẫn",
+    "Tuân theo biển cấm chụp ảnh"
+   ],
+   "dont": [
+    "Vào khu vực cấm",
+    "Mặc trang phục quá hở hang khi đến thăm",
+    "Viết hoặc vẽ lên công trình, di sản văn hóa"
+   ],
+   "keywords": [
+    "đền",
+    "chùa",
+    "lễ bái",
+    "torii",
+    "giày",
+    "di sản văn hóa",
+    "du lịch",
+    "tham quan"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "神社やお寺では静かに敬意を払う",
+    "summary": "神社やお寺は信仰の場所です。静かにふるまい、表示や案内に従います。参拝の作法に迷ったら、周りの人に合わせれば大丈夫です。"
+   }
+  },
+  {
+   "id": "travel-trash-carry",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf",
+   "sources": [
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    },
+    {
+     "title": "FAQ | JNTO",
+     "url": "https://www.japan.travel/en/faq/"
+    },
+    {
+     "title": "Japanese Etiquette | JNTO",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "Không có thùng rác thì mang rác theo",
+   "summary": "Ở Nhật có ít thùng rác công cộng. Nếu có thùng rác, hãy phân loại khi bỏ. Nếu không có, hãy mang theo và bỏ sau.",
+   "do": [
+    "Mang theo một túi nhỏ",
+    "Bỏ riêng lon, chai thủy tinh và chai nhựa"
+   ],
+   "dont": [
+    "Để rác lại trên đường hoặc ở điểm tham quan"
+   ],
+   "keywords": [
+    "rác",
+    "thùng rác",
+    "mang về",
+    "phân loại",
+    "chai nhựa",
+    "du lịch",
+    "tham quan"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみ箱がなければ持ち帰る",
+    "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
+   }
+  },
+  {
+   "id": "travel-yukata",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://wwwtb.mlit.go.jp/hokkaido/content/000232530.pdf",
+   "sources": [
+    {
+     "title": "Onsen guide | 国土交通省 北海道運輸局",
+     "url": "https://wwwtb.mlit.go.jp/hokkaido/content/000232530.pdf"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "Mặc yukata với vạt trái đè lên vạt phải",
+   "summary": "Ryokan và nhà trọ suối nước nóng thường để sẵn yukata trong phòng. Hãy gấp vạt trái đè lên vạt phải và thắt đai obi ở phía trước eo.",
+   "do": [
+    "Gấp vạt trái đè lên vạt phải",
+    "Thắt đai obi ở phía trước eo",
+    "Theo hướng dẫn của nhà trọ về nơi được mặc yukata đi lại"
+   ],
+   "dont": [
+    "Mặc vạt phải đè lên vạt trái"
+   ],
+   "keywords": [
+    "yukata",
+    "ryokan",
+    "suối nước nóng",
+    "obi",
+    "cách mặc",
+    "du lịch"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "浴衣は左側を上に重ねて着る",
+    "summary": "旅館や温泉宿では、部屋に浴衣が用意されていることがあります。浴衣は左側を右側の上に重ねて着て、帯は腰の前で結びます。"
+   }
+  }
+ ],
+ "regions": [
+  {
+   "code": "01",
+   "name": "Hokkaido",
+   "name_ja": "北海道",
+   "official_url": "https://www.pref.hokkaido.lg.jp/"
+  },
+  {
+   "code": "02",
+   "name": "Aomori",
+   "name_ja": "青森県",
+   "official_url": "https://www.pref.aomori.lg.jp/"
+  },
+  {
+   "code": "03",
+   "name": "Iwate",
+   "name_ja": "岩手県",
+   "official_url": "https://www.pref.iwate.jp/"
+  },
+  {
+   "code": "04",
+   "name": "Miyagi",
+   "name_ja": "宮城県",
+   "official_url": "https://www.pref.miyagi.jp/"
+  },
+  {
+   "code": "05",
+   "name": "Akita",
+   "name_ja": "秋田県",
+   "official_url": "https://www.pref.akita.lg.jp/"
+  },
+  {
+   "code": "06",
+   "name": "Yamagata",
+   "name_ja": "山形県",
+   "official_url": "https://www.pref.yamagata.jp/"
+  },
+  {
+   "code": "07",
+   "name": "Fukushima",
+   "name_ja": "福島県",
+   "official_url": "https://www.pref.fukushima.lg.jp/"
+  },
+  {
+   "code": "08",
+   "name": "Ibaraki",
+   "name_ja": "茨城県",
+   "official_url": "https://www.pref.ibaraki.jp/"
+  },
+  {
+   "code": "09",
+   "name": "Tochigi",
+   "name_ja": "栃木県",
+   "official_url": "https://www.pref.tochigi.lg.jp/"
+  },
+  {
+   "code": "10",
+   "name": "Gunma",
+   "name_ja": "群馬県",
+   "official_url": "https://www.pref.gunma.jp/"
+  },
+  {
+   "code": "11",
+   "name": "Saitama",
+   "name_ja": "埼玉県",
+   "official_url": "https://www.pref.saitama.lg.jp/"
+  },
+  {
+   "code": "12",
+   "name": "Chiba",
+   "name_ja": "千葉県",
+   "official_url": "https://www.pref.chiba.lg.jp/"
+  },
+  {
+   "code": "13",
+   "name": "Tokyo",
+   "name_ja": "東京都",
+   "official_url": "https://www.metro.tokyo.lg.jp/"
+  },
+  {
+   "code": "14",
+   "name": "Kanagawa",
+   "name_ja": "神奈川県",
+   "official_url": "https://www.pref.kanagawa.jp/"
+  },
+  {
+   "code": "15",
+   "name": "Niigata",
+   "name_ja": "新潟県",
+   "official_url": "https://www.pref.niigata.lg.jp/"
+  },
+  {
+   "code": "16",
+   "name": "Toyama",
+   "name_ja": "富山県",
+   "official_url": "https://www.pref.toyama.jp/"
+  },
+  {
+   "code": "17",
+   "name": "Ishikawa",
+   "name_ja": "石川県",
+   "official_url": "https://www.pref.ishikawa.lg.jp/"
+  },
+  {
+   "code": "18",
+   "name": "Fukui",
+   "name_ja": "福井県",
+   "official_url": "https://www.pref.fukui.lg.jp/"
+  },
+  {
+   "code": "19",
+   "name": "Yamanashi",
+   "name_ja": "山梨県",
+   "official_url": "https://www.pref.yamanashi.jp/"
+  },
+  {
+   "code": "20",
+   "name": "Nagano",
+   "name_ja": "長野県",
+   "official_url": "https://www.pref.nagano.lg.jp/"
+  },
+  {
+   "code": "21",
+   "name": "Gifu",
+   "name_ja": "岐阜県",
+   "official_url": "https://www.pref.gifu.lg.jp/"
+  },
+  {
+   "code": "22",
+   "name": "Shizuoka",
+   "name_ja": "静岡県",
+   "official_url": "https://www.pref.shizuoka.jp/"
+  },
+  {
+   "code": "23",
+   "name": "Aichi",
+   "name_ja": "愛知県",
+   "official_url": "https://www.pref.aichi.jp/"
+  },
+  {
+   "code": "24",
+   "name": "Mie",
+   "name_ja": "三重県",
+   "official_url": "https://www.pref.mie.lg.jp/"
+  },
+  {
+   "code": "25",
+   "name": "Shiga",
+   "name_ja": "滋賀県",
+   "official_url": "https://www.pref.shiga.lg.jp/"
+  },
+  {
+   "code": "26",
+   "name": "Kyoto",
+   "name_ja": "京都府",
+   "official_url": "https://www.pref.kyoto.jp/"
+  },
+  {
+   "code": "27",
+   "name": "Osaka",
+   "name_ja": "大阪府",
+   "official_url": "https://www.pref.osaka.lg.jp/index.html"
+  },
+  {
+   "code": "28",
+   "name": "Hyogo",
+   "name_ja": "兵庫県",
+   "official_url": "https://web.pref.hyogo.lg.jp/"
+  },
+  {
+   "code": "29",
+   "name": "Nara",
+   "name_ja": "奈良県",
+   "official_url": "https://www.pref.nara.lg.jp/"
+  },
+  {
+   "code": "30",
+   "name": "Wakayama",
+   "name_ja": "和歌山県",
+   "official_url": "https://www.pref.wakayama.lg.jp/"
+  },
+  {
+   "code": "31",
+   "name": "Tottori",
+   "name_ja": "鳥取県",
+   "official_url": "https://www.pref.tottori.lg.jp/"
+  },
+  {
+   "code": "32",
+   "name": "Shimane",
+   "name_ja": "島根県",
+   "official_url": "https://www.pref.shimane.lg.jp/"
+  },
+  {
+   "code": "33",
+   "name": "Okayama",
+   "name_ja": "岡山県",
+   "official_url": "https://www.pref.okayama.jp/"
+  },
+  {
+   "code": "34",
+   "name": "Hiroshima",
+   "name_ja": "広島県",
+   "official_url": "https://www.pref.hiroshima.lg.jp/"
+  },
+  {
+   "code": "35",
+   "name": "Yamaguchi",
+   "name_ja": "山口県",
+   "official_url": "https://www.pref.yamaguchi.lg.jp/"
+  },
+  {
+   "code": "36",
+   "name": "Tokushima",
+   "name_ja": "徳島県",
+   "official_url": "https://www.pref.tokushima.lg.jp/"
+  },
+  {
+   "code": "37",
+   "name": "Kagawa",
+   "name_ja": "香川県",
+   "official_url": "https://www.pref.kagawa.lg.jp/"
+  },
+  {
+   "code": "38",
+   "name": "Ehime",
+   "name_ja": "愛媛県",
+   "official_url": "https://www.pref.ehime.jp/"
+  },
+  {
+   "code": "39",
+   "name": "Kochi",
+   "name_ja": "高知県",
+   "official_url": "https://www.pref.kochi.lg.jp/"
+  },
+  {
+   "code": "40",
+   "name": "Fukuoka",
+   "name_ja": "福岡県",
+   "official_url": "https://www.pref.fukuoka.lg.jp/"
+  },
+  {
+   "code": "41",
+   "name": "Saga",
+   "name_ja": "佐賀県",
+   "official_url": "https://www.pref.saga.lg.jp/"
+  },
+  {
+   "code": "42",
+   "name": "Nagasaki",
+   "name_ja": "長崎県",
+   "official_url": "https://www.pref.nagasaki.jp/"
+  },
+  {
+   "code": "43",
+   "name": "Kumamoto",
+   "name_ja": "熊本県",
+   "official_url": "https://www.pref.kumamoto.jp/"
+  },
+  {
+   "code": "44",
+   "name": "Oita",
+   "name_ja": "大分県",
+   "official_url": "https://www.pref.oita.jp/"
+  },
+  {
+   "code": "45",
+   "name": "Miyazaki",
+   "name_ja": "宮崎県",
+   "official_url": "https://www.pref.miyazaki.lg.jp/"
+  },
+  {
+   "code": "46",
+   "name": "Kagoshima",
+   "name_ja": "鹿児島県",
+   "official_url": "https://www.pref.kagoshima.jp/"
+  },
+  {
+   "code": "47",
+   "name": "Okinawa",
+   "name_ja": "沖縄県",
+   "official_url": "https://www.pref.okinawa.lg.jp/"
+  }
+ ],
+ "links": [
+  {
+   "id": "ambulance-guide",
+   "group": "emergency",
+   "url": "https://www.fdma.go.jp/publication/portal/post1.html",
+   "title": "Hướng dẫn sử dụng xe cấp cứu (Cục Phòng cháy và Thiên tai, đa ngôn ngữ)"
+  },
+  {
+   "id": "ambulance-advice",
+   "group": "emergency",
+   "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html",
+   "title": "Danh sách khu vực có tư vấn cấp cứu (#7119) (Cục Phòng cháy và Thiên tai, tiếng Nhật)"
+  },
+  {
+   "id": "police-multilingual",
+   "group": "emergency",
+   "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/index.html",
+   "title": "Hướng dẫn đa ngôn ngữ của Cảnh sát Tokyo (ví dụ ở Tokyo)"
+  },
+  {
+   "id": "hazard-map",
+   "group": "emergency",
+   "url": "https://disaportal.gsi.go.jp/",
+   "title": "Cổng thông tin bản đồ nguy cơ (Bộ Đất đai, tiếng Nhật)"
+  },
+  {
+   "id": "safety-tips",
+   "group": "emergency",
+   "url": "https://www.jnto.go.jp/safety-tips/eng/app.html",
+   "title": "Ứng dụng thông tin thảm họa Safety tips (JNTO)"
+  },
+  {
+   "id": "visitor-hotline",
+   "group": "emergency",
+   "url": "https://www.japan.travel/en/plan/emergencies/",
+   "title": "Hướng dẫn khẩn cấp và đường dây nóng của JNTO (tiếng Anh)"
+  },
+  {
+   "id": "fresc",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/fresc/fresc01.html",
+   "title": "Trung tâm hỗ trợ người nước ngoài cư trú (FRESC)"
+  },
+  {
+   "id": "immigration-information-center",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/consultation/center/index.html",
+   "title": "Trung tâm thông tin tổng hợp về cư trú cho người nước ngoài"
+  },
+  {
+   "id": "houterasu",
+   "group": "consultation",
+   "url": "https://www.houterasu.or.jp/site/foreign-nationals/index-2.html",
+   "title": "Thông tin pháp luật đa ngôn ngữ của Houterasu"
+  },
+  {
+   "id": "human-rights",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/JINKEN/jinken21.html",
+   "title": "Tư vấn nhân quyền cho người nước ngoài (Bộ Tư pháp)"
+  },
+  {
+   "id": "support-portal",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/portal/index.html",
+   "title": "Cổng hỗ trợ đời sống cho người nước ngoài (Cục Xuất nhập cảnh)"
+  },
+  {
+   "id": "life-guidebook",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "title": "Sách hướng dẫn sinh hoạt và làm việc (đa ngôn ngữ)"
+  },
+  {
+   "id": "municipalities",
+   "group": "local",
+   "url": "https://www.e-gov.go.jp/government-directory/local-governments.html",
+   "title": "Trang web của chính quyền địa phương (e-Gov, tiếng Nhật)"
+  },
+  {
+   "id": "clair",
+   "group": "local",
+   "url": "https://www.clair.or.jp/tagengo/",
+   "title": "Thông tin đời sống đa ngôn ngữ (CLAIR)"
+  }
+ ]
+}

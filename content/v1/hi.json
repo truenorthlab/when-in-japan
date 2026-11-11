@@ -1,0 +1,4895 @@
+{
+ "schema": 1,
+ "language": "hi",
+ "categories": [
+  {
+   "id": "garbage",
+   "symbol": "trash",
+   "title": "कचरा और रीसाइक्लिंग"
+  },
+  {
+   "id": "home",
+   "symbol": "house",
+   "title": "घर और पड़ोसी"
+  },
+  {
+   "id": "daily",
+   "symbol": "hand.wave",
+   "title": "रोज़ के मैनर्स"
+  },
+  {
+   "id": "moving",
+   "symbol": "shippingbox",
+   "title": "घर बदलना"
+  },
+  {
+   "id": "transit",
+   "symbol": "tram",
+   "title": "ट्रेन और बस"
+  },
+  {
+   "id": "bicycle",
+   "symbol": "bicycle",
+   "title": "साइकिल"
+  },
+  {
+   "id": "dining",
+   "symbol": "fork.knife",
+   "title": "रेस्तराँ और कन्वीनियंस स्टोर"
+  },
+  {
+   "id": "bath",
+   "symbol": "bathtub",
+   "title": "पब्लिक बाथ और ऑनसेन"
+  },
+  {
+   "id": "smoking",
+   "symbol": "smoke",
+   "title": "स्मोकिंग और शराब"
+  },
+  {
+   "id": "residence",
+   "symbol": "person.text.rectangle",
+   "title": "रेज़िडेंस स्टेटस"
+  },
+  {
+   "id": "crime",
+   "symbol": "building.columns",
+   "title": "अपराध और कानून का उल्लंघन"
+  },
+  {
+   "id": "emergency",
+   "symbol": "exclamationmark.triangle",
+   "title": "इमरजेंसी और आपदा"
+  },
+  {
+   "id": "travel",
+   "symbol": "suitcase",
+   "title": "यात्रा और पर्यटन"
+  }
+ ],
+ "items": [
+  {
+   "id": "garbage-appliances",
+   "category": "garbage",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/recycle/kaden/tvrecycle.html",
+   "sources": [
+    {
+     "title": "いらなくなった家電製品は正しくリユース・リサイクル！",
+     "url": "https://www.env.go.jp/recycle/kaden/tvrecycle.html"
+    },
+    {
+     "title": "家電リサイクル法の概要",
+     "url": "https://www.env.go.jp/recycle/kaden/gaiyo.html"
+    },
+    {
+     "title": "環境省_廃棄物の処分に「無許可」の回収業者を利用しないでください！",
+     "url": "https://www.env.go.jp/recycle/kaden/tv-recycle/qa.html"
+    },
+    {
+     "title": "家電4品目（エアコン、テレビ、冷蔵庫・冷凍庫、洗濯機・衣類乾燥機）の出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00019.html"
+    },
+    {
+     "title": "特定家庭用機器再商品化法 第6条",
+     "url": "https://laws.e-gov.go.jp/law/410AC0000000097"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "एसी, टीवी, फ़्रिज और वॉशिंग मशीन को रीसाइक्लिंग के लिए दें",
+   "summary": "एसी, टीवी, फ़्रिज और फ़्रीज़र, वॉशिंग मशीन और कपड़े सुखाने की मशीन, होम अप्लायंस रीसाइक्लिंग कानून (家電リサイクル法) के दायरे में आते हैं। इन्हें अप्लायंस बेचने वाली दुकान को सौंपें, या नगरपालिका के बताए तरीके से रीसाइकल कराएँ। रीसाइक्लिंग शुल्क और कलेक्शन व ढुलाई का शुल्क उपभोक्ता को देना होता है।",
+   "do": [
+    "अप्लायंस बेचने वाली दुकान से पूछें, या नगरपालिका की जानकारी देखें",
+    "रीसाइक्लिंग शुल्क और कलेक्शन व ढुलाई का शुल्क जाँच लें"
+   ],
+   "dont": [
+    "बिना लाइसेंस वाली कलेक्शन कंपनी को देना"
+   ],
+   "keywords": [
+    "अप्लायंस",
+    "रीसाइक्लिंग",
+    "एसी",
+    "टीवी",
+    "फ़्रिज",
+    "वॉशिंग मशीन",
+    "कचरा",
+    "recycling"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "エアコン・テレビ・冷蔵庫・洗濯機はリサイクルに出す",
+    "summary": "エアコン、テレビ、冷蔵庫・冷凍庫、洗濯機・衣類乾燥機は家電リサイクル法の対象です。家電小売店に引き渡すか、市区町村の案内する方法でリサイクルします。リサイクル料金と収集運搬料金は消費者が負担します。"
+   }
+  },
+  {
+   "id": "garbage-illegal-dumping",
+   "category": "garbage",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://kanto.env.go.jp/page_00046.html",
+   "sources": [
+    {
+     "title": "不法投棄対策 | 関東環境局 | 環境省",
+     "url": "https://kanto.env.go.jp/page_00046.html"
+    },
+    {
+     "title": "生活環境の悪化につながる環境犯罪 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/kankyo/living_environment.html"
+    },
+    {
+     "title": "廃棄物の処理及び清掃に関する法律 第16条・第25条",
+     "url": "https://laws.e-gov.go.jp/law/345AC0000000137"
+    },
+    {
+     "title": "軽犯罪法 第1条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "सड़क या पहाड़ पर कचरा न फेंकें (कूड़ा फैलाना, अवैध डंपिंग)",
+   "summary": "वेस्ट मैनेजमेंट कानून (廃棄物処理法) कहता है कि कोई भी व्यक्ति कचरे को मनमाने ढंग से नहीं फेंक सकता, और उल्लंघन पर दंड का प्रावधान है। सड़क या पहाड़ पर कचरा फेंकना और ऐसे काम इसमें आते हैं। ख़ाली डिब्बे, सिगरेट के टुकड़े जैसी चीज़ें सड़क या पार्क में यूँ ही फेंकना लघु अपराध कानून (軽犯罪法) में भी मना है।",
+   "do": [
+    "कचरे का निपटान नगरपालिका के तय तरीके से करें",
+    "तरीका पता न हो, तो नगरपालिका से पूछें"
+   ],
+   "dont": [
+    "सड़क, पहाड़ या ऐसी जगहों पर कचरा फेंकना",
+    "ख़ाली डिब्बे या सिगरेट के टुकड़े सड़क पर फेंकना"
+   ],
+   "keywords": [
+    "अवैध डंपिंग",
+    "कचरा फेंकना",
+    "सिगरेट के टुकड़े",
+    "कचरा",
+    "illegal dumping",
+    "littering",
+    "garbage"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "道や山にごみを捨てない（ポイ捨て・不法投棄）",
+    "summary": "廃棄物処理法は、誰であっても、みだりに廃棄物を捨ててはならないと定めており、違反には罰則があります。道路や山にごみを捨てることなどがこれにあたります。空き缶や吸い殻などを道や公園にみだりに捨てることは、軽犯罪法でも禁じられています。"
+   }
+  },
+  {
+   "id": "garbage-collection-day",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "燃やすごみの出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00002.html"
+    },
+    {
+     "title": "外国人向け ごみの出し方ガイド（日本語）｜岡崎市公式ホームページ",
+     "url": "https://www.city.okazaki.lg.jp/kurashi/gomi/1012430/1002188/1002218/1002225.html"
+    },
+    {
+     "title": "福岡市 家庭ごみの出し方（ごみ出しルール）",
+     "url": "https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/katei-bunbetsu/kateigomi-dasikata.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "कचरा तय दिन, समय और जगह पर ही निकालें",
+   "summary": "हर तरह के कचरे के लिए कलेक्शन का दिन और समय तय होता है। समय इलाके के हिसाब से अलग होता है। कुछ इलाकों में सुबह तक निकालना होता है, और कुछ में, जैसे फ़ुकुओका शहर में, रात को निकालना होता है।",
+   "do": [
+    "नगरपालिका की जानकारी या कचरा कैलेंडर में कलेक्शन का दिन, समय और जगह देखें",
+    "तय समय पर, तय कलेक्शन पॉइंट पर निकालें"
+   ],
+   "dont": [
+    "कलेक्शन के दिन के अलावा किसी और दिन, या तय समय के बाहर निकालना"
+   ],
+   "keywords": [
+    "कचरा",
+    "कचरा कलेक्शन",
+    "कलेक्शन का दिन",
+    "कलेक्शन पॉइंट",
+    "कचरा कैलेंडर",
+    "garbage",
+    "gomi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみは決められた日・時間・場所に出す",
+    "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
+   }
+  },
+  {
+   "id": "garbage-oversized",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00016.html",
+   "sources": [
+    {
+     "title": "粗大ごみの出し方：新宿区",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00016.html"
+    },
+    {
+     "title": "「粗大ごみ」の出し方(事前申し込み制)",
+     "url": "https://www.city.tokyo-nakano.lg.jp/kurashi/gomi/sodaigomi/jizenmoshikomi.html"
+    },
+    {
+     "title": "粗大ごみの出し方",
+     "url": "https://www.city.fukuoka.lg.jp/kankyo/kateigomi/life/katei-bunbetsu/sodaigomi.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बड़े आकार का कचरा निकालने के लिए पहले आवेदन करें",
+   "summary": "बड़े फ़र्नीचर जैसी चीज़ें कभी-कभी सामान्य कचरे के रूप में नहीं निकाली जा सकतीं। उदाहरण के लिए, टोक्यो के शिंजुकु वार्ड और नाकानो वार्ड और फ़ुकुओका शहर में पहले से आवेदन ज़रूरी है, और शिंजुकु वार्ड में इसका शुल्क लगता है। नियम अपनी नगरपालिका से जाँच लें।",
+   "do": [
+    "नगरपालिका की जानकारी में देखें कि कौन-सी चीज़ें इसमें आती हैं और आवेदन कैसे करना है",
+    "देखें कि शुल्क लगता है या नहीं, और भुगतान कैसे करना है"
+   ],
+   "dont": [
+    "आवेदन किए बिना कलेक्शन पॉइंट पर रख देना"
+   ],
+   "keywords": [
+    "बड़ा कचरा",
+    "फ़र्नीचर",
+    "आवेदन",
+    "कचरा",
+    "oversized garbage",
+    "sodai gomi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "粗大ごみは事前に申し込む",
+    "summary": "大きな家具などは、普通のごみとして出せないことがあります。例えば東京都新宿区・中野区や福岡市では事前の申し込みが必要で、新宿区では有料です。決まりは市区町村で確認してください。"
+   }
+  },
+  {
+   "id": "garbage-sorting",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/guide/info/ecojin/action/20240221.html",
+   "sources": [
+    {
+     "title": "ごみ出しのコツをつかんで楽しく分別しよう！| ecojin（エコジン）：環境省",
+     "url": "https://www.env.go.jp/guide/info/ecojin/action/20240221.html"
+    },
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "कचरे की छँटाई नगरपालिका के नियमों के अनुसार करें",
+   "summary": "छँटाई की श्रेणियाँ और उनके नाम हर इलाके में अलग होते हैं। जहाँ आप पहले रहते थे, वहाँ का तरीका नई जगह पर भी वही हो, यह ज़रूरी नहीं।",
+   "do": [
+    "जिस नगरपालिका में रहते हैं, उसकी छँटाई की सूची देखें",
+    "संदेह हो, तो नगरपालिका के काउंटर या वेबसाइट से पता करें"
+   ],
+   "dont": [
+    "पुराने इलाके के तरीके से ही छँटाई करते रहना"
+   ],
+   "keywords": [
+    "कचरा",
+    "छँटाई",
+    "रीसाइक्लिंग",
+    "जलने वाला कचरा",
+    "garbage",
+    "sorting",
+    "gomi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみの分別は市区町村のルールに従う",
+    "summary": "分別の種類や呼び方は地域によって異なります。前に住んでいた地域のやり方が、引っ越し先でも同じとは限りません。"
+   }
+  },
+  {
+   "id": "home-lease-rules",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "民法 第612条",
+     "url": "https://laws.e-gov.go.jp/law/129AC0000000089"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बिना बताए किसी को साथ न रखें, और कमरा आगे किराए पर न दें",
+   "summary": "जिस व्यक्ति के बारे में सूचना नहीं दी गई है, उसे बिना बताए साथ रखने पर आपसे घर खाली करने को कहा जा सकता है। कमरा किसी और को आगे किराए पर देने के लिए मकान मालिक की सहमति ज़रूरी है (सिविल कोड)।",
+   "do": [
+    "कोई साथ रहने वाला हो, तो मकान मालिक या प्रॉपर्टी एजेंट को सूचना दें",
+    "कॉन्ट्रैक्ट में साथ रहने और आगे किराए पर देने की शर्तें देखें"
+   ],
+   "dont": [
+    "परिवार या दोस्तों को बिना बताए रहने देना",
+    "सहमति के बिना कमरा आगे किराए पर देना"
+   ],
+   "keywords": [
+    "किराया",
+    "कॉन्ट्रैक्ट",
+    "साथ रहना",
+    "सबलेट",
+    "रूम शेयर",
+    "मकान मालिक",
+    "rental",
+    "sublet"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "無断で同居させない・又貸ししない",
+    "summary": "届け出のない人を無断で同居させると、退去を求められる場合があります。部屋を他の人に又貸しするには、貸主の承諾が必要です（民法）。"
+   }
+  },
+  {
+   "id": "home-moveout-notice",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर छोड़ते समय तय समय-सीमा तक लिखित में बताएँ",
+   "summary": "घर बदलते समय, कॉन्ट्रैक्ट में लिखी समय-सीमा तक मकान मालिक या प्रॉपर्टी एजेंट को लिखित में कॉन्ट्रैक्ट खत्म करने की सूचना दें (解約予告)। समय-सीमा हर कॉन्ट्रैक्ट में अलग होती है।",
+   "do": [
+    "कॉन्ट्रैक्ट में सूचना देने की समय-सीमा देखें",
+    "समय-सीमा तक लिखित में बताएँ"
+   ],
+   "dont": [
+    "कॉन्ट्रैक्ट देखे बिना घर छोड़ने की तारीख तय करना"
+   ],
+   "keywords": [
+    "कॉन्ट्रैक्ट खत्म करना",
+    "नोटिस",
+    "घर खाली करना",
+    "किराया",
+    "घर बदलना",
+    "move out",
+    "rental"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "退去するときは期限までに書面で知らせる",
+    "summary": "引っ越すときは、契約書に書かれている期限までに、家主や不動産店へ書面で解約を伝えます（解約予告）。期限は契約によって違います。"
+   }
+  },
+  {
+   "id": "home-shared-areas",
+   "category": "home",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "गलियारे और सीढ़ियों पर सामान न रखें",
+   "summary": "आपके कमरे के बाहर के गलियारे और सीढ़ियाँ साझा जगहें हैं, और इमरजेंसी में निकलने के रास्ते हैं। कभी-कभी बालकनी भी निकलने का रास्ता होती है।",
+   "do": [
+    "अपना सामान और कचरा अपने कमरे के अंदर रखें",
+    "बालकनी के इमरजेंसी निकास के आसपास जगह खाली रखें"
+   ],
+   "dont": [
+    "गलियारे या सीढ़ियों पर अपना सामान या कचरा रखना"
+   ],
+   "keywords": [
+    "साझा जगह",
+    "गलियारा",
+    "सीढ़ियाँ",
+    "बालकनी",
+    "इमरजेंसी निकास",
+    "hallway",
+    "balcony"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "廊下や階段に物を置かない",
+    "summary": "自分の部屋以外の廊下や階段は共用部分で、いざというときの避難通路です。ベランダが避難通路になっている場合もあります。"
+   }
+  },
+  {
+   "id": "home-balcony",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/lrmhph000000hznx-att/202610_jp_p92-93.pdf",
+   "sources": [
+    {
+     "title": "住まいのしおり「17 バルコニー」 | UR都市機構",
+     "url": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/lrmhph000000hznx-att/202610_jp_p92-93.pdf"
+    },
+    {
+     "title": "住まいのしおり（住宅・設備等のご案内） | UR都市機構",
+     "url": "https://www.ur-net.go.jp/chintai_portal/sumainoshiori/index2.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बालकनी आपात स्थिति में बचने का रास्ता भी होती है",
+   "summary": "आग जैसी आपात स्थिति में बालकनी बचने का रास्ता भी बनती है। पड़ोसी से अलग करने वाले पार्टिशन के सामने बड़ी या भारी चीज़ें न रखें। कुछ इमारतों में बारबेक्यू जैसे कामों के लिए आग जलाना या रेलिंग पर गद्दे सुखाना मना है। लिंक UR किराए के घरों का उदाहरण है। अपनी इमारत के नियम देख लें।",
+   "do": [
+    "बचने का रास्ता खाली रखें",
+    "अपनी इमारत के नियम देख लें"
+   ],
+   "dont": [
+    "पड़ोसी से अलग करने वाले पार्टिशन के सामने बड़ी या भारी चीज़ें रखना",
+    "नियम में मना होने पर भी आग जलाना"
+   ],
+   "keywords": [
+    "बालकनी",
+    "आग",
+    "पार्टिशन",
+    "गद्दा",
+    "बारबेक्यू",
+    "balcony"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ベランダは避難路にもなる",
+    "summary": "ベランダやバルコニーは、火事などのときの避難路にもなります。隣との仕切り板の前に、大きな物や重い物を置かないようにします。バーベキューなどの火の使用や、手すりに布団を干すことを禁じている建物もあります。リンク先は UR 賃貸の例です。住んでいる建物の規約を確かめます。"
+   }
+  },
+  {
+   "id": "home-neighborhood-association",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "मोहल्ला संघ (自治会・町内会) के बारे में जानें",
+   "summary": "मोहल्ला संघ स्थानीय निवासियों के अपने बनाए समूह होते हैं। इनके कामों में नगर कार्यालय जैसी जगहों की सूचनाएँ घुमाना शामिल है, और खर्च सदस्य उठाते हैं। काम इलाके के हिसाब से बदलते हैं, इसलिए कुछ समझ न आए तो अपनी नगरपालिका से पूछें।",
+   "do": [
+    "कुछ समझ न आए तो अपनी नगरपालिका से पूछें"
+   ],
+   "dont": [
+    "यह मान लेना कि हर इलाके में काम एक जैसे होते हैं"
+   ],
+   "keywords": [
+    "मोहल्ला संघ",
+    "जिचिकाई",
+    "सूचना",
+    "पड़ोसी",
+    "neighborhood association"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自治会・町内会を知っておく",
+    "summary": "自治会や町内会は、地域に住む人たちが自主的につくる団体です。市役所などからのお知らせの回覧などの活動をしていて、費用は会員が負担します。活動は地域によって違うので、分からないことは住んでいる市区町村に問い合わせます。"
+   }
+  },
+  {
+   "id": "home-noise-night",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "住み方（入居してからの注意点、騒音、ごみ等）",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/nyukyoshitekara/"
+    },
+    {
+     "title": "外国人が日本で安全に暮らすために",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/live_in_tokyo/anzen_kurashi.html"
+    },
+    {
+     "title": "生活騒音 互いの思いやりで騒音のない社会を",
+     "url": "https://www.env.go.jp/air/seikatsu.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "रात से सुबह तड़के तक रोज़मर्रा की आवाज़ों का ध्यान रखें",
+   "summary": "अपार्टमेंट इमारतों में आवाज़ बगल और ऊपर-नीचे के कमरों तक आसानी से पहुँचती है। खासकर रात से सुबह तड़के तक ध्यान रखें।",
+   "do": [
+    "बातचीत और टीवी की आवाज़ कम रखें",
+    "वैक्यूम क्लीनर, वॉशिंग मशीन और दरवाज़ा खोलने-बंद करने की आवाज़ का ध्यान रखें"
+   ],
+   "dont": [
+    "आधी रात को बहुत सारे लोगों के साथ पार्टी करना",
+    "देर रात तेज़ आवाज़ करते हुए नहाना"
+   ],
+   "keywords": [
+    "शोर",
+    "आवाज़",
+    "रात",
+    "अपार्टमेंट",
+    "पड़ोसी",
+    "noise",
+    "apartment"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "夜から早朝は生活音に気をつける",
+    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
+   }
+  },
+  {
+   "id": "home-pets",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/h2202.pdf",
+   "sources": [
+    {
+     "title": "住宅密集地における犬猫の適正飼養ガイドライン | 環境省",
+     "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/h2202.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "पालतू जानवर लाने से पहले नियम देख लें",
+   "summary": "ज़्यादातर अपार्टमेंट इमारतों में पालतू जानवर रखना मना है, और जहाँ अनुमति हो वहाँ भी जानवर का प्रकार, आकार और संख्या लगभग हमेशा नियमों में तय होती है। भौंकने की आवाज़, गंध और मल को न उठाना पड़ोसियों से झगड़े की वजह बनते हैं।",
+   "do": [
+    "लाने से पहले इमारत के नियम और अनुबंध देख लें",
+    "सैर पर थैली साथ रखें और मल घर ले जाएँ"
+   ],
+   "dont": [
+    "नियम तोड़कर चुपके से पालना",
+    "मल वहीं छोड़ देना"
+   ],
+   "keywords": [
+    "पालतू जानवर",
+    "कुत्ता",
+    "बिल्ली",
+    "नियम",
+    "भौंकना",
+    "pet"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ペットは飼う前に規約を確かめる",
+    "summary": "集合住宅の多くはペットの飼育が禁止されていて、飼える場合でも動物の種類、大きさ、数が規約で決められていることがほとんどです。鳴き声、におい、ふんの放置は、近所とのトラブルのもとになります。"
+   }
+  },
+  {
+   "id": "home-shoes-off",
+   "category": "home",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    },
+    {
+     "title": "Custom & Manners | Travel Japan | JNTO",
+     "url": "https://www.japan.travel/en/plan/custom-manners/"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर में जाते समय एंट्रेंस पर जूते उतारें",
+   "summary": "एंट्रेंस (玄関) पर जूते उतारकर घर के अंदर जाना जापान का रिवाज है।",
+   "do": [
+    "एंट्रेंस पर जूते उतारकर ही कमरे में जाएँ"
+   ],
+   "dont": [
+    "जूते या दूसरे फ़ुटवियर पहनकर कमरे में जाना"
+   ],
+   "keywords": [
+    "जूते",
+    "एंट्रेंस",
+    "रिवाज",
+    "shoes",
+    "genkan"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "家に上がるときは玄関で靴を脱ぐ",
+    "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
+   }
+  },
+  {
+   "id": "daily-spitting",
+   "category": "daily",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/323AC0000000039",
+   "sources": [
+    {
+     "title": "軽犯罪法 第1条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "सड़क पर न थूकें, न खुले में पेशाब-शौच करें",
+   "summary": "लघु अपराध कानून (軽犯罪法) सड़क, पार्क और भीड़ वाली जगहों पर थूकने और पेशाब या शौच करने पर रोक लगाता है। इसके उल्लंघन पर थोड़े समय की हिरासत या छोटा जुर्माना हो सकता है।",
+   "do": [
+    "स्टेशन, पार्क आदि के शौचालय इस्तेमाल करें",
+    "थूक या बलगम टिशू में लपेटकर फेंकें"
+   ],
+   "dont": [
+    "सड़क या पार्क में थूकना",
+    "सड़क पर या आड़ में पेशाब-शौच करना"
+   ],
+   "keywords": [
+    "थूकना",
+    "खुले में पेशाब",
+    "शौचालय",
+    "लघु अपराध कानून",
+    "सड़क",
+    "पार्क",
+    "spitting"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "道でつばを吐いたり、用を足したりしない",
+    "summary": "軽犯罪法は、道や公園など人が集まる場所で、たんやつばを吐くことや大小便をすることを禁じており、拘留または科料の対象になります。"
+   }
+  },
+  {
+   "id": "daily-park-rules",
+   "category": "daily",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.yamato.lg.jp/gyosei/soshik/13/yokuarushitsumon_kaitoshu/12581.html",
+   "sources": [
+    {
+     "title": "公園で花火をしてもいいのですか。 | 大和市",
+     "url": "https://www.city.yamato.lg.jp/gyosei/soshik/13/yokuarushitsumon_kaitoshu/12581.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "आतिशबाज़ी से पहले उस पार्क के नियम देख लें",
+   "summary": "पार्क में आतिशबाज़ी कर सकते हैं या नहीं, यह नगरपालिका और पार्क पर निर्भर है। जहाँ अनुमति हो, वहाँ भी पानी तैयार रखने और कूड़ा साथ ले जाने जैसी शर्तें होती हैं, और कहीं-कहीं ऊपर जाने वाली या आवाज़ करने वाली आतिशबाज़ी मना है। लिंक एक शहर का उदाहरण है। उस पार्क की सूचना या नगरपालिका का पेज देखें।",
+   "do": [
+    "उस पार्क की सूचना या नगरपालिका का पेज देखें",
+    "पानी तैयार रखें और कूड़ा साथ ले जाएँ"
+   ],
+   "dont": [
+    "यह मान लेना कि हर पार्क के नियम एक जैसे हैं"
+   ],
+   "keywords": [
+    "पार्क",
+    "आतिशबाज़ी",
+    "फुलझड़ी",
+    "कूड़ा",
+    "नियम",
+    "fireworks"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "公園の花火は、その公園のルールを確かめる",
+    "summary": "公園で花火ができるかどうかは、自治体や公園によって違います。できる公園でも、水の用意やごみの持ち帰りなどの条件があり、打ち上げ花火や音の出る花火を禁じているところがあります。リンク先は一つの市の例です。その公園の案内や自治体のページで確かめます。"
+   }
+  },
+  {
+   "id": "daily-cough-etiquette",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "खाँसते या छींकते समय मुँह और नाक ढकें",
+   "summary": "खाँसते या छींकते समय मास्क, टिश्यू या रूमाल से मुँह और नाक ढकें। समय न हो तो आस्तीन या कोहनी के अंदरूनी हिस्से का उपयोग करें। आसपास का ध्यान रखे बिना खाँसना या छींकना ट्रेन में परेशान करने वाली बातों में भी गिना जाता है।",
+   "do": [
+    "मास्क, टिश्यू या रूमाल से मुँह और नाक ढकें",
+    "समय न हो तो आस्तीन या कोहनी के अंदरूनी हिस्से से ढकें"
+   ],
+   "dont": [
+    "आसपास के लोगों की तरफ़ सीधे खाँसना या छींकना"
+   ],
+   "keywords": [
+    "खाँसी",
+    "छींक",
+    "मास्क",
+    "ट्रेन",
+    "cough"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "せきやくしゃみは口と鼻を覆う",
+    "summary": "せきやくしゃみをするときは、マスク、ティッシュ、ハンカチなどで口と鼻を覆います。とっさのときは、袖やひじの内側を使います。周りに配慮しないせきやくしゃみは、電車内で迷惑に感じる行為としても挙げられています。"
+   }
+  },
+  {
+   "id": "daily-greeting",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/",
+   "sources": [
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "अभिवादन हल्के से सिर झुकाकर करें",
+   "summary": "किसी से मिलते समय या दुकान में आते-जाते हल्का-सा सिर हिलाना या झुकाना ही शिष्ट लगता है। झुकने के बारीक नियम याद करने की ज़रूरत नहीं है। पड़ोसियों से रोज़ अभिवादन करते रहने से परेशानी कम होती है।",
+   "do": [
+    "किसी से मिलने पर हल्के से सिर झुकाएँ",
+    "पड़ोसी मिलें तो अभिवादन करें"
+   ],
+   "dont": [
+    "झुकने का सही तरीका सोचकर अभिवादन ही छोड़ देना"
+   ],
+   "keywords": [
+    "अभिवादन",
+    "सिर झुकाना",
+    "पड़ोसी",
+    "शिष्टाचार",
+    "मैनर्स",
+    "greeting"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "あいさつは軽いおじぎから",
+    "summary": "人に会ったときや店に出入りするときは、軽くうなずいたり頭を下げたりするだけで丁寧に伝わります。おじぎの細かい決まりを覚える必要はありません。近所の人と日ごろからあいさつを交わしておくと、トラブルが起きにくくなります。"
+   }
+  },
+  {
+   "id": "daily-hospital",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "मामूली बीमारी या चोट में पास के क्लिनिक जाएँ",
+   "summary": "जापान में चिकित्सा संस्थानों की भूमिकाएँ अलग-अलग हैं, और मामूली बीमारी या चोट में पहले पास के क्लिनिक जाया जाता है। माइना हेल्थ इंश्योरेंस कार्ड (マイナ保険証) जैसा प्रमाण न दिखाने पर इलाज का पूरा खर्च खुद देना पड़ता है। जापानी न बोल पाने पर नगरपालिका, अंतरराष्ट्रीय आदान-प्रदान संघ या NPO से बात कर सकते हैं।",
+   "do": [
+    "हल्के लक्षण हों तो पास के क्लिनिक जाएँ",
+    "माइना हेल्थ इंश्योरेंस कार्ड जैसा प्रमाण साथ ले जाएँ",
+    "भाषा की चिंता हो तो नगरपालिका जैसी जगह से बात करें"
+   ],
+   "dont": [
+    "माइना हेल्थ इंश्योरेंस कार्ड जैसे प्रमाण के बिना इलाज के लिए जाना"
+   ],
+   "keywords": [
+    "अस्पताल",
+    "क्लिनिक",
+    "डॉक्टर",
+    "हेल्थ इंश्योरेंस कार्ड",
+    "दुभाषिया",
+    "hospital"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "軽い病気やけがは近くの診療所へ",
+    "summary": "日本の医療機関は役割が分かれていて、軽い病気やけがなら、まず身近な診療所に行きます。マイナ保険証などを提示しないと、医療費が全額自己負担になります。日本語が話せないときは、市区町村や国際交流協会、NPO に相談できます。"
+   }
+  },
+  {
+   "id": "daily-public-voice",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/",
+   "sources": [
+    {
+     "title": "Traveling Comfortably | Responsible Travel Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "भीड़ वाली जगह पर आवाज़ और जगह घेरने का ध्यान रखें",
+   "summary": "सड़क या स्टेशन के रास्तों जैसी भीड़ वाली जगहों पर ज़ोर से बोलना या बड़े समूह में रास्ता रोकना परेशान करने वाला माना जाता है। बात करना गलत नहीं है, धीमी आवाज़ में कोई समस्या नहीं।",
+   "do": [
+    "भीड़ वाली जगह पर आवाज़ धीमी रखें",
+    "रास्ते और दरवाज़े खाली रखें"
+   ],
+   "dont": [
+    "बड़े समूह में फैलकर रास्ता रोकना",
+    "दरवाज़े के सामने रुक जाना"
+   ],
+   "keywords": [
+    "ज़ोर से बोलना",
+    "आवाज़",
+    "रास्ता",
+    "दरवाज़ा",
+    "समूह",
+    "manners"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "人の多い場所では声と広がり方に気をつける",
+    "summary": "道や駅の通路など人の多い場所で大声で話したり、大勢で道をふさいだりすると、迷惑な行為と受け取られます。話すこと自体がいけないわけではなく、小さな声なら問題ありません。"
+   }
+  },
+  {
+   "id": "daily-toilet",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "sources": [
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "京都市：外国人観光客向けトイレの使い方啓発ステッカー",
+     "url": "https://www.city.kyoto.lg.jp/kankyo/page/0000193917.html"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "टॉयलेट पेपर फ़्लश करें",
+   "summary": "जापान के फ़्लश टॉयलेट में वहीं रखा कागज़ इस्तेमाल करें और इस्तेमाल के बाद उसे फ़्लश कर दें। कुछ देशों में इस्तेमाल किया कागज़ कूड़ेदान में डालने की आदत है, लेकिन यहाँ रखे कागज़ से टॉयलेट शायद ही कभी जाम होता है। जहाँ टॉयलेट के लिए अलग चप्पल हो, वहाँ उन्हें पहन लें।",
+   "do": [
+    "टॉयलेट में रखा कागज़ इस्तेमाल करके फ़्लश करें",
+    "टॉयलेट की अलग चप्पल हो तो पहन लें"
+   ],
+   "dont": [
+    "इस्तेमाल किया कागज़ कूड़ेदान में डालना"
+   ],
+   "keywords": [
+    "टॉयलेट",
+    "टॉयलेट पेपर",
+    "फ़्लश",
+    "चप्पल",
+    "कूड़ेदान",
+    "toilet"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "トイレットペーパーは流す",
+    "summary": "日本の水洗トイレでは、備え付けの紙を使い、使った紙はトイレに流します。使った紙をごみ箱に捨てる習慣の国もありますが、備え付けの紙なら詰まることはめったにありません。トイレ専用のスリッパがある場所では履き替えます。"
+   }
+  },
+  {
+   "id": "daily-umbrella",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "छाता ऐसे पकड़ें कि किसी को न लगे",
+   "summary": "बारिश के दिन गीला छाता लोगों से छू जाए या उसकी नोक पीछे वाले व्यक्ति की ओर हो, तो यह परेशानी और ख़तरे की बात है। बंद छाते को नोक नीचे करके शरीर के पास पकड़ें।",
+   "do": [
+    "बंद छाते को नोक नीचे करके शरीर के पास पकड़ें"
+   ],
+   "dont": [
+    "छाते को आड़ा पकड़कर चलना",
+    "गीले छाते को लोगों या सीटों से छूने देना"
+   ],
+   "keywords": [
+    "छाता",
+    "बारिश",
+    "गीला छाता",
+    "ट्रेन",
+    "स्टेशन",
+    "फ़ुटपाथ",
+    "umbrella"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "傘は人に当たらないように持つ",
+    "summary": "雨の日に、ぬれた傘が人に当たったり、傘の先を後ろの人に向けたりすると、迷惑で危険です。たたんだ傘は先を下に向けて、体の近くで持ちます。"
+   }
+  },
+  {
+   "id": "moving-in-notification",
+   "category": "moving",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html",
+   "sources": [
+    {
+     "title": "総務省｜外国人住民に係る住基台帳制度｜転入・転出",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html"
+    },
+    {
+     "title": "住民基本台帳法 第22条・第23条・第52条",
+     "url": "https://laws.e-gov.go.jp/law/342AC0000000081"
+    },
+    {
+     "title": "総務省 転入・転出（English）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/english/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（简体中文）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/chi_kan/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（Tiếng Việt）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/vietnamese/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（한국어）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/korean/move-in_move-out.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर बदलने के बाद नगरपालिका को सूचना दें",
+   "summary": "नए पते पर रहना शुरू करने के बाद, कानून में तय समय-सीमा के भीतर नगरपालिका में मूविंग-इन नोटिफ़िकेशन (転入届) जमा करें। उसी नगरपालिका के भीतर घर बदलने पर चेंज-ऑफ़-एड्रेस नोटिफ़िकेशन (転居届) जमा करें। बिना उचित कारण के सूचना न देने पर प्रशासनिक जुर्माना (過料) लगाया जा सकता है। समय-सीमा आधिकारिक पेज पर देखें।",
+   "do": [
+    "रेज़िडेंस कार्ड या स्पेशल परमानेंट रेज़िडेंट सर्टिफ़िकेट लेकर काउंटर पर जाएँ",
+    "समय-सीमा आधिकारिक पेज पर देखें और जल्दी प्रक्रिया पूरी करें"
+   ],
+   "dont": [
+    "सूचना दिए बिना वहाँ रहते रहना"
+   ],
+   "keywords": [
+    "मूविंग-इन नोटिफ़िकेशन",
+    "पता बदलना",
+    "रेज़िडेंट रिकॉर्ड",
+    "घर बदलना",
+    "सिटी हॉल",
+    "tennyu",
+    "address change",
+    "juminhyo"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越したら市区町村に届け出る",
+    "summary": "新しい住所に住み始めたら、法律で決められた期限内に市区町村へ転入届を出します。同じ市区町村の中で引っ越したときは転居届です。正当な理由なく届け出をしないと、過料の対象になります。期限は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "moving-out-notification",
+   "category": "moving",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html",
+   "sources": [
+    {
+     "title": "総務省｜外国人住民に係る住基台帳制度｜転入・転出",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/move-in_move-out.html"
+    },
+    {
+     "title": "入学・就職・転勤等による引越しで、住所を異動される方は、「正確な住所の届出」が必要です！",
+     "url": "https://www.soumu.go.jp/main_content/000731260.pdf"
+    },
+    {
+     "title": "住民基本台帳法 第24条",
+     "url": "https://laws.e-gov.go.jp/law/342AC0000000081"
+    },
+    {
+     "title": "総務省 転入・転出（English）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/english/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（简体中文）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/chi_kan/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（Tiếng Việt）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/vietnamese/move-in_move-out.html"
+    },
+    {
+     "title": "総務省 転入・転出（한국어）",
+     "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/korean/move-in_move-out.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर बदलने से पहले मूविंग-आउट नोटिफ़िकेशन जमा करें",
+   "summary": "दूसरी नगरपालिका में जाते समय, पहले ही अपनी मौजूदा नगरपालिका में मूविंग-आउट नोटिफ़िकेशन (転出届) जमा करें। जापान छोड़कर विदेश में रहने पर भी, सिद्धांत रूप में सूचना देना ज़रूरी है।",
+   "do": [
+    "घर बदलने से पहले नगरपालिका के काउंटर पर प्रक्रिया पूरी करें",
+    "माई नंबर कार्ड हो, तो आप माइनापोर्टल (マイナポータル) से ऑनलाइन जमा कर सकते हैं"
+   ],
+   "dont": [
+    "सूचना दिए बिना घर बदल लेना"
+   ],
+   "keywords": [
+    "मूविंग-आउट नोटिफ़िकेशन",
+    "घर बदलना",
+    "जापान छोड़ना",
+    "विदेश",
+    "माइनापोर्टल",
+    "tenshutsu",
+    "Mynaportal"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越す前に転出届を出す",
+    "summary": "別の市区町村へ引っ越すときは、前もって今の市区町村に転出届を出します。日本を出て海外で暮らす場合も、原則として届け出が必要です。"
+   }
+  },
+  {
+   "id": "moving-greeting",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.higashihiroshima.lg.jp/jpn/6/34887.html",
+   "sources": [
+    {
+     "title": "06_近くに暮らす人と、快適コミュニケーション!（外国人住民用日本語版ページ）",
+     "url": "https://www.city.higashihiroshima.lg.jp/jpn/6/34887.html"
+    },
+    {
+     "title": "Higashihiroshima City (English)",
+     "url": "https://www.city.higashihiroshima.lg.jp/en/6/33872.html"
+    },
+    {
+     "title": "东广岛市（简体中文）",
+     "url": "https://www.city.higashihiroshima.lg.jp/cn/6/33757.html"
+    },
+    {
+     "title": "Thành phố Higashihiroshima (Tiếng Việt)",
+     "url": "https://www.city.higashihiroshima.lg.jp/vi/6/34654.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर बदलने के बाद पड़ोसियों से मिलने जाने का रिवाज है",
+   "summary": "यह ज़रूरी नहीं है, लेकिन घर बदलने पर पड़ोस में जाकर अभिवादन करने का रिवाज है। अपार्टमेंट इमारत में दोनों बगल के घर, और अलग मकान में आसपास के कुछ घर, एक अंदाज़ा हैं। यह हिरोशिमा प्रीफ़ेक्चर के हिगाशिहिरोशिमा शहर की जानकारी का उदाहरण है।",
+   "do": [
+    "लंबी बातचीत न करें, छोटा-सा परिचय दें"
+   ],
+   "dont": [],
+   "keywords": [
+    "अभिवादन",
+    "घर बदलना",
+    "पड़ोसी",
+    "परिचय",
+    "greeting",
+    "neighbors"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "引っ越したら近所にあいさつする習慣がある",
+    "summary": "義務ではありませんが、引っ越したときに近所へあいさつに行く習慣があります。集合住宅なら両隣、一戸建てなら周りの数軒が目安です。これは広島県東広島市の案内の例です。"
+   }
+  },
+  {
+   "id": "moving-leave-clean",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर छोड़ते समय कमरे में कुछ भी न छोड़ें",
+   "summary": "कमरा छोड़ते समय न सामान छोड़ें, न कचरा। यह भूमि, बुनियादी ढांचा, परिवहन और पर्यटन मंत्रालय की घर खोजने की गाइडबुक की चेकशीट में दिया गया एक वादा है।",
+   "do": [
+    "निकलने से पहले सारा सामान और कचरा हटा दें"
+   ],
+   "dont": [
+    "बेकार चीज़ें या कचरा कमरे में छोड़ जाना"
+   ],
+   "keywords": [
+    "घर खाली करना",
+    "घर बदलना",
+    "सफ़ाई",
+    "कचरा",
+    "move out",
+    "moving"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "退去するときは部屋に何も残さない",
+    "summary": "部屋を出るときは、物もごみも残しません。国土交通省の部屋探しガイドブックのチェックシートにある約束です。"
+   }
+  },
+  {
+   "id": "moving-utilities",
+   "category": "moving",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000017.html",
+   "sources": [
+    {
+     "title": "部屋探しのガイドブック",
+     "url": "https://www.mlit.go.jp/common/001317843.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बिजली, गैस और पानी की प्रक्रिया खुद करें",
+   "summary": "घर बदलने से पहले, बिजली कंपनी, गैस कंपनी और नगरपालिका के पानी विभाग को घर बदलने की सूचना दें। नए घर में गैस शुरू करते समय, गैस चालू करने के दौरान आपका खुद मौजूद होना ज़रूरी है।",
+   "do": [
+    "घर बदलना तय होते ही, हर एक को जल्दी सूचना दें",
+    "गैस कंपनी को सूचना दें और गैस चालू करते समय मौजूद रहें"
+   ],
+   "dont": [
+    "सूचना दिए बिना घर छोड़ देना"
+   ],
+   "keywords": [
+    "बिजली",
+    "गैस",
+    "पानी",
+    "घर बदलना",
+    "utilities",
+    "electricity",
+    "gas",
+    "water"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電気・ガス・水道の手続きは自分でする",
+    "summary": "引っ越しの前に、電力会社、ガス会社、市区町村の水道担当へ移転の連絡をします。新しい家でガスを使い始めるときは、開栓に本人の立ち会いが必要です。"
+   }
+  },
+  {
+   "id": "transit-escalator",
+   "category": "transit",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.pref.saitama.lg.jp/a0310/escalator.html",
+   "sources": [
+    {
+     "title": "埼玉県エスカレーターの安全な利用の促進に関する条例",
+     "url": "https://www.pref.saitama.lg.jp/a0310/escalator.html"
+    },
+    {
+     "title": "名古屋市エスカレーターの安全な利用の促進に関する条例",
+     "url": "https://www.city.nagoya.jp/bousai/anzen/1034530/1015520/1015522.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "एस्केलेटर पर रुककर खड़े रहें",
+   "summary": "कुछ नगरपालिकाओं के नियमों में है कि एस्केलेटर पर, बाईं हो या दाईं तरफ़, रुककर खड़े रहना है। लिंक एक प्रांत का उदाहरण है। स्टेशन और इमारत की सूचनाओं का पालन करें।",
+   "do": [
+    "सीढ़ी पर रुककर खड़े रहें",
+    "स्टेशन और इमारत की सूचनाओं का पालन करें"
+   ],
+   "dont": [
+    "एस्केलेटर पर चलना या दौड़ना"
+   ],
+   "keywords": [
+    "एस्केलेटर",
+    "चलना",
+    "स्टेशन",
+    "नियम",
+    "escalator"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "エスカレーターでは立ち止まって乗る",
+    "summary": "エスカレーターでは、左右どちらの側でも立ち止まって利用するよう、条例で定めている自治体があります。リンク先は一つの県の例です。駅や施設の案内に従います。"
+   }
+  },
+  {
+   "id": "transit-women-only-car",
+   "category": "transit",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/women/index.html",
+   "sources": [
+    {
+     "title": "女性専用車 | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/women/index.html"
+    },
+    {
+     "title": "鉄道：鉄道係員に対する暴力行為・カスタマーハラスメント等について - 国土交通省",
+     "url": "https://www.mlit.go.jp/tetudo/tetudo_tk2_000077.html"
+    },
+    {
+     "title": "女性専用車両 | 鉄道用語事典 | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/knowledge/term/16394.html"
+    },
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "महिला कोच के संकेत देख लें",
+   "summary": "कुछ रेलवे कंपनियों में महिला कोच होते हैं। समय और लाइन कंपनी के अनुसार अलग होते हैं, और ट्रेन सेवा की स्थिति के अनुसार कभी-कभी यह व्यवस्था लागू नहीं होती। उदाहरण के लिए, टोक्यो मेट्रो में प्राइमरी स्कूल तक के बच्चे, शारीरिक रूप से दिव्यांग लोग और उनकी देखभाल करने वाले भी इसमें चढ़ सकते हैं।",
+   "do": [
+    "प्लेटफ़ॉर्म या कोच के संकेतों से समय और चढ़ने की जगह देखें",
+    "पता न चले, तो स्टेशन स्टाफ़ से पूछें"
+   ],
+   "dont": [],
+   "keywords": [
+    "महिला कोच",
+    "लेडीज़ कोच",
+    "ट्रेन",
+    "कोच",
+    "रश आवर",
+    "मेट्रो",
+    "women-only car",
+    "train"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "女性専用車の表示を確認する",
+    "summary": "女性専用車を設けている鉄道会社があります。時間帯や路線は会社によって異なり、運行状況によって実施しないこともあります。例えば東京メトロでは、小学生以下の子ども、体の不自由な方とその介護者も乗車できます。"
+   }
+  },
+  {
+   "id": "transit-backpack",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/",
+   "sources": [
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    },
+    {
+     "title": "西武鉄道からのお願い ：西武鉄道Webサイト",
+     "url": "https://www.seiburailway.jp/safety/cooperationrequest/"
+    },
+    {
+     "title": "マナーポスター（迷惑図絵） ：西武鉄道Webサイト",
+     "url": "https://www.seiburailway.jp/safety/cooperationrequest/mannerposter/"
+    },
+    {
+     "title": "Tokyo Metro | Introducing good manners when using subways",
+     "url": "https://www.tokyometro.jp/en/tips/mannervideo/index.html"
+    },
+    {
+     "title": "2023年度 駅と電車内の迷惑行為ランキング | マナーアンケート | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2023.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "भीड़ वाली ट्रेन में बैकपैक पीठ पर न रखें",
+   "summary": "भीड़ वाली ट्रेन में कहा जाता है कि बैकपैक जैसा सामान सामने की ओर पकड़ें, हाथ में रखें या ऊपर के रैक पर रखें।",
+   "do": [
+    "बैकपैक सामने की ओर पकड़ें या हाथ में रखें",
+    "ऊपर का रैक इस्तेमाल हो सके, तो उस पर रखें"
+   ],
+   "dont": [
+    "भीड़ वाली ट्रेन में बैकपैक पीठ पर ही रखे रहना"
+   ],
+   "keywords": [
+    "बैकपैक",
+    "बैग",
+    "सामान",
+    "ऊपर का रैक",
+    "ट्रेन",
+    "backpack",
+    "train"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混んだ車内ではリュックを背負わない",
+    "summary": "混雑した車内では、リュックなどの荷物は前に抱える、手に持つ、網棚に置くよう案内されています。"
+   }
+  },
+  {
+   "id": "transit-bus-boarding",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/",
+   "sources": [
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बस का किराया देने का तरीका रूट के हिसाब से बदलता है",
+   "summary": "जिन बसों का किराया दूरी से तय होता है, उनमें चढ़ते समय नंबर वाला टिकट लें और उतरते समय बोर्ड पर नंबर देखकर किराया दें। जिन बसों का किराया एक जैसा है, उनमें चढ़ते समय किराया दें। कुछ बसों में IC कार्ड नहीं चलता और कुछ मशीनें छुट्टे नहीं लौटातीं।",
+   "do": [
+    "नंबर वाला टिकट हो तो चढ़ते समय लें",
+    "देखें कि IC कार्ड चलता है या नहीं और सिक्के तैयार रखें"
+   ],
+   "dont": [
+    "नंबर वाला टिकट लिए बिना चढ़ना"
+   ],
+   "keywords": [
+    "बस",
+    "नंबर वाला टिकट",
+    "किराया",
+    "IC कार्ड",
+    "सिक्के",
+    "bus"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "バスの運賃の払い方は路線で違う",
+    "summary": "距離で運賃が変わるバスでは、乗るときに番号の書かれた整理券を受け取り、降りるときにボードで番号を確かめて運賃を払います。どこまで乗っても同じ運賃のバスでは、乗るときに払います。IC カードが使えないバスや、おつりが出ない機械もあります。"
+   }
+  },
+  {
+   "id": "transit-earphone-sound",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/",
+   "sources": [
+    {
+     "title": "Traveling Comfortably | Responsible Travel Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "ईयरफ़ोन की आवाज़ बाहर न जाने दें",
+   "summary": "ट्रेन और बस में तेज़ आवाज़ में संगीत सुनना दूसरों को परेशान करता है। ईयरफ़ोन से आवाज़ बाहर न जाने दें और फ़ोन के स्पीकर पर आवाज़ न चलाएँ।",
+   "do": [
+    "आवाज़ कम रखें और देखें कि बाहर तो नहीं जा रही"
+   ],
+   "dont": [
+    "फ़ोन के स्पीकर पर आवाज़ चलाना"
+   ],
+   "keywords": [
+    "ईयरफ़ोन",
+    "हेडफ़ोन",
+    "संगीत",
+    "ट्रेन",
+    "बस",
+    "earphones"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "イヤホンの音漏れに気をつける",
+    "summary": "電車やバスの中で大きな音で音楽を聞くと迷惑になります。イヤホンから音が漏れないようにし、スマートフォンの音を外に出して再生しないようにします。"
+   }
+  },
+  {
+   "id": "transit-eating-drinking",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "भीड़ वाली ट्रेन में खाने-पीने से बचें",
+   "summary": "एक रेलवे संघ के सर्वे में भीड़ वाली ट्रेन में खाना-पीना परेशान करने वाली बातों में गिना गया है। यह नियम नहीं है, लेकिन भीड़ हो तो इससे बचें।",
+   "do": [
+    "भीड़ हो तो उतरने के बाद खाएँ-पिएँ"
+   ],
+   "dont": [
+    "भीड़ वाले डिब्बे में खाना या पीना"
+   ],
+   "keywords": [
+    "खाना-पीना",
+    "ट्रेन",
+    "भीड़",
+    "food"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混んだ車内では飲食を控える",
+    "summary": "鉄道会社の団体が行ったアンケートでは、混雑した車内での飲食が迷惑な行為の一つに挙げられています。決まりではありませんが、混んでいるときは控えます。"
+   }
+  },
+  {
+   "id": "transit-loud-talk",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "ट्रेन और बस में ज़ोर से बात न करें",
+   "summary": "ट्रेन और बस में ज़ोर से बात करना या शोर मचाना दूसरों को परेशान करता है। बात करते समय धीमी आवाज़ रखें ताकि आसपास के लोगों को परेशानी न हो।",
+   "do": [
+    "धीमी आवाज़ में बात करें"
+   ],
+   "dont": [
+    "ज़ोर से बात करना या हँसना",
+    "डिब्बे में शोर मचाना या खेलना"
+   ],
+   "keywords": [
+    "ज़ोर से",
+    "बातचीत",
+    "आवाज़",
+    "शोर",
+    "ट्रेन",
+    "बस",
+    "loud"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "車内では大きな声で話さない",
+    "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
+   }
+  },
+  {
+   "id": "transit-phone-calls",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "車内での携帯電話の利用マナーについては、どのような呼びかけを行っていますか。",
+     "url": "https://jreastfaq.jreast.co.jp/faq/show/1090?category_id=39&site_domain=default"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "How to travel by train and bus in Japan | Guide | Travel Japan - Japan National Tourism Organization (Official Site)",
+     "url": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "ट्रेन और बस में फ़ोन पर बात न करें",
+   "summary": "ट्रेन या बस के अंदर स्मार्टफ़ोन को साइलेंट मोड पर रखने और फ़ोन पर बात न करने के लिए कहा जाता है। कुछ रेलवे कंपनियाँ भीड़ के समय प्रायोरिटी सीट के पास फ़ोन बंद करने को कहती हैं।",
+   "do": [
+    "फ़ोन को साइलेंट मोड पर रखें",
+    "प्रायोरिटी सीट के पास ट्रेन या बस के अंदर के निर्देश मानें"
+   ],
+   "dont": [
+    "ट्रेन या बस के अंदर फ़ोन पर बात करना"
+   ],
+   "keywords": [
+    "ट्रेन",
+    "मेट्रो",
+    "बस",
+    "फ़ोन कॉल",
+    "मोबाइल",
+    "साइलेंट मोड",
+    "train",
+    "phone call"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電車やバスの中では通話しない",
+    "summary": "車内ではスマートフォンをマナーモードにし、通話は控えるよう案内されています。優先席の近くでは、混雑時に電源を切るよう求める鉄道会社もあります。"
+   }
+  },
+  {
+   "id": "transit-platform-line",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf",
+   "sources": [
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "प्लेटफ़ॉर्म पर पीली लाइन के अंदर चलें",
+   "summary": "प्लेटफ़ॉर्म के किनारे पर ट्रेन से टकराने या पटरी पर गिरने का ख़तरा है। दृष्टिबाधित लोगों के लिए बनी पीली टैक्टाइल पट्टी के अंदर की ओर चलें और वहीं ट्रेन का इंतज़ार करें।",
+   "do": [
+    "पीली लाइन के अंदर चलें और इंतज़ार करें"
+   ],
+   "dont": [
+    "प्लेटफ़ॉर्म के किनारे-किनारे चलना",
+    "प्लेटफ़ॉर्म के दरवाज़ों से टिकना"
+   ],
+   "keywords": [
+    "प्लेटफ़ॉर्म",
+    "पीली लाइन",
+    "टैक्टाइल पट्टी",
+    "गिरना",
+    "स्टेशन",
+    "सुरक्षा",
+    "yellow line"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ホームでは黄色い線の内側を歩く",
+    "summary": "駅のホームの端は、電車と接触したり線路に落ちたりするおそれがあります。目の不自由な人のための黄色い点字ブロックより内側を歩き、内側で電車を待ちます。"
+   }
+  },
+  {
+   "id": "transit-priority-seats",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "Tokyo Metro | Introducing good manners when using subways",
+     "url": "https://www.tokyometro.jp/en/tips/mannervideo/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "Traveling Comfortably: How to Get Around Japan Like a Pro",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "जिन्हें सीट की ज़रूरत हो, उन्हें सीट दें",
+   "summary": "बुज़ुर्गों, शारीरिक रूप से दिव्यांग लोगों, अंदरूनी अंगों की दिव्यांगता वाले लोगों, छोटे बच्चों या शिशुओं के साथ चल रहे लोगों और गर्भवती महिलाओं को सीट दें। देखने से हमेशा पता नहीं चलता। यह सिर्फ़ प्रायोरिटी सीट तक सीमित नहीं है।",
+   "do": [
+    "जिसे सीट की ज़रूरत लगे, उससे बात करके सीट दें",
+    "हेल्प मार्क (ヘルプマーク) लगाए लोगों का ध्यान रखें"
+   ],
+   "dont": [
+    "सिर्फ़ देखकर मान लेना कि उसे ज़रूरत नहीं है"
+   ],
+   "keywords": [
+    "प्रायोरिटी सीट",
+    "सीट",
+    "सीट देना",
+    "हेल्प मार्क",
+    "ट्रेन",
+    "बस",
+    "priority seat",
+    "Help Mark"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "席を必要としている人に譲る",
+    "summary": "高齢の方、体の不自由な方、内部障害のある方、乳幼児を連れた方、妊娠している方に席を譲りましょう。見た目では分からない場合もあります。優先席に限りません。"
+   }
+  },
+  {
+   "id": "transit-queue",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf",
+   "sources": [
+    {
+     "title": "楽しく乗ろう！交通マナーブック",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "Understanding and Mastering Japanese Manners and Etiquette | Guide | Travel Japan",
+     "url": "https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/"
+    },
+    {
+     "title": "Traveling Comfortably: How to Get Around Japan Like a Pro",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/traveling-comfortably/"
+    },
+    {
+     "title": "2023年度 駅と電車内の迷惑行為ランキング | マナーアンケート | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2023.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "उतरने वालों का इंतज़ार करें, फिर लाइन के क्रम से चढ़ें",
+   "summary": "ट्रेन में चढ़ते समय पहले उतरने वाले उतरते हैं। प्लेटफ़ॉर्म पर लाइन में खड़े होकर इंतज़ार करें, और लाइन के क्रम से चढ़ें।",
+   "do": [
+    "दरवाज़े के बगल में लाइन लगाकर इंतज़ार करें",
+    "उतरने वालों के उतर जाने के बाद चढ़ें"
+   ],
+   "dont": [
+    "लाइन तोड़कर आगे घुसना",
+    "उतरने वालों से पहले चढ़ने की कोशिश करना"
+   ],
+   "keywords": [
+    "ट्रेन",
+    "मेट्रो",
+    "लाइन",
+    "चढ़ना",
+    "प्लेटफ़ॉर्म",
+    "train",
+    "queue",
+    "platform"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "降りる人を待ってから、並んだ順に乗る",
+    "summary": "電車に乗るときは、降りる人が先です。ホームでは列に並んで待ち、並んだ順番を守って乗ります。"
+   }
+  },
+  {
+   "id": "transit-rushing-doors",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "बंद होते दरवाज़े में दौड़कर न चढ़ें",
+   "summary": "बंद होते दरवाज़े से दौड़कर ट्रेन में चढ़ना ख़तरनाक है: आप दरवाज़े में फँस सकते हैं या प्लेटफ़ॉर्म पर लोगों से टकरा सकते हैं। स्टेशन समय रहते पहुँचें, और ट्रेन छूट जाए तो अगली ट्रेन का इंतज़ार करें।",
+   "do": [
+    "समय रहते चढ़ें",
+    "दरवाज़े बंद होने लगें तो अगली ट्रेन का इंतज़ार करें"
+   ],
+   "dont": [
+    "बंद होते दरवाज़े में दौड़कर चढ़ना"
+   ],
+   "keywords": [
+    "दौड़कर चढ़ना",
+    "दरवाज़ा",
+    "ट्रेन",
+    "प्लेटफ़ॉर्म",
+    "ख़तरा",
+    "rushing"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "駆け込み乗車をしない",
+    "summary": "閉まりかけたドアに走って乗り込むと、ドアに挟まれたり、ホームで人とぶつかったりして危険です。時間に余裕を持って駅に向かい、間に合わなければ次の電車を待ちます。"
+   }
+  },
+  {
+   "id": "transit-seat-space",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mintetsu.or.jp/activity/enquete/2025.html",
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "सीट पर लेटें नहीं, सिर्फ़ एक सीट लें",
+   "summary": "सीट पर लेटने या पैर फैलाकर बैठने से दूसरे लोग बैठ नहीं पाते और उन्हें परेशानी होती है। सटकर बैठें और सामान गोद में या सामान रखने की रैक पर रखें।",
+   "do": [
+    "सटकर बैठें",
+    "सामान गोद में या रैक पर रखें"
+   ],
+   "dont": [
+    "सीट पर लेटना",
+    "पैर फैलाकर या चौड़े करके बैठना",
+    "सीट पर सामान रखना",
+    "दरवाज़े के पास या रास्ते में फ़र्श पर बैठ जाना"
+   ],
+   "keywords": [
+    "सीट",
+    "सोना",
+    "लेटना",
+    "पैर",
+    "सामान",
+    "ट्रेन",
+    "बस",
+    "seat"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "座席に寝そべらず、一人分に座る",
+    "summary": "座席に横になったり、足を伸ばしたり広げたりすると、ほかの人が座れず迷惑になります。座席は詰めて座り、荷物はひざの上や網棚に置きます。"
+   }
+  },
+  {
+   "id": "transit-taxi-door",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/content/001893740.pdf",
+   "sources": [
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "टैक्सी का दरवाज़ा खुद न खोलें-बंद करें",
+   "summary": "टैक्सी का पीछे का बायाँ दरवाज़ा अपने आप खुलता और बंद होता है, और पीछे का दायाँ दरवाज़ा आम तौर पर खोला-बंद नहीं किया जाता। टिप देने की भी ज़रूरत नहीं है।",
+   "do": [
+    "दरवाज़ा खुलने का इंतज़ार करें",
+    "बाएँ दरवाज़े से चढ़ें और उतरें"
+   ],
+   "dont": [
+    "बायाँ दरवाज़ा हाथ से खोलना या बंद करना",
+    "दाएँ दरवाज़े से चढ़ना या उतरना"
+   ],
+   "keywords": [
+    "टैक्सी",
+    "दरवाज़ा",
+    "टिप",
+    "taxi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "タクシーのドアは自分で開け閉めしない",
+    "summary": "タクシーの後部左側のドアは自動で開閉し、後部右側のドアは原則として開け閉めしません。チップを渡す必要もありません。"
+   }
+  },
+  {
+   "id": "transit-walking-phone",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.tokyometro.jp/safety/attention/index.html",
+   "sources": [
+    {
+     "title": "東京メトロからのお願い | 安心への取組み | 東京メトロ",
+     "url": "https://www.tokyometro.jp/safety/attention/index.html"
+    },
+    {
+     "title": "楽しく乗ろう！交通マナーブック | 東京都交通局",
+     "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/manner.pdf"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "स्टेशन में चलते हुए फ़ोन इस्तेमाल न करें",
+   "summary": "प्लेटफ़ॉर्म और स्टेशन के रास्तों पर स्मार्टफ़ोन या गेम चलाते हुए चलने से आप लोगों से टकरा सकते हैं या प्लेटफ़ॉर्म से गिर सकते हैं। इस्तेमाल करना हो तो किनारे रुककर करें, जहाँ रास्ता न रुके।",
+   "do": [
+    "किनारे रुककर इस्तेमाल करें, जहाँ रास्ता न रुके"
+   ],
+   "dont": [
+    "प्लेटफ़ॉर्म या सीढ़ियों पर स्क्रीन देखते हुए चलना"
+   ],
+   "keywords": [
+    "चलते हुए फ़ोन",
+    "स्मार्टफ़ोन",
+    "गेम",
+    "स्टेशन",
+    "प्लेटफ़ॉर्म",
+    "smartphone"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "駅では歩きながらスマホを使わない",
+    "summary": "駅のホームや通路で、スマートフォンやゲーム機を使いながら歩くと、人とぶつかったり、ホームから落ちたりするおそれがあります。使うときは、通行のじゃまにならない場所で立ち止まります。"
+   }
+  },
+  {
+   "id": "bicycle-drunk-riding",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/insyu/info.html",
+   "sources": [
+    {
+     "title": "みんなで守る「飲酒運転を絶対にしない、させない」｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/insyu/info.html"
+    },
+    {
+     "title": "自転車の交通反則通告制度（青切符）の導入 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html"
+    },
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "道路交通法 第65条・第117条の2の2",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    },
+    {
+     "title": "Tokyo Metropolitan Police: Traffic rules (English)",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/traffic_safety/traffic_rules/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "शराब पीकर साइकिल न चलाएँ",
+   "summary": "रोड ट्रैफ़िक कानून (道路交通法) कहता है कि \"कोई भी व्यक्ति शराब के असर में वाहन नहीं चलाएगा\", और इसमें साइकिल भी शामिल है। सिर्फ़ चलाने वाले को ही नहीं, बल्कि साइकिल या शराब देने वाले और साथ बैठने वाले को भी दंड हो सकता है।",
+   "do": [
+    "शराब पीने के बाद सार्वजनिक परिवहन से या पैदल घर जाएँ"
+   ],
+   "dont": [
+    "थोड़ी-सी ही पी है, यह सोचकर साइकिल चलाना",
+    "जो आगे साइकिल चलाने वाला है, उसे शराब देना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "शराब",
+    "नशे में साइकिल",
+    "ड्रिंक एंड ड्राइव",
+    "bicycle",
+    "drunk",
+    "alcohol"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "お酒を飲んだら自転車に乗らない",
+    "summary": "道路交通法は「何人も、酒気を帯びて車両等を運転してはならない」と定めており、自転車も含まれます。運転した人だけでなく、自転車やお酒を提供した人、同乗した人も処罰の対象になります。"
+   }
+  },
+  {
+   "id": "bicycle-left-side",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html",
+   "sources": [
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "自転車は車のなかま～自転車はルールを守って安全運転～｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/info.html"
+    },
+    {
+     "title": "自転車に係る主な交通ルール（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/img/3-13.pdf"
+    },
+    {
+     "title": "道路交通法 第17条・第18条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "साइकिल सड़क के बाईं ओर चलाएँ",
+   "summary": "सामान्य नियम यह है कि साइकिल मुख्य सड़क (車道) पर चलती है, और बाईं ओर चलती है। फ़ुटपाथ अपवाद है, और वहाँ पैदल चलने वालों को प्राथमिकता है। फ़ुटपाथ पर तब चला सकते हैं, जब साइन बोर्ड इसकी अनुमति दे, जब चलाने वाला 13 साल से कम या 70 साल या उससे ज़्यादा उम्र का हो, जब शारीरिक दिव्यांगता के कारण मुख्य सड़क पर चलाने में दिक्कत हो, या जब सुरक्षा के लिए कोई और रास्ता न हो, आदि।",
+   "do": [
+    "मुख्य सड़क के बिल्कुल बाएँ किनारे पर चलाएँ",
+    "जब फ़ुटपाथ पर चला सकते हों, तब मुख्य सड़क की तरफ़ वाले हिस्से में धीरे चलाएँ"
+   ],
+   "dont": [
+    "मुख्य सड़क की दाईं ओर चलाना",
+    "फ़ुटपाथ पर पैदल चलने वालों के रास्ते में बाधा डालना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "सड़क",
+    "बाईं ओर",
+    "फ़ुटपाथ",
+    "उल्टी दिशा",
+    "bicycle",
+    "cycling",
+    "sidewalk"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は車道の左側を走る",
+    "summary": "自転車は車道を通行するのが原則で、左側を走ります。歩道は例外で、歩行者が優先です。歩道を通れるのは、標識で認められているとき、13歳未満や70歳以上の人、車道の通行に支障がある身体の障害がある人、安全のためやむを得ないときなどです。"
+   }
+  },
+  {
+   "id": "bicycle-phone-use",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/keitai/info.html",
+   "sources": [
+    {
+     "title": "やめよう！運転中のスマートフォン・携帯電話等使用｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/keitai/info.html"
+    },
+    {
+     "title": "自転車の交通反則通告制度（青切符）の導入 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html"
+    },
+    {
+     "title": "自転車の新しい制度｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/system.html"
+    },
+    {
+     "title": "自転車をはじめとする軽車両の反則行為と反則金の額（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/jitensyahansokukoui.pdf"
+    },
+    {
+     "title": "道路交通法 第71条・第118条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    },
+    {
+     "title": "Tokyo Metropolitan Police: Traffic rules (English)",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/traffic_safety/traffic_rules/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "साइकिल चलाते समय स्मार्टफ़ोन इस्तेमाल न करें",
+   "summary": "साइकिल चलाते समय हाथ में फ़ोन लेकर बात करना या स्क्रीन को ध्यान से देखना रोड ट्रैफ़िक कानून (道路交通法) में मना है, और इसके लिए दंड और उल्लंघन शुल्क (反則金) की व्यवस्था है। रुके हुए समय फ़ोन चलाना इसमें नहीं आता। ज़्यादा जानकारी के लिए आधिकारिक पेज देखें।",
+   "do": [
+    "फ़ोन चलाना हो, तो किसी सुरक्षित जगह रुकें"
+   ],
+   "dont": [
+    "हाथ में फ़ोन लेकर बात करते हुए साइकिल चलाना",
+    "साइकिल चलाते हुए स्क्रीन देखना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "स्मार्टफ़ोन",
+    "फ़ोन",
+    "मोबाइल",
+    "ब्लू टिकट",
+    "bicycle",
+    "smartphone",
+    "blue ticket"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車に乗りながらスマホを使わない",
+    "summary": "自転車に乗りながら、手に持って通話したり画面を注視したりすることは、道路交通法で禁止されており、罰則と反則金の制度があります。止まっているときの操作は対象外です。詳しくは公式ページを確認してください。"
+   }
+  },
+  {
+   "id": "bicycle-registration",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/guard/bicycle.html",
+   "sources": [
+    {
+     "title": "自転車防犯登録 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/guard/bicycle.html"
+    },
+    {
+     "title": "Q5 自転車防犯登録はしないといけないのですか？／大阪府警本部",
+     "url": "https://www.police.pref.osaka.lg.jp/sodan/faq/hanzaihigai/boshi/3124.html"
+    },
+    {
+     "title": "自転車防犯登録制度｜埼玉県三芳町",
+     "url": "https://www.town.saitama-miyoshi.lg.jp/bousai/koutsu/2023-0306-1146-24.html"
+    },
+    {
+     "title": "自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律 第12条",
+     "url": "https://laws.e-gov.go.jp/law/355AC1000000087"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "साइकिल का क्राइम-प्रिवेंशन रजिस्ट्रेशन कराएँ",
+   "summary": "साइकिल इस्तेमाल करने वालों के लिए क्राइम-प्रिवेंशन रजिस्ट्रेशन (防犯登録) कराना कानून से तय है। यह नई साइकिल के साथ-साथ पुरानी या किसी से मिली साइकिल पर भी लागू होता है। रजिस्ट्रेशन की जगह इलाके के अनुसार अलग होती है। उदाहरण के लिए, टोक्यो में यह अधिकृत साइकिल दुकानों पर होता है।",
+   "do": [
+    "साइकिल खरीदते समय दुकान पर रजिस्ट्रेशन कराएँ",
+    "किसी से मिली साइकिल के लिए अपने इलाके की प्रक्रिया देखकर रजिस्ट्रेशन कराएँ"
+   ],
+   "dont": [
+    "रजिस्ट्रेशन कराए बिना इस्तेमाल करते रहना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "रजिस्ट्रेशन",
+    "चोरी",
+    "पुरानी साइकिल",
+    "bicycle",
+    "registration",
+    "bohan toroku"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は防犯登録をする",
+    "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
+   }
+  },
+  {
+   "id": "bicycle-parking",
+   "category": "bicycle",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.shinjuku.lg.jp/seikatsu/kotsu02_000001_00016.html",
+   "sources": [
+    {
+     "title": "新宿区の放置自転車対策について",
+     "url": "https://www.city.shinjuku.lg.jp/seikatsu/kotsu02_000001_00016.html"
+    },
+    {
+     "title": "放置自転車等の撤去",
+     "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/hochijitensya/"
+    },
+    {
+     "title": "自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律 第6条",
+     "url": "https://laws.e-gov.go.jp/law/355AC1000000087"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "साइकिल तय जगह पर ही खड़ी करें",
+   "summary": "कुछ स्थानीय निकाय यूँ ही छोड़ी गई साइकिलें हटा देते हैं। उदाहरण के लिए, टोक्यो के शिंजुकु वार्ड में, साइकिल छोड़ने पर रोक वाले इलाके की साइकिल तुरंत हटाई जा सकती है, और वापस लेने के लिए शुल्क देना पड़ता है। उस इलाके के बाहर भी, साइकिल यूँ ही छोड़ना ठीक नहीं है।",
+   "do": [
+    "साइकिल पार्किंग जैसी तय जगह पर खड़ी करें",
+    "साइकिल हटा दी जाए, तो स्थानीय निकाय की जानकारी में रखे जाने की जगह और वापस लेने का तरीका देखें"
+   ],
+   "dont": [
+    "स्टेशन के सामने या फ़ुटपाथ पर यूँ ही छोड़ना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "साइकिल पार्किंग",
+    "पार्किंग",
+    "छोड़ी गई साइकिल",
+    "साइकिल हटाना",
+    "bicycle",
+    "parking"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車は決められた場所に止める",
+    "summary": "放置自転車を撤去する自治体があります。例えば東京都新宿区では、放置禁止区域の自転車は即時撤去の対象で、返還には手数料がかかります。区域の外でも、放置してよいわけではありません。"
+   }
+  },
+  {
+   "id": "dining-chopsticks",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.kanoya.lg.jp/documents/6094/20250119chiebukuro1.pdf",
+   "sources": [
+    {
+     "title": "かのやの 食べて育む 知恵袋（鹿屋市）",
+     "url": "https://www.city.kanoya.lg.jp/documents/6094/20250119chiebukuro1.pdf"
+    },
+    {
+     "title": "食事マナーを守りましょう！（大阪市）",
+     "url": "https://www.city.osaka.lg.jp/kenko/page/0000295445.html"
+    },
+    {
+     "title": "箸の正しい使い方（作法）について教えてください。：農林水産省",
+     "url": "https://www.maff.go.jp/j/heya/sodan/1911/01.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "चॉपस्टिक चावल में खड़ी न करें, और चॉपस्टिक से चॉपस्टिक में खाना न दें",
+   "summary": "चावल में चॉपस्टिक गाड़कर खड़ी करना (立て箸, तातेबाशी) और चॉपस्टिक से चॉपस्टिक में खाना देना (箸渡し, हाशिवाताशी) अंतिम संस्कार की रस्मों जैसे काम हैं, इसलिए इनसे बचा जाता है।",
+   "do": [
+    "खाना बाँटते समय उसे छोटी प्लेट में रखकर दें"
+   ],
+   "dont": [
+    "चावल में चॉपस्टिक खड़ी करना",
+    "चॉपस्टिक से चॉपस्टिक में खाना देना"
+   ],
+   "keywords": [
+    "चॉपस्टिक",
+    "तातेबाशी",
+    "हाशिवाताशी",
+    "खाना",
+    "मैनर्स",
+    "chopsticks"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "箸を立てない・箸から箸へ渡さない",
+    "summary": "ご飯に箸を突き刺して立てる「立て箸」と、箸と箸で料理を受け渡す「箸渡し」は、葬儀の作法と同じ動作なので避けられています。"
+   }
+  },
+  {
+   "id": "dining-food-waste",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/guide/info/ecojin_backnumber/issues/19-01/19-01d/knowledge.html",
+   "sources": [
+    {
+     "title": "3010運動って？ | 環境省 エコジン",
+     "url": "https://www.env.go.jp/guide/info/ecojin_backnumber/issues/19-01/19-01d/knowledge.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "दावत में उतना ही मँगाएँ जितना खा सकें",
+   "summary": "जापान का पर्यावरण मंत्रालय दावतों में बचा खाना कम करने के लिए '3010 अभियान' जैसे प्रयासों की जानकारी देता है। यह नियम नहीं, एक अपील है, और नाम और तरीका क्षेत्र के हिसाब से बदलता है। सही मात्रा में मँगाएँ और 'मोत्ताइनाई', यानी बर्बादी न करने की भावना रखें।",
+   "do": [
+    "उतना ही मँगाएँ जितना खा सकें"
+   ],
+   "dont": [
+    "ज़रूरत से ज़्यादा मँगाकर छोड़ देना"
+   ],
+   "keywords": [
+    "खाने की बर्बादी",
+    "बचा खाना",
+    "दावत",
+    "3010 अभियान",
+    "मोत्ताइनाई",
+    "food waste"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "宴会では食べきれる量を頼む",
+    "summary": "環境省は、宴会の食べ残しを減らす「3010運動」などの取り組みを紹介しています。決まりではなく呼びかけで、地域によって呼び名や内容は違います。適量を注文し、「もったいない」を心がけます。"
+   }
+  },
+  {
+   "id": "dining-no-tip",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    },
+    {
+     "title": "Japanese Etiquette",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "टिप देने की ज़रूरत नहीं",
+   "summary": "जापान में टिप का रिवाज नहीं है, और टिप देने पर लोग अक्सर असमंजस में पड़ जाते हैं।",
+   "do": [
+    "बिल की रकम चुकाएँ"
+   ],
+   "dont": [
+    "स्टाफ़ को टिप देने की कोशिश करना"
+   ],
+   "keywords": [
+    "टिप",
+    "भुगतान",
+    "रेस्तराँ",
+    "बिल",
+    "tip",
+    "restaurant"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "チップは渡さなくてよい",
+    "summary": "日本にはチップの習慣がなく、渡すと戸惑われることがよくあります。"
+   }
+  },
+  {
+   "id": "dining-otoshi",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/content/001893740.pdf",
+   "sources": [
+    {
+     "title": "通訳ガイドテキスト（初版） | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/content/001893740.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "इज़ाकाया में 'ओतोशी' का अलग शुल्क लग सकता है",
+   "summary": "इज़ाकाया में 'ओतोशी' नाम का छोटा व्यंजन परोसा जा सकता है, और उसका अलग शुल्क लग सकता है। चिंता हो तो कर्मचारी से पूछ लें।",
+   "do": [
+    "शुल्क की चिंता हो तो कर्मचारी से पूछें"
+   ],
+   "dont": [
+    "बिना पूछे बिल के समय इसे गलती मान लेना"
+   ],
+   "keywords": [
+    "ओतोशी",
+    "इज़ाकाया",
+    "शुल्क",
+    "बिल",
+    "otoshi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "居酒屋の「お通し」には別料金がかかることがある",
+    "summary": "居酒屋では「お通し」という小さな料理が出ることがあり、別料金がかかることがあります。気になるときは店の人に聞きます。"
+   }
+  },
+  {
+   "id": "dining-register-queue",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "कैश काउंटर और दुकान के सामने लाइन में लगें",
+   "summary": "जापान में ट्रेन, कैश काउंटर, रेस्तराँ, दुकान खुलने के इंतज़ार जैसी कई स्थितियों में लोग लाइन में लगते हैं।",
+   "do": [
+    "लाइन के आखिर में लगें"
+   ],
+   "dont": [
+    "लाइन तोड़कर आगे घुसना"
+   ],
+   "keywords": [
+    "कैश काउंटर",
+    "लाइन",
+    "कतार",
+    "रेस्तराँ",
+    "checkout",
+    "queue"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "レジや店の前では列に並ぶ",
+    "summary": "日本では、電車、レジ、飲食店、開店待ちなど、さまざまな場面で列に並びます。"
+   }
+  },
+  {
+   "id": "dining-reservation",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बुकिंग के समय पर पहुँचें, न जा सकें तो जल्दी कैंसिल करें",
+   "summary": "जिस रेस्तराँ में बुकिंग है, वहाँ समय पर पहुँचें। न जा पाएँ, तो जल्दी कैंसिल करें।",
+   "do": [
+    "न जा पाने का पता चलते ही रेस्तराँ को बताएँ"
+   ],
+   "dont": [
+    "बिना बताए बुकिंग पर न पहुँचना"
+   ],
+   "keywords": [
+    "बुकिंग",
+    "रिज़र्वेशन",
+    "कैंसिल",
+    "नो-शो",
+    "रेस्तराँ",
+    "reservation",
+    "booking"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "予約した時間に行き、行けないなら早めに取り消す",
+    "summary": "予約した店には時間どおりに行きます。行けなくなったら、早めにキャンセルします。"
+   }
+  },
+  {
+   "id": "dining-store-trash",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/8/4/1/16693.html",
+   "sources": [
+    {
+     "title": "コンビニエンスストアや事業所等のごみ箱へ家庭ごみを捨てないでください／東広島市ホームページ",
+     "url": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/8/4/1/16693.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "घर का कचरा दुकान के कूड़ेदान में न डालें",
+   "summary": "कुछ स्थानीय निकाय अपील करते हैं कि कन्वीनियंस स्टोर या कारोबारों के कूड़ेदान में घर का कचरा न डालें। यह हिरोशिमा प्रीफ़ेक्चर के हिगाशिहिरोशिमा शहर का उदाहरण है।",
+   "do": [
+    "घर का कचरा तय दिन पर कलेक्शन पॉइंट पर निकालें"
+   ],
+   "dont": [
+    "कन्वीनियंस स्टोर जैसी जगहों के कूड़ेदान में घर का कचरा डालना"
+   ],
+   "keywords": [
+    "कूड़ेदान",
+    "कन्वीनियंस स्टोर",
+    "घर का कचरा",
+    "कचरा",
+    "konbini",
+    "trash bin"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "家庭のごみを店のごみ箱に捨てない",
+    "summary": "コンビニや事業所のごみ箱に家庭ごみを捨てないよう呼びかけている自治体があります。これは広島県東広島市の例です。"
+   }
+  },
+  {
+   "id": "bath-no-photos",
+   "category": "bath",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/keiji1/keiji12_00200.html",
+   "sources": [
+    {
+     "title": "法務省：性犯罪関係の法改正等 Ｑ＆Ａ",
+     "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html"
+    },
+    {
+     "title": "盗撮事犯に係る防犯対策",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/tosatsu_bouhanntaisaku.pdf"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律 第2条",
+     "url": "https://laws.e-gov.go.jp/law/505AC0000000067"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "चेंजिंग रूम या नहाने की जगह में फ़ोटो न लें",
+   "summary": "चेंजिंग रूम और नहाने की जगह में फ़ोटो लेना वहाँ के नियमों के तहत मना है। इसके अलावा, किसी के नग्न शरीर या ऐसी यौन अवस्था की चुपके से फ़ोटो लेने पर कानून के तहत दंड हो सकता है।",
+   "do": [
+    "चेंजिंग रूम और नहाने की जगह में स्मार्टफ़ोन और कैमरा बाहर न निकालें"
+   ],
+   "dont": [
+    "चेंजिंग रूम या नहाने की जगह में फ़ोटो लेना",
+    "किसी दूसरे के नग्न शरीर या ऐसी अवस्था की चुपके से फ़ोटो लेना"
+   ],
+   "keywords": [
+    "फ़ोटो",
+    "कैमरा",
+    "चुपके से फ़ोटो",
+    "पब्लिक बाथ",
+    "ऑनसेन",
+    "चेंजिंग रूम",
+    "photo",
+    "onsen"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "脱衣所や浴室で撮影しない",
+    "summary": "脱衣所や浴室での撮影は、施設のルールとして禁止されています。さらに、裸などの性的な姿をひそかに撮影すると、法律で罰せられることがあります。"
+   }
+  },
+  {
+   "id": "bath-tattoo",
+   "category": "bath",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/ryokan/list_ja-6.html",
+   "sources": [
+    {
+     "title": "旅館Q&A あなたの疑問に答えます！",
+     "url": "https://www.mlit.go.jp/kankocho/ryokan/list_ja-6.html"
+    },
+    {
+     "title": "入れ墨（タトゥー）がある外国人旅行者の入浴に関する対応について",
+     "url": "https://www.mhlw.go.jp/content/001165667.pdf"
+    },
+    {
+     "title": "Japanese Customs and Etiquette",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "टैटू के नियम हर जगह अलग होते हैं",
+   "summary": "टैटू वाले लोगों के साथ व्यवहार हर जगह बहुत अलग होता है, और नहाने से मना भी किया जा सकता है। कुछ जगहों पर स्टिकर से ढकने, अलग समय पर आने या प्राइवेट बाथ इस्तेमाल करने जैसे तरीके बताए जाते हैं।",
+   "do": [
+    "जाने से पहले उस जगह से पूछ लें",
+    "पूछें कि प्राइवेट बाथ या ढकने वाला स्टिकर इस्तेमाल हो सकता है या नहीं"
+   ],
+   "dont": [
+    "यह मानकर जाना कि आप नहा पाएँगे"
+   ],
+   "keywords": [
+    "टैटू",
+    "ऑनसेन",
+    "पब्लिक बाथ",
+    "रयोकान",
+    "tattoo",
+    "onsen",
+    "sento",
+    "irezumi"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "入れ墨・タトゥーの扱いは施設によって違う",
+    "summary": "入れ墨・タトゥーのある人への対応は施設によって大きく異なり、入浴を断られることもあります。シールで隠す、時間帯をずらす、貸切風呂を使うといった方法が案内されることもあります。"
+   }
+  },
+  {
+   "id": "bath-dry-off",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.1010.or.jp/guide/howto/",
+   "sources": [
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "How to enjoy Sento | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/english/how-to-enjoy-sento/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "चेंजिंग रूम में लौटने से पहले शरीर पोंछ लें",
+   "summary": "नहाने की जगह से चेंजिंग रूम में लौटते समय गीले शरीर को तौलिये से अच्छी तरह पोंछ लें।",
+   "do": [
+    "नहाने की जगह से निकलने से पहले तौलिये से शरीर पोंछें"
+   ],
+   "dont": [
+    "गीले शरीर के साथ चेंजिंग रूम में लौटना"
+   ],
+   "keywords": [
+    "पब्लिक बाथ",
+    "ऑनसेन",
+    "चेंजिंग रूम",
+    "तौलिया",
+    "sento",
+    "onsen"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "脱衣所に戻る前に体を拭く",
+    "summary": "浴室から脱衣所に戻るときは、ぬれた体をタオルでよく拭きます。"
+   }
+  },
+  {
+   "id": "bath-towel",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf",
+   "sources": [
+    {
+     "title": "「温泉法第18条第１項の規定に基づく禁忌症及び入浴又は飲用上の注意の掲示等の基準」及び「鉱泉分析法指針（平成26年改訂）」について",
+     "url": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf"
+    },
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "तौलिया बाथटब के पानी में न डालें",
+   "summary": "बाथटब का पानी साफ़ रखने के लिए तौलिया उसमें नहीं डाला जाता।",
+   "do": [
+    "तौलिया बाथटब के बाहर रखें"
+   ],
+   "dont": [
+    "तौलिया पानी में डुबोना",
+    "बाथटब के अंदर तौलिया निचोड़ना"
+   ],
+   "keywords": [
+    "पब्लिक बाथ",
+    "ऑनसेन",
+    "तौलिया",
+    "बाथटब",
+    "sento",
+    "onsen",
+    "towel"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "タオルを湯船に入れない",
+    "summary": "湯船のお湯を清潔に保つため、タオルは湯船に入れません。"
+   }
+  },
+  {
+   "id": "bath-wash-first",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf",
+   "sources": [
+    {
+     "title": "「温泉法第18条第１項の規定に基づく禁忌症及び入浴又は飲用上の注意の掲示等の基準」及び「鉱泉分析法指針（平成26年改訂）」について",
+     "url": "https://www.env.go.jp/nature/onsen/pdf/2-5_p_11.pdf"
+    },
+    {
+     "title": "銭湯の入り方 | 【公式】東京銭湯／東京都浴場組合",
+     "url": "https://www.1010.or.jp/guide/howto/"
+    },
+    {
+     "title": "「お風呂でのエチケット」ポスター 好評販売中です!!",
+     "url": "https://www.spa.or.jp/news/book/3248/"
+    },
+    {
+     "title": "Japanese Hot Springs: Manners and Rules",
+     "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00618.html"
+    },
+    {
+     "title": "How to enjoy Sento (English)",
+     "url": "https://www.1010.or.jp/english/how-to-enjoy-sento/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बाथटब में जाने से पहले शरीर धो लें",
+   "summary": "पब्लिक बाथ और ऑनसेन में, सबके इस्तेमाल वाले बाथटब को साफ़ रखने के लिए पहले शरीर धोकर फिर अंदर जाते हैं।",
+   "do": [
+    "धोने की जगह पर शरीर धोकर और पानी से साफ़ करके बाथटब में जाएँ"
+   ],
+   "dont": [
+    "बिना शरीर धोए बाथटब में जाना"
+   ],
+   "keywords": [
+    "पब्लिक बाथ",
+    "ऑनसेन",
+    "हॉट स्प्रिंग",
+    "नहाना",
+    "बाथटब",
+    "sento",
+    "onsen",
+    "public bath"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "湯船に入る前に体を洗う",
+    "summary": "銭湯や温泉では、みんなが入る湯船を清潔に保つため、先に体を洗ってから入ります。"
+   }
+  },
+  {
+   "id": "drinking-public-nuisance",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/336AC0100000103",
+   "sources": [
+    {
+     "title": "酒に酔つて公衆に迷惑をかける行為の防止等に関する法律 第2条・第4条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/336AC0100000103"
+    },
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "नशे में दूसरों को परेशान न करें",
+   "summary": "जापान का एक कानून नशे में धुत लोगों को सड़क, स्टेशन, ट्रेन जैसी सार्वजनिक जगहों या वाहनों में ऐसा असभ्य या हिंसक व्यवहार करने से रोकता है जिससे दूसरों को परेशानी हो। उल्लंघन पर थोड़े समय की हिरासत या छोटा जुर्माना हो सकता है। यही कानून कहता है कि किसी को ज़बरदस्ती शराब न पिलाएँ।",
+   "do": [
+    "अपनी सीमा में पिएँ",
+    "किसी को ज़बरदस्ती शराब न पिलाएँ"
+   ],
+   "dont": [
+    "नशे में चिल्लाना या लोगों से झगड़ना"
+   ],
+   "keywords": [
+    "शराब",
+    "नशा",
+    "पीना",
+    "परेशानी",
+    "ट्रेन",
+    "सड़क",
+    "drunk"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "酔って人に迷惑をかけない",
+    "summary": "法律は、酒に酔った人が、道や駅、電車など人の集まる場所や乗り物で、周りに迷惑をかける乱暴な言動をすることを禁じており、拘留または科料の対象になります。同じ法律は、飲酒を無理に勧めないよう求めています。"
+   }
+  },
+  {
+   "id": "drinking-under-20",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/MINJI/minji07_00238.html",
+   "sources": [
+    {
+     "title": "法務省：民法（成年年齢関係）改正 Ｑ&Ａ",
+     "url": "https://www.moj.go.jp/MINJI/minji07_00238.html"
+    },
+    {
+     "title": "20歳未満の者の飲酒防止等に関する取組等",
+     "url": "https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2025/pdf/0019-1.pdf"
+    },
+    {
+     "title": "二十歳未満ノ者ノ飲酒ノ禁止ニ関スル法律 第1条",
+     "url": "https://laws.e-gov.go.jp/law/211AC1000000020"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "20 साल से कम उम्र में शराब नहीं पी सकते",
+   "summary": "जापान में बालिग होने की उम्र 18 साल है, लेकिन शराब के लिए उम्र सीमा 20 साल ही है। कानून के अनुसार 20 साल से कम उम्र में शराब पीना मना है, और दुकानों का 20 साल से कम उम्र के व्यक्ति को शराब बेचना या परोसना भी मना है।",
+   "do": [
+    "20 साल के होने तक शराब न पिएँ"
+   ],
+   "dont": [
+    "20 साल से कम उम्र के व्यक्ति को शराब ऑफ़र करना"
+   ],
+   "keywords": [
+    "शराब",
+    "शराब पीना",
+    "नाबालिग",
+    "20 साल",
+    "उम्र",
+    "बीयर",
+    "alcohol",
+    "under 20"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "20歳未満はお酒を飲めない",
+    "summary": "日本の成年年齢は18歳ですが、お酒の年齢制限は20歳のままです。法律で20歳未満の飲酒は禁じられており、店が20歳未満の人にお酒を売ったり出したりすることも禁じられています。"
+   }
+  },
+  {
+   "id": "drunk-driving",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/insyu/info.html",
+   "sources": [
+    {
+     "title": "みんなで守る「飲酒運転を絶対にしない、させない」｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/insyu/info.html"
+    },
+    {
+     "title": "道路交通法 第65条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "शराब पीकर गाड़ी न चलाएँ",
+   "summary": "रोड ट्रैफ़िक कानून (道路交通法) शराब के असर में वाहन चलाने को मना करता है, चाहे शराब की मात्रा कितनी भी हो। सिर्फ़ चलाने वाले को ही नहीं, बल्कि गाड़ी उधार देने वाले, शराब परोसने वाले और साथ बैठने वाले को भी दंड हो सकता है।",
+   "do": [
+    "गाड़ी चलानी हो, तो शराब न पिएँ",
+    "शराब पीने के बाद सार्वजनिक परिवहन जैसे साधन इस्तेमाल करें"
+   ],
+   "dont": [
+    "थोड़ी-सी चलेगी, यह सोचकर गाड़ी चलाना",
+    "शराब पिए हुए व्यक्ति की गाड़ी में साथ बैठना"
+   ],
+   "keywords": [
+    "ड्रिंक एंड ड्राइव",
+    "शराब",
+    "गाड़ी",
+    "कार",
+    "ड्राइविंग",
+    "drunk driving",
+    "alcohol",
+    "DUI"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "お酒を飲んだら運転しない",
+    "summary": "道路交通法は、酒気を帯びて車両等を運転することを、量にかかわらず禁じています。運転した人だけでなく、車を貸した人、お酒を出した人、同乗した人も処罰の対象になります。"
+   }
+  },
+  {
+   "id": "smoking-indoor",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://jyudokitsuen.mhlw.go.jp/point/",
+   "sources": [
+    {
+     "title": "改正法のポイント - なくそう！望まない受動喫煙。 - 厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/point/"
+    },
+    {
+     "title": "なくそう！望まない受動喫煙｜厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/"
+    },
+    {
+     "title": "国民のみなさまへ - なくそう！望まない受動喫煙。 - 厚生労働省",
+     "url": "https://jyudokitsuen.mhlw.go.jp/people/"
+    },
+    {
+     "title": "健康増進法 第29条",
+     "url": "https://laws.e-gov.go.jp/law/414AC0000000103"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "इमारतों के अंदर सिद्धांत रूप में स्मोकिंग मना है",
+   "summary": "हेल्थ प्रमोशन कानून (健康増進法) के तहत, बहुत-से लोगों के इस्तेमाल वाली जगहों और रेस्तराँ जैसी जगहों के अंदर सिद्धांत रूप में स्मोकिंग मना है। शर्तें पूरी करने वाले स्मोकिंग रूम में स्मोकिंग की जा सकती है। स्कूल, अस्पताल, बाल कल्याण संस्थान, सरकारी दफ़्तर जैसी जगहों के पूरे परिसर में सिद्धांत रूप में स्मोकिंग मना है। 20 साल से कम उम्र के लोग स्मोकिंग एरिया में नहीं जा सकते।",
+   "do": [
+    "स्मोकिंग रूम और स्मोकिंग एरिया के संकेत देखें"
+   ],
+   "dont": [
+    "स्मोकिंग मना वाली जगह पर स्मोकिंग करना",
+    "20 साल से कम उम्र के व्यक्ति को स्मोकिंग एरिया में जाने देना"
+   ],
+   "keywords": [
+    "सिगरेट",
+    "स्मोकिंग",
+    "धूम्रपान",
+    "स्मोकिंग रूम",
+    "पैसिव स्मोकिंग",
+    "रेस्तराँ",
+    "smoking",
+    "no smoking"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "屋内は原則禁煙",
+    "summary": "健康増進法により、多くの人が利用する施設や飲食店などの屋内は原則禁煙です。要件を満たす喫煙室では吸えます。学校、病院、児童福祉施設、行政機関などは原則として敷地内禁煙です。20歳未満の人は喫煙エリアに入れません。"
+   }
+  },
+  {
+   "id": "smoking-under-20",
+   "category": "smoking",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/MINJI/minji07_00238.html",
+   "sources": [
+    {
+     "title": "法務省：民法（成年年齢関係）改正 Ｑ&Ａ",
+     "url": "https://www.moj.go.jp/MINJI/minji07_00238.html"
+    },
+    {
+     "title": "二十歳未満ノ者ノ喫煙ノ禁止ニ関スル法律 第1条",
+     "url": "https://laws.e-gov.go.jp/law/133AC1000000033"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "20 साल से कम उम्र में स्मोकिंग नहीं कर सकते",
+   "summary": "जापान में बालिग होने की उम्र 18 साल है, लेकिन तंबाकू के लिए उम्र सीमा 20 साल ही है। कानून के अनुसार 20 साल से कम उम्र में स्मोकिंग मना है।",
+   "do": [
+    "20 साल के होने तक स्मोकिंग न करें"
+   ],
+   "dont": [
+    "20 साल से कम उम्र के व्यक्ति को सिगरेट ऑफ़र करना"
+   ],
+   "keywords": [
+    "सिगरेट",
+    "तंबाकू",
+    "स्मोकिंग",
+    "20 साल",
+    "उम्र",
+    "smoking",
+    "tobacco",
+    "under 20"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "20歳未満はたばこを吸えない",
+    "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
+   }
+  },
+  {
+   "id": "smoking-street",
+   "category": "smoking",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/aramashi.html",
+   "sources": [
+    {
+     "title": "千代田区生活環境条例のあらまし",
+     "url": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/aramashi.html"
+    },
+    {
+     "title": "千代田区生活環境条例",
+     "url": "https://www.city.chiyoda.lg.jp/koho/machizukuri/sekatsu/jore/jore.html"
+    },
+    {
+     "title": "路上喫煙を禁止する区域を大阪市内全域に拡大しました",
+     "url": "https://www.city.osaka.lg.jp/kankyo/page/0000630108.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "कुछ इलाकों में सड़क पर स्मोकिंग मना है",
+   "summary": "कुछ स्थानीय निकाय अध्यादेश (条例) से सड़क पर स्मोकिंग मना करते हैं और उल्लंघन पर प्रशासनिक जुर्माना (過料) लेते हैं। उदाहरण के लिए, टोक्यो का चियोदा वार्ड (शाही महल को छोड़कर पूरा इलाका) और ओसाका शहर (पूरा शहर) इसमें आते हैं। इलाका और रकम हर स्थानीय निकाय में अलग होते हैं।",
+   "do": [
+    "तय स्मोकिंग एरिया में स्मोकिंग करें",
+    "जहाँ रहते हैं, वहाँ के अध्यादेश जाँच लें"
+   ],
+   "dont": [
+    "मना किए गए इलाके में सड़क पर स्मोकिंग करना"
+   ],
+   "keywords": [
+    "सिगरेट",
+    "स्मोकिंग",
+    "सड़क पर स्मोकिंग",
+    "धूम्रपान",
+    "अध्यादेश",
+    "जुर्माना",
+    "smoking",
+    "fine"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "路上喫煙が禁止の地域がある",
+    "summary": "路上喫煙を条例で禁止し、違反すると過料を取る自治体があります。例えば東京都千代田区は皇居を除く全域、大阪市は市内全域が対象です。区域と金額は自治体ごとに違います。"
+   }
+  },
+  {
+   "id": "residence-card-address",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00023.html",
+   "sources": [
+    {
+     "title": "住居地の変更届出（中長期在留者）",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri10_00023.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第19条の9",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "रहने की जगह बदलने पर नगरपालिका में सूचना दें (रेज़िडेंस कार्ड)",
+   "summary": "मध्यम से लंबी अवधि के निवासी (中長期在留者) नए घर में जाने पर, समय-सीमा के भीतर नगरपालिका के काउंटर पर सूचना दें। यह इमिग्रेशन में नहीं होता। रेज़िडेंस कार्ड दिखाना ज़रूरी है। सूचना न देने पर दंड का प्रावधान है, और यह रेज़िडेंस स्टेटस रद्द होने का कारण भी बन सकता है। समय-सीमा आधिकारिक पेज पर देखें।",
+   "do": [
+    "रेज़िडेंस कार्ड लेकर नगरपालिका के काउंटर पर जाएँ",
+    "समय-सीमा आधिकारिक पेज पर देखें और जल्दी सूचना दें"
+   ],
+   "dont": [
+    "सूचना दिए बिना वहाँ रहते रहना"
+   ],
+   "keywords": [
+    "रेज़िडेंस कार्ड",
+    "पता बदलना",
+    "नया पता",
+    "सूचना",
+    "घर बदलना",
+    "सिटी हॉल",
+    "residence card",
+    "address change"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "住む場所が変わったら市区町村で届け出る（在留カード）",
+    "summary": "中長期在留者は、新しい住居地に移ったら、期限内に市区町村の窓口で届け出ます。入管ではありません。在留カードの提示が必要です。届け出をしないと罰則があり、在留資格の取消事由になることもあります。期限は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-card-carry",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html",
+   "sources": [
+    {
+     "title": "Answer (Q1～Q79） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html"
+    },
+    {
+     "title": "Ｑ＆Ａ特別永住者の制度について！よくある質問 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/applications/faq/newimmiact_2_q-and-a.html"
+    },
+    {
+     "title": "特定在留カード交付申請について",
+     "url": "https://www.moj.go.jp/isa/tokutei"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第23条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "रेज़िडेंस कार्ड हमेशा साथ रखें",
+   "summary": "मध्यम से लंबी अवधि के निवासियों के लिए रेज़िडेंस कार्ड हमेशा साथ रखना अनिवार्य है, और माँगे जाने पर उसे दिखाना होता है। 16 साल से कम उम्र के लोगों को साथ रखने से छूट है। स्पेशल परमानेंट रेज़िडेंट को सर्टिफ़िकेट हमेशा साथ रखने की ज़रूरत नहीं है, लेकिन माँगे जाने पर दिखाना होता है। जिन शॉर्ट-टर्म स्टे वालों के पास रेज़िडेंस कार्ड नहीं है, वे पासपोर्ट साथ रखें।",
+   "do": [
+    "बाहर जाते समय रेज़िडेंस कार्ड साथ रखें",
+    "पुलिस अधिकारी जैसे लोग माँगें, तो दिखाएँ"
+   ],
+   "dont": [
+    "पासपोर्ट है, यह सोचकर रेज़िडेंस कार्ड छोड़ जाना"
+   ],
+   "keywords": [
+    "रेज़िडेंस कार्ड",
+    "साथ रखना",
+    "पासपोर्ट",
+    "स्पेशल परमानेंट रेज़िडेंट",
+    "पहचान पत्र",
+    "residence card",
+    "zairyu card",
+    "ID"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留カードは常に持ち歩く",
+    "summary": "中長期在留者は在留カードを常に携帯する義務があり、求められたら提示します。16歳未満は携帯が免除されます。特別永住者は証明書を常に持ち歩く必要はありませんが、求められたら提示します。在留カードのない短期滞在の人はパスポートを携帯します。"
+   }
+  },
+  {
+   "id": "residence-reentry",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/immigration/procedures/16-5.html",
+   "sources": [
+    {
+     "title": "再入国許可申請 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/immigration/procedures/16-5.html"
+    },
+    {
+     "title": "出入国審査・在留審査Q&A",
+     "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第26条・第26条の2",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "जापान से बाहर जाकर लौटना हो, तो री-एंट्री की प्रक्रिया देख लें",
+   "summary": "वैध पासपोर्ट और रेज़िडेंस कार्ड वाले लोग, जापान से निकलते समय लौटने का इरादा बताएँ, तो तय अवधि के भीतर री-एंट्री परमिट के बिना लौट सकते हैं (みなし再入国)। यह अवधि विदेश में रहते हुए नहीं बढ़ाई जा सकती। इससे ज़्यादा रहने की योजना हो, तो जाने से पहले री-एंट्री परमिट लें। अवधि आधिकारिक पेज पर देखें।",
+   "do": [
+    "जाने से पहले अपने रहने की अवधि की आखिरी तारीख और लौटने की योजना जाँच लें",
+    "निकलते समय इमिग्रेशन अधिकारी को लौटने का इरादा बताएँ"
+   ],
+   "dont": [
+    "परमिट लिए बिना तय अवधि से ज़्यादा विदेश में रहना"
+   ],
+   "keywords": [
+    "री-एंट्री",
+    "स्पेशल री-एंट्री",
+    "जापान से बाहर जाना",
+    "कुछ समय के लिए घर जाना",
+    "रेज़िडेंस कार्ड",
+    "re-entry",
+    "re-entry permit"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "日本を出て戻るときは再入国の手続きを確認する",
+    "summary": "有効なパスポートと在留カードを持つ人は、出国するときに再入国の意思を示せば、決められた期間内は再入国許可なしで戻れます（みなし再入国）。この期間は海外で延長できません。超える予定なら、出国前に再入国許可を取ります。期間は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-renewal",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+   "sources": [
+    {
+     "title": "在留期間更新許可申請 | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/16-3.html"
+    },
+    {
+     "title": "在留期間の更新（入管法第21条）",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/koushin_00001.html"
+    },
+    {
+     "title": "出入国審査・在留審査Q&A",
+     "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第21条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "रहने की अवधि खत्म होने से पहले रिन्यूअल का आवेदन करें",
+   "summary": "जापान में आगे भी रहने के लिए, रहने की अवधि खत्म होने से पहले, अपने इलाके के क्षेत्रीय इमिग्रेशन दफ़्तर (地方出入国在留管理官署) में रिन्यूअल का आवेदन करें। 18 साल या उससे ज़्यादा उम्र के लोग खुद आवेदन करें, सिवाय तब जब आवेदन अधिकृत प्रतिनिधि (取次者) के ज़रिए हो। आवेदन का समय और शुल्क आधिकारिक पेज पर देखें।",
+   "do": [
+    "रेज़िडेंस कार्ड पर आखिरी तारीख देखें और जल्दी तैयारी करें",
+    "आधिकारिक पेज पर आवेदन का समय, ज़रूरी दस्तावेज़ और शुल्क देखें"
+   ],
+   "dont": [
+    "आखिरी तारीख बीतने के बाद प्रक्रिया करने की कोशिश करना"
+   ],
+   "keywords": [
+    "रहने की अवधि",
+    "रिन्यूअल",
+    "वीज़ा",
+    "इमिग्रेशन",
+    "रेज़िडेंस स्टेटस",
+    "visa",
+    "renewal",
+    "immigration"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留期間は満了前に更新を申請する",
+    "summary": "在留を続けるには、在留期間が満了する前に、住んでいる地域を管轄する地方出入国在留管理官署で更新を申請します。18歳以上の人は、取次者による場合を除いて本人が申請します。申請できる時期と手数料は公式ページで確認してください。"
+   }
+  },
+  {
+   "id": "residence-work-permit",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/applications/procedures/16-8.html",
+   "sources": [
+    {
+     "title": "資格外活動許可申請",
+     "url": "https://www.moj.go.jp/isa/applications/procedures/16-8.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第19条",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "स्टूडेंट जैसे रेज़िडेंस स्टेटस पर काम करने के लिए अनुमति ज़रूरी है",
+   "summary": "स्टूडेंट या डिपेंडेंट (家族滞在) जैसे, गतिविधियों की तय सीमा वाले रेज़िडेंस स्टेटस (इमिग्रेशन कानून की अनुसूची 1, 別表第一) वाले लोगों को, उस सीमा के बाहर कमाई वाली गतिविधि करने के लिए स्टेटस के बाहर की गतिविधि की अनुमति (資格外活動許可) लेना ज़रूरी है। एडल्ट एंटरटेनमेंट (風俗営業) जैसे कामों के लिए यह अनुमति नहीं मिलती। परमानेंट रेज़िडेंट, जापानी नागरिकों के जीवनसाथी आदि, लॉन्ग-टर्म रेज़िडेंट (定住者) जैसे लोगों पर यह प्रक्रिया लागू नहीं होती।",
+   "do": [
+    "काम शुरू करने से पहले आधिकारिक पेज पर देखें कि यह किस पर लागू है और क्या शर्तें हैं",
+    "काम के घंटे जैसी शर्तें अपनी अनुमति में देखें"
+   ],
+   "dont": [
+    "अनुमति के बिना कमाई वाली गतिविधि करना",
+    "एडल्ट एंटरटेनमेंट (風俗営業) की जगह पर काम करना"
+   ],
+   "keywords": [
+    "पार्ट-टाइम जॉब",
+    "काम की अनुमति",
+    "स्टूडेंट",
+    "रेज़िडेंस स्टेटस",
+    "काम",
+    "arubaito",
+    "part-time job",
+    "work permit"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "留学などの在留資格で働くには許可が必要",
+    "summary": "留学や家族滞在など、活動の範囲が決められた在留資格（入管法の別表第一）の人が、その範囲の外で収入を得る活動をするには、資格外活動許可が必要です。風俗営業などは許可の対象になりません。永住者、日本人の配偶者等、定住者などは、この手続きの対象ではありません。"
+   }
+  },
+  {
+   "id": "crime-bank-account",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/250110/04.html",
+   "sources": [
+    {
+     "title": "通帳・キャッシュカードの譲渡は犯罪です！ | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/250110/04.html"
+    },
+    {
+     "title": "口座の売買・譲渡し（譲受け）は犯罪です。 | 大阪府警察",
+     "url": "https://www.police.pref.osaka.lg.jp/seikatsu/hanzaisyueki/13559.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "犯罪による収益の移転防止に関する法律 第26条",
+     "url": "https://laws.e-gov.go.jp/law/419AC0000000022"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बैंक खाता न बेचें और न किसी को दें",
+   "summary": "बैंक खाता, कैश कार्ड, पासबुक या लॉगिन जानकारी बेचना या किसी को देना अपराध है। पैसे न लेने पर भी यह अपराध हो सकता है। जो खाता आगे इस्तेमाल नहीं होगा, जैसे अपने देश लौटते समय, उसे बैंक में जाकर बंद कराएँ।",
+   "do": [
+    "अपने देश लौटने से पहले बैंक में खाता बंद कराएँ",
+    "कोई खाता बेचने को कहे तो मना करें और पुलिस से बात करें"
+   ],
+   "dont": [
+    "खाता, कार्ड, पासबुक, पिन या लॉगिन जानकारी किसी को बेचना या देना",
+    "किसी और का खाता खरीदना या लेना"
+   ],
+   "keywords": [
+    "बैंक खाता",
+    "पासबुक",
+    "कैश कार्ड",
+    "खाता बेचना",
+    "देश लौटना",
+    "bank account"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "銀行口座を売らない・人に渡さない",
+    "summary": "銀行口座やキャッシュカード、通帳、ログイン情報を売ったり、人に渡したりすることは犯罪です。お金を受け取らない場合でも犯罪になることがあります。帰国などで使わなくなる口座は、金融機関で解約します。"
+   }
+  },
+  {
+   "id": "crime-driving-license",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html",
+   "sources": [
+    {
+     "title": "外国の運転免許をお持ちの方｜警察庁",
+     "url": "https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "道路交通法 第64条・第107条の2",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "गाड़ी चलाने से पहले देख लें कि आपका लाइसेंस मान्य है",
+   "summary": "जापान में कार या मोटरसाइकिल चलाने के लिए जापानी लाइसेंस, संधि के तहत अंतरराष्ट्रीय ड्राइविंग परमिट, या तय अनुवाद के साथ विदेशी लाइसेंस में से एक ज़रूरी है। इन्हें इस्तेमाल करने की अवधि सीमित है और पात्र देश भी तय हैं। बिना लाइसेंस गाड़ी चलाना बिना लाइसेंस ड्राइविंग (無免許運転) है।",
+   "do": [
+    "गाड़ी चलाने से पहले आधिकारिक पेज पर देखें कि आपका लाइसेंस चल सकता है या नहीं"
+   ],
+   "dont": [
+    "बिना लाइसेंस गाड़ी चलाना",
+    "इस्तेमाल की अवधि बीतने के बाद उसी लाइसेंस से चलाना"
+   ],
+   "keywords": [
+    "ड्राइविंग लाइसेंस",
+    "अंतरराष्ट्रीय ड्राइविंग परमिट",
+    "बिना लाइसेंस",
+    "कार",
+    "मोटरसाइकिल",
+    "किराए की कार",
+    "driver's license"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "運転できる免許か確かめてから運転する",
+    "summary": "日本で車やオートバイを運転するには、日本の運転免許、条約に基づく国際運転免許証、または決められた翻訳文を付けた外国の運転免許のいずれかが必要です。使える期間には上限があり、対象の国も決まっています。免許なしで運転すると無免許運転になります。"
+   }
+  },
+  {
+   "id": "crime-drugs",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/sosikihanzai/yakubutujyuki/illegal_cannabis/index.html",
+   "sources": [
+    {
+     "title": "大麻対策のためのポータルサイト｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/sosikihanzai/yakubutujyuki/illegal_cannabis/index.html"
+    },
+    {
+     "title": "麻薬及び向精神薬取締法 第27条・第66条・第66条の2",
+     "url": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "भांग (कैनबिस) और दूसरी गैरकानूनी नशीली चीज़ों से दूर रहें",
+   "summary": "जापान में कैनबिस रखना या देना ही नहीं, उसका सेवन भी कानून में मना है। विदेशों में कैनबिस के तत्व वाली मिठाइयाँ और खाने की चीज़ें बिकती हैं, और उन्हें उपहार के रूप में जापान लाते समय लोग पकड़े गए हैं। 'कानूनी' बताकर बेची जाने वाली चीज़ों से भी दूर रहें।",
+   "do": [
+    "कोई पेशकश करे तो साफ़ मना करें",
+    "विदेश यात्रा या पढ़ाई के दौरान भी जिज्ञासा में न चखें"
+   ],
+   "dont": [
+    "'एक बार से नहीं पकड़े जाएँगे' सोचना",
+    "कैनबिस के तत्व वाली खाने की चीज़ें जापान लाना"
+   ],
+   "keywords": [
+    "कैनबिस",
+    "भांग",
+    "गांजा",
+    "नशीली दवा",
+    "THC",
+    "उपहार",
+    "cannabis"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "大麻などの違法薬物に手を出さない",
+    "summary": "日本では、大麻の所持や譲渡に加えて使用も法律で禁止されています。海外では大麻成分入りのお菓子などが売られていることがあり、お土産として日本に持ち込もうとして検挙された例もあります。「合法」などとうたって売られているものにも手を出さないでください。"
+   }
+  },
+  {
+   "id": "crime-groping",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html",
+   "sources": [
+    {
+     "title": "痴漢・盗撮事犯対策｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html"
+    },
+    {
+     "title": "痴漢等の性犯罪被害防止対策 | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/higai/koramu2/koramu8.html"
+    },
+    {
+     "title": "刑法 第176条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "छेड़छाड़ (痴漢) गंभीर अपराध है",
+   "summary": "ट्रेन जैसी जगहों पर किसी के शरीर को छूना व्यक्ति की गरिमा को कुचलने वाला गंभीर अपराध है, और इसके लिए स्थानीय नियमों या दंड संहिता के तहत सज़ा होती है। आपके साथ ऐसा हो तो बिना झिझक 110 पर कॉल करें।",
+   "do": [
+    "आपके साथ ऐसा हो तो 110 पर कॉल करें",
+    "सलाह के लिए यौन अपराध पीड़ित परामर्श लाइन #8103 भी है"
+   ],
+   "dont": [
+    "बिना सहमति किसी के शरीर को छूना"
+   ],
+   "keywords": [
+    "छेड़छाड़",
+    "ट्रेन",
+    "यौन अपराध",
+    "110",
+    "groping",
+    "chikan"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "痴漢は重大な犯罪",
+    "summary": "電車の中などで人の体に触る痴漢は、個人の尊厳を踏みにじる重大な犯罪で、条例や刑法で処罰されます。被害にあったら、迷わず 110 番に通報してください。"
+   }
+  },
+  {
+   "id": "crime-knife-carry",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/hamono/hamono.html",
+   "sources": [
+    {
+     "title": "刃物の話 | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/hamono/hamono.html"
+    },
+    {
+     "title": "銃砲刀剣類所持等取締法 第22条",
+     "url": "https://laws.e-gov.go.jp/law/333AC0000000006"
+    },
+    {
+     "title": "軽犯罪法 第1条第2号",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "चाकू जैसी धारदार चीज़ें साथ लेकर न चलें",
+   "summary": "काम जैसे उचित कारण के बिना चाकू जैसी धारदार चीज़ साथ रखना कानून में मना है। आत्मरक्षा उचित कारण नहीं है। कैंची या कटर जैसी स्टेशनरी भी बिना उचित कारण तुरंत इस्तेमाल की हालत में साथ रखने पर कार्रवाई हो सकती है। कार में छिपाकर रखना भी साथ रखना माना जा सकता है।",
+   "do": [
+    "दुकान से खरीदा चाकू सीधे घर ले जाएँ",
+    "काम का चाकू तभी साथ रखें जब काम के लिए ज़रूरी हो"
+   ],
+   "dont": [
+    "आत्मरक्षा के लिए चाकू साथ रखना",
+    "कैंची या कटर तुरंत इस्तेमाल की हालत में साथ रखना"
+   ],
+   "keywords": [
+    "चाकू",
+    "कैंची",
+    "कटर",
+    "आत्मरक्षा",
+    "knife"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "刃物を持ち歩かない",
+    "summary": "仕事などの正当な理由なく刃物を持ち歩くことは、法律で禁じられています。護身用は正当な理由にあたりません。はさみやカッターナイフなどの文房具でも、正当な理由なくすぐ使える状態で持ち歩くと取締りの対象になります。車の中に隠して持つことも、携帯にあたる場合があります。"
+   }
+  },
+  {
+   "id": "crime-lost-property",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-road.html",
+   "sources": [
+    {
+     "title": "路上等（施設以外）で落とし物を拾った場合 | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-road.html"
+    },
+    {
+     "title": "お店等の施設（駅、ホテル、娯楽施設、学校等）で落とし物を拾った場合 | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/pickedup-institution.html"
+    },
+    {
+     "title": "遺失物法 第4条",
+     "url": "https://laws.e-gov.go.jp/law/418AC0000000073"
+    },
+    {
+     "title": "刑法 第254条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "मिली हुई चीज़ अपने पास न रखें",
+   "summary": "किसी की खोई हुई चीज़ मिले तो उसे मालिक को लौटाएँ या पुलिस को दें। स्टेशन या दुकान जैसी जगह के अंदर मिले तो वहाँ के कर्मचारी को दें। उसे अपने पास रखने पर खोई हुई संपत्ति हड़पने (遺失物横領) का आरोप लग सकता है।",
+   "do": [
+    "सड़क पर मिले तो मालिक को लौटाएँ या पुलिस स्टेशन या कोबान (交番) में दें",
+    "स्टेशन, दुकान या होटल में मिले तो तुरंत कर्मचारी को दें"
+   ],
+   "dont": [
+    "मिला हुआ बटुआ या पैसे अपने पास रखना"
+   ],
+   "keywords": [
+    "खोई हुई चीज़",
+    "बटुआ",
+    "कोबान",
+    "पुलिस",
+    "lost property"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "拾った物を自分のものにしない",
+    "summary": "落とし物を拾ったら、落とし主に返すか警察に届けます。駅や店などの施設の中で拾ったときは、係員や店員に届けます。自分のものにすると、遺失物横領の罪に問われる可能性があります。"
+   }
+  },
+  {
+   "id": "crime-others-bicycle",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.pref.saitama.lg.jp/a0311/bouhanjyohou/hanzaitaisaku1.html",
+   "sources": [
+    {
+     "title": "自転車盗・オートバイ盗対策 - 埼玉県",
+     "url": "https://www.pref.saitama.lg.jp/a0311/bouhanjyohou/hanzaitaisaku1.html"
+    },
+    {
+     "title": "刑法 第235条・第254条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "बिना अनुमति किसी और की साइकिल इस्तेमाल न करें",
+   "summary": "बिना अनुमति किसी और की साइकिल न चलाएँ और न ले जाएँ। लावारिस दिखने वाली साइकिल को भी बिना अनुमति ले जाना अपराध (占有離脱物横領) है।",
+   "do": [
+    "अपनी या किराए पर ली या उधार ली हुई साइकिल चलाएँ"
+   ],
+   "dont": [
+    "हल्के में लेकर किसी और की साइकिल चलाना",
+    "लावारिस दिखने वाली साइकिल ले जाना"
+   ],
+   "keywords": [
+    "साइकिल",
+    "साइकिल चोरी",
+    "लावारिस साइकिल",
+    "चोरी",
+    "bicycle"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "他人の自転車を勝手に使わない",
+    "summary": "他人の自転車に勝手に乗ったり、持っていったりしてはいけません。放置されているように見える自転車でも、勝手に持っていくと占有離脱物横領の罪になります。"
+   }
+  },
+  {
+   "id": "crime-phone-contract",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/sodan/nettrouble/jirei_other/moble_phone_scam.html",
+   "sources": [
+    {
+     "title": "携帯電話等を販売店からだまし取る行為は犯罪です！ | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/sodan/nettrouble/jirei_other/moble_phone_scam.html"
+    },
+    {
+     "title": "生活・就労ガイドブック（多言語） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html"
+    },
+    {
+     "title": "携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律 第7条・第20条・第21条",
+     "url": "https://laws.e-gov.go.jp/law/417AC1000000031"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "अनुबंध वाला मोबाइल फ़ोन बिना अनुमति किसी को न दें",
+   "summary": "मोबाइल कंपनी की सहमति के बिना अनुबंध वाला फ़ोन किसी और को देने पर कानून के उल्लंघन की सज़ा हो सकती है। इस्तेमाल का इरादा न होते हुए अनुबंध करके फ़ोन देना और पैसे लेना दुकान से धोखाधड़ी है। जब फ़ोन इस्तेमाल नहीं करना हो, जैसे अपने देश लौटते समय, तो मोबाइल कंपनी से संपर्क करके अनुबंध रद्द कराएँ।",
+   "do": [
+    "फ़ोन किसी को देना हो तो पहले मोबाइल कंपनी से पूछें",
+    "अपने देश लौटने से पहले मोबाइल कंपनी से संपर्क करके अनुबंध रद्द कराएँ"
+   ],
+   "dont": [
+    "'अनुबंध करो तो पैसे देंगे' जैसे प्रस्ताव मानना",
+    "पहचान के दस्तावेज़ किसी को देकर उससे अनुबंध कराना"
+   ],
+   "keywords": [
+    "मोबाइल फ़ोन",
+    "स्मार्टफ़ोन",
+    "SIM",
+    "अनुबंध",
+    "देश लौटना",
+    "mobile phone"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "契約した携帯電話を勝手に人に渡さない",
+    "summary": "契約した携帯電話を、携帯電話会社の承諾を得ずに人に譲り渡すと、法律違反として処罰されることがあります。使うつもりがないのに契約して端末を渡し、お金を受け取ることは、販売店をだます詐欺にあたります。帰国などで使わなくなるときは、携帯電話会社に連絡して解約します。"
+   }
+  },
+  {
+   "id": "crime-residence-card",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html",
+   "sources": [
+    {
+     "title": "Answer (Q1～Q79)（Q21） | 出入国在留管理庁",
+     "url": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page2.html"
+    },
+    {
+     "title": "出入国管理及び難民認定法 第73条の3〜第73条の6",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "रेज़िडेंस कार्ड किसी को न दें, न किसी और का कार्ड इस्तेमाल करें",
+   "summary": "अपना रेज़िडेंस कार्ड किसी और को देना, किसी और के नाम का कार्ड इस्तेमाल करना, लेना या रखना, और जाली कार्ड से जुड़ना, इन सब पर दंड का प्रावधान है। ऐसा करने वाले, उकसाने वाले या मदद करने वाले विदेशी को देश से निकाले जाने (退去強制) की कार्रवाई का भी सामना करना पड़ सकता है।",
+   "do": [
+    "रेज़िडेंस कार्ड अपनी देखरेख में रखें",
+    "कोई कार्ड माँगे और शक हो तो आधिकारिक काउंटर से बात करें"
+   ],
+   "dont": [
+    "अपना कार्ड किसी और को देना",
+    "किसी और के नाम का या जाली कार्ड इस्तेमाल करना, लेना या रखना",
+    "ऐसे काम के लिए कहना या मदद करना"
+   ],
+   "keywords": [
+    "रेज़िडेंस कार्ड",
+    "जाली कार्ड",
+    "उधार देना",
+    "देश से निकालना",
+    "residence card"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "在留カードを人に渡さない・他人のカードを使わない",
+    "summary": "自分の在留カードを他人に提供すること、他人名義のカードを使う・受け取る・持つこと、偽造されたカードに関わることには罰則があります。こうした行為をしたり、そそのかしたり、手伝ったりした外国人は、退去強制の対象にもなります。"
+   }
+  },
+  {
+   "id": "crime-secret-filming",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/keiji1/keiji12_00200.html",
+   "sources": [
+    {
+     "title": "性犯罪関係の法改正等 Ｑ＆Ａ | 法務省",
+     "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html"
+    },
+    {
+     "title": "痴漢・盗撮事犯対策｜警察庁",
+     "url": "https://www.npa.go.jp/bureau/safetylife/bouhan/chikan/chikantaisaku.html"
+    },
+    {
+     "title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律 第2条",
+     "url": "https://laws.e-gov.go.jp/law/505AC0000000067"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "किसी के शरीर या अंदरूनी कपड़ों की छिपकर फ़ोटो या वीडियो न बनाएँ",
+   "summary": "बिना उचित कारण किसी के निजी अंगों या पहने हुए अंदरूनी कपड़ों की छिपकर फ़ोटो या वीडियो बनाना अपराध है। ऐसी तस्वीरें किसी को देना या सार्वजनिक करना भी दंडनीय है।",
+   "do": [
+    "आपके साथ ऐसा हो तो 110 या यौन अपराध पीड़ित परामर्श लाइन #8103 पर संपर्क करें"
+   ],
+   "dont": [
+    "फ़ोन जैसे उपकरण से किसी के शरीर या अंदरूनी कपड़ों की छिपकर तस्वीर लेना",
+    "तस्वीरें किसी को भेजना या इंटरनेट पर डालना"
+   ],
+   "keywords": [
+    "छिपकर फ़िल्म बनाना",
+    "फ़ोटो",
+    "स्मार्टफ़ोन",
+    "कैमरा",
+    "यौन अपराध",
+    "voyeurism"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "人の体や下着をこっそり撮影しない",
+    "summary": "正当な理由なく、人の性的な部位や身に着けている下着などをひそかに撮影することは犯罪です。撮影した画像を人に渡したり公開したりすることも処罰の対象です。"
+   }
+  },
+  {
+   "id": "crime-shoplifting",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/relations.files/leaflet.pdf",
+   "sources": [
+    {
+     "title": "「たかが万引き」と思っていませんか？ | 東京万引き防止官民合同会議事務局・警視庁生活安全総務課",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/relations.files/leaflet.pdf"
+    },
+    {
+     "title": "万引きに関する調査研究報告書～外国人と日本人の意識の差に関する検討～",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf"
+    },
+    {
+     "title": "刑法 第235条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "दुकान से चोरी अपराध है, चाहे रकम छोटी हो",
+   "summary": "दुकान का सामान बिना पैसे दिए ले जाना चोरी (窃盗罪) का अपराध है। रकम कम होने पर भी इसे वही अपराध माना जाता है। सामान लौटा देने या उसका हर्जाना देने से मामला खत्म नहीं होता।",
+   "do": [
+    "दुकान से बाहर निकलने से पहले काउंटर पर पैसे चुकाएँ"
+   ],
+   "dont": [
+    "'थोड़ा ही तो है' या 'सस्ता है' सोचकर ले जाना",
+    "यह सोचना कि लौटा देने से माफ़ हो जाएगा"
+   ],
+   "keywords": [
+    "दुकान से चोरी",
+    "चोरी",
+    "दुकान",
+    "खरीदारी",
+    "shoplifting"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "万引きは少額でも犯罪",
+    "summary": "店の商品を代金を払わずに持ち出す万引きは、窃盗罪にあたる犯罪です。金額が少なくても同じ犯罪として扱われます。商品を返したり弁償したりすれば済む問題ではありません。"
+   }
+  },
+  {
+   "id": "crime-violence",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/140AC0000000045",
+   "sources": [
+    {
+     "title": "刑法 第204条・第208条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "हिंसा अपराध है, चाहे किसी को चोट न लगे",
+   "summary": "किसी के साथ हिंसा करना अपराध (暴行) है, चाहे उसे चोट न लगे, और चोट लगने पर यह चोट पहुँचाने का अपराध (傷害) है। शराब की महफ़िल में झगड़ा हो, तब भी किसी को मारना अपराध है।",
+   "do": [
+    "झगड़े की नौबत दिखे तो वहाँ से हट जाएँ",
+    "ख़तरा लगे तो 110 पर कॉल करें"
+   ],
+   "dont": [
+    "किसी को मारना या लात मारना",
+    "शराब पी रखी है यह सोचकर हाथ उठाना"
+   ],
+   "keywords": [
+    "हिंसा",
+    "मारपीट",
+    "चोट",
+    "झगड़ा",
+    "शराब",
+    "110"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "暴力は、相手がけがをしなくても犯罪",
+    "summary": "人に暴力をふるうと、相手がけがをしなくても暴行の罪に、けがをさせれば傷害の罪になります。お酒の席のけんかでも、人を殴れば犯罪です。"
+   }
+  },
+  {
+   "id": "crime-yami-baito",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/yuugaiboshuu.html",
+   "sources": [
+    {
+     "title": "職業安定法に基づく周知｜闇バイトの募集について｜厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/yuugaiboshuu.html"
+    },
+    {
+     "title": "＃BAN 闇バイト | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/drug/yami_arbeit/ban_yamiarbeit.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "'आसान और ज़्यादा कमाई' वाले आपराधिक काम के झाँसे में न आएँ",
+   "summary": "'ज़्यादा पैसा', 'उसी दिन नकद', 'बस काग़ज़ लेने हैं' जैसे शब्दों से अपराध करवाने के लिए लोगों को ढूँढ़ने वाले 'यामी बाइतो (闇バイト)' विज्ञापन होते हैं। आवेदन के समय भेजे गए पहचान पत्र से 'घर आएँगे' या 'परिवार को नुकसान पहुँचाएँगे' जैसी धमकी दी जा सकती है, और आप काम छोड़ नहीं पाते। कोई बुलाए या आपने आवेदन कर दिया हो, तो तुरंत पुलिस से बात करें।",
+   "do": [
+    "पुलिस परामर्श लाइन #9110 या नज़दीकी पुलिस स्टेशन से बात करें",
+    "आवेदन से पहले काम और नियोक्ता की जाँच करें"
+   ],
+   "dont": [
+    "काम जाने बिना पहचान पत्र भेजना",
+    "गुमनाम रखने वाला ऐप डालने के निर्देश मानना"
+   ],
+   "keywords": [
+    "यामी बाइतो",
+    "ज़्यादा कमाई",
+    "उसी दिन नकद",
+    "साइड जॉब",
+    "सोशल मीडिया",
+    "पार्ट-टाइम",
+    "धोखाधड़ी",
+    "yami baito"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "「高収入・簡単」の闇バイトに応じない",
+    "summary": "「高額」「即日現金」「書類を受け取るだけ」といった言葉で、犯罪の実行役を集める「闇バイト」があります。応募のときに送った身分証明書を使って「家に行く」「家族に危害を加える」と脅され、やめられなくなることがあります。誘われたり応募してしまったりしたら、すぐ警察に相談してください。"
+   }
+  },
+  {
+   "id": "crime-one-person",
+   "category": "crime",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.moj.go.jp/JINKEN/jinken21.html",
+   "sources": [
+    {
+     "title": "外国人のための人権相談 | 法務省",
+     "url": "https://www.moj.go.jp/JINKEN/jinken21.html"
+    },
+    {
+     "title": "外国人の人権を尊重しましょう | 法務省",
+     "url": "https://www.moj.go.jp/JINKEN/jinken04_00101.html"
+    },
+    {
+     "title": "外国人の受入れ・秩序ある共生のための総合的対応策（令和8年1月23日）",
+     "url": "https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/pdf/kettei_sougoutekitaiousaku_honbun.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "एक व्यक्ति का अपराध सभी विदेशियों पर दोष बन सकता है",
+   "summary": "किसी एक विदेशी का किया अपराध कई बार सिर्फ़ उसी की समस्या नहीं रहता। वह 'विदेशी तो ऐसे ही होते हैं' जैसी बातों के रूप में, नियम मानकर रहने वाले सभी विदेशियों पर दोष बन जाता है। इसका मतलब यह नहीं कि ऐसा दोष देना सही है। कानून मानना आपकी और आपके साथ रहने वाले लोगों की भी रक्षा करता है। भेदभाव होने पर न्याय मंत्रालय (法務省) का मानवाधिकार परामर्श काउंटर है।",
+   "do": [
+    "'इतना तो चलता है' न सोचें, जापान के नियम जाँच लें",
+    "गैरकानूनी काम के लिए बुलाया जाए तो मना करें और आधिकारिक काउंटर से बात करें",
+    "भेदभाव होने पर मानवाधिकार परामर्श का उपयोग करें। परामर्श की भाषाएँ सीमित हैं, इसलिए लिंक पर देख लें"
+   ],
+   "dont": [
+    "जान-पहचान वाले के कहने पर या हल्के में लेकर गैरकानूनी काम में शामिल होना",
+    "'सब करते हैं' या 'पता नहीं चलेगा' सोचना"
+   ],
+   "keywords": [
+    "विदेशी",
+    "अपराध",
+    "पूर्वाग्रह",
+    "भेदभाव",
+    "मानवाधिकार परामर्श",
+    "foreigners"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "一人の犯罪が、外国人みんなへの非難に広がることがある",
+    "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。"
+   }
+  },
+  {
+   "id": "emergency-evacuation-info",
+   "category": "emergency",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/",
+   "sources": [
+    {
+     "title": "避難情報に関するガイドラインの改定（令和８年３月）: 防災情報のページ - 防災庁",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/"
+    },
+    {
+     "title": "避難情報のポイント",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/pdf/point.pdf"
+    },
+    {
+     "title": "避難情報に関するガイドライン 令和８年３月",
+     "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/pdf/hinan_guideline_r8_1.pdf"
+    },
+    {
+     "title": "防災気象情報と警戒レベルとの対応について",
+     "url": "https://www.jma.go.jp/jma/kishou/know/bosai/alertlevel.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "निकासी की जानकारी आने पर जल्दी निकलें",
+   "summary": "निकासी की जानकारी नगरपालिका के प्रमुख (市区町村長) जारी करते हैं। अलर्ट लेवल 4 के \"避難指示\" (निकासी का आदेश) तक हर हाल में निकल जाएँ। लेवल 3 के \"高齢者等避難\" (बुज़ुर्ग आदि की निकासी) पर बुज़ुर्ग और ऐसे लोग निकलते हैं जिन्हें निकलने में ज़्यादा समय लगता है। जानकारी जारी न हुई हो, तब भी खतरा महसूस हो, तो खुद तय करके निकल जाएँ।",
+   "do": [
+    "नगरपालिका की आपदा जानकारी पाने की व्यवस्था कर लें",
+    "खतरा महसूस हो, तो जानकारी जारी होने का इंतज़ार किए बिना निकलें"
+   ],
+   "dont": [
+    "लेवल 5 \"緊急安全確保\" (तुरंत सुरक्षा की व्यवस्था) का इंतज़ार करके ही निकलना"
+   ],
+   "keywords": [
+    "निकासी",
+    "निकासी का आदेश",
+    "अलर्ट लेवल",
+    "आपदा",
+    "तूफ़ान",
+    "भारी बारिश",
+    "evacuation",
+    "typhoon"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "避難情報が出たら早めに避難する",
+    "summary": "避難情報は市区町村長が出します。警戒レベル4の「避難指示」までに必ず避難します。レベル3の「高齢者等避難」では、高齢者など避難に時間がかかる人が避難します。情報が出ていなくても、危険を感じたら自分で判断して避難してください。"
+   }
+  },
+  {
+   "id": "emergency-hazard-map",
+   "category": "emergency",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://disaportal.gsi.go.jp/",
+   "sources": [
+    {
+     "title": "ハザードマップポータルサイト",
+     "url": "https://disaportal.gsi.go.jp/"
+    },
+    {
+     "title": "わがまちハザードマップ",
+     "url": "https://disaportal.gsi.go.jp/hazardmapportal/hazardmap/index.html"
+    },
+    {
+     "title": "指定緊急避難場所・指定避難所データ | 国土地理院",
+     "url": "https://www.gsi.go.jp/bousaichiri/hinanbasho.html"
+    },
+    {
+     "title": "避難場所に関すること : 防災情報のページ - 防災庁",
+     "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "हैज़र्ड मैप पर निकासी की जगह पहले से देख लें",
+   "summary": "सरकार की हैज़र्ड मैप पोर्टल साइट से आप नगरपालिकाओं के हैज़र्ड मैप देख सकते हैं। साइट सिर्फ़ जापानी में है। आपदा आने पर भागकर जाने की जगह \"指定緊急避難場所\" (तय इमरजेंसी निकासी स्थल) है, और कुछ समय रुकने की जगह \"指定避難所\" (तय शेल्टर) है। ये दोनों अलग हैं।",
+   "do": [
+    "घर, काम की जगह और स्कूल के आसपास के खतरे देखें",
+    "हर तरह की आपदा के लिए निकासी की जगह देख लें"
+   ],
+   "dont": [
+    "निकासी स्थल (避難場所) और शेल्टर (避難所) को एक ही मान लेना"
+   ],
+   "keywords": [
+    "हैज़र्ड मैप",
+    "निकासी की जगह",
+    "शेल्टर",
+    "आपदा",
+    "भूकंप",
+    "बाढ़",
+    "सुनामी",
+    "hazard map"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ハザードマップで避難先を確認しておく",
+    "summary": "国のハザードマップポータルサイトから、市区町村のハザードマップを確認できます。サイトは日本語のみです。災害が起きたときに逃げるのは「指定緊急避難場所」、しばらく滞在するのは「指定避難所」で、別のものです。"
+   }
+  },
+  {
+   "id": "emergency-110-119",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/japanese/finding_services/living_guide/living_guide_7.html",
+   "sources": [
+    {
+     "title": "こまったときは、どこに電話すればいいの？　警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/japanese/finding_services/living_guide/living_guide_7.html"
+    },
+    {
+     "title": "Who do I call if I need help?（こまったときは、どこに電話すればいいの？）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/finding_services/living_guide/living_guide_e_7.html"
+    },
+    {
+     "title": "ご意見、各種相談・情報提供等｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/goiken_index.html"
+    },
+    {
+     "title": "救急車利用マニュアル A guide for ambulance services | 救急お役立ち ポータルサイト | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/portal/post2.html"
+    },
+    {
+     "title": "警視庁 困ったときの電話（中文）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/chinese/finding_services/living_guide/living_guide_c_7.html"
+    },
+    {
+     "title": "경시청 곤란할 때 전화（한국어）",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/korean/finding_services/living_guide/living_guide_k_7.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "अपराध और एक्सीडेंट के लिए 110, आग और एम्बुलेंस के लिए 119",
+   "summary": "अपराध या एक्सीडेंट के लिए पुलिस का 110 है, और आग, अचानक बीमारी या चोट के लिए फ़ायर डिपार्टमेंट का 119 है। पुलिस से बिना इमरजेंसी वाली सलाह के लिए \"#9110\" है। एम्बुलेंस बुलाते समय, सबसे पहले 「救急です」 (क्यूक्यू देसु: एम्बुलेंस चाहिए) कहें।",
+   "do": [
+    "जगह और स्थिति शांति से बताएँ"
+   ],
+   "dont": [
+    "बिना इमरजेंसी वाली सलाह के लिए 110 पर कॉल करना"
+   ],
+   "keywords": [
+    "110",
+    "119",
+    "पुलिस",
+    "एम्बुलेंस",
+    "आग",
+    "इमरजेंसी",
+    "police",
+    "ambulance"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "事件・事故は110番、火事・救急は119番",
+    "summary": "事件や事故は警察の110番、火事や急病・けがは消防の119番です。緊急でない警察への相談は「#9110」です。救急車を呼ぶときは、最初に「救急です」と伝えます。"
+   }
+  },
+  {
+   "id": "emergency-ambulance-use",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html",
+   "sources": [
+    {
+     "title": "救急安心センター事業（♯7119）ってナニ？",
+     "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html"
+    },
+    {
+     "title": "救急車を上手に使いましょう ～救急車 必要なのはどんなとき?～",
+     "url": "https://www.fdma.go.jp/publication/portal/items/portal002_japanese121.pdf"
+    },
+    {
+     "title": "3　増大する救急需要への対応 | 令和7年版 消防白書 | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/hakusho/r7/report4/69209.html"
+    },
+    {
+     "title": "訪日外国人のための救急車利用ガイド | 救急お役立ち ポータルサイト | 総務省消防庁",
+     "url": "https://www.fdma.go.jp/publication/portal/post1.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "एम्बुलेंस बुलाने में संदेह हो, तो कहाँ पूछें",
+   "summary": "एम्बुलेंस बुलानी चाहिए या नहीं, यह तय न कर पाएँ, तो कुछ इलाकों में #7119 जैसे नंबर पर फ़ोन से सलाह ले सकते हैं। यह पूरे जापान में हर जगह उपलब्ध नहीं है, और नंबर और समय इलाके के अनुसार अलग होते हैं। विदेशी भाषा में सलाह मिलेगी या नहीं, यह जाँचना ज़रूरी है। जान को खतरे वाले लक्षण लगें, तो बिना झिझके 119 पर फ़ोन करें।",
+   "do": [
+    "जान को खतरे वाले लक्षण लगें, तो बिना झिझके 119 पर फ़ोन करें",
+    "अपने इलाके का सलाह केंद्र आधिकारिक पेज पर पहले से देख लें"
+   ],
+   "dont": [
+    "यह मान लेना कि #7119 पूरे जापान में चलता है"
+   ],
+   "keywords": [
+    "एम्बुलेंस",
+    "119",
+    "7119",
+    "सलाह",
+    "अस्पताल",
+    "अचानक बीमारी",
+    "ambulance",
+    "hospital"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "救急車を呼ぶか迷ったときの相談先",
+    "summary": "救急車を呼ぶべきか判断に困ったときは、地域によっては#7119などの電話で相談できます。全国どこでも使えるわけではなく、番号や時間は地域で違います。外国語で相談できるかは確認が必要です。命に関わりそうな症状があるときは、ためらわず119番に電話してください。"
+   }
+  },
+  {
+   "id": "emergency-disaster-171",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.soumu.go.jp/hakusho-kids/howto/usesp/usesp_08.html",
+   "sources": [
+    {
+     "title": "情報通信白書 for Kids：インターネットを使ってみよう：災害時にもスマートフォン・SNSを活用しよう",
+     "url": "https://www.soumu.go.jp/hakusho-kids/howto/usesp/usesp_08.html"
+    },
+    {
+     "title": "災害時に活用できる 情報伝達手段",
+     "url": "https://www.soumu.go.jp/main_content/000497711.pdf"
+    },
+    {
+     "title": "How to Use | Disaster Emergency Message Dial(171) | Corporate Information | NTT EAST",
+     "url": "https://www.ntt-east.co.jp/en/saigai/voice171s/goriyou.html"
+    },
+    {
+     "title": "Q&A Disaster Emergency Message Dial (171) Measure for natural disaster - Telecommunications and ICT Services and Solutions",
+     "url": "https://www.ntt-west.co.jp/dengon/english/qa/"
+    },
+    {
+     "title": "Overview of the service and how you can access it",
+     "url": "https://www.ntt-west.co.jp/dengon/web171/english/overview/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "आपदा के समय संपर्क के लिए डिज़ास्टर मैसेज डायल 171",
+   "summary": "बड़ी आपदा के समय फ़ोन लगना मुश्किल हो जाता है, और आवाज़ में संदेश छोड़ने की सेवा \"171\" चलाई जाती है। यह आम दिनों में नहीं चलती, इसके आवाज़ वाले निर्देश सिर्फ़ जापानी में हैं, और यह विदेश से इस्तेमाल नहीं हो सकती। लिखकर संदेश छोड़ने की सेवा \"web171\" भी है। फ़ोन कॉल कम से कम करें और डेटा का इस्तेमाल करें।",
+   "do": [
+    "परिवार के साथ संपर्क का तरीका पहले से तय कर लें",
+    "कॉल न लगे, तो डेटा या web171 का इस्तेमाल करें"
+   ],
+   "dont": [
+    "यह मान लेना कि 171 हर समय चलता है"
+   ],
+   "keywords": [
+    "171",
+    "डिज़ास्टर मैसेज डायल",
+    "web171",
+    "भूकंप",
+    "संपर्क",
+    "सुरक्षा की जानकारी",
+    "disaster",
+    "earthquake"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "災害時の連絡には災害用伝言ダイヤル171",
+    "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
+   }
+  },
+  {
+   "id": "travel-drone-rules",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/en/koku/uas.html",
+   "sources": [
+    {
+     "title": "Flight Rules for Unmanned Aircraft (Drones and Model Aircraft, etc.) | MLIT",
+     "url": "https://www.mlit.go.jp/en/koku/uas.html"
+    },
+    {
+     "title": "無人航空機(ドローン・ラジコン機等)の飛行ルール | 国土交通省",
+     "url": "https://www.mlit.go.jp/koku/koku_tk10_000003.html"
+    },
+    {
+     "title": "Responsible Photography in Japan | JNTO",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "ड्रोन उड़ाने से पहले उड़ान के नियम देख लें",
+   "summary": "जापान में ड्रोन उड़ाने के लिए, कुछ मामलों में ड्रोन का रजिस्ट्रेशन ज़रूरी होता है। हवाई अड्डों के आसपास और घनी आबादी वाले इलाकों जैसी जगहों पर बिना अनुमति नहीं उड़ा सकते।",
+   "do": [
+    "उड़ाने से पहले रजिस्ट्रेशन और उड़ाने की जगहें आधिकारिक जानकारी में देखें",
+    "श्राइन, टेंपल, पार्क जैसी जगहों के नियम भी देखें"
+   ],
+   "dont": [
+    "बिना अनुमति हवाई अड्डों के आसपास या शहरी इलाकों के ऊपर उड़ाना"
+   ],
+   "keywords": [
+    "ड्रोन",
+    "एविएशन कानून",
+    "उड़ान",
+    "रजिस्ट्रेशन",
+    "फ़ोटो",
+    "यात्रा",
+    "drone",
+    "travel"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ドローンは飛行ルールを確認してから飛ばす",
+    "summary": "日本でドローンを飛ばすには、機体の登録が必要な場合があります。空港の周辺や人が多い地区などでは、許可なく飛ばせません。"
+   }
+  },
+  {
+   "id": "travel-medicine-check",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.customs.go.jp/english/c-answer_e/sonota/9005_e.htm",
+   "sources": [
+    {
+     "title": "9005 海外旅行者向け(医薬品・化粧品等)カスタムスアンサー | 税関",
+     "url": "https://www.customs.go.jp/tetsuzuki/c-answer/sonota/9005_jr.htm"
+    },
+    {
+     "title": "医療用麻薬・覚醒剤原料・向精神薬を携帯して海外へ渡航する際の手続きについて | 近畿厚生局",
+     "url": "https://kouseikyoku.mhlw.go.jp/kinki/shinsei/mayaku_torishimari/kaigai.html"
+    },
+    {
+     "title": "Application Guidance | Narcotics Control Department",
+     "url": "https://www.ncd.mhlw.go.jp/en/application2.html"
+    },
+    {
+     "title": "医薬品等を海外から購入しようとされる方へ | 厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/index.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "दवा लाने से पहले नियम देख लें",
+   "summary": "विदेश से लाई जाने वाली कुछ दवाओं पर मात्रा के नियम होते हैं या पहले से प्रक्रिया ज़रूरी होती है। एम्फ़ेटामाइन जैसी स्टिम्युलेंट दवाएँ (覚醒剤) और कैनबिस (大麻) इलाज के लिए भी नहीं लाई जा सकतीं।",
+   "do": [
+    "निकलने से पहले अपनी दवा के प्रकार के नियम आधिकारिक जानकारी में देखें",
+    "डॉक्टर की लिखी दवा के साथ प्रिस्क्रिप्शन की कॉपी या डॉक्टर का सर्टिफ़िकेट रखें"
+   ],
+   "dont": [
+    "यह जाँचे बिना दवा लाना कि प्रक्रिया ज़रूरी है या नहीं",
+    "किसी दूसरे की दवा अपने पास रखकर लाना"
+   ],
+   "keywords": [
+    "दवा",
+    "कस्टम",
+    "प्रिस्क्रिप्शन",
+    "एम्फ़ेटामाइन",
+    "कैनबिस",
+    "भांग",
+    "medicine",
+    "travel"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "薬を持ち込む前にルールを確認する",
+    "summary": "海外から持ち込む薬には、数量の決まりや事前の手続きが必要なものがあります。アンフェタミンなどの覚醒剤や大麻は、治療のためでも持ち込めません。"
+   }
+  },
+  {
+   "id": "travel-passport-carry",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/326CO0000000319",
+   "sources": [
+    {
+     "title": "出入国管理及び難民認定法 第23条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/326CO0000000319"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "यात्रा के दौरान पासपोर्ट साथ रखें",
+   "summary": "जिन यात्रियों के पास रेज़िडेंस कार्ड नहीं है, उनके लिए पासपोर्ट हमेशा साथ रखना नियम है। पुलिस अधिकारी जैसे लोग माँगें, तो दिखाना होता है। इसके अपवाद भी हैं, इसलिए विस्तार से आधिकारिक जानकारी में देखें।",
+   "do": [
+    "बाहर जाते समय पासपोर्ट साथ लेकर जाएँ",
+    "पुलिस अधिकारी जैसे लोग माँगें, तो दिखाएँ"
+   ],
+   "dont": [
+    "पासपोर्ट होटल में छोड़कर बाहर जाना"
+   ],
+   "keywords": [
+    "पासपोर्ट",
+    "साथ रखना",
+    "शॉर्ट-टर्म स्टे",
+    "यात्रा",
+    "पर्यटन",
+    "passport",
+    "tourist"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "旅行中はパスポートを持ち歩く",
+    "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
+   }
+  },
+  {
+   "id": "travel-shinkansen-luggage",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+   "sources": [
+    {
+     "title": "東海道・山陽・九州・西九州新幹線への特大荷物のお持ち込みについて | JR東海",
+     "url": "https://railway.jr-central.co.jp/oversized-baggage/"
+    },
+    {
+     "title": "Luggage information | Central Japan Railway Company",
+     "url": "https://global.jr-central.co.jp/en/info/oversized-baggage/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "शिंकानसेन में बड़ा सामान ले जाना हो, तो बुकिंग करें",
+   "summary": "तोकाइदो, सान्यो, क्यूशू और निशि-क्यूशू शिंकानसेन में, तय आकार से बड़ा सामान ले जाने पर, सामान की जगह वाली सीट बुक करना ज़रूरी है। आकार की सीमा आधिकारिक जानकारी में देखें।",
+   "do": [
+    "टिकट खरीदते समय \"特大荷物スペースつき座席\" (बड़े सामान की जगह वाली सीट) चुनें",
+    "सामान जमा कराने की सेवा या कॉइन लॉकर के बारे में भी सोचें"
+   ],
+   "dont": [
+    "बुकिंग के बिना बड़ा सामान लेकर चढ़ना"
+   ],
+   "keywords": [
+    "शिंकानसेन",
+    "बुलेट ट्रेन",
+    "सामान",
+    "सूटकेस",
+    "बुकिंग",
+    "कॉइन लॉकर",
+    "shinkansen",
+    "luggage"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "新幹線に大きな荷物を持ち込むときは予約する",
+    "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
+   }
+  },
+  {
+   "id": "travel-eating-walking",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/",
+   "sources": [
+    {
+     "title": "Japanese Etiquette | JNTO",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    },
+    {
+     "title": "鎌倉市公共の場所におけるマナーの向上に関する条例について | 鎌倉市",
+     "url": "https://www.city.kamakura.kanagawa.jp/kankou/mannerruleshead.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "भीड़ वाली जगहों पर चलते हुए न खाएँ",
+   "summary": "चलते हुए खाना कई जगहों पर असभ्य माना जाता है। तंग रास्तों या भीड़ वाली जगहों पर दूसरों के कपड़े भी गंदे हो सकते हैं।",
+   "do": [
+    "जहाँ बैठ सकें या रुक सकें, वहाँ खाएँ",
+    "कचरा साथ रखें और बाद में फेंकें"
+   ],
+   "dont": [
+    "भीड़ वाले रास्ते पर चलते हुए खाना"
+   ],
+   "keywords": [
+    "चलते हुए खाना",
+    "स्ट्रीट फ़ूड",
+    "भीड़",
+    "यात्रा",
+    "पर्यटन",
+    "eating while walking",
+    "street food"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "混雑した場所では歩きながら食べない",
+    "summary": "歩きながら食べるのは、多くの場所で行儀が悪いと受け取られます。狭い道や混雑した場所では、ほかの人の服を汚すこともあります。"
+   }
+  },
+  {
+   "id": "travel-minpaku-noise",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/minpaku/",
+   "sources": [
+    {
+     "title": "民泊制度ポータルサイト | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/minpaku/"
+    },
+    {
+     "title": "住宅宿泊事業法 第9条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/429AC0000000065"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "होमस्टे (民泊) में रात को शोर न करें",
+   "summary": "होमस्टे या किराये के घर (民泊) अक्सर रिहायशी इलाक़ों में होते हैं, जहाँ आसपास लोग रहते हैं। कानून के अनुसार मेज़बान को मेहमानों को शोर से बचने के लिए ध्यान रखने वाली बातें बतानी होती हैं। बताए गए नियम मानें और रात व सुबह-सुबह शांत रहें।",
+   "do": [
+    "मेज़बान के बताए नियम मानें",
+    "रात और सुबह-सुबह शांत रहें"
+   ],
+   "dont": [
+    "रात को कमरे में ज़ोर से शोर करना",
+    "इमारत के सामने या सड़क पर जमा होकर शोर करना"
+   ],
+   "keywords": [
+    "होमस्टे",
+    "किराये का घर",
+    "शोर",
+    "रात",
+    "पड़ोसी",
+    "यात्रा",
+    "minpaku"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "民泊では夜の音に気をつける",
+    "summary": "民泊は住宅街にあることが多く、まわりで人が暮らしています。法律で、民泊の事業者は宿泊者に騒音を防ぐための注意を説明することになっています。説明された決まりを守り、夜や早朝は静かに過ごします。"
+   }
+  },
+  {
+   "id": "travel-photo-manners",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/",
+   "sources": [
+    {
+     "title": "Responsible Photography in Japan | JNTO",
+     "url": "https://www.japan.travel/en/responsible-travel-guide/features/responsible-photography/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    },
+    {
+     "title": "鎌倉市公共の場所におけるマナーの向上に関する条例について | 鎌倉市",
+     "url": "https://www.city.kamakura.kanagawa.jp/kankou/mannerruleshead.html"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "फ़ोटो लेते समय लोगों और जगह का ध्यान रखें",
+   "summary": "अनजान लोगों की फ़ोटो लेनी हो, तो पहले उनसे बात करें। फ़ोटो के लिए निजी ज़मीन पर या बाड़ के अंदर न जाएँ, और फ़ोटो मना होने के संकेत मानें।",
+   "do": [
+    "लोगों की फ़ोटो लेने से पहले अनुमति लें",
+    "फ़ोटो मना होने के संकेत और स्टाफ़ के निर्देश मानें",
+    "तय रास्ते पर चलें"
+   ],
+   "dont": [
+    "फ़ोटो के लिए निजी ज़मीन पर या बाड़ के अंदर जाना",
+    "सड़क पर आकर फ़ोटो लेना",
+    "रेल पटरी के पास जैसी खतरनाक जगहों पर फ़ोटो लेना"
+   ],
+   "keywords": [
+    "फ़ोटो",
+    "सेल्फ़ी",
+    "निजी ज़मीन",
+    "प्रवेश मना",
+    "ट्राइपॉड",
+    "यात्रा",
+    "पर्यटन",
+    "photo"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "写真を撮るときは人と場所に配慮する",
+    "summary": "知らない人を撮るときは、先に声をかけます。写真のために私有地や柵の中に入らず、撮影禁止の表示に従います。"
+   }
+  },
+  {
+   "id": "travel-shrine-temple",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.japan.travel/en/guide/shrine-and-temple-traditions/",
+   "sources": [
+    {
+     "title": "Shrine and Temple Traditions | JNTO",
+     "url": "https://www.japan.travel/en/guide/shrine-and-temple-traditions/"
+    },
+    {
+     "title": "FAQ | JNTO",
+     "url": "https://www.japan.travel/en/faq/"
+    },
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "श्राइन और टेंपल में शांत रहें और सम्मान दिखाएँ",
+   "summary": "श्राइन (神社) और टेंपल (お寺) आस्था की जगहें हैं। शांति से व्यवहार करें, और संकेतों और निर्देशों का पालन करें। पूजा का तरीका पता न हो, तो आसपास के लोगों जैसा करना ठीक है।",
+   "do": [
+    "शांति से व्यवहार करें",
+    "निर्देश के अनुसार जूते उतारें",
+    "फ़ोटो मना होने के संकेत मानें"
+   ],
+   "dont": [
+    "प्रवेश मना वाली जगहों में जाना",
+    "बहुत खुले कपड़े पहनकर जाना",
+    "इमारतों या सांस्कृतिक धरोहरों पर कुछ लिखना या बनाना"
+   ],
+   "keywords": [
+    "श्राइन",
+    "टेंपल",
+    "मंदिर",
+    "पूजा",
+    "तोरी",
+    "जूते",
+    "shrine",
+    "temple"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "神社やお寺では静かに敬意を払う",
+    "summary": "神社やお寺は信仰の場所です。静かにふるまい、表示や案内に従います。参拝の作法に迷ったら、周りの人に合わせれば大丈夫です。"
+   }
+  },
+  {
+   "id": "travel-trash-carry",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf",
+   "sources": [
+    {
+     "title": "Travel Etiquette | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/assets/pdf/etiquette_booklet_eng.pdf"
+    },
+    {
+     "title": "FAQ | JNTO",
+     "url": "https://www.japan.travel/en/faq/"
+    },
+    {
+     "title": "Japanese Etiquette | JNTO",
+     "url": "https://www.japan.travel/en/ph/irasshaimase/travel-tips/japanese-etiquette/"
+    }
+   ],
+   "last_verified": "2026-11-09",
+   "title": "कूड़ेदान न मिले, तो कचरा साथ ले जाएँ",
+   "summary": "शहर में कूड़ेदान ज़्यादा नहीं होते। कूड़ेदान मिले, तो छाँटकर डालें। न मिले, तो साथ रखें और बाद में फेंकें।",
+   "do": [
+    "छोटा थैला साथ रखें",
+    "कैन, काँच की बोतल और प्लास्टिक बोतल अलग-अलग डालें"
+   ],
+   "dont": [
+    "सड़क या पर्यटन स्थलों पर कचरा छोड़ जाना"
+   ],
+   "keywords": [
+    "कचरा",
+    "कूड़ेदान",
+    "साथ ले जाना",
+    "छँटाई",
+    "प्लास्टिक बोतल",
+    "यात्रा",
+    "trash",
+    "garbage"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "ごみ箱がなければ持ち帰る",
+    "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
+   }
+  },
+  {
+   "id": "travel-yukata",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://wwwtb.mlit.go.jp/hokkaido/content/000232530.pdf",
+   "sources": [
+    {
+     "title": "Onsen guide | 国土交通省 北海道運輸局",
+     "url": "https://wwwtb.mlit.go.jp/hokkaido/content/000232530.pdf"
+    }
+   ],
+   "last_verified": "2026-11-10",
+   "title": "युकाता बाईं ओर को दाईं ओर के ऊपर रखकर पहनें",
+   "summary": "र्योकान और ऑनसेन होटलों में अक्सर कमरे में युकाता रखा होता है। युकाता का बायाँ हिस्सा दाएँ हिस्से के ऊपर रखकर पहनें और ओबी (कमरबंद) कमर के सामने बाँधें।",
+   "do": [
+    "बायाँ हिस्सा दाएँ के ऊपर रखें",
+    "ओबी कमर के सामने बाँधें",
+    "युकाता पहनकर कहाँ तक जा सकते हैं, यह होटल के निर्देश से जानें"
+   ],
+   "dont": [
+    "दायाँ हिस्सा ऊपर रखकर पहनना"
+   ],
+   "keywords": [
+    "युकाता",
+    "र्योकान",
+    "ऑनसेन",
+    "ओबी",
+    "पहनने का तरीका",
+    "यात्रा",
+    "yukata"
+   ],
+   "text_language": "hi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "浴衣は左側を上に重ねて着る",
+    "summary": "旅館や温泉宿では、部屋に浴衣が用意されていることがあります。浴衣は左側を右側の上に重ねて着て、帯は腰の前で結びます。"
+   }
+  }
+ ],
+ "regions": [
+  {
+   "code": "01",
+   "name": "होक्काइदो",
+   "name_ja": "北海道",
+   "official_url": "https://www.pref.hokkaido.lg.jp/"
+  },
+  {
+   "code": "02",
+   "name": "आओमोरी",
+   "name_ja": "青森県",
+   "official_url": "https://www.pref.aomori.lg.jp/"
+  },
+  {
+   "code": "03",
+   "name": "इवाते",
+   "name_ja": "岩手県",
+   "official_url": "https://www.pref.iwate.jp/"
+  },
+  {
+   "code": "04",
+   "name": "मियागी",
+   "name_ja": "宮城県",
+   "official_url": "https://www.pref.miyagi.jp/"
+  },
+  {
+   "code": "05",
+   "name": "अकिता",
+   "name_ja": "秋田県",
+   "official_url": "https://www.pref.akita.lg.jp/"
+  },
+  {
+   "code": "06",
+   "name": "यामागाता",
+   "name_ja": "山形県",
+   "official_url": "https://www.pref.yamagata.jp/"
+  },
+  {
+   "code": "07",
+   "name": "फ़ुकुशिमा",
+   "name_ja": "福島県",
+   "official_url": "https://www.pref.fukushima.lg.jp/"
+  },
+  {
+   "code": "08",
+   "name": "इबाराकी",
+   "name_ja": "茨城県",
+   "official_url": "https://www.pref.ibaraki.jp/"
+  },
+  {
+   "code": "09",
+   "name": "तोचिगी",
+   "name_ja": "栃木県",
+   "official_url": "https://www.pref.tochigi.lg.jp/"
+  },
+  {
+   "code": "10",
+   "name": "गुन्मा",
+   "name_ja": "群馬県",
+   "official_url": "https://www.pref.gunma.jp/"
+  },
+  {
+   "code": "11",
+   "name": "साइतामा",
+   "name_ja": "埼玉県",
+   "official_url": "https://www.pref.saitama.lg.jp/"
+  },
+  {
+   "code": "12",
+   "name": "चिबा",
+   "name_ja": "千葉県",
+   "official_url": "https://www.pref.chiba.lg.jp/"
+  },
+  {
+   "code": "13",
+   "name": "टोक्यो",
+   "name_ja": "東京都",
+   "official_url": "https://www.metro.tokyo.lg.jp/"
+  },
+  {
+   "code": "14",
+   "name": "कानागावा",
+   "name_ja": "神奈川県",
+   "official_url": "https://www.pref.kanagawa.jp/"
+  },
+  {
+   "code": "15",
+   "name": "निइगाता",
+   "name_ja": "新潟県",
+   "official_url": "https://www.pref.niigata.lg.jp/"
+  },
+  {
+   "code": "16",
+   "name": "तोयामा",
+   "name_ja": "富山県",
+   "official_url": "https://www.pref.toyama.jp/"
+  },
+  {
+   "code": "17",
+   "name": "इशिकावा",
+   "name_ja": "石川県",
+   "official_url": "https://www.pref.ishikawa.lg.jp/"
+  },
+  {
+   "code": "18",
+   "name": "फ़ुकुई",
+   "name_ja": "福井県",
+   "official_url": "https://www.pref.fukui.lg.jp/"
+  },
+  {
+   "code": "19",
+   "name": "यामानाशी",
+   "name_ja": "山梨県",
+   "official_url": "https://www.pref.yamanashi.jp/"
+  },
+  {
+   "code": "20",
+   "name": "नागानो",
+   "name_ja": "長野県",
+   "official_url": "https://www.pref.nagano.lg.jp/"
+  },
+  {
+   "code": "21",
+   "name": "गिफ़ू",
+   "name_ja": "岐阜県",
+   "official_url": "https://www.pref.gifu.lg.jp/"
+  },
+  {
+   "code": "22",
+   "name": "शिज़ुओका",
+   "name_ja": "静岡県",
+   "official_url": "https://www.pref.shizuoka.jp/"
+  },
+  {
+   "code": "23",
+   "name": "आइची",
+   "name_ja": "愛知県",
+   "official_url": "https://www.pref.aichi.jp/"
+  },
+  {
+   "code": "24",
+   "name": "मिए",
+   "name_ja": "三重県",
+   "official_url": "https://www.pref.mie.lg.jp/"
+  },
+  {
+   "code": "25",
+   "name": "शिगा",
+   "name_ja": "滋賀県",
+   "official_url": "https://www.pref.shiga.lg.jp/"
+  },
+  {
+   "code": "26",
+   "name": "क्योतो",
+   "name_ja": "京都府",
+   "official_url": "https://www.pref.kyoto.jp/"
+  },
+  {
+   "code": "27",
+   "name": "ओसाका",
+   "name_ja": "大阪府",
+   "official_url": "https://www.pref.osaka.lg.jp/index.html"
+  },
+  {
+   "code": "28",
+   "name": "ह्योगो",
+   "name_ja": "兵庫県",
+   "official_url": "https://web.pref.hyogo.lg.jp/"
+  },
+  {
+   "code": "29",
+   "name": "नारा",
+   "name_ja": "奈良県",
+   "official_url": "https://www.pref.nara.lg.jp/"
+  },
+  {
+   "code": "30",
+   "name": "वाकायामा",
+   "name_ja": "和歌山県",
+   "official_url": "https://www.pref.wakayama.lg.jp/"
+  },
+  {
+   "code": "31",
+   "name": "तोत्तोरी",
+   "name_ja": "鳥取県",
+   "official_url": "https://www.pref.tottori.lg.jp/"
+  },
+  {
+   "code": "32",
+   "name": "शिमाने",
+   "name_ja": "島根県",
+   "official_url": "https://www.pref.shimane.lg.jp/"
+  },
+  {
+   "code": "33",
+   "name": "ओकायामा",
+   "name_ja": "岡山県",
+   "official_url": "https://www.pref.okayama.jp/"
+  },
+  {
+   "code": "34",
+   "name": "हिरोशिमा",
+   "name_ja": "広島県",
+   "official_url": "https://www.pref.hiroshima.lg.jp/"
+  },
+  {
+   "code": "35",
+   "name": "यामागुची",
+   "name_ja": "山口県",
+   "official_url": "https://www.pref.yamaguchi.lg.jp/"
+  },
+  {
+   "code": "36",
+   "name": "तोकुशिमा",
+   "name_ja": "徳島県",
+   "official_url": "https://www.pref.tokushima.lg.jp/"
+  },
+  {
+   "code": "37",
+   "name": "कागावा",
+   "name_ja": "香川県",
+   "official_url": "https://www.pref.kagawa.lg.jp/"
+  },
+  {
+   "code": "38",
+   "name": "एहिमे",
+   "name_ja": "愛媛県",
+   "official_url": "https://www.pref.ehime.jp/"
+  },
+  {
+   "code": "39",
+   "name": "कोची",
+   "name_ja": "高知県",
+   "official_url": "https://www.pref.kochi.lg.jp/"
+  },
+  {
+   "code": "40",
+   "name": "फ़ुकुओका",
+   "name_ja": "福岡県",
+   "official_url": "https://www.pref.fukuoka.lg.jp/"
+  },
+  {
+   "code": "41",
+   "name": "सागा",
+   "name_ja": "佐賀県",
+   "official_url": "https://www.pref.saga.lg.jp/"
+  },
+  {
+   "code": "42",
+   "name": "नागासाकी",
+   "name_ja": "長崎県",
+   "official_url": "https://www.pref.nagasaki.jp/"
+  },
+  {
+   "code": "43",
+   "name": "कुमामोतो",
+   "name_ja": "熊本県",
+   "official_url": "https://www.pref.kumamoto.jp/"
+  },
+  {
+   "code": "44",
+   "name": "ओइता",
+   "name_ja": "大分県",
+   "official_url": "https://www.pref.oita.jp/"
+  },
+  {
+   "code": "45",
+   "name": "मियाज़ाकी",
+   "name_ja": "宮崎県",
+   "official_url": "https://www.pref.miyazaki.lg.jp/"
+  },
+  {
+   "code": "46",
+   "name": "कागोशिमा",
+   "name_ja": "鹿児島県",
+   "official_url": "https://www.pref.kagoshima.jp/"
+  },
+  {
+   "code": "47",
+   "name": "ओकिनावा",
+   "name_ja": "沖縄県",
+   "official_url": "https://www.pref.okinawa.lg.jp/"
+  }
+ ],
+ "links": [
+  {
+   "id": "ambulance-guide",
+   "group": "emergency",
+   "url": "https://www.fdma.go.jp/publication/portal/post1.html",
+   "title": "एम्बुलेंस इस्तेमाल करने की गाइड (फ़ायर एंड डिज़ास्टर मैनेजमेंट एजेंसी, कई भाषाओं में)"
+  },
+  {
+   "id": "ambulance-advice",
+   "group": "emergency",
+   "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html",
+   "title": "एम्बुलेंस सलाह फ़ोन लाइन (#7119) वाले इलाकों की सूची (फ़ायर एंड डिज़ास्टर मैनेजमेंट एजेंसी, जापानी में)"
+  },
+  {
+   "id": "police-multilingual",
+   "group": "emergency",
+   "url": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/index.html",
+   "title": "टोक्यो मेट्रोपॉलिटन पुलिस की कई भाषाओं वाली गाइड (टोक्यो का उदाहरण)"
+  },
+  {
+   "id": "hazard-map",
+   "group": "emergency",
+   "url": "https://disaportal.gsi.go.jp/",
+   "title": "हैज़र्ड मैप पोर्टल (भूमि, बुनियादी ढांचा, परिवहन और पर्यटन मंत्रालय, जापानी में)"
+  },
+  {
+   "id": "safety-tips",
+   "group": "emergency",
+   "url": "https://www.jnto.go.jp/safety-tips/eng/app.html",
+   "title": "आपदा की जानकारी का ऐप Safety tips (JNTO)"
+  },
+  {
+   "id": "visitor-hotline",
+   "group": "emergency",
+   "url": "https://www.japan.travel/en/plan/emergencies/",
+   "title": "JNTO की इमरजेंसी गाइड और हॉटलाइन (अंग्रेज़ी में)"
+  },
+  {
+   "id": "fresc",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/fresc/fresc01.html",
+   "title": "फ़ॉरेन रेज़िडेंट्स सपोर्ट सेंटर (FRESC)"
+  },
+  {
+   "id": "immigration-information-center",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/consultation/center/index.html",
+   "title": "विदेशी निवासियों के लिए जनरल इन्फ़ॉर्मेशन सेंटर (इमिग्रेशन)"
+  },
+  {
+   "id": "houterasu",
+   "group": "consultation",
+   "url": "https://www.houterasu.or.jp/site/foreign-nationals/index-2.html",
+   "title": "Houterasu: कई भाषाओं में कानूनी व्यवस्था की जानकारी"
+  },
+  {
+   "id": "human-rights",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/JINKEN/jinken21.html",
+   "title": "विदेशी नागरिकों के लिए मानवाधिकार परामर्श (न्याय मंत्रालय)"
+  },
+  {
+   "id": "support-portal",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/portal/index.html",
+   "title": "विदेशी निवासियों के लिए जीवन सहायता पोर्टल (इमिग्रेशन)"
+  },
+  {
+   "id": "life-guidebook",
+   "group": "consultation",
+   "url": "https://www.moj.go.jp/isa/support/portal/guidebook_all.html",
+   "title": "जीवन और काम की गाइडबुक (कई भाषाओं में)"
+  },
+  {
+   "id": "municipalities",
+   "group": "local",
+   "url": "https://www.e-gov.go.jp/government-directory/local-governments.html",
+   "title": "स्थानीय सरकारों की वेबसाइटें (e-Gov, जापानी में)"
+  },
+  {
+   "id": "clair",
+   "group": "local",
+   "url": "https://www.clair.or.jp/tagengo/",
+   "title": "कई भाषाओं में जीवन से जुड़ी जानकारी (CLAIR)"
+  }
+ ]
+}

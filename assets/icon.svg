@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="When in Japan">
+  <rect width="64" height="64" rx="14" fill="#28478A"/>
+  <rect x="11" y="17" width="13" height="32" rx="1.5" fill="#74CFA6"/>
+  <rect x="25.5" y="17" width="13" height="32" rx="1.5" fill="#E9B85E"/>
+  <rect x="40" y="17" width="13" height="32" rx="1.5" fill="#F29490"/>
+  <rect x="8" y="14" width="48" height="4" rx="2" fill="#F7F1E4"/>
+  <circle cx="32" cy="33" r="11.5" fill="none" stroke="#F7F1E4" stroke-width="2.6"/>
+</svg>
