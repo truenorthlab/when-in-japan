@@ -116,6 +116,7 @@
     "洗衣机",
     "垃圾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -169,6 +170,7 @@
     "焚烧",
     "烧垃圾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -222,11 +224,55 @@
     "垃圾日历",
     "收集点"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "ごみは決められた日・時間・場所に出す",
     "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "garbage-lithium-batteries",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/recycle/waste/lithium_1/index.html",
+   "sources": [
+    {
+     "title": "リチウムイオン電池関係｜環境省",
+     "url": "https://www.env.go.jp/recycle/waste/lithium_1/index.html"
+    },
+    {
+     "title": "火災事故について｜リチウムイオン電池総合対策ポータル本部｜総務省消防庁",
+     "url": "https://www.fdma.go.jp/relocation/lithium-ion/accident/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "不要把充电宝等电池混入其他垃圾",
+   "summary": "锂离子电池以及使用锂离子电池的充电宝等产品，如果混入其他垃圾，会在垃圾车或垃圾处理设施中引发火灾。从家中丢弃时，请按照所居住的市区町村的垃圾投放规则处理。",
+   "do": [
+    "确认市区町村的垃圾投放规则",
+    "不清楚怎么丢时向市区町村咨询"
+   ],
+   "dont": [
+    "混入可燃垃圾或不可燃垃圾中丢弃"
+   ],
+   "keywords": [
+    "电池",
+    "锂离子电池",
+    "充电宝",
+    "移动电源",
+    "火灾",
+    "垃圾"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "モバイルバッテリーなどの電池をほかのごみに混ぜない",
+    "summary": "リチウムイオン電池や、それを使ったモバイルバッテリーなどの製品がほかのごみに混ざると、ごみ収集車やごみ処理施設で火災の原因になります。家庭から出すときは、住んでいる市区町村のごみの出し方に従ってください。"
    },
    "see_also": []
   },
@@ -267,6 +313,7 @@
     "申请",
     "垃圾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -308,6 +355,7 @@
     "资源垃圾",
     "回收"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -354,6 +402,7 @@
     "转租",
     "房东"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -391,6 +440,7 @@
     "租房",
     "搬家"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -432,6 +482,7 @@
     "阳台",
     "疏散"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -474,6 +525,7 @@
     "被子",
     "烧烤"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -510,6 +562,7 @@
     "社区",
     "邻里"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -544,10 +597,11 @@
    ],
    "last_verified": "2026-11-09",
    "title": "从夜间到清晨注意生活噪音",
-   "summary": "在集合住宅里，声音很容易传到隔壁和楼上楼下。尤其从夜间到清晨要多加注意。",
+   "summary": "在集合住宅里，声音很容易传到隔壁和楼上楼下。尤其从夜间到清晨要多加注意。乐器和音响的声音也要注意音量和时间段。",
    "do": [
     "控制说话声和电视音量",
-    "注意吸尘器、洗衣机和开关门的声音"
+    "注意吸尘器、洗衣机和开关门的声音",
+    "演奏乐器或使用音箱时注意音量和时间段"
    ],
    "dont": [
     "深夜开派对",
@@ -558,13 +612,17 @@
     "声音",
     "夜间",
     "公寓",
-    "邻居"
+    "邻居",
+    "乐器",
+    "钢琴",
+    "音箱"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "夜から早朝は生活音に気をつける",
-    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
+    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。楽器やオーディオの音も、音量と時間帯に気をつけましょう。"
    },
    "see_also": []
   },
@@ -599,6 +657,7 @@
     "叫声",
     "粪便"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -642,6 +701,7 @@
     "玄关",
     "习惯"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -649,6 +709,58 @@
     "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
    },
    "see_also": []
+  },
+  {
+   "id": "daily-crossing-road",
+   "category": "daily",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html",
+   "sources": [
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第12条・第13条・第76条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "遵守信号灯，走人行横道",
+   "summary": "行人也必须遵守信号灯。附近有人行横道时要从那里过马路。除标志允许的地方外，不要斜穿道路，也不要从车辆的正前方或正后方横穿。为了拍照而停在车行道上等，以妨碍交通的方式在道路上停留，也是法律禁止的。",
+   "do": [
+    "遵守行人信号灯",
+    "从附近的人行横道过马路",
+    "在人行道上安全的地方拍照"
+   ],
+   "dont": [
+    "闯红灯过马路",
+    "斜穿道路",
+    "走到车行道上拍照"
+   ],
+   "keywords": [
+    "信号灯",
+    "红绿灯",
+    "人行横道",
+    "斑马线",
+    "行人",
+    "闯红灯",
+    "过马路",
+    "拍照"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "信号を守り、横断歩道を渡る",
+    "summary": "歩行者も信号に従わなければなりません。近くに横断歩道があるときはそこを渡り、標識で認められた場所を除いて道路を斜めに渡ったり、車のすぐ前やすぐ後ろを横切ったりしてはいけません。写真を撮るために車道で立ち止まるなど、交通の妨げになる方法で道路に立ち止まることも、法律で禁止されています。"
+   },
+   "see_also": [
+    "travel-photo-manners",
+    "transit-walking-phone",
+    "travel-driving-rules"
+   ]
   },
   {
    "id": "daily-spitting",
@@ -681,6 +793,7 @@
     "道路",
     "公园"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -718,6 +831,7 @@
     "垃圾",
     "规定"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -772,6 +886,7 @@
     "文化差异",
     "打扰"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -827,6 +942,7 @@
     "咳嗽礼仪",
     "电车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -868,6 +984,7 @@
     "礼貌",
     "礼仪"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -906,6 +1023,7 @@
     "个人编号保险证",
     "翻译"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -953,6 +1071,7 @@
     "出入口",
     "团体"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -998,6 +1117,7 @@
     "拖鞋",
     "垃圾桶"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1036,6 +1156,7 @@
     "车站",
     "人行道"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1094,6 +1215,7 @@
     "搬家",
     "地址变更"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1156,6 +1278,7 @@
     "回国",
     "海外"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1201,6 +1324,7 @@
     "邻居",
     "自我介绍"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1236,6 +1360,7 @@
     "清理",
     "垃圾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1274,6 +1399,7 @@
     "搬家",
     "开栓"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1315,6 +1441,7 @@
     "条例",
     "站立"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1361,6 +1488,7 @@
     "地铁",
     "高峰"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1414,6 +1542,7 @@
     "行李",
     "电车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1456,6 +1585,7 @@
     "IC卡",
     "零钱"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1501,6 +1631,7 @@
     "电车",
     "公交车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1537,6 +1668,7 @@
     "饮料",
     "拥挤"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1584,11 +1716,50 @@
     "公交车",
     "车内"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "車内では大きな声で話さない",
     "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "transit-makeup",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": null,
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "不要在电车里化妆",
+   "summary": "在铁路公司团体进行的问卷调查中，在电车里化妆被列为令人感到困扰的行为之一。化妆品等的浓烈气味也被列入其中。这并不是规定，但化妆最好在家里或洗手间完成。",
+   "do": [
+    "在家里或车站的洗手间化妆"
+   ],
+   "dont": [
+    "在拥挤的车厢里化妆"
+   ],
+   "keywords": [
+    "化妆",
+    "彩妆",
+    "电车",
+    "车厢",
+    "礼仪",
+    "气味"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電車の中で化粧をしない",
+    "summary": "鉄道会社の団体が行ったアンケートでは、電車の中での化粧が、迷惑に感じる行為の一つに挙げられています。化粧品などの強い香りも挙げられています。決まりではありませんが、化粧は家や化粧室で済ませます。"
    },
    "see_also": []
   },
@@ -1634,6 +1805,7 @@
     "手机",
     "静音"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1677,6 +1849,7 @@
     "车站",
     "安全"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1727,6 +1900,7 @@
     "电车",
     "公交车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1777,6 +1951,7 @@
     "上车",
     "站台"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1823,6 +1998,7 @@
     "站台",
     "危险"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1870,6 +2046,7 @@
     "电车",
     "公交车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1907,6 +2084,7 @@
     "自动门",
     "小费"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -1953,6 +2131,7 @@
     "车站",
     "站台"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2006,6 +2185,7 @@
     "酒",
     "骑车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2056,6 +2236,7 @@
     "人行道",
     "逆行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2113,6 +2294,7 @@
     "蓝票",
     "青切符"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2162,6 +2344,7 @@
     "被盗",
     "二手"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2169,6 +2352,65 @@
     "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
    },
    "see_also": []
+  },
+  {
+   "id": "bicycle-riding-rules",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html",
+   "sources": [
+    {
+     "title": "自転車を安全・安心に利用するために－自転車への交通反則通告制度（青切符）の導入－【自転車ルールブック】（警察庁交通局）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf"
+    },
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "よくある質問｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/faq.html"
+    },
+    {
+     "title": "自転車をはじめとする軽車両の反則行為と反則金の額（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/jitensyahansokukoui.pdf"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "骑自行车不要打伞、带人或并排骑行",
+   "summary": "骑自行车时打伞、戴耳机以致听不到周围的声音、带人、并排骑行，以及夜间不开灯骑行，都被法律或都道府县的规定禁止，属于反则金（蓝票）的对象。也有被允许的例外，例如让幼儿坐在儿童座椅上。",
+   "do": [
+    "下雨天穿雨衣等雨具",
+    "夜间打开车灯",
+    "排成一列骑行"
+   ],
+   "dont": [
+    "边打伞边骑车",
+    "戴耳机以致听不到周围的声音",
+    "骑车带人",
+    "并排骑行"
+   ],
+   "keywords": [
+    "自行车",
+    "打伞",
+    "耳机",
+    "带人",
+    "并排",
+    "车灯",
+    "蓝票",
+    "青切符"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車の傘差し運転・二人乗り・並走はしない",
+    "summary": "自転車で傘を差して運転すること、イヤホンをつけて周りの音が聞こえない状態で運転すること、二人乗り、横に並んで走ること、夜間にライトをつけずに走ることは、法律や都道府県の規則で禁止されており、反則金（青切符）の対象になります。幼児用座席に子どもを乗せるときなど、認められている例外もあります。"
+   },
+   "see_also": [
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "bicycle-parking",
@@ -2207,6 +2449,7 @@
     "乱停",
     "清走"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2252,6 +2495,7 @@
     "吃饭",
     "礼仪"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2288,6 +2532,7 @@
     "3010运动",
     "もったいない"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2328,6 +2573,7 @@
     "饭店",
     "结账"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2364,6 +2610,7 @@
     "费用",
     "结账"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2403,6 +2650,7 @@
     "超市",
     "吃"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2438,6 +2686,7 @@
     "结账",
     "餐厅"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2474,6 +2723,7 @@
     "餐厅",
     "饭店"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2509,6 +2759,7 @@
     "家庭垃圾",
     "垃圾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2560,6 +2811,7 @@
     "温泉",
     "更衣室"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2606,6 +2858,7 @@
     "钱汤",
     "旅馆"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2654,6 +2907,7 @@
     "更衣室",
     "毛巾"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2703,6 +2957,7 @@
     "毛巾",
     "浴池"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2756,6 +3011,7 @@
     "浴池",
     "洗身体"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2799,6 +3055,7 @@
     "电车",
     "道路"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2843,6 +3100,7 @@
     "20岁",
     "年龄"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2885,6 +3143,7 @@
     "开车",
     "饮酒"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2934,6 +3193,7 @@
     "二手烟",
     "餐厅"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -2974,11 +3234,51 @@
     "20岁",
     "年龄"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "20歳未満はたばこを吸えない",
     "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "drinking-shibuya-street",
+   "category": "smoking",
+   "label": "local_rule",
+   "region": "13",
+   "official_link": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+   "sources": [
+    {
+     "title": "渋谷駅周辺地域の安全で安心な環境の確保に関する条例の一部改正について｜渋谷区",
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "在涩谷站周边，夜间不要在路上喝酒",
+   "summary": "涩谷区通过条例，全年禁止在涩谷站周边指定区域内的道路、公园等公共场所于夜间饮酒。区域和时间请查看区政府网页上的地图和说明。",
+   "do": [
+    "在店内喝酒",
+    "在区政府网页上确认禁止区域"
+   ],
+   "dont": [
+    "在禁止区域的路上或公园里喝酒"
+   ],
+   "keywords": [
+    "涩谷",
+    "路上饮酒",
+    "喝酒",
+    "酒",
+    "条例",
+    "万圣节"
+   ],
+   "area": "东京都涩谷区（涩谷站周边）",
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "渋谷駅周辺では夜に路上でお酒を飲まない",
+    "summary": "渋谷区は条例で、渋谷駅周辺の決められた区域にある道路や公園などの公共の場所で、夜の時間帯にお酒を飲むことを一年を通じて禁止しています。区域と時間は、区のページの地図と案内で確認してください。"
    },
    "see_also": []
   },
@@ -3020,6 +3320,7 @@
     "条例",
     "罚款"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3062,6 +3363,7 @@
     "搬家",
     "市政府"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3111,6 +3413,7 @@
     "特别永住者",
     "身份证件"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3156,6 +3459,7 @@
     "回国",
     "在留卡"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3205,6 +3509,7 @@
     "入管",
     "在留资格"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3254,6 +3559,7 @@
     "在留期间更新",
     "纳税管理人"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3296,6 +3602,7 @@
     "在留资格",
     "工作"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3347,6 +3654,7 @@
     "回国",
     "注销"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3394,6 +3702,7 @@
     "译文",
     "租车"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3437,6 +3746,7 @@
     "礼物",
     "带入"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3483,6 +3793,7 @@
     "110",
     "猥亵"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3531,6 +3842,7 @@
     "防身",
     "枪刀法"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3577,6 +3889,7 @@
     "行李架",
     "偷"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3628,6 +3941,7 @@
     "遗失物",
     "捡到"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3671,6 +3985,7 @@
     "性同意年龄",
     "性暴力"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3715,6 +4030,7 @@
     "盗窃",
     "侵占"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3763,6 +4079,7 @@
     "解约",
     "回国"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3806,6 +4123,7 @@
     "名义",
     "退去强制"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3852,6 +4170,7 @@
     "性犯罪",
     "内衣"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3897,6 +4216,7 @@
     "商店",
     "购物"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3936,6 +4256,7 @@
     "酒",
     "110"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -3981,6 +4302,7 @@
     "打工",
     "诈骗"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4029,6 +4351,7 @@
     "人权咨询",
     "共生"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4081,6 +4404,7 @@
     "台风",
     "大雨"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4132,6 +4456,7 @@
     "洪水",
     "海啸"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4191,6 +4516,7 @@
     "紧急",
     "电话"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4241,6 +4567,7 @@
     "医院",
     "急病"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4295,6 +4622,7 @@
     "联系",
     "平安"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4302,6 +4630,105 @@
     "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
    },
    "see_also": []
+  },
+  {
+   "id": "emergency-heatstroke",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.wbgt.env.go.jp/",
+   "sources": [
+    {
+     "title": "熱中症が増えています 予防のためのポイント（環境省ほか関係府省庁）",
+     "url": "https://www.env.go.jp/content/000136723.pdf"
+    },
+    {
+     "title": "環境省熱中症予防情報サイト",
+     "url": "https://www.wbgt.env.go.jp/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "炎热天气注意中暑",
+   "summary": "中暑在室内和夜间也会发生，可能危及生命。发布中暑警戒警报时，要在口渴之前补充水分和盐分，适当使用空调，避免不必要的外出。对于老年人等，周围的人要主动打招呼关心。",
+   "do": [
+    "口渴之前补充水分和盐分",
+    "不要硬扛，使用空调",
+    "确认中暑警戒警报"
+   ],
+   "dont": [
+    "在非常炎热的日子勉强在户外运动"
+   ],
+   "keywords": [
+    "中暑",
+    "热射病",
+    "炎热",
+    "夏天",
+    "补水",
+    "空调",
+    "中暑警报"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "暑い日は熱中症に気をつける",
+    "summary": "熱中症は室内でも夜でも起こり、命に関わることがあります。熱中症警戒アラートが出たら、のどが渇く前に水分と塩分をとり、エアコンを適切に使い、不要不急の外出を避けます。高齢の人などには、周りから声をかけます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-driving-rules",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/english/bureau/traffic/index.html",
+   "sources": [
+    {
+     "title": "Follow the Rules for Safe Driving in Japan（警察庁・都道府県警察）",
+     "url": "https://www.npa.go.jp/english/bureau/traffic/document/r8_followtherules_en01.pdf"
+    },
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第17条・第38条・第43条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "车辆靠左行驶，遇红灯和“止まれ”标志必须停车",
+   "summary": "在日本，车辆在道路中央以左的部分行驶。遇红灯要停车；在有“止まれ”（停）标志的地方，要在停止线前完全停下，确认左右安全。有人正在或准备通过人行横道时，要在横道前停车让行。日本的交通规则和标志可能与其他国家不同。",
+   "do": [
+    "靠道路左侧行驶",
+    "在“止まれ”标志前完全停车并确认左右",
+    "在人行横道前礼让行人"
+   ],
+   "dont": [
+    "闯红灯",
+    "有行人准备过马路时不停车直接通过人行横道"
+   ],
+   "keywords": [
+    "开车",
+    "驾驶",
+    "租车",
+    "靠左行驶",
+    "停车标志",
+    "红绿灯",
+    "人行横道"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "車は左側通行。赤信号と「止まれ」で必ず止まる",
+    "summary": "日本では、車は道路の中央から左の部分を通行します。赤信号では止まり、「止まれ」の標識がある場所では停止線の手前で一時停止して、左右の安全を確かめます。横断歩道を渡っている人や渡ろうとしている人がいるときは、手前で一時停止して道を譲ります。日本の交通ルールや標識は、ほかの国と違うことがあります。"
+   },
+   "see_also": [
+    "crime-driving-license",
+    "drunk-driving",
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "travel-drone-rules",
@@ -4341,6 +4768,7 @@
     "拍摄",
     "旅行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4396,6 +4824,7 @@
     "大麻",
     "旅行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4433,11 +4862,55 @@
     "旅行",
     "观光"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "旅行中はパスポートを持ち歩く",
     "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-fuji-climbing",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "19",
+   "official_link": "https://www.fujisan-climb.jp/",
+   "sources": [
+    {
+     "title": "静岡県各3登山口における登山規制の実施｜静岡県公式ホームページ",
+     "url": "https://www.pref.shizuoka.jp/kankosports/kanko/mtfuji/1002809/1072062.html"
+    },
+    {
+     "title": "山梨県からのお知らせ｜富士登山オフィシャルサイト",
+     "url": "https://www.fujisan-climb.jp/yamanashi-notice/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "攀登富士山前先在官方网站确认规则",
+   "summary": "在夏季登山期间，山梨县和静冈县分别为富士山的登山道制定了规则，包括事先登记或预约、缴纳入山费、夜间通行限制等，并要求登山者不要进行不住山间小屋、通宵登山的“弹丸登山”。规则每年都会变化，登山前请在官方网站确认。",
+   "do": [
+    "登山前在官方网站确认当年的规则",
+    "夜间登山时计划在山间小屋住宿"
+   ],
+   "dont": [
+    "不住山间小屋，通宵登山"
+   ],
+   "keywords": [
+    "富士山",
+    "登山",
+    "弹丸登山",
+    "山间小屋",
+    "入山费",
+    "事先登记"
+   ],
+   "area": "山梨县・静冈县（富士山）",
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "富士山は公式サイトでルールを確かめてから登る",
+    "summary": "夏の登山期間の富士山では、山梨県と静岡県がそれぞれ登山道のルールを設けています。事前の登録や予約、入山料の支払い、夜の時間帯の通行規制などがあり、山小屋に泊まらずに夜通しで登る「弾丸登山」はしないよう求められています。内容は年ごとに変わるので、登る前に公式サイトで確認してください。"
    },
    "see_also": []
   },
@@ -4480,6 +4953,7 @@
     "投币储物柜",
     "旅行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4487,6 +4961,50 @@
     "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
    },
    "see_also": []
+  },
+  {
+   "id": "travel-bears",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/bear/",
+   "sources": [
+    {
+     "title": "国立公園に出かける前に知っておきたいクマのこと｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/bear/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "在山里做好准备，避免遇到熊",
+   "summary": "在山林里可能会遇到熊。要用铃铛或说话声让熊知道有人在，不要单独行动，不要留下食物、行李和垃圾。遇到熊时不要靠近，保持冷静，一边看着熊一边慢慢后退，不要转身跑开。",
+   "do": [
+    "用铃铛或说话声让熊知道有人",
+    "不要单独行动",
+    "把食物和垃圾带走"
+   ],
+   "dont": [
+    "靠近熊",
+    "转身跑开"
+   ],
+   "keywords": [
+    "熊",
+    "黑熊",
+    "山",
+    "登山",
+    "徒步",
+    "森林",
+    "野生动物"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "山ではクマに出会わないように備える",
+    "summary": "山や森では、クマに出会うことがあります。鈴や声などで人がいることを知らせ、ひとりで行動せず、食べ物や荷物、ごみを置いていかないようにします。出会ったら近づかず、クマを見ながら落ち着いてゆっくり後ずさりし、背中を向けて走らないでください。"
+   },
+   "see_also": [
+    "emergency-110-119"
+   ]
   },
   {
    "id": "travel-eating-walking",
@@ -4521,6 +5039,7 @@
     "旅行",
     "观光"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4558,6 +5077,7 @@
     "洗漱用品",
     "住宿"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4602,6 +5122,7 @@
     "邻居",
     "旅行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4653,6 +5174,7 @@
     "旅行",
     "观光"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4704,6 +5226,7 @@
     "旅行",
     "观光"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
@@ -4751,11 +5274,56 @@
     "旅行",
     "观光"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {
     "title": "ごみ箱がなければ持ち帰る",
     "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-wildlife-feeding",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/manner/",
+   "sources": [
+    {
+     "title": "国立公園の利用上のマナー｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/manner/"
+    },
+    {
+     "title": "自然公園法施行令の一部を改正する政令等の閣議決定について｜環境省",
+     "url": "https://www.env.go.jp/press/109984.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "不要给野生动物喂食",
+   "summary": "在国立公园等地，游客被要求不要给野生动物喂食。在国立公园和国定公园，有些地方给野生动物喂食、过度靠近或尾随野生动物属于法律规制的对象。留下食物或垃圾也会引来动物。",
+   "do": [
+    "在远处观看",
+    "把食物和垃圾带走"
+   ],
+   "dont": [
+    "给野生动物喂食",
+    "为了拍照靠近或追赶动物"
+   ],
+   "keywords": [
+    "野生动物",
+    "喂食",
+    "投喂",
+    "猴子",
+    "鹿",
+    "国立公园"
+   ],
+   "area": null,
+   "text_language": "zh-Hans",
+   "translation_status": "machine",
+   "ja": {
+    "title": "野生動物に餌をあげない",
+    "summary": "国立公園などでは、野生動物に餌を与えないよう求められています。国立公園・国定公園には、野生動物に餌を与えることや、著しく近づいたり付きまとったりすることが法律で規制される場所があります。食べ物やごみを置いていくことも、動物を引き寄せる原因になります。"
    },
    "see_also": []
   },
@@ -4790,6 +5358,7 @@
     "穿法",
     "旅行"
    ],
+   "area": null,
    "text_language": "zh-Hans",
    "translation_status": "machine",
    "ja": {

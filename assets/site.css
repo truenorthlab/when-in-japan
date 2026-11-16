@@ -298,6 +298,18 @@ main {
   font-weight: 600;
 }
 
+.tags {
+  margin: 0;
+}
+
+.area {
+  display: inline-block;
+  margin-left: 0.5rem;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  font-weight: 600;
+}
+
 .chip.manner {
   background: var(--manner-surface);
   color: var(--manner);

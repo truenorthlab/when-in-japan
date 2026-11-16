@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "content_version": "2026.11.16-1043",
+ "content_version": "2026.11.16-1265",
  "packs": {
   "ja": {
    "url": "ja.json",
-   "sha256": "122d265e3d304e8c10fa69b8f71be2440de1c3b0ada4b62d375dfe4c14827902",
-   "items": 104
+   "sha256": "1aa193dec6cfeb5e82a826fcd890d485956971aa25c95fbe026b9fd7e97ccea7",
+   "items": 114
   },
   "en": {
    "url": "en.json",
-   "sha256": "d0655dcd65fa5a1b13ecc825a7e4eb4fb5fd158358ece269525e0e06ca5e1333",
-   "items": 104
+   "sha256": "0d143a33aac98a8e9b5ea1628b6316905fe27cfa8c86aa667dea9a372f83c2da",
+   "items": 114
   },
   "zh-Hans": {
    "url": "zh-Hans.json",
-   "sha256": "1e068ca04de1eefda0660eb328efc76c08cb516cc070557b79ad5f9791c01961",
-   "items": 104
+   "sha256": "e7c23eab3567dc555cb800d0d061cbdc0c8795afc3547058e0048e4de65b0993",
+   "items": 114
   },
   "vi": {
    "url": "vi.json",
-   "sha256": "bb97f37da82607847682a8c46c7b2281149dc5b81b67f6a61af2d3cdc6ad91ac",
-   "items": 104
+   "sha256": "bfa05d1b2920f8aa16b1e685f8d2fd3b92823309d17e618b86d33470752afc4f",
+   "items": 114
   },
   "ko": {
    "url": "ko.json",
-   "sha256": "bbb542148fc12ec7e56258415d03edd4b5c4181549d0c83ef70ab55c5066b407",
-   "items": 104
+   "sha256": "84b63a06320c90f5508dfc9b8a85fafd0c26aa0ca09ea732268aa65fa4777ceb",
+   "items": 114
   },
   "hi": {
    "url": "hi.json",
-   "sha256": "3c673b4e2bfd2debb696355407defb21a619b5fe5041504293a40302b01cdcc2",
-   "items": 104
+   "sha256": "1c9acf48936a8c786875812ff8ec935e39a1319fbd712edfe75af2f67392bc9f",
+   "items": 114
   }
  }
 }

@@ -116,6 +116,7 @@
     "máy giặt",
     "rác"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -168,6 +169,7 @@
     "chất thải",
     "đốt rác"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -221,11 +223,54 @@
     "lịch rác",
     "gomi"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "ごみは決められた日・時間・場所に出す",
     "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "garbage-lithium-batteries",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/recycle/waste/lithium_1/index.html",
+   "sources": [
+    {
+     "title": "リチウムイオン電池関係｜環境省",
+     "url": "https://www.env.go.jp/recycle/waste/lithium_1/index.html"
+    },
+    {
+     "title": "火災事故について｜リチウムイオン電池総合対策ポータル本部｜総務省消防庁",
+     "url": "https://www.fdma.go.jp/relocation/lithium-ion/accident/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không bỏ pin như sạc dự phòng lẫn vào rác khác",
+   "summary": "Pin lithium-ion, hoặc các sản phẩm dùng loại pin này như sạc dự phòng, nếu bị lẫn vào rác khác có thể gây cháy trong xe chở rác và cơ sở xử lý rác. Khi bỏ từ gia đình, hãy làm theo quy định đổ rác của thành phố, quận, thị trấn hoặc làng nơi bạn sống.",
+   "do": [
+    "Kiểm tra quy định đổ rác nơi bạn sống",
+    "Hỏi chính quyền địa phương nếu không biết cách bỏ"
+   ],
+   "dont": [
+    "Bỏ lẫn vào rác cháy được hoặc rác không cháy được"
+   ],
+   "keywords": [
+    "pin",
+    "pin lithium",
+    "sạc dự phòng",
+    "cháy",
+    "rác"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "モバイルバッテリーなどの電池をほかのごみに混ぜない",
+    "summary": "リチウムイオン電池や、それを使ったモバイルバッテリーなどの製品がほかのごみに混ざると、ごみ収集車やごみ処理施設で火災の原因になります。家庭から出すときは、住んでいる市区町村のごみの出し方に従ってください。"
    },
    "see_also": []
   },
@@ -266,6 +311,7 @@
     "rác",
     "sodai gomi"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -307,6 +353,7 @@
     "gomi",
     "rác cháy được"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -353,6 +400,7 @@
     "cho thuê lại",
     "chủ nhà"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -390,6 +438,7 @@
     "thuê nhà",
     "chuyển nhà"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -431,6 +480,7 @@
     "ban công",
     "thoát hiểm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -473,6 +523,7 @@
     "chăn đệm",
     "nướng thịt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -510,6 +561,7 @@
     "khu dân cư",
     "hàng xóm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -544,10 +596,11 @@
    ],
    "last_verified": "2026-11-09",
    "title": "Giữ yên lặng từ đêm đến sáng sớm",
-   "summary": "Ở chung cư, âm thanh dễ truyền sang phòng bên cạnh và tầng trên, tầng dưới. Hãy đặc biệt chú ý từ đêm đến sáng sớm.",
+   "summary": "Ở chung cư, âm thanh dễ truyền sang phòng bên cạnh và tầng trên, tầng dưới. Hãy đặc biệt chú ý từ đêm đến sáng sớm. Với nhạc cụ và loa, máy nghe nhạc, cũng hãy chú ý âm lượng và thời điểm.",
    "do": [
     "Nói nhỏ và giảm âm lượng TV",
-    "Chú ý tiếng máy hút bụi, máy giặt và tiếng đóng mở cửa"
+    "Chú ý tiếng máy hút bụi, máy giặt và tiếng đóng mở cửa",
+    "Chú ý âm lượng và thời điểm khi chơi nhạc cụ hay mở loa"
    ],
    "dont": [
     "Tổ chức tiệc vào ban đêm",
@@ -558,13 +611,17 @@
     "âm thanh",
     "ban đêm",
     "chung cư",
-    "hàng xóm"
+    "hàng xóm",
+    "nhạc cụ",
+    "đàn piano",
+    "loa"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "夜から早朝は生活音に気をつける",
-    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
+    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。楽器やオーディオの音も、音量と時間帯に気をつけましょう。"
    },
    "see_also": []
   },
@@ -599,6 +656,7 @@
     "tiếng kêu",
     "phân"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -643,6 +701,7 @@
     "genkan",
     "phong tục"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -650,6 +709,56 @@
     "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
    },
    "see_also": []
+  },
+  {
+   "id": "daily-crossing-road",
+   "category": "daily",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html",
+   "sources": [
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第12条・第13条・第76条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Tuân thủ đèn tín hiệu và qua đường ở vạch dành cho người đi bộ",
+   "summary": "Người đi bộ cũng phải tuân theo đèn tín hiệu. Nếu gần đó có vạch qua đường dành cho người đi bộ thì hãy qua đường ở đó. Không được băng chéo qua đường, trừ nơi có biển báo cho phép, và không được băng qua ngay trước hoặc ngay sau xe. Việc dừng đứng trên đường theo cách cản trở giao thông, chẳng hạn đứng giữa lòng đường để chụp ảnh, cũng bị luật cấm.",
+   "do": [
+    "Tuân theo đèn tín hiệu dành cho người đi bộ",
+    "Qua đường ở vạch qua đường gần nhất",
+    "Chụp ảnh ở chỗ an toàn trên vỉa hè"
+   ],
+   "dont": [
+    "Qua đường khi đèn đỏ",
+    "Băng chéo qua đường",
+    "Bước xuống lòng đường để chụp ảnh"
+   ],
+   "keywords": [
+    "đèn tín hiệu",
+    "đèn giao thông",
+    "vạch qua đường",
+    "người đi bộ",
+    "qua đường",
+    "chụp ảnh"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "信号を守り、横断歩道を渡る",
+    "summary": "歩行者も信号に従わなければなりません。近くに横断歩道があるときはそこを渡り、標識で認められた場所を除いて道路を斜めに渡ったり、車のすぐ前やすぐ後ろを横切ったりしてはいけません。写真を撮るために車道で立ち止まるなど、交通の妨げになる方法で道路に立ち止まることも、法律で禁止されています。"
+   },
+   "see_also": [
+    "travel-photo-manners",
+    "transit-walking-phone",
+    "travel-driving-rules"
+   ]
   },
   {
    "id": "daily-spitting",
@@ -682,6 +791,7 @@
     "đường phố",
     "công viên"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -719,6 +829,7 @@
     "rác",
     "quy định"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -772,6 +883,7 @@
     "khác biệt văn hóa",
     "phong tục"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -827,6 +939,7 @@
     "phép lịch sự khi ho",
     "tàu điện"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -868,6 +981,7 @@
     "lịch sự",
     "phép tắc"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -906,6 +1020,7 @@
     "My Number",
     "phiên dịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -953,6 +1068,7 @@
     "cửa ra vào",
     "nhóm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -998,6 +1114,7 @@
     "dép",
     "thùng rác"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1037,6 +1154,7 @@
     "nhà ga",
     "vỉa hè"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1095,6 +1213,7 @@
     "đổi địa chỉ",
     "tòa thị chính"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1157,6 +1276,7 @@
     "nước ngoài",
     "Mynaportal"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1202,6 +1322,7 @@
     "hàng xóm",
     "tự giới thiệu"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1237,6 +1358,7 @@
     "dọn dẹp",
     "rác"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1274,6 +1396,7 @@
     "chuyển nhà",
     "mở ga"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1315,6 +1438,7 @@
     "quy định địa phương",
     "đứng yên"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1361,6 +1485,7 @@
     "tàu điện ngầm",
     "giờ cao điểm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1413,6 +1538,7 @@
     "hành lý",
     "tàu điện"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1454,6 +1580,7 @@
     "thẻ IC",
     "tiền xu"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1498,6 +1625,7 @@
     "tàu điện",
     "xe buýt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1534,6 +1662,7 @@
     "đồ uống",
     "đông người"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1580,11 +1709,49 @@
     "tàu điện",
     "xe buýt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "車内では大きな声で話さない",
     "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "transit-makeup",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": null,
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không trang điểm trên tàu điện",
+   "summary": "Trong khảo sát của một hiệp hội các công ty đường sắt, việc trang điểm trên tàu được nêu là một trong những hành vi gây khó chịu. Mùi hương nồng, chẳng hạn từ mỹ phẩm, cũng được nêu. Đây không phải là quy định, nhưng hãy trang điểm ở nhà hoặc trong nhà vệ sinh.",
+   "do": [
+    "Trang điểm ở nhà hoặc trong nhà vệ sinh của ga"
+   ],
+   "dont": [
+    "Trang điểm trên tàu đông người"
+   ],
+   "keywords": [
+    "trang điểm",
+    "mỹ phẩm",
+    "tàu điện",
+    "phép lịch sự",
+    "mùi hương"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "電車の中で化粧をしない",
+    "summary": "鉄道会社の団体が行ったアンケートでは、電車の中での化粧が、迷惑に感じる行為の一つに挙げられています。化粧品などの強い香りも挙げられています。決まりではありませんが、化粧は家や化粧室で済ませます。"
    },
    "see_also": []
   },
@@ -1630,6 +1797,7 @@
     "điện thoại",
     "im lặng"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1673,6 +1841,7 @@
     "nhà ga",
     "an toàn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1723,6 +1892,7 @@
     "tàu điện",
     "xe buýt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1773,6 +1943,7 @@
     "lên tàu",
     "sân ga"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1818,6 +1989,7 @@
     "sân ga",
     "nguy hiểm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1865,6 +2037,7 @@
     "tàu điện",
     "xe buýt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1902,6 +2075,7 @@
     "cửa tự động",
     "tiền tip"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1946,6 +2120,7 @@
     "nhà ga",
     "sân ga"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -1998,6 +2173,7 @@
     "say rượu",
     "uống rượu"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2048,6 +2224,7 @@
     "vỉa hè",
     "đi ngược chiều"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2104,6 +2281,7 @@
     "vé xanh",
     "ao kippu"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2153,6 +2331,7 @@
     "mất trộm",
     "xe cũ"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2160,6 +2339,64 @@
     "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
    },
    "see_also": []
+  },
+  {
+   "id": "bicycle-riding-rules",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html",
+   "sources": [
+    {
+     "title": "自転車を安全・安心に利用するために－自転車への交通反則通告制度（青切符）の導入－【自転車ルールブック】（警察庁交通局）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf"
+    },
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "よくある質問｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/faq.html"
+    },
+    {
+     "title": "自転車をはじめとする軽車両の反則行為と反則金の額（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/jitensyahansokukoui.pdf"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không vừa che ô vừa đi xe đạp, không chở người, không đi hàng ngang",
+   "summary": "Vừa che ô vừa đi xe đạp, đeo tai nghe đến mức không nghe được âm thanh xung quanh, chở thêm người, đi dàn hàng ngang và không bật đèn khi đi ban đêm bị cấm theo luật hoặc quy định của tỉnh, thành phố, và thuộc đối tượng tiền phạt (vé xanh). Có những ngoại lệ được cho phép, chẳng hạn chở trẻ nhỏ trên ghế dành cho trẻ em.",
+   "do": [
+    "Mặc áo mưa khi trời mưa",
+    "Bật đèn khi đi ban đêm",
+    "Đi thành một hàng"
+   ],
+   "dont": [
+    "Vừa che ô vừa đi xe",
+    "Đeo tai nghe đến mức không nghe được xung quanh",
+    "Chở thêm người",
+    "Đi dàn hàng ngang"
+   ],
+   "keywords": [
+    "xe đạp",
+    "ô",
+    "dù",
+    "tai nghe",
+    "chở người",
+    "đèn",
+    "vé xanh"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "自転車の傘差し運転・二人乗り・並走はしない",
+    "summary": "自転車で傘を差して運転すること、イヤホンをつけて周りの音が聞こえない状態で運転すること、二人乗り、横に並んで走ること、夜間にライトをつけずに走ることは、法律や都道府県の規則で禁止されており、反則金（青切符）の対象になります。幼児用座席に子どもを乗せるときなど、認められている例外もあります。"
+   },
+   "see_also": [
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "bicycle-parking",
@@ -2198,6 +2435,7 @@
     "xe bỏ bừa bãi",
     "thu dọn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2243,6 +2481,7 @@
     "bữa ăn",
     "phép lịch sự"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2279,6 +2518,7 @@
     "phong trào 3010",
     "mottainai"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2318,6 +2558,7 @@
     "nhà hàng",
     "hóa đơn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2354,6 +2595,7 @@
     "chi phí",
     "thanh toán"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2393,6 +2635,7 @@
     "siêu thị",
     "ăn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2428,6 +2671,7 @@
     "thanh toán",
     "nhà hàng"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2463,6 +2707,7 @@
     "không đến",
     "nhà hàng"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2498,6 +2743,7 @@
     "rác sinh hoạt",
     "rác"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2549,6 +2795,7 @@
     "onsen",
     "phòng thay đồ"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2595,6 +2842,7 @@
     "suối nước nóng",
     "ryokan"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2643,6 +2891,7 @@
     "phòng thay đồ",
     "khăn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2692,6 +2941,7 @@
     "khăn",
     "bồn tắm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2745,6 +2995,7 @@
     "bồn tắm",
     "tắm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2787,6 +3038,7 @@
     "tàu điện",
     "đường phố"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2831,6 +3083,7 @@
     "20 tuổi",
     "giới hạn tuổi"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2872,6 +3125,7 @@
     "ô tô",
     "lái xe"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2921,6 +3175,7 @@
     "khói thuốc",
     "nhà hàng"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -2961,11 +3216,51 @@
     "20 tuổi",
     "giới hạn tuổi"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "20歳未満はたばこを吸えない",
     "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "drinking-shibuya-street",
+   "category": "smoking",
+   "label": "local_rule",
+   "region": "13",
+   "official_link": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+   "sources": [
+    {
+     "title": "渋谷駅周辺地域の安全で安心な環境の確保に関する条例の一部改正について｜渋谷区",
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không uống rượu bia ngoài đường quanh ga Shibuya vào ban đêm",
+   "summary": "Theo quy định (条例) của quận Shibuya, việc uống rượu bia vào ban đêm ở những nơi công cộng như đường phố và công viên trong khu vực được chỉ định quanh ga Shibuya bị cấm quanh năm. Hãy xem khu vực và khung giờ trên bản đồ và hướng dẫn ở trang của quận.",
+   "do": [
+    "Uống trong quán",
+    "Xem khu vực cấm trên trang của quận"
+   ],
+   "dont": [
+    "Uống rượu bia ngoài đường hay trong công viên thuộc khu vực cấm"
+   ],
+   "keywords": [
+    "Shibuya",
+    "uống rượu ngoài đường",
+    "rượu",
+    "bia",
+    "quy định",
+    "Halloween"
+   ],
+   "area": "Khu vực quanh ga Shibuya, quận Shibuya, Tokyo",
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "渋谷駅周辺では夜に路上でお酒を飲まない",
+    "summary": "渋谷区は条例で、渋谷駅周辺の決められた区域にある道路や公園などの公共の場所で、夜の時間帯にお酒を飲むことを一年を通じて禁止しています。区域と時間は、区のページの地図と案内で確認してください。"
    },
    "see_also": []
   },
@@ -3006,6 +3301,7 @@
     "quy định",
     "tiền phạt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3048,6 +3344,7 @@
     "chuyển nhà",
     "tòa thị chính"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3098,6 +3395,7 @@
     "vĩnh trú đặc biệt",
     "giấy tờ tùy thân"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3143,6 +3441,7 @@
     "về nước",
     "thẻ cư trú"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3192,6 +3491,7 @@
     "xuất nhập cảnh",
     "tư cách lưu trú"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3240,6 +3540,7 @@
     "nợ",
     "gia hạn lưu trú"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3283,6 +3584,7 @@
     "tư cách lưu trú",
     "việc làm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3334,6 +3636,7 @@
     "về nước",
     "đóng tài khoản"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3381,6 +3684,7 @@
     "bản dịch",
     "thuê xe"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3423,6 +3727,7 @@
     "quà lưu niệm",
     "mang vào Nhật"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3468,6 +3773,7 @@
     "tội phạm tình dục",
     "110"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3515,6 +3821,7 @@
     "tự vệ",
     "luật vũ khí"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3561,6 +3868,7 @@
     "giá hành lý",
     "lấy trộm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3612,6 +3920,7 @@
     "nhặt được",
     "đồn cảnh sát"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3655,6 +3964,7 @@
     "tuổi đồng ý",
     "bạo lực tình dục"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3699,6 +4009,7 @@
     "trộm cắp",
     "chiếm đoạt"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3746,6 +4057,7 @@
     "hủy hợp đồng",
     "về nước"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3789,6 +4101,7 @@
     "cho mượn",
     "cưỡng chế xuất cảnh"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3835,6 +4148,7 @@
     "tội phạm tình dục",
     "đồ lót"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3879,6 +4193,7 @@
     "cửa hàng",
     "mua sắm"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3918,6 +4233,7 @@
     "rượu",
     "110"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -3962,6 +4278,7 @@
     "làm thêm",
     "lừa đảo"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4010,6 +4327,7 @@
     "tư vấn nhân quyền",
     "chung sống"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4062,6 +4380,7 @@
     "bão",
     "mưa lớn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4114,6 +4433,7 @@
     "lũ lụt",
     "sóng thần"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4173,6 +4493,7 @@
     "khẩn cấp",
     "điện thoại"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4223,6 +4544,7 @@
     "bệnh viện",
     "bệnh đột ngột"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4277,6 +4599,7 @@
     "liên lạc",
     "an toàn"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4284,6 +4607,104 @@
     "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
    },
    "see_also": []
+  },
+  {
+   "id": "emergency-heatstroke",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.wbgt.env.go.jp/",
+   "sources": [
+    {
+     "title": "熱中症が増えています 予防のためのポイント（環境省ほか関係府省庁）",
+     "url": "https://www.env.go.jp/content/000136723.pdf"
+    },
+    {
+     "title": "環境省熱中症予防情報サイト",
+     "url": "https://www.wbgt.env.go.jp/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Cẩn thận sốc nhiệt vào những ngày nóng",
+   "summary": "Sốc nhiệt (say nắng) có thể xảy ra cả trong nhà lẫn ban đêm và có thể nguy hiểm đến tính mạng. Khi có cảnh báo sốc nhiệt, hãy uống nước và bổ sung muối trước khi thấy khát, dùng điều hòa hợp lý và tránh ra ngoài khi không cần thiết. Người xung quanh nên hỏi han người cao tuổi và những người dễ bị ảnh hưởng.",
+   "do": [
+    "Uống nước và bổ sung muối trước khi thấy khát",
+    "Bật điều hòa thay vì cố chịu nóng",
+    "Xem cảnh báo sốc nhiệt"
+   ],
+   "dont": [
+    "Cố vận động ngoài trời vào ngày quá nóng"
+   ],
+   "keywords": [
+    "sốc nhiệt",
+    "say nắng",
+    "nóng",
+    "mùa hè",
+    "nước",
+    "điều hòa"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "暑い日は熱中症に気をつける",
+    "summary": "熱中症は室内でも夜でも起こり、命に関わることがあります。熱中症警戒アラートが出たら、のどが渇く前に水分と塩分をとり、エアコンを適切に使い、不要不急の外出を避けます。高齢の人などには、周りから声をかけます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-driving-rules",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/english/bureau/traffic/index.html",
+   "sources": [
+    {
+     "title": "Follow the Rules for Safe Driving in Japan（警察庁・都道府県警察）",
+     "url": "https://www.npa.go.jp/english/bureau/traffic/document/r8_followtherules_en01.pdf"
+    },
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第17条・第38条・第43条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Lái xe bên trái, luôn dừng khi đèn đỏ và ở biển “止まれ”",
+   "summary": "Ở Nhật Bản, xe chạy ở phía bên trái của đường. Hãy dừng khi đèn đỏ, và ở nơi có biển “止まれ” (Dừng lại), hãy dừng hẳn trước vạch dừng rồi kiểm tra an toàn hai bên trái phải. Khi có người đang qua hoặc sắp qua vạch dành cho người đi bộ, hãy dừng trước vạch và nhường đường. Luật và biển báo giao thông của Nhật có thể khác với các nước khác.",
+   "do": [
+    "Chạy bên trái đường",
+    "Dừng hẳn ở biển “止まれ” và nhìn trái phải",
+    "Nhường đường cho người đi bộ ở vạch qua đường"
+   ],
+   "dont": [
+    "Vượt đèn đỏ",
+    "Chạy qua vạch qua đường mà không dừng khi có người sắp qua"
+   ],
+   "keywords": [
+    "lái xe",
+    "ô tô",
+    "thuê xe",
+    "đi bên trái",
+    "biển dừng",
+    "đèn đỏ",
+    "vạch qua đường"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "車は左側通行。赤信号と「止まれ」で必ず止まる",
+    "summary": "日本では、車は道路の中央から左の部分を通行します。赤信号では止まり、「止まれ」の標識がある場所では停止線の手前で一時停止して、左右の安全を確かめます。横断歩道を渡っている人や渡ろうとしている人がいるときは、手前で一時停止して道を譲ります。日本の交通ルールや標識は、ほかの国と違うことがあります。"
+   },
+   "see_also": [
+    "crime-driving-license",
+    "drunk-driving",
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "travel-drone-rules",
@@ -4324,6 +4745,7 @@
     "chụp ảnh",
     "du lịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4378,6 +4800,7 @@
     "cần sa",
     "du lịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4415,11 +4838,55 @@
     "du lịch",
     "du khách"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "旅行中はパスポートを持ち歩く",
     "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-fuji-climbing",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "19",
+   "official_link": "https://www.fujisan-climb.jp/",
+   "sources": [
+    {
+     "title": "静岡県各3登山口における登山規制の実施｜静岡県公式ホームページ",
+     "url": "https://www.pref.shizuoka.jp/kankosports/kanko/mtfuji/1002809/1072062.html"
+    },
+    {
+     "title": "山梨県からのお知らせ｜富士登山オフィシャルサイト",
+     "url": "https://www.fujisan-climb.jp/yamanashi-notice/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Kiểm tra quy định trên trang chính thức trước khi leo núi Phú Sĩ",
+   "summary": "Trong mùa leo núi mùa hè, tỉnh Yamanashi và tỉnh Shizuoka đều đặt ra quy định cho các tuyến leo núi Phú Sĩ, như đăng ký hoặc đặt chỗ trước, nộp phí vào núi và hạn chế đi qua vào ban đêm. Người leo núi được yêu cầu không leo xuyên đêm mà không nghỉ tại nhà nghỉ trên núi (gọi là “leo núi cấp tốc”). Quy định thay đổi theo từng năm, nên hãy kiểm tra trên trang chính thức trước khi leo.",
+   "do": [
+    "Kiểm tra quy định của năm đó trên trang chính thức trước khi leo",
+    "Nếu leo vào ban đêm, hãy lên kế hoạch nghỉ tại nhà nghỉ trên núi"
+   ],
+   "dont": [
+    "Leo xuyên đêm mà không nghỉ tại nhà nghỉ trên núi"
+   ],
+   "keywords": [
+    "núi Phú Sĩ",
+    "Fuji",
+    "leo núi",
+    "nhà nghỉ trên núi",
+    "phí vào núi",
+    "đăng ký trước"
+   ],
+   "area": "Yamanashi và Shizuoka (núi Phú Sĩ)",
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "富士山は公式サイトでルールを確かめてから登る",
+    "summary": "夏の登山期間の富士山では、山梨県と静岡県がそれぞれ登山道のルールを設けています。事前の登録や予約、入山料の支払い、夜の時間帯の通行規制などがあり、山小屋に泊まらずに夜通しで登る「弾丸登山」はしないよう求められています。内容は年ごとに変わるので、登る前に公式サイトで確認してください。"
    },
    "see_also": []
   },
@@ -4463,6 +4930,7 @@
     "tủ khóa",
     "du lịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4470,6 +4938,49 @@
     "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
    },
    "see_also": []
+  },
+  {
+   "id": "travel-bears",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/bear/",
+   "sources": [
+    {
+     "title": "国立公園に出かける前に知っておきたいクマのこと｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/bear/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Chuẩn bị để tránh gặp gấu trên núi",
+   "summary": "Ở núi và rừng, bạn có thể gặp gấu. Hãy báo cho gấu biết có người bằng chuông hoặc tiếng nói, không đi một mình, và không để lại thức ăn, hành lý hay rác. Nếu gặp gấu, đừng đến gần. Hãy bình tĩnh, vừa nhìn gấu vừa lùi lại từ từ, và đừng quay lưng bỏ chạy.",
+   "do": [
+    "Dùng chuông hoặc tiếng nói để báo có người",
+    "Không đi một mình",
+    "Mang thức ăn và rác về"
+   ],
+   "dont": [
+    "Đến gần gấu",
+    "Quay lưng bỏ chạy"
+   ],
+   "keywords": [
+    "gấu",
+    "núi",
+    "leo núi",
+    "đi bộ đường dài",
+    "rừng",
+    "động vật hoang dã"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "山ではクマに出会わないように備える",
+    "summary": "山や森では、クマに出会うことがあります。鈴や声などで人がいることを知らせ、ひとりで行動せず、食べ物や荷物、ごみを置いていかないようにします。出会ったら近づかず、クマを見ながら落ち着いてゆっくり後ずさりし、背中を向けて走らないでください。"
+   },
+   "see_also": [
+    "emergency-110-119"
+   ]
   },
   {
    "id": "travel-eating-walking",
@@ -4504,6 +5015,7 @@
     "du lịch",
     "tham quan"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4541,6 +5053,7 @@
     "đồ tiện nghi",
     "nơi lưu trú"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4585,6 +5098,7 @@
     "hàng xóm",
     "du lịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4636,6 +5150,7 @@
     "du lịch",
     "tham quan"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4687,6 +5202,7 @@
     "du lịch",
     "tham quan"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
@@ -4734,11 +5250,56 @@
     "du lịch",
     "tham quan"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "ごみ箱がなければ持ち帰る",
     "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-wildlife-feeding",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/manner/",
+   "sources": [
+    {
+     "title": "国立公園の利用上のマナー｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/manner/"
+    },
+    {
+     "title": "自然公園法施行令の一部を改正する政令等の閣議決定について｜環境省",
+     "url": "https://www.env.go.jp/press/109984.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không cho động vật hoang dã ăn",
+   "summary": "Ở các công viên quốc gia và nơi khác, du khách được yêu cầu không cho động vật hoang dã ăn. Tại công viên quốc gia và công viên bán quốc gia, có những nơi mà việc cho động vật hoang dã ăn, hoặc đến quá gần hay đi theo chúng, bị luật quản lý. Để lại thức ăn hay rác cũng khiến động vật kéo đến.",
+   "do": [
+    "Quan sát từ xa",
+    "Mang thức ăn và rác về"
+   ],
+   "dont": [
+    "Cho động vật hoang dã ăn",
+    "Đến gần hoặc đuổi theo động vật để chụp ảnh"
+   ],
+   "keywords": [
+    "động vật hoang dã",
+    "cho ăn",
+    "khỉ",
+    "hươu",
+    "nai",
+    "công viên quốc gia"
+   ],
+   "area": null,
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "野生動物に餌をあげない",
+    "summary": "国立公園などでは、野生動物に餌を与えないよう求められています。国立公園・国定公園には、野生動物に餌を与えることや、著しく近づいたり付きまとったりすることが法律で規制される場所があります。食べ物やごみを置いていくことも、動物を引き寄せる原因になります。"
    },
    "see_also": []
   },
@@ -4773,6 +5334,7 @@
     "cách mặc",
     "du lịch"
    ],
+   "area": null,
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {

@@ -116,6 +116,7 @@
     "洗濯機",
     "ごみ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -170,6 +171,7 @@
     "野焼き",
     "燃やす"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -223,11 +225,56 @@
     "集積所",
     "ごみカレンダー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "ごみは決められた日・時間・場所に出す",
     "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "garbage-lithium-batteries",
+   "category": "garbage",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/recycle/waste/lithium_1/index.html",
+   "sources": [
+    {
+     "title": "リチウムイオン電池関係｜環境省",
+     "url": "https://www.env.go.jp/recycle/waste/lithium_1/index.html"
+    },
+    {
+     "title": "火災事故について｜リチウムイオン電池総合対策ポータル本部｜総務省消防庁",
+     "url": "https://www.fdma.go.jp/relocation/lithium-ion/accident/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "モバイルバッテリーなどの電池をほかのごみに混ぜない",
+   "summary": "リチウムイオン電池や、それを使ったモバイルバッテリーなどの製品がほかのごみに混ざると、ごみ収集車やごみ処理施設で火災の原因になります。家庭から出すときは、住んでいる市区町村のごみの出し方に従ってください。",
+   "do": [
+    "市区町村のごみの出し方を確かめる",
+    "出し方が分からないときは市区町村に問い合わせる"
+   ],
+   "dont": [
+    "燃えるごみや燃えないごみに混ぜて出す"
+   ],
+   "keywords": [
+    "電池",
+    "リチウムイオン電池",
+    "モバイルバッテリー",
+    "充電池",
+    "バッテリー",
+    "火災",
+    "ごみ"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "モバイルバッテリーなどの電池をほかのごみに混ぜない",
+    "summary": "リチウムイオン電池や、それを使ったモバイルバッテリーなどの製品がほかのごみに混ざると、ごみ収集車やごみ処理施設で火災の原因になります。家庭から出すときは、住んでいる市区町村のごみの出し方に従ってください。"
    },
    "see_also": []
   },
@@ -268,6 +315,7 @@
     "申し込み",
     "ごみ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -309,6 +357,7 @@
     "リサイクル",
     "燃えるごみ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -356,6 +405,7 @@
     "転貸",
     "ルームシェア"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -393,6 +443,7 @@
     "賃貸",
     "引っ越し"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -434,6 +485,7 @@
     "ベランダ",
     "避難"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -477,6 +529,7 @@
     "布団",
     "バーベキュー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -513,6 +566,7 @@
     "地域",
     "近所"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -547,10 +601,11 @@
    ],
    "last_verified": "2026-11-09",
    "title": "夜から早朝は生活音に気をつける",
-   "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。",
+   "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。楽器やオーディオの音も、音量と時間帯に気をつけましょう。",
    "do": [
     "話し声やテレビの音量を控える",
-    "掃除機、洗濯機、ドアの開け閉めの音に気をつける"
+    "掃除機、洗濯機、ドアの開け閉めの音に気をつける",
+    "楽器やスピーカーは音量と時間帯に気をつける"
    ],
    "dont": [
     "夜中に大勢でパーティーをする",
@@ -562,13 +617,17 @@
     "夜",
     "集合住宅",
     "マンション",
-    "アパート"
+    "アパート",
+    "楽器",
+    "ピアノ",
+    "スピーカー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "夜から早朝は生活音に気をつける",
-    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
+    "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。楽器やオーディオの音も、音量と時間帯に気をつけましょう。"
    },
    "see_also": []
   },
@@ -603,6 +662,7 @@
     "鳴き声",
     "ふん"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -646,6 +706,7 @@
     "土足",
     "習慣"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -653,6 +714,58 @@
     "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
    },
    "see_also": []
+  },
+  {
+   "id": "daily-crossing-road",
+   "category": "daily",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html",
+   "sources": [
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第12条・第13条・第76条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "信号を守り、横断歩道を渡る",
+   "summary": "歩行者も信号に従わなければなりません。近くに横断歩道があるときはそこを渡り、標識で認められた場所を除いて道路を斜めに渡ったり、車のすぐ前やすぐ後ろを横切ったりしてはいけません。写真を撮るために車道で立ち止まるなど、交通の妨げになる方法で道路に立ち止まることも、法律で禁止されています。",
+   "do": [
+    "歩行者用の信号に従う",
+    "近くの横断歩道を渡る",
+    "写真は歩道の安全な場所で撮る"
+   ],
+   "dont": [
+    "赤信号で渡る",
+    "道路を斜めに渡る",
+    "車道に出て写真を撮る"
+   ],
+   "keywords": [
+    "信号",
+    "横断歩道",
+    "歩行者",
+    "信号無視",
+    "斜め横断",
+    "車道",
+    "写真",
+    "撮影"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "信号を守り、横断歩道を渡る",
+    "summary": "歩行者も信号に従わなければなりません。近くに横断歩道があるときはそこを渡り、標識で認められた場所を除いて道路を斜めに渡ったり、車のすぐ前やすぐ後ろを横切ったりしてはいけません。写真を撮るために車道で立ち止まるなど、交通の妨げになる方法で道路に立ち止まることも、法律で禁止されています。"
+   },
+   "see_also": [
+    "travel-photo-manners",
+    "transit-walking-phone",
+    "travel-driving-rules"
+   ]
   },
   {
    "id": "daily-spitting",
@@ -687,6 +800,7 @@
     "道",
     "公園"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -724,6 +838,7 @@
     "ごみ",
     "ルール"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -778,6 +893,7 @@
     "文化の違い",
     "迷惑"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -833,6 +949,7 @@
     "咳エチケット",
     "電車"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -874,6 +991,7 @@
     "礼儀",
     "マナー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -913,6 +1031,7 @@
     "マイナ保険証",
     "通訳"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -960,6 +1079,7 @@
     "出入り口",
     "グループ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1005,6 +1125,7 @@
     "スリッパ",
     "ごみ箱"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1043,6 +1164,7 @@
     "駅",
     "歩道"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1101,6 +1223,7 @@
     "住所変更",
     "市役所"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1163,6 +1286,7 @@
     "海外",
     "マイナポータル"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1209,6 +1333,7 @@
     "隣",
     "自己紹介"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1244,6 +1369,7 @@
     "片づけ",
     "ごみ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1282,6 +1408,7 @@
     "開栓",
     "ライフライン"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1323,6 +1450,7 @@
     "条例",
     "立ち止まる"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1370,6 +1498,7 @@
     "ラッシュ",
     "地下鉄"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1423,6 +1552,7 @@
     "荷物",
     "電車"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1465,6 +1595,7 @@
     "小銭",
     "おつり"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1510,6 +1641,7 @@
     "電車",
     "バス"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1546,6 +1678,7 @@
     "飲み物",
     "混雑"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1593,11 +1726,50 @@
     "バス",
     "車内"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "車内では大きな声で話さない",
     "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "transit-makeup",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": null,
+   "sources": [
+    {
+     "title": "2025年度 駅と電車内の迷惑行為ランキング | 日本民営鉄道協会",
+     "url": "https://www.mintetsu.or.jp/activity/enquete/2025.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "電車の中で化粧をしない",
+   "summary": "鉄道会社の団体が行ったアンケートでは、電車の中での化粧が、迷惑に感じる行為の一つに挙げられています。化粧品などの強い香りも挙げられています。決まりではありませんが、化粧は家や化粧室で済ませます。",
+   "do": [
+    "化粧は家や駅の化粧室で済ませる"
+   ],
+   "dont": [
+    "混んだ車内で化粧をする"
+   ],
+   "keywords": [
+    "化粧",
+    "メイク",
+    "電車",
+    "車内",
+    "マナー",
+    "香り"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "電車の中で化粧をしない",
+    "summary": "鉄道会社の団体が行ったアンケートでは、電車の中での化粧が、迷惑に感じる行為の一つに挙げられています。化粧品などの強い香りも挙げられています。決まりではありませんが、化粧は家や化粧室で済ませます。"
    },
    "see_also": []
   },
@@ -1644,6 +1816,7 @@
     "スマホ",
     "マナーモード"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1687,6 +1860,7 @@
     "駅",
     "安全"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1737,6 +1911,7 @@
     "電車",
     "バス"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1788,6 +1963,7 @@
     "乗車",
     "ホーム"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1834,6 +2010,7 @@
     "ホーム",
     "危険"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1881,6 +2058,7 @@
     "電車",
     "バス"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1918,6 +2096,7 @@
     "自動ドア",
     "チップ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -1964,6 +2143,7 @@
     "駅",
     "ホーム"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2017,6 +2197,7 @@
     "お酒",
     "飲酒運転"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2067,6 +2248,7 @@
     "歩道",
     "逆走"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2124,6 +2306,7 @@
     "携帯電話",
     "青切符"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2173,6 +2356,7 @@
     "中古",
     "登録"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2180,6 +2364,66 @@
     "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
    },
    "see_also": []
+  },
+  {
+   "id": "bicycle-riding-rules",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html",
+   "sources": [
+    {
+     "title": "自転車を安全・安心に利用するために－自転車への交通反則通告制度（青切符）の導入－【自転車ルールブック】（警察庁交通局）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf"
+    },
+    {
+     "title": "自転車の交通ルール｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/rule.html"
+    },
+    {
+     "title": "よくある質問｜自転車ポータルサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/portal/faq.html"
+    },
+    {
+     "title": "自転車をはじめとする軽車両の反則行為と反則金の額（警察庁）",
+     "url": "https://www.npa.go.jp/bureau/traffic/bicycle/pdf/jitensyahansokukoui.pdf"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "自転車の傘差し運転・二人乗り・並走はしない",
+   "summary": "自転車で傘を差して運転すること、イヤホンをつけて周りの音が聞こえない状態で運転すること、二人乗り、横に並んで走ること、夜間にライトをつけずに走ることは、法律や都道府県の規則で禁止されており、反則金（青切符）の対象になります。幼児用座席に子どもを乗せるときなど、認められている例外もあります。",
+   "do": [
+    "雨の日は雨具を着る",
+    "夜はライトをつける",
+    "一列になって走る"
+   ],
+   "dont": [
+    "傘を差して運転する",
+    "周りの音が聞こえない状態でイヤホンを使う",
+    "二人乗りをする",
+    "横に並んで走る"
+   ],
+   "keywords": [
+    "自転車",
+    "傘差し",
+    "イヤホン",
+    "二人乗り",
+    "並走",
+    "並進",
+    "ライト",
+    "無灯火",
+    "青切符"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "自転車の傘差し運転・二人乗り・並走はしない",
+    "summary": "自転車で傘を差して運転すること、イヤホンをつけて周りの音が聞こえない状態で運転すること、二人乗り、横に並んで走ること、夜間にライトをつけずに走ることは、法律や都道府県の規則で禁止されており、反則金（青切符）の対象になります。幼児用座席に子どもを乗せるときなど、認められている例外もあります。"
+   },
+   "see_also": [
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "bicycle-parking",
@@ -2218,6 +2462,7 @@
     "放置自転車",
     "撤去"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2263,6 +2508,7 @@
     "食事",
     "マナー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2299,6 +2545,7 @@
     "3010運動",
     "もったいない"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2339,6 +2586,7 @@
     "レストラン",
     "会計"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2375,6 +2623,7 @@
     "会計",
     "突き出し"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2414,6 +2663,7 @@
     "商品",
     "食べる"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2450,6 +2700,7 @@
     "行列",
     "飲食店"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2486,6 +2737,7 @@
     "レストラン",
     "飲食店"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2521,6 +2773,7 @@
     "家庭ごみ",
     "ごみ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2572,6 +2825,7 @@
     "温泉",
     "脱衣所"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2618,6 +2872,7 @@
     "銭湯",
     "旅館"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2666,6 +2921,7 @@
     "タオル",
     "風呂"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2715,6 +2971,7 @@
     "湯船",
     "風呂"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2768,6 +3025,7 @@
     "湯船",
     "かけ湯"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2811,6 +3069,7 @@
     "電車",
     "道"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2855,6 +3114,7 @@
     "20歳",
     "年齢"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2897,6 +3157,7 @@
     "運転",
     "酒気帯び"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2946,6 +3207,7 @@
     "受動喫煙",
     "飲食店"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -2986,11 +3248,51 @@
     "喫煙",
     "年齢"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "20歳未満はたばこを吸えない",
     "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "drinking-shibuya-street",
+   "category": "smoking",
+   "label": "local_rule",
+   "region": "13",
+   "official_link": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html",
+   "sources": [
+    {
+     "title": "渋谷駅周辺地域の安全で安心な環境の確保に関する条例の一部改正について｜渋谷区",
+     "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/jorei-toshin/sbykankyo.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "渋谷駅周辺では夜に路上でお酒を飲まない",
+   "summary": "渋谷区は条例で、渋谷駅周辺の決められた区域にある道路や公園などの公共の場所で、夜の時間帯にお酒を飲むことを一年を通じて禁止しています。区域と時間は、区のページの地図と案内で確認してください。",
+   "do": [
+    "お酒はお店の中で飲む",
+    "区のページで禁止区域を確かめる"
+   ],
+   "dont": [
+    "禁止区域の路上や公園でお酒を飲む"
+   ],
+   "keywords": [
+    "渋谷",
+    "路上飲酒",
+    "飲酒",
+    "お酒",
+    "条例",
+    "ハロウィン"
+   ],
+   "area": "東京都渋谷区（渋谷駅周辺）",
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "渋谷駅周辺では夜に路上でお酒を飲まない",
+    "summary": "渋谷区は条例で、渋谷駅周辺の決められた区域にある道路や公園などの公共の場所で、夜の時間帯にお酒を飲むことを一年を通じて禁止しています。区域と時間は、区のページの地図と案内で確認してください。"
    },
    "see_also": []
   },
@@ -3032,6 +3334,7 @@
     "条例",
     "過料"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3074,6 +3377,7 @@
     "引っ越し",
     "市役所"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3123,6 +3427,7 @@
     "特別永住者",
     "身分証"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3168,6 +3473,7 @@
     "一時帰国",
     "在留カード"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3217,6 +3523,7 @@
     "入管",
     "在留資格"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3266,6 +3573,7 @@
     "在留期間の更新",
     "納税管理人"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3309,6 +3617,7 @@
     "仕事",
     "バイト"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3360,6 +3669,7 @@
     "帰国",
     "解約"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3407,6 +3717,7 @@
     "翻訳文",
     "レンタカー"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3451,6 +3762,7 @@
     "持ち込み",
     "マリファナ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3497,6 +3809,7 @@
     "迷惑防止条例",
     "不同意わいせつ"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3545,6 +3858,7 @@
     "護身用",
     "銃刀法"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3592,6 +3906,7 @@
     "網棚",
     "盗み"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3643,6 +3958,7 @@
     "遺失物",
     "拾う"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3686,6 +4002,7 @@
     "性交同意年齢",
     "性暴力"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3730,6 +4047,7 @@
     "盗み",
     "横領"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3778,6 +4096,7 @@
     "解約",
     "帰国"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3821,6 +4140,7 @@
     "名義",
     "退去強制"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3867,6 +4187,7 @@
     "性犯罪",
     "下着"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3912,6 +4233,7 @@
     "店",
     "買い物"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3951,6 +4273,7 @@
     "酒",
     "110番"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -3996,6 +4319,7 @@
     "アルバイト",
     "詐欺"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4044,6 +4368,7 @@
     "人権相談",
     "共生"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4096,6 +4421,7 @@
     "台風",
     "大雨"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4147,6 +4473,7 @@
     "洪水",
     "津波"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4206,6 +4533,7 @@
     "緊急",
     "電話"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4256,6 +4584,7 @@
     "病院",
     "急病"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4310,6 +4639,7 @@
     "連絡",
     "安否"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4317,6 +4647,106 @@
     "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
    },
    "see_also": []
+  },
+  {
+   "id": "emergency-heatstroke",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.wbgt.env.go.jp/",
+   "sources": [
+    {
+     "title": "熱中症が増えています 予防のためのポイント（環境省ほか関係府省庁）",
+     "url": "https://www.env.go.jp/content/000136723.pdf"
+    },
+    {
+     "title": "環境省熱中症予防情報サイト",
+     "url": "https://www.wbgt.env.go.jp/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "暑い日は熱中症に気をつける",
+   "summary": "熱中症は室内でも夜でも起こり、命に関わることがあります。熱中症警戒アラートが出たら、のどが渇く前に水分と塩分をとり、エアコンを適切に使い、不要不急の外出を避けます。高齢の人などには、周りから声をかけます。",
+   "do": [
+    "のどが渇く前に水分と塩分をとる",
+    "暑さを我慢せずにエアコンを使う",
+    "熱中症警戒アラートを確かめる"
+   ],
+   "dont": [
+    "暑さの厳しい日に無理に外で運動する"
+   ],
+   "keywords": [
+    "熱中症",
+    "暑さ",
+    "夏",
+    "水分",
+    "エアコン",
+    "熱中症警戒アラート",
+    "暑さ指数"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "暑い日は熱中症に気をつける",
+    "summary": "熱中症は室内でも夜でも起こり、命に関わることがあります。熱中症警戒アラートが出たら、のどが渇く前に水分と塩分をとり、エアコンを適切に使い、不要不急の外出を避けます。高齢の人などには、周りから声をかけます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-driving-rules",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/english/bureau/traffic/index.html",
+   "sources": [
+    {
+     "title": "Follow the Rules for Safe Driving in Japan（警察庁・都道府県警察）",
+     "url": "https://www.npa.go.jp/english/bureau/traffic/document/r8_followtherules_en01.pdf"
+    },
+    {
+     "title": "横断歩道は歩行者優先です｜警察庁Webサイト",
+     "url": "https://www.npa.go.jp/bureau/traffic/oudanhodou/info.html"
+    },
+    {
+     "title": "道路交通法 第7条・第17条・第38条・第43条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "車は左側通行。赤信号と「止まれ」で必ず止まる",
+   "summary": "日本では、車は道路の中央から左の部分を通行します。赤信号では止まり、「止まれ」の標識がある場所では停止線の手前で一時停止して、左右の安全を確かめます。横断歩道を渡っている人や渡ろうとしている人がいるときは、手前で一時停止して道を譲ります。日本の交通ルールや標識は、ほかの国と違うことがあります。",
+   "do": [
+    "道路の左側を走る",
+    "「止まれ」の標識では完全に止まって左右を確かめる",
+    "横断歩道では歩行者に道を譲る"
+   ],
+   "dont": [
+    "赤信号で進む",
+    "歩行者が渡ろうとしている横断歩道を止まらずに通る"
+   ],
+   "keywords": [
+    "運転",
+    "車",
+    "レンタカー",
+    "左側通行",
+    "一時停止",
+    "止まれ",
+    "信号",
+    "横断歩道"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "車は左側通行。赤信号と「止まれ」で必ず止まる",
+    "summary": "日本では、車は道路の中央から左の部分を通行します。赤信号では止まり、「止まれ」の標識がある場所では停止線の手前で一時停止して、左右の安全を確かめます。横断歩道を渡っている人や渡ろうとしている人がいるときは、手前で一時停止して道を譲ります。日本の交通ルールや標識は、ほかの国と違うことがあります。"
+   },
+   "see_also": [
+    "crime-driving-license",
+    "drunk-driving",
+    "daily-crossing-road"
+   ]
   },
   {
    "id": "travel-drone-rules",
@@ -4357,6 +4787,7 @@
     "撮影",
     "旅行"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4412,6 +4843,7 @@
     "大麻",
     "旅行"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4450,11 +4882,56 @@
     "旅行",
     "観光"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "旅行中はパスポートを持ち歩く",
     "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-fuji-climbing",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "19",
+   "official_link": "https://www.fujisan-climb.jp/",
+   "sources": [
+    {
+     "title": "静岡県各3登山口における登山規制の実施｜静岡県公式ホームページ",
+     "url": "https://www.pref.shizuoka.jp/kankosports/kanko/mtfuji/1002809/1072062.html"
+    },
+    {
+     "title": "山梨県からのお知らせ｜富士登山オフィシャルサイト",
+     "url": "https://www.fujisan-climb.jp/yamanashi-notice/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "富士山は公式サイトでルールを確かめてから登る",
+   "summary": "夏の登山期間の富士山では、山梨県と静岡県がそれぞれ登山道のルールを設けています。事前の登録や予約、入山料の支払い、夜の時間帯の通行規制などがあり、山小屋に泊まらずに夜通しで登る「弾丸登山」はしないよう求められています。内容は年ごとに変わるので、登る前に公式サイトで確認してください。",
+   "do": [
+    "登る前に公式サイトでその年のルールを確かめる",
+    "夜に登るときは山小屋に泊まる計画にする"
+   ],
+   "dont": [
+    "山小屋に泊まらずに夜通しで登る"
+   ],
+   "keywords": [
+    "富士山",
+    "登山",
+    "弾丸登山",
+    "山小屋",
+    "入山料",
+    "事前登録",
+    "吉田ルート"
+   ],
+   "area": "山梨県・静岡県（富士山）",
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "富士山は公式サイトでルールを確かめてから登る",
+    "summary": "夏の登山期間の富士山では、山梨県と静岡県がそれぞれ登山道のルールを設けています。事前の登録や予約、入山料の支払い、夜の時間帯の通行規制などがあり、山小屋に泊まらずに夜通しで登る「弾丸登山」はしないよう求められています。内容は年ごとに変わるので、登る前に公式サイトで確認してください。"
    },
    "see_also": []
   },
@@ -4497,6 +4974,7 @@
     "コインロッカー",
     "旅行"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4504,6 +4982,50 @@
     "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
    },
    "see_also": []
+  },
+  {
+   "id": "travel-bears",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/bear/",
+   "sources": [
+    {
+     "title": "国立公園に出かける前に知っておきたいクマのこと｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/bear/"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "山ではクマに出会わないように備える",
+   "summary": "山や森では、クマに出会うことがあります。鈴や声などで人がいることを知らせ、ひとりで行動せず、食べ物や荷物、ごみを置いていかないようにします。出会ったら近づかず、クマを見ながら落ち着いてゆっくり後ずさりし、背中を向けて走らないでください。",
+   "do": [
+    "鈴や声で人がいることを知らせる",
+    "ひとりで行動しない",
+    "食べ物やごみを持ち帰る"
+   ],
+   "dont": [
+    "クマに近づく",
+    "背中を向けて走って逃げる"
+   ],
+   "keywords": [
+    "クマ",
+    "熊",
+    "山",
+    "登山",
+    "ハイキング",
+    "森",
+    "野生動物"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "山ではクマに出会わないように備える",
+    "summary": "山や森では、クマに出会うことがあります。鈴や声などで人がいることを知らせ、ひとりで行動せず、食べ物や荷物、ごみを置いていかないようにします。出会ったら近づかず、クマを見ながら落ち着いてゆっくり後ずさりし、背中を向けて走らないでください。"
+   },
+   "see_also": [
+    "emergency-110-119"
+   ]
   },
   {
    "id": "travel-eating-walking",
@@ -4539,6 +5061,7 @@
     "旅行",
     "観光"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4576,6 +5099,7 @@
     "アメニティ",
     "宿"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4620,6 +5144,7 @@
     "近所",
     "旅行"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4671,6 +5196,7 @@
     "旅行",
     "観光"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4723,6 +5249,7 @@
     "旅行",
     "観光"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
@@ -4770,11 +5297,57 @@
     "旅行",
     "観光"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {
     "title": "ごみ箱がなければ持ち帰る",
     "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-wildlife-feeding",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/nationalparks/about/manner/",
+   "sources": [
+    {
+     "title": "国立公園の利用上のマナー｜環境省",
+     "url": "https://www.env.go.jp/nature/nationalparks/about/manner/"
+    },
+    {
+     "title": "自然公園法施行令の一部を改正する政令等の閣議決定について｜環境省",
+     "url": "https://www.env.go.jp/press/109984.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "野生動物に餌をあげない",
+   "summary": "国立公園などでは、野生動物に餌を与えないよう求められています。国立公園・国定公園には、野生動物に餌を与えることや、著しく近づいたり付きまとったりすることが法律で規制される場所があります。食べ物やごみを置いていくことも、動物を引き寄せる原因になります。",
+   "do": [
+    "離れたところから見る",
+    "食べ物やごみは持ち帰る"
+   ],
+   "dont": [
+    "野生動物に餌を与える",
+    "写真のために近づいたり追いかけたりする"
+   ],
+   "keywords": [
+    "野生動物",
+    "餌やり",
+    "餌付け",
+    "サル",
+    "シカ",
+    "国立公園",
+    "動物"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "野生動物に餌をあげない",
+    "summary": "国立公園などでは、野生動物に餌を与えないよう求められています。国立公園・国定公園には、野生動物に餌を与えることや、著しく近づいたり付きまとったりすることが法律で規制される場所があります。食べ物やごみを置いていくことも、動物を引き寄せる原因になります。"
    },
    "see_also": []
   },
@@ -4809,6 +5382,7 @@
     "着方",
     "旅行"
    ],
+   "area": null,
    "text_language": "ja",
    "translation_status": "original",
    "ja": {

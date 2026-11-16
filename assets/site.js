@@ -19,6 +19,9 @@ export function normalizeSearchText(text) {
   return result;
 }
 
+/** 빌드가 `data-area-format` 에 넣는 대상 지역 자리. scripts/src/site.ts 의 `AREA_TOKEN` 과 같다. */
+export const AREA_TOKEN = '{area}';
+
 export function searchTokens(query) {
   return normalizeSearchText(query).split(/\s+/u).filter(Boolean);
 }
@@ -29,6 +32,7 @@ function weightedFields(item, categories) {
     [item.title, 6],
     [item.ja.title, 4],
     [item.keywords.join(' '), 3],
+    [item.area || '', 3],
     [category ? category.title : '', 2],
     [item.summary, 2],
     [item.ja.summary, 1],
@@ -96,6 +100,12 @@ function resultRow(item, form) {
   chip.className = `chip ${labelClass[item.label]}`;
   chip.textContent = labelText[item.label];
   row.append(title, summary, chip);
+  if (item.area) {
+    const area = document.createElement('span');
+    area.className = 'area';
+    area.textContent = form.dataset.areaFormat.replace(AREA_TOKEN, item.area);
+    row.append(area);
+  }
 
   const entry = document.createElement('li');
   entry.append(row);
