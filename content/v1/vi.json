@@ -121,7 +121,8 @@
    "ja": {
     "title": "エアコン・テレビ・冷蔵庫・洗濯機はリサイクルに出す",
     "summary": "エアコン、テレビ、冷蔵庫・冷凍庫、洗濯機・衣類乾燥機は家電リサイクル法の対象です。家電小売店に引き渡すか、市区町村の案内する方法でリサイクルします。リサイクル料金と収集運搬料金は消費者が負担します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "garbage-illegal-dumping",
@@ -139,7 +140,7 @@
      "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/kankyo/living_environment.html"
     },
     {
-     "title": "廃棄物の処理及び清掃に関する法律 第16条・第25条",
+     "title": "廃棄物の処理及び清掃に関する法律 第16条・第16条の2・第25条",
      "url": "https://laws.e-gov.go.jp/law/345AC0000000137"
     },
     {
@@ -147,30 +148,33 @@
      "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
     }
    ],
-   "last_verified": "2026-11-09",
+   "last_verified": "2026-11-16",
    "title": "Không vứt rác ra đường hay lên núi (xả rác, đổ rác trái phép)",
-   "summary": "Luật xử lý chất thải quy định không ai được vứt chất thải bừa bãi, vi phạm sẽ bị xử phạt. Vứt rác ra đường hoặc lên núi là một ví dụ. Vứt bừa vỏ lon, đầu lọc thuốc lá… ra đường hoặc công viên cũng bị Luật Vi phạm nhẹ (軽犯罪法) cấm.",
+   "summary": "Luật xử lý chất thải quy định không ai được vứt chất thải bừa bãi, vi phạm sẽ bị xử phạt. Vứt rác ra đường hoặc lên núi là một ví dụ. Đốt rác ngoài trời như trong sân hay trên bãi đất trống (野焼き) cũng bị cấm, trừ các trường hợp luật cho phép, và có hình phạt. Vứt bừa vỏ lon, đầu lọc thuốc lá… ra đường hoặc công viên cũng bị Luật Vi phạm nhẹ (軽犯罪法) cấm.",
    "do": [
     "Xử lý rác theo cách chính quyền địa phương quy định",
     "Khi không biết cách xử lý, hãy hỏi chính quyền địa phương"
    ],
    "dont": [
     "Vứt rác ra đường, lên núi hoặc những nơi tương tự",
-    "Vứt vỏ lon hoặc đầu lọc thuốc lá ra đường"
+    "Vứt vỏ lon hoặc đầu lọc thuốc lá ra đường",
+    "Đốt rác trong sân hoặc trên bãi đất trống"
    ],
    "keywords": [
     "đổ rác trái phép",
     "vứt rác",
     "đầu lọc thuốc lá",
     "rác",
-    "chất thải"
+    "chất thải",
+    "đốt rác"
    ],
    "text_language": "vi",
    "translation_status": "machine",
    "ja": {
     "title": "道や山にごみを捨てない（ポイ捨て・不法投棄）",
-    "summary": "廃棄物処理法は、誰であっても、みだりに廃棄物を捨ててはならないと定めており、違反には罰則があります。道路や山にごみを捨てることなどがこれにあたります。空き缶や吸い殻などを道や公園にみだりに捨てることは、軽犯罪法でも禁じられています。"
-   }
+    "summary": "廃棄物処理法は、誰であっても、みだりに廃棄物を捨ててはならないと定めており、違反には罰則があります。道路や山にごみを捨てることなどがこれにあたります。ごみを庭や空き地などで燃やすこと（野焼き）も、法律が定める例外を除いて禁じられており、罰則があります。空き缶や吸い殻などを道や公園にみだりに捨てることは、軽犯罪法でも禁じられています。"
+   },
+   "see_also": []
   },
   {
    "id": "garbage-collection-day",
@@ -222,7 +226,8 @@
    "ja": {
     "title": "ごみは決められた日・時間・場所に出す",
     "summary": "ごみの種類ごとに、収集の曜日や時間帯が決まっています。時間は地域で違い、朝までに出す地域も、福岡市のように夜に出す地域もあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "garbage-oversized",
@@ -266,7 +271,8 @@
    "ja": {
     "title": "粗大ごみは事前に申し込む",
     "summary": "大きな家具などは、普通のごみとして出せないことがあります。例えば東京都新宿区・中野区や福岡市では事前の申し込みが必要で、新宿区では有料です。決まりは市区町村で確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "garbage-sorting",
@@ -306,7 +312,8 @@
    "ja": {
     "title": "ごみの分別は市区町村のルールに従う",
     "summary": "分別の種類や呼び方は地域によって異なります。前に住んでいた地域のやり方が、引っ越し先でも同じとは限りません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-lease-rules",
@@ -351,7 +358,8 @@
    "ja": {
     "title": "無断で同居させない・又貸ししない",
     "summary": "届け出のない人を無断で同居させると、退去を求められる場合があります。部屋を他の人に又貸しするには、貸主の承諾が必要です（民法）。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-moveout-notice",
@@ -387,7 +395,8 @@
    "ja": {
     "title": "退去するときは期限までに書面で知らせる",
     "summary": "引っ越すときは、契約書に書かれている期限までに、家主や不動産店へ書面で解約を伝えます（解約予告）。期限は契約によって違います。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-shared-areas",
@@ -427,7 +436,8 @@
    "ja": {
     "title": "廊下や階段に物を置かない",
     "summary": "自分の部屋以外の廊下や階段は共用部分で、いざというときの避難通路です。ベランダが避難通路になっている場合もあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-balcony",
@@ -468,7 +478,8 @@
    "ja": {
     "title": "ベランダは避難路にもなる",
     "summary": "ベランダやバルコニーは、火事などのときの避難路にもなります。隣との仕切り板の前に、大きな物や重い物を置かないようにします。バーベキューなどの火の使用や、手すりに布団を干すことを禁じている建物もあります。リンク先は UR 賃貸の例です。住んでいる建物の規約を確かめます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-neighborhood-association",
@@ -504,7 +515,8 @@
    "ja": {
     "title": "自治会・町内会を知っておく",
     "summary": "自治会や町内会は、地域に住む人たちが自主的につくる団体です。市役所などからのお知らせの回覧などの活動をしていて、費用は会員が負担します。活動は地域によって違うので、分からないことは住んでいる市区町村に問い合わせます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-noise-night",
@@ -553,7 +565,8 @@
    "ja": {
     "title": "夜から早朝は生活音に気をつける",
     "summary": "集合住宅では、隣や上下の部屋に音が伝わりやすいです。特に夜間から早朝にかけては注意しましょう。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-pets",
@@ -591,7 +604,8 @@
    "ja": {
     "title": "ペットは飼う前に規約を確かめる",
     "summary": "集合住宅の多くはペットの飼育が禁止されていて、飼える場合でも動物の種類、大きさ、数が規約で決められていることがほとんどです。鳴き声、におい、ふんの放置は、近所とのトラブルのもとになります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "home-shoes-off",
@@ -634,7 +648,8 @@
    "ja": {
     "title": "家に上がるときは玄関で靴を脱ぐ",
     "summary": "玄関で靴を脱いで家の中に入るのが、日本の習慣です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-spitting",
@@ -672,7 +687,8 @@
    "ja": {
     "title": "道でつばを吐いたり、用を足したりしない",
     "summary": "軽犯罪法は、道や公園など人が集まる場所で、たんやつばを吐くことや大小便をすることを禁じており、拘留または科料の対象になります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-park-rules",
@@ -708,7 +724,75 @@
    "ja": {
     "title": "公園の花火は、その公園のルールを確かめる",
     "summary": "公園で花火ができるかどうかは、自治体や公園によって違います。できる公園でも、水の用意やごみの持ち帰りなどの条件があり、打ち上げ花火や音の出る花火を禁じているところがあります。リンク先は一つの市の例です。その公園の案内や自治体のページで確かめます。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "daily-about-manners",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/jizokukano_taisei/torikumi/manner_doga.html",
+   "sources": [
+    {
+     "title": "訪日外国人旅行者向けマナー啓発動画 | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/jizokukano_taisei/torikumi/manner_doga.html"
+    },
+    {
+     "title": "外国人旅行者のマナーと日本人客との摩擦への対策方法を教えてください。 | J-Net21",
+     "url": "https://j-net21.smrj.go.jp/solution/qa/inbound/Q1038.html"
+    },
+    {
+     "title": "「外国人のための生活マナーマニュアル」を作成しました！ | 富里市",
+     "url": "https://www.city.tomisato.lg.jp/0000016698.html"
+    },
+    {
+     "title": "万引きに関する調査研究報告書～外国人と日本人の意識の差に関する検討～ | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Hành vi thiếu ý thức của một người có thể ảnh hưởng đến cách nhìn về mọi người nước ngoài",
+   "summary": "Quy tắc và phép lịch sự trong sinh hoạt khác nhau tùy quốc gia và khu vực. Phần lớn hành vi thiếu lịch sự xảy ra vì không biết ở Nhật khác, hoặc do sơ ý. Dù vậy, những hành vi dễ bị chú ý như nói to trên tàu, chen hàng hay bỏ rác sai cách đôi khi được đưa lên tin tức và mạng xã hội, dẫn đến cách nhìn kiểu “người nước ngoài thì…”, khiến cả những người nước ngoài sống đúng quy tắc cũng bị nhìn khắt khe. Điều đó không có nghĩa cách nhìn ấy là đúng. Biết trước những hành vi hay gây vấn đề sẽ giúp tránh hiểu lầm và va chạm dễ hơn. Bạn có thể xem ở các mục liên quan bên dưới.",
+   "do": [
+    "Nghĩ rằng “ở Nhật có thể khác” và kiểm tra trước",
+    "Làm theo biển báo hoặc hướng dẫn nếu có",
+    "Nếu bị nhắc nhở, hãy dừng lại ngay"
+   ],
+   "dont": [
+    "Cho rằng mọi thứ giống như ở nước mình",
+    "Khi đi đông người, chỉ chú ý đến nhóm mình mà không để ý xung quanh"
+   ],
+   "keywords": [
+    "người nước ngoài",
+    "phép lịch sự",
+    "thiếu ý thức",
+    "định kiến",
+    "hiểu lầm",
+    "khác biệt văn hóa",
+    "phong tục"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "一人のマナー違反が、外国人みんなへの見方につながることがある",
+    "summary": "生活のルールやマナーは、国や地域によって違います。マナー違反の多くは、日本では違うと知らなかったり、うっかりしたりして起きます。それでも、電車の中の大声や列への割り込み、ごみの出し方のように目につきやすい行動は、ニュースやSNSで取り上げられることもあり、「外国人は…」という見方につながって、ルールを守って暮らす外国人みんなが厳しい目で見られることがあります。その見方が正しいという意味ではありません。よく問題になる行動を先に知っておけば、誤解や摩擦を避けやすくなります。下の関連項目から確かめられます。"
+   },
+   "see_also": [
+    "transit-loud-talk",
+    "transit-phone-calls",
+    "transit-queue",
+    "dining-register-queue",
+    "dining-pay-before-opening",
+    "garbage-sorting",
+    "garbage-illegal-dumping",
+    "daily-spitting",
+    "home-noise-night",
+    "bath-wash-first",
+    "travel-photo-manners",
+    "residence-tax-insurance",
+    "crime-one-person"
+   ]
   },
   {
    "id": "daily-cough-etiquette",
@@ -748,7 +832,8 @@
    "ja": {
     "title": "せきやくしゃみは口と鼻を覆う",
     "summary": "せきやくしゃみをするときは、マスク、ティッシュ、ハンカチなどで口と鼻を覆います。とっさのときは、袖やひじの内側を使います。周りに配慮しないせきやくしゃみは、電車内で迷惑に感じる行為としても挙げられています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-greeting",
@@ -788,7 +873,8 @@
    "ja": {
     "title": "あいさつは軽いおじぎから",
     "summary": "人に会ったときや店に出入りするときは、軽くうなずいたり頭を下げたりするだけで丁寧に伝わります。おじぎの細かい決まりを覚える必要はありません。近所の人と日ごろからあいさつを交わしておくと、トラブルが起きにくくなります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-hospital",
@@ -825,7 +911,8 @@
    "ja": {
     "title": "軽い病気やけがは近くの診療所へ",
     "summary": "日本の医療機関は役割が分かれていて、軽い病気やけがなら、まず身近な診療所に行きます。マイナ保険証などを提示しないと、医療費が全額自己負担になります。日本語が話せないときは、市区町村や国際交流協会、NPO に相談できます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-public-voice",
@@ -871,7 +958,8 @@
    "ja": {
     "title": "人の多い場所では声と広がり方に気をつける",
     "summary": "道や駅の通路など人の多い場所で大声で話したり、大勢で道をふさいだりすると、迷惑な行為と受け取られます。話すこと自体がいけないわけではなく、小さな声なら問題ありません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-toilet",
@@ -915,7 +1003,8 @@
    "ja": {
     "title": "トイレットペーパーは流す",
     "summary": "日本の水洗トイレでは、備え付けの紙を使い、使った紙はトイレに流します。使った紙をごみ箱に捨てる習慣の国もありますが、備え付けの紙なら詰まることはめったにありません。トイレ専用のスリッパがある場所では履き替えます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "daily-umbrella",
@@ -953,7 +1042,8 @@
    "ja": {
     "title": "傘は人に当たらないように持つ",
     "summary": "雨の日に、ぬれた傘が人に当たったり、傘の先を後ろの人に向けたりすると、迷惑で危険です。たたんだ傘は先を下に向けて、体の近くで持ちます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "moving-in-notification",
@@ -1010,7 +1100,8 @@
    "ja": {
     "title": "引っ越したら市区町村に届け出る",
     "summary": "新しい住所に住み始めたら、法律で決められた期限内に市区町村へ転入届を出します。同じ市区町村の中で引っ越したときは転居届です。正当な理由なく届け出をしないと、過料の対象になります。期限は公式ページで確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "moving-out-notification",
@@ -1071,7 +1162,8 @@
    "ja": {
     "title": "引っ越す前に転出届を出す",
     "summary": "別の市区町村へ引っ越すときは、前もって今の市区町村に転出届を出します。日本を出て海外で暮らす場合も、原則として届け出が必要です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "moving-greeting",
@@ -1115,7 +1207,8 @@
    "ja": {
     "title": "引っ越したら近所にあいさつする習慣がある",
     "summary": "義務ではありませんが、引っ越したときに近所へあいさつに行く習慣があります。集合住宅なら両隣、一戸建てなら周りの数軒が目安です。これは広島県東広島市の案内の例です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "moving-leave-clean",
@@ -1149,7 +1242,8 @@
    "ja": {
     "title": "退去するときは部屋に何も残さない",
     "summary": "部屋を出るときは、物もごみも残しません。国土交通省の部屋探しガイドブックのチェックシートにある約束です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "moving-utilities",
@@ -1185,7 +1279,8 @@
    "ja": {
     "title": "電気・ガス・水道の手続きは自分でする",
     "summary": "引っ越しの前に、電力会社、ガス会社、市区町村の水道担当へ移転の連絡をします。新しい家でガスを使い始めるときは、開栓に本人の立ち会いが必要です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-escalator",
@@ -1225,7 +1320,8 @@
    "ja": {
     "title": "エスカレーターでは立ち止まって乗る",
     "summary": "エスカレーターでは、左右どちらの側でも立ち止まって利用するよう、条例で定めている自治体があります。リンク先は一つの県の例です。駅や施設の案内に従います。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-women-only-car",
@@ -1270,7 +1366,8 @@
    "ja": {
     "title": "女性専用車の表示を確認する",
     "summary": "女性専用車を設けている鉄道会社があります。時間帯や路線は会社によって異なり、運行状況によって実施しないこともあります。例えば東京メトロでは、小学生以下の子ども、体の不自由な方とその介護者も乗車できます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-backpack",
@@ -1321,7 +1418,8 @@
    "ja": {
     "title": "混んだ車内ではリュックを背負わない",
     "summary": "混雑した車内では、リュックなどの荷物は前に抱える、手に持つ、網棚に置くよう案内されています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-bus-boarding",
@@ -1361,7 +1459,8 @@
    "ja": {
     "title": "バスの運賃の払い方は路線で違う",
     "summary": "距離で運賃が変わるバスでは、乗るときに番号の書かれた整理券を受け取り、降りるときにボードで番号を確かめて運賃を払います。どこまで乗っても同じ運賃のバスでは、乗るときに払います。IC カードが使えないバスや、おつりが出ない機械もあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-earphone-sound",
@@ -1404,7 +1503,8 @@
    "ja": {
     "title": "イヤホンの音漏れに気をつける",
     "summary": "電車やバスの中で大きな音で音楽を聞くと迷惑になります。イヤホンから音が漏れないようにし、スマートフォンの音を外に出して再生しないようにします。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-eating-drinking",
@@ -1439,7 +1539,8 @@
    "ja": {
     "title": "混んだ車内では飲食を控える",
     "summary": "鉄道会社の団体が行ったアンケートでは、混雑した車内での飲食が迷惑な行為の一つに挙げられています。決まりではありませんが、混んでいるときは控えます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-loud-talk",
@@ -1484,7 +1585,8 @@
    "ja": {
     "title": "車内では大きな声で話さない",
     "summary": "電車やバスの中で大きな声で話したり騒いだりすると、迷惑になります。会話をするときは、周りの迷惑にならない小さな声で話します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-phone-calls",
@@ -1533,7 +1635,8 @@
    "ja": {
     "title": "電車やバスの中では通話しない",
     "summary": "車内ではスマートフォンをマナーモードにし、通話は控えるよう案内されています。優先席の近くでは、混雑時に電源を切るよう求める鉄道会社もあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-platform-line",
@@ -1575,7 +1678,8 @@
    "ja": {
     "title": "ホームでは黄色い線の内側を歩く",
     "summary": "駅のホームの端は、電車と接触したり線路に落ちたりするおそれがあります。目の不自由な人のための黄色い点字ブロックより内側を歩き、内側で電車を待ちます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-priority-seats",
@@ -1624,7 +1728,8 @@
    "ja": {
     "title": "席を必要としている人に譲る",
     "summary": "高齢の方、体の不自由な方、内部障害のある方、乳幼児を連れた方、妊娠している方に席を譲りましょう。見た目では分からない場合もあります。優先席に限りません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-queue",
@@ -1673,7 +1778,8 @@
    "ja": {
     "title": "降りる人を待ってから、並んだ順に乗る",
     "summary": "電車に乗るときは、降りる人が先です。ホームでは列に並んで待ち、並んだ順番を守って乗ります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-rushing-doors",
@@ -1717,7 +1823,8 @@
    "ja": {
     "title": "駆け込み乗車をしない",
     "summary": "閉まりかけたドアに走って乗り込むと、ドアに挟まれたり、ホームで人とぶつかったりして危険です。時間に余裕を持って駅に向かい、間に合わなければ次の電車を待ちます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-seat-space",
@@ -1763,7 +1870,8 @@
    "ja": {
     "title": "座席に寝そべらず、一人分に座る",
     "summary": "座席に横になったり、足を伸ばしたり広げたりすると、ほかの人が座れず迷惑になります。座席は詰めて座り、荷物はひざの上や網棚に置きます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-taxi-door",
@@ -1799,7 +1907,8 @@
    "ja": {
     "title": "タクシーのドアは自分で開け閉めしない",
     "summary": "タクシーの後部左側のドアは自動で開閉し、後部右側のドアは原則として開け閉めしません。チップを渡す必要もありません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "transit-walking-phone",
@@ -1842,7 +1951,8 @@
    "ja": {
     "title": "駅では歩きながらスマホを使わない",
     "summary": "駅のホームや通路で、スマートフォンやゲーム機を使いながら歩くと、人とぶつかったり、ホームから落ちたりするおそれがあります。使うときは、通行のじゃまにならない場所で立ち止まります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bicycle-drunk-riding",
@@ -1893,7 +2003,8 @@
    "ja": {
     "title": "お酒を飲んだら自転車に乗らない",
     "summary": "道路交通法は「何人も、酒気を帯びて車両等を運転してはならない」と定めており、自転車も含まれます。運転した人だけでなく、自転車やお酒を提供した人、同乗した人も処罰の対象になります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bicycle-left-side",
@@ -1942,7 +2053,8 @@
    "ja": {
     "title": "自転車は車道の左側を走る",
     "summary": "自転車は車道を通行するのが原則で、左側を走ります。歩道は例外で、歩行者が優先です。歩道を通れるのは、標識で認められているとき、13歳未満や70歳以上の人、車道の通行に支障がある身体の障害がある人、安全のためやむを得ないときなどです。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bicycle-phone-use",
@@ -1997,7 +2109,8 @@
    "ja": {
     "title": "自転車に乗りながらスマホを使わない",
     "summary": "自転車に乗りながら、手に持って通話したり画面を注視したりすることは、道路交通法で禁止されており、罰則と反則金の制度があります。止まっているときの操作は対象外です。詳しくは公式ページを確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bicycle-registration",
@@ -2045,7 +2158,8 @@
    "ja": {
     "title": "自転車は防犯登録をする",
     "summary": "自転車を利用する人は、防犯登録を受けることが法律で決められています。新品だけでなく、中古や人からもらった自転車も同じです。手続きの場所は地域によって異なり、例えば東京都では委託を受けた自転車販売店です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bicycle-parking",
@@ -2089,7 +2203,8 @@
    "ja": {
     "title": "自転車は決められた場所に止める",
     "summary": "放置自転車を撤去する自治体があります。例えば東京都新宿区では、放置禁止区域の自転車は即時撤去の対象で、返還には手数料がかかります。区域の外でも、放置してよいわけではありません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-chopsticks",
@@ -2133,7 +2248,8 @@
    "ja": {
     "title": "箸を立てない・箸から箸へ渡さない",
     "summary": "ご飯に箸を突き刺して立てる「立て箸」と、箸と箸で料理を受け渡す「箸渡し」は、葬儀の作法と同じ動作なので避けられています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-food-waste",
@@ -2168,7 +2284,8 @@
    "ja": {
     "title": "宴会では食べきれる量を頼む",
     "summary": "環境省は、宴会の食べ残しを減らす「3010運動」などの取り組みを紹介しています。決まりではなく呼びかけで、地域によって呼び名や内容は違います。適量を注文し、「もったいない」を心がけます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-no-tip",
@@ -2206,7 +2323,8 @@
    "ja": {
     "title": "チップは渡さなくてよい",
     "summary": "日本にはチップの習慣がなく、渡すと戸惑われることがよくあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-otoshi",
@@ -2241,7 +2359,47 @@
    "ja": {
     "title": "居酒屋の「お通し」には別料金がかかることがある",
     "summary": "居酒屋では「お通し」という小さな料理が出ることがあり、別料金がかかることがあります。気になるときは店の人に聞きます。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "dining-pay-before-opening",
+   "category": "dining",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf",
+   "sources": [
+    {
+     "title": "万引きに関する調査研究報告書～外国人と日本人の意識の差に関する検討～ | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không mở hàng trước khi thanh toán",
+   "summary": "Ở cửa hàng Nhật Bản, bạn thanh toán ở quầy thu ngân rồi mới mở sản phẩm. Dù định trả tiền sau, việc mở, ăn hoặc uống trước khi thanh toán vẫn bị coi là thiếu lịch sự ở Nhật. Ở một số nước điều này có thể không sao, nhưng ở Nhật mọi người nhìn nhận việc này rất nghiêm khắc.",
+   "do": [
+    "Thanh toán ở quầy rồi mới mở"
+   ],
+   "dont": [
+    "Mở sản phẩm trước khi thanh toán",
+    "Ăn hoặc uống trong cửa hàng trước khi trả tiền"
+   ],
+   "keywords": [
+    "thanh toán",
+    "quầy thu ngân",
+    "mở",
+    "trả tiền",
+    "cửa hàng tiện lợi",
+    "siêu thị",
+    "ăn"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "会計の前に商品を開けない",
+    "summary": "日本の店では、商品はレジで代金を払ってから開けます。あとで払うつもりでも、会計前に開けたり食べたり飲んだりすることは、日本ではマナー違反と受け止められます。国によっては気にされないことでも、日本では特に厳しく見られる行動です。"
+   },
+   "see_also": []
   },
   {
    "id": "dining-register-queue",
@@ -2275,7 +2433,8 @@
    "ja": {
     "title": "レジや店の前では列に並ぶ",
     "summary": "日本では、電車、レジ、飲食店、開店待ちなど、さまざまな場面で列に並びます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-reservation",
@@ -2309,7 +2468,8 @@
    "ja": {
     "title": "予約した時間に行き、行けないなら早めに取り消す",
     "summary": "予約した店には時間どおりに行きます。行けなくなったら、早めにキャンセルします。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "dining-store-trash",
@@ -2343,7 +2503,8 @@
    "ja": {
     "title": "家庭のごみを店のごみ箱に捨てない",
     "summary": "コンビニや事業所のごみ箱に家庭ごみを捨てないよう呼びかけている自治体があります。これは広島県東広島市の例です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bath-no-photos",
@@ -2393,7 +2554,8 @@
    "ja": {
     "title": "脱衣所や浴室で撮影しない",
     "summary": "脱衣所や浴室での撮影は、施設のルールとして禁止されています。さらに、裸などの性的な姿をひそかに撮影すると、法律で罰せられることがあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bath-tattoo",
@@ -2438,7 +2600,8 @@
    "ja": {
     "title": "入れ墨・タトゥーの扱いは施設によって違う",
     "summary": "入れ墨・タトゥーのある人への対応は施設によって大きく異なり、入浴を断られることもあります。シールで隠す、時間帯をずらす、貸切風呂を使うといった方法が案内されることもあります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bath-dry-off",
@@ -2485,7 +2648,8 @@
    "ja": {
     "title": "脱衣所に戻る前に体を拭く",
     "summary": "浴室から脱衣所に戻るときは、ぬれた体をタオルでよく拭きます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bath-towel",
@@ -2533,7 +2697,8 @@
    "ja": {
     "title": "タオルを湯船に入れない",
     "summary": "湯船のお湯を清潔に保つため、タオルは湯船に入れません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "bath-wash-first",
@@ -2585,7 +2750,8 @@
    "ja": {
     "title": "湯船に入る前に体を洗う",
     "summary": "銭湯や温泉では、みんなが入る湯船を清潔に保つため、先に体を洗ってから入ります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "drinking-public-nuisance",
@@ -2626,7 +2792,8 @@
    "ja": {
     "title": "酔って人に迷惑をかけない",
     "summary": "法律は、酒に酔った人が、道や駅、電車など人の集まる場所や乗り物で、周りに迷惑をかける乱暴な言動をすることを禁じており、拘留または科料の対象になります。同じ法律は、飲酒を無理に勧めないよう求めています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "drinking-under-20",
@@ -2669,7 +2836,8 @@
    "ja": {
     "title": "20歳未満はお酒を飲めない",
     "summary": "日本の成年年齢は18歳ですが、お酒の年齢制限は20歳のままです。法律で20歳未満の飲酒は禁じられており、店が20歳未満の人にお酒を売ったり出したりすることも禁じられています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "drunk-driving",
@@ -2709,7 +2877,8 @@
    "ja": {
     "title": "お酒を飲んだら運転しない",
     "summary": "道路交通法は、酒気を帯びて車両等を運転することを、量にかかわらず禁じています。運転した人だけでなく、車を貸した人、お酒を出した人、同乗した人も処罰の対象になります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "smoking-indoor",
@@ -2757,7 +2926,8 @@
    "ja": {
     "title": "屋内は原則禁煙",
     "summary": "健康増進法により、多くの人が利用する施設や飲食店などの屋内は原則禁煙です。要件を満たす喫煙室では吸えます。学校、病院、児童福祉施設、行政機関などは原則として敷地内禁煙です。20歳未満の人は喫煙エリアに入れません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "smoking-under-20",
@@ -2796,7 +2966,8 @@
    "ja": {
     "title": "20歳未満はたばこを吸えない",
     "summary": "日本の成年年齢は18歳ですが、たばこの年齢制限は20歳のままです。法律で20歳未満の喫煙は禁じられています。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "smoking-street",
@@ -2840,7 +3011,8 @@
    "ja": {
     "title": "路上喫煙が禁止の地域がある",
     "summary": "路上喫煙を条例で禁止し、違反すると過料を取る自治体があります。例えば東京都千代田区は皇居を除く全域、大阪市は市内全域が対象です。区域と金額は自治体ごとに違います。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "residence-card-address",
@@ -2881,7 +3053,8 @@
    "ja": {
     "title": "住む場所が変わったら市区町村で届け出る（在留カード）",
     "summary": "中長期在留者は、新しい住居地に移ったら、期限内に市区町村の窓口で届け出ます。入管ではありません。在留カードの提示が必要です。届け出をしないと罰則があり、在留資格の取消事由になることもあります。期限は公式ページで確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "residence-card-carry",
@@ -2930,7 +3103,8 @@
    "ja": {
     "title": "在留カードは常に持ち歩く",
     "summary": "中長期在留者は在留カードを常に携帯する義務があり、求められたら提示します。16歳未満は携帯が免除されます。特別永住者は証明書を常に持ち歩く必要はありませんが、求められたら提示します。在留カードのない短期滞在の人はパスポートを携帯します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "residence-reentry",
@@ -2974,7 +3148,8 @@
    "ja": {
     "title": "日本を出て戻るときは再入国の手続きを確認する",
     "summary": "有効なパスポートと在留カードを持つ人は、出国するときに再入国の意思を示せば、決められた期間内は再入国許可なしで戻れます（みなし再入国）。この期間は海外で延長できません。超える予定なら、出国前に再入国許可を取ります。期間は公式ページで確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "residence-renewal",
@@ -3022,7 +3197,56 @@
    "ja": {
     "title": "在留期間は満了前に更新を申請する",
     "summary": "在留を続けるには、在留期間が満了する前に、住んでいる地域を管轄する地方出入国在留管理官署で更新を申請します。18歳以上の人は、取次者による場合を除いて本人が申請します。申請できる時期と手数料は公式ページで確認してください。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "residence-tax-insurance",
+   "category": "residence",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.city.tokyo-nakano.lg.jp/kurashi/hoken/hokenryo/taino.html",
+   "sources": [
+    {
+     "title": "国民健康保険料を滞納すると | 中野区",
+     "url": "https://www.city.tokyo-nakano.lg.jp/kurashi/hoken/hokenryo/taino.html"
+    },
+    {
+     "title": "外国人市民と税について | 越前市",
+     "url": "https://www.city.echizen.lg.jp/office/010/050/si-kenminzei/gaikokujinzei.html"
+    },
+    {
+     "title": "国民健康保険税を理由もなく滞納すると | 富里市",
+     "url": "https://www.city.tomisato.lg.jp/0000009196.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Nộp thuế và phí bảo hiểm, nếu không trả được thì hỏi sớm",
+   "summary": "Thuế cư trú được áp dụng không phân biệt quốc tịch, và bạn cũng phải nộp phí (thuế) Bảo hiểm Y tế Quốc dân và các khoản tương tự. Khi người nước ngoài xin gia hạn thời gian lưu trú hoặc đổi tư cách lưu trú, tình trạng nộp có thể được kiểm tra, và nếu còn nợ thì có thể ảnh hưởng đến việc xét duyệt. Nếu để mặc, bạn còn có thể bị áp dụng biện pháp như tịch biên tài sản. Khi khó trả, hãy đến hỏi quầy của chính quyền địa phương trước khi bị quá hạn. Đường liên kết là hướng dẫn của một quận, nên hãy hỏi chính quyền nơi bạn sống về cách nộp và nơi tư vấn.",
+   "do": [
+    "Kiểm tra giấy nộp tiền và thông báo nhận được, rồi nộp",
+    "Khi khó trả, hãy hỏi chính quyền địa phương sớm",
+    "Trước khi rời Nhật, hoàn tất thủ tục thuế cư trú"
+   ],
+   "dont": [
+    "Bỏ mặc thông báo mà không đọc"
+   ],
+   "keywords": [
+    "thuế",
+    "thuế cư trú",
+    "bảo hiểm y tế quốc dân",
+    "phí bảo hiểm",
+    "chưa nộp",
+    "nợ",
+    "gia hạn lưu trú"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "税金と保険料は納め、払えないときは早めに相談する",
+    "summary": "住民税は国籍にかかわらず課税され、国民健康保険料（税）なども納めます。外国籍の人が在留期間の更新や在留資格の変更を申請するとき、納付状況が確認されることがあり、未納があると審査に影響する場合があります。そのままにすると、財産の差押えなどの処分を受けることもあります。払うのが難しいときは、滞納になる前に市区町村の窓口に相談します。リンク先は一つの区の案内なので、納め方や相談先は住んでいる市区町村で確かめます。"
+   },
+   "see_also": []
   },
   {
    "id": "residence-work-permit",
@@ -3064,7 +3288,8 @@
    "ja": {
     "title": "留学などの在留資格で働くには許可が必要",
     "summary": "留学や家族滞在など、活動の範囲が決められた在留資格（入管法の別表第一）の人が、その範囲の外で収入を得る活動をするには、資格外活動許可が必要です。風俗営業などは許可の対象になりません。永住者、日本人の配偶者等、定住者などは、この手続きの対象ではありません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-bank-account",
@@ -3114,7 +3339,8 @@
    "ja": {
     "title": "銀行口座を売らない・人に渡さない",
     "summary": "銀行口座やキャッシュカード、通帳、ログイン情報を売ったり、人に渡したりすることは犯罪です。お金を受け取らない場合でも犯罪になることがあります。帰国などで使わなくなる口座は、金融機関で解約します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-driving-license",
@@ -3160,7 +3386,8 @@
    "ja": {
     "title": "運転できる免許か確かめてから運転する",
     "summary": "日本で車やオートバイを運転するには、日本の運転免許、条約に基づく国際運転免許証、または決められた翻訳文を付けた外国の運転免許のいずれかが必要です。使える期間には上限があり、対象の国も決まっています。免許なしで運転すると無免許運転になります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-drugs",
@@ -3201,7 +3428,8 @@
    "ja": {
     "title": "大麻などの違法薬物に手を出さない",
     "summary": "日本では、大麻の所持や譲渡に加えて使用も法律で禁止されています。海外では大麻成分入りのお菓子などが売られていることがあり、お土産として日本に持ち込もうとして検挙された例もあります。「合法」などとうたって売られているものにも手を出さないでください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-groping",
@@ -3245,7 +3473,8 @@
    "ja": {
     "title": "痴漢は重大な犯罪",
     "summary": "電車の中などで人の体に触る痴漢は、個人の尊厳を踏みにじる重大な犯罪で、条例や刑法で処罰されます。被害にあったら、迷わず 110 番に通報してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-knife-carry",
@@ -3291,7 +3520,56 @@
    "ja": {
     "title": "刃物を持ち歩かない",
     "summary": "仕事などの正当な理由なく刃物を持ち歩くことは、法律で禁じられています。護身用は正当な理由にあたりません。はさみやカッターナイフなどの文房具でも、正当な理由なくすぐ使える状態で持ち歩くと取締りの対象になります。車の中に隠して持つことも、携帯にあたる場合があります。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "crime-left-belongings",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.police.pref.osaka.lg.jp/sogo/katsudo/tekkei/1/6423.html",
+   "sources": [
+    {
+     "title": "置引き等被害の状況 | 大阪府警察",
+     "url": "https://www.police.pref.osaka.lg.jp/sogo/katsudo/tekkei/1/6423.html"
+    },
+    {
+     "title": "万引きに関する調査研究報告書～外国人と日本人の意識の差に関する検討～ | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/kurashi/anzen/manbiki/hokokusyo.files/R3_2.pdf"
+    },
+    {
+     "title": "刑法 第235条・第254条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không lấy đồ người khác để lại, dù chỉ là cái ô",
+   "summary": "Lấy đồ của người khác để trên ghế, giá hành lý hay giá để ô là tội phạm như trộm cắp, kể cả khi chủ đồ đã rời đi. Đồ rẻ như ô cũng vậy. Đồ không rõ chủ thì hãy giao cho nhân viên hoặc cảnh sát như đồ nhặt được.",
+   "do": [
+    "Giao đồ không rõ chủ cho nhân viên hoặc cảnh sát"
+   ],
+   "dont": [
+    "Lấy ô của người khác ở giá để ô",
+    "Lấy hành lý để trên ghế hoặc giá hành lý"
+   ],
+   "keywords": [
+    "trộm cắp",
+    "ô",
+    "dù",
+    "hành lý",
+    "giá hành lý",
+    "lấy trộm"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "置いてある他人の物は、傘でも持って行かない",
+    "summary": "座席や網棚、傘立てなどに置いてある他人の物を持ち去ることは、持ち主がその場を離れていても、窃盗などの犯罪にあたります。傘のような安い物でも同じです。持ち主が分からない物は、拾った物として係員や警察に届けます。"
+   },
+   "see_also": [
+    "crime-lost-property"
+   ]
   },
   {
    "id": "crime-lost-property",
@@ -3339,7 +3617,54 @@
    "ja": {
     "title": "拾った物を自分のものにしない",
     "summary": "落とし物を拾ったら、落とし主に返すか警察に届けます。駅や店などの施設の中で拾ったときは、係員や店員に届けます。自分のものにすると、遺失物横領の罪に問われる可能性があります。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "crime-non-consent",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.pref.hokkaido.lg.jp/ks/dms/djb/dv/boryokukonzetu/keihou.html",
+   "sources": [
+    {
+     "title": "性犯罪に関する規定が変わりました | 北海道",
+     "url": "https://www.pref.hokkaido.lg.jp/ks/dms/djb/dv/boryokukonzetu/keihou.html"
+    },
+    {
+     "title": "刑法 第176条・第177条 | e-Gov法令検索",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Hành vi tình dục không có sự đồng ý là tội phạm",
+   "summary": "Thực hiện hành vi tình dục khi đối phương khó hình thành, bày tỏ hoặc giữ vững ý muốn từ chối sẽ bị xử phạt về tội dâm ô không đồng ý hoặc tội giao cấu không đồng ý. Các trạng thái như chịu ảnh hưởng của rượu hoặc ma túy, đang ngủ, sợ hãi đến mức không cử động được, hay không thể từ chối vì chênh lệch địa vị đều thuộc trường hợp này. Dù đã kết hôn hay chưa đều bị xử phạt. Hành vi tình dục với trẻ dưới 16 tuổi cũng bị xử phạt (nếu trẻ từ 13 tuổi trở lên thì áp dụng với người lớn hơn từ 5 tuổi trở lên).",
+   "do": [
+    "Tôn trọng việc đối phương có tự nguyện đồng ý hay không"
+   ],
+   "dont": [
+    "Thực hiện hành vi tình dục với người say rượu hoặc đang ngủ",
+    "Lợi dụng công việc hay địa vị để thực hiện hành vi tình dục với người không thể từ chối",
+    "Thực hiện hành vi tình dục với trẻ dưới 16 tuổi"
+   ],
+   "keywords": [
+    "giao cấu không đồng ý",
+    "dâm ô không đồng ý",
+    "tội phạm tình dục",
+    "đồng ý",
+    "tuổi đồng ý",
+    "bạo lực tình dục"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "同意のない性的な行為は犯罪",
+    "summary": "相手が「したくない」と思ったり、それを伝えたり貫いたりすることが難しい状態で性的な行為をすると、不同意わいせつ罪や不同意性交等罪として処罰されます。お酒や薬物の影響、眠っている、恐怖で体が動かない、立場の上下で断れないといった状態がこれにあたります。結婚しているかどうかに関係なく処罰されます。16歳未満の子どもへの性的な行為も処罰されます（相手が13歳以上のときは、5歳以上年上の人が対象です）。"
+   },
+   "see_also": [
+    "crime-groping",
+    "crime-secret-filming"
+   ]
   },
   {
    "id": "crime-others-bicycle",
@@ -3379,7 +3704,8 @@
    "ja": {
     "title": "他人の自転車を勝手に使わない",
     "summary": "他人の自転車に勝手に乗ったり、持っていったりしてはいけません。放置されているように見える自転車でも、勝手に持っていくと占有離脱物横領の罪になります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-phone-contract",
@@ -3425,7 +3751,8 @@
    "ja": {
     "title": "契約した携帯電話を勝手に人に渡さない",
     "summary": "契約した携帯電話を、携帯電話会社の承諾を得ずに人に譲り渡すと、法律違反として処罰されることがあります。使うつもりがないのに契約して端末を渡し、お金を受け取ることは、販売店をだます詐欺にあたります。帰国などで使わなくなるときは、携帯電話会社に連絡して解約します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-residence-card",
@@ -3467,7 +3794,8 @@
    "ja": {
     "title": "在留カードを人に渡さない・他人のカードを使わない",
     "summary": "自分の在留カードを他人に提供すること、他人名義のカードを使う・受け取る・持つこと、偽造されたカードに関わることには罰則があります。こうした行為をしたり、そそのかしたり、手伝ったりした外国人は、退去強制の対象にもなります。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-secret-filming",
@@ -3512,7 +3840,8 @@
    "ja": {
     "title": "人の体や下着をこっそり撮影しない",
     "summary": "正当な理由なく、人の性的な部位や身に着けている下着などをひそかに撮影することは犯罪です。撮影した画像を人に渡したり公開したりすることも処罰の対象です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-shoplifting",
@@ -3555,7 +3884,8 @@
    "ja": {
     "title": "万引きは少額でも犯罪",
     "summary": "店の商品を代金を払わずに持ち出す万引きは、窃盗罪にあたる犯罪です。金額が少なくても同じ犯罪として扱われます。商品を返したり弁償したりすれば済む問題ではありません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-violence",
@@ -3593,7 +3923,8 @@
    "ja": {
     "title": "暴力は、相手がけがをしなくても犯罪",
     "summary": "人に暴力をふるうと、相手がけがをしなくても暴行の罪に、けがをさせれば傷害の罪になります。お酒の席のけんかでも、人を殴れば犯罪です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-yami-baito",
@@ -3636,7 +3967,8 @@
    "ja": {
     "title": "「高収入・簡単」の闇バイトに応じない",
     "summary": "「高額」「即日現金」「書類を受け取るだけ」といった言葉で、犯罪の実行役を集める「闇バイト」があります。応募のときに送った身分証明書を使って「家に行く」「家族に危害を加える」と脅され、やめられなくなることがあります。誘われたり応募してしまったりしたら、すぐ警察に相談してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "crime-one-person",
@@ -3683,7 +4015,10 @@
    "ja": {
     "title": "一人の犯罪が、外国人みんなへの非難に広がることがある",
     "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。"
-   }
+   },
+   "see_also": [
+    "daily-about-manners"
+   ]
   },
   {
    "id": "emergency-evacuation-info",
@@ -3732,7 +4067,8 @@
    "ja": {
     "title": "避難情報が出たら早めに避難する",
     "summary": "避難情報は市区町村長が出します。警戒レベル4の「避難指示」までに必ず避難します。レベル3の「高齢者等避難」では、高齢者など避難に時間がかかる人が避難します。情報が出ていなくても、危険を感じたら自分で判断して避難してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "emergency-hazard-map",
@@ -3783,7 +4119,8 @@
    "ja": {
     "title": "ハザードマップで避難先を確認しておく",
     "summary": "国のハザードマップポータルサイトから、市区町村のハザードマップを確認できます。サイトは日本語のみです。災害が起きたときに逃げるのは「指定緊急避難場所」、しばらく滞在するのは「指定避難所」で、別のものです。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "emergency-110-119",
@@ -3841,7 +4178,8 @@
    "ja": {
     "title": "事件・事故は110番、火事・救急は119番",
     "summary": "事件や事故は警察の110番、火事や急病・けがは消防の119番です。緊急でない警察への相談は「#9110」です。救急車を呼ぶときは、最初に「救急です」と伝えます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "emergency-ambulance-use",
@@ -3890,7 +4228,8 @@
    "ja": {
     "title": "救急車を呼ぶか迷ったときの相談先",
     "summary": "救急車を呼ぶべきか判断に困ったときは、地域によっては#7119などの電話で相談できます。全国どこでも使えるわけではなく、番号や時間は地域で違います。外国語で相談できるかは確認が必要です。命に関わりそうな症状があるときは、ためらわず119番に電話してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "emergency-disaster-171",
@@ -3943,7 +4282,8 @@
    "ja": {
     "title": "災害時の連絡には災害用伝言ダイヤル171",
     "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-drone-rules",
@@ -3989,7 +4329,8 @@
    "ja": {
     "title": "ドローンは飛行ルールを確認してから飛ばす",
     "summary": "日本でドローンを飛ばすには、機体の登録が必要な場合があります。空港の周辺や人が多い地区などでは、許可なく飛ばせません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-medicine-check",
@@ -4042,7 +4383,8 @@
    "ja": {
     "title": "薬を持ち込む前にルールを確認する",
     "summary": "海外から持ち込む薬には、数量の決まりや事前の手続きが必要なものがあります。アンフェタミンなどの覚醒剤や大麻は、治療のためでも持ち込めません。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-passport-carry",
@@ -4078,7 +4420,8 @@
    "ja": {
     "title": "旅行中はパスポートを持ち歩く",
     "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-shinkansen-luggage",
@@ -4125,7 +4468,8 @@
    "ja": {
     "title": "新幹線に大きな荷物を持ち込むときは予約する",
     "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-eating-walking",
@@ -4165,7 +4509,45 @@
    "ja": {
     "title": "混雑した場所では歩きながら食べない",
     "summary": "歩きながら食べるのは、多くの場所で行儀が悪いと受け取られます。狭い道や混雑した場所では、ほかの人の服を汚すこともあります。"
-   }
+   },
+   "see_also": []
+  },
+  {
+   "id": "travel-hotel-amenities",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://j-net21.smrj.go.jp/solution/qa/inbound/Q1038.html",
+   "sources": [
+    {
+     "title": "外国人旅行者のマナーと日本人客との摩擦への対策方法を教えてください。 | J-Net21",
+     "url": "https://j-net21.smrj.go.jp/solution/qa/inbound/Q1038.html"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "title": "Không mang đồ dùng của nơi lưu trú về",
+   "summary": "Trong phòng khách sạn và ryokan có những đồ vật là tài sản của nơi lưu trú, không được mang về. Nếu không chắc có được mang về hay không, hãy hỏi nhân viên.",
+   "do": [
+    "Hỏi nhân viên nếu không chắc có được mang về không"
+   ],
+   "dont": [
+    "Mang đồ dùng trong phòng về"
+   ],
+   "keywords": [
+    "khách sạn",
+    "ryokan",
+    "đồ dùng",
+    "mang về",
+    "đồ tiện nghi",
+    "nơi lưu trú"
+   ],
+   "text_language": "vi",
+   "translation_status": "machine",
+   "ja": {
+    "title": "宿の備品は持ち帰らない",
+    "summary": "ホテルや旅館の部屋にある物の中には、宿の備品として置かれていて、持ち帰ってはいけない物があります。持ち帰ってよいか分からない物は、宿の人に確かめます。"
+   },
+   "see_also": []
   },
   {
    "id": "travel-minpaku-noise",
@@ -4208,7 +4590,8 @@
    "ja": {
     "title": "民泊では夜の音に気をつける",
     "summary": "民泊は住宅街にあることが多く、まわりで人が暮らしています。法律で、民泊の事業者は宿泊者に騒音を防ぐための注意を説明することになっています。説明された決まりを守り、夜や早朝は静かに過ごします。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-photo-manners",
@@ -4258,7 +4641,8 @@
    "ja": {
     "title": "写真を撮るときは人と場所に配慮する",
     "summary": "知らない人を撮るときは、先に声をかけます。写真のために私有地や柵の中に入らず、撮影禁止の表示に従います。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-shrine-temple",
@@ -4308,7 +4692,8 @@
    "ja": {
     "title": "神社やお寺では静かに敬意を払う",
     "summary": "神社やお寺は信仰の場所です。静かにふるまい、表示や案内に従います。参拝の作法に迷ったら、周りの人に合わせれば大丈夫です。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-trash-carry",
@@ -4354,7 +4739,8 @@
    "ja": {
     "title": "ごみ箱がなければ持ち帰る",
     "summary": "町なかのごみ箱は多くありません。ごみ箱があれば分けて捨て、なければ持ち歩いて後で捨てます。"
-   }
+   },
+   "see_also": []
   },
   {
    "id": "travel-yukata",
@@ -4392,7 +4778,8 @@
    "ja": {
     "title": "浴衣は左側を上に重ねて着る",
     "summary": "旅館や温泉宿では、部屋に浴衣が用意されていることがあります。浴衣は左側を右側の上に重ねて着て、帯は腰の前で結びます。"
-   }
+   },
+   "see_also": []
   }
  ],
  "regions": [

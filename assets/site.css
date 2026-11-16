@@ -504,6 +504,14 @@ details p {
   font-size: 0.9375rem;
 }
 
+.phrase-reading {
+  display: block;
+}
+
+.phrase-hint {
+  color: var(--muted);
+}
+
 .region-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));

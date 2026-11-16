@@ -30,6 +30,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/daily-hospital/</loc></url>
@@ -65,6 +66,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/dining-store-trash/</loc></url>
@@ -83,13 +85,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/crime-residence-card/</loc></url>
@@ -108,6 +113,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ja/item/travel-shrine-temple/</loc></url>
@@ -145,6 +151,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/daily-hospital/</loc></url>
@@ -180,6 +187,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/dining-store-trash/</loc></url>
@@ -198,13 +206,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/crime-residence-card/</loc></url>
@@ -223,6 +234,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/en/item/travel-shrine-temple/</loc></url>
@@ -260,6 +272,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/daily-hospital/</loc></url>
@@ -295,6 +308,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/dining-store-trash/</loc></url>
@@ -313,13 +327,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/crime-residence-card/</loc></url>
@@ -338,6 +355,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/zh-Hans/item/travel-shrine-temple/</loc></url>
@@ -375,6 +393,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/daily-hospital/</loc></url>
@@ -410,6 +429,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/dining-store-trash/</loc></url>
@@ -428,13 +448,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/crime-residence-card/</loc></url>
@@ -453,6 +476,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/vi/item/travel-shrine-temple/</loc></url>
@@ -490,6 +514,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/daily-hospital/</loc></url>
@@ -525,6 +550,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/dining-store-trash/</loc></url>
@@ -543,13 +569,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/crime-residence-card/</loc></url>
@@ -568,6 +597,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/ko/item/travel-shrine-temple/</loc></url>
@@ -605,6 +635,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/home-shoes-off/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-spitting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-park-rules/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-about-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-cough-etiquette/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-greeting/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/daily-hospital/</loc></url>
@@ -640,6 +671,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-food-waste/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-no-tip/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-otoshi/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-pay-before-opening/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-register-queue/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-reservation/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/dining-store-trash/</loc></url>
@@ -658,13 +690,16 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/residence-card-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/residence-reentry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/residence-renewal/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/residence-tax-insurance/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/residence-work-permit/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-bank-account/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-driving-license/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-drugs/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-groping/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-knife-carry/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-left-belongings/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-lost-property/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-non-consent/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-others-bicycle/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-phone-contract/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/crime-residence-card/</loc></url>
@@ -683,6 +718,7 @@
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-passport-carry/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-shinkansen-luggage/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-eating-walking/</loc></url>
+<url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-hotel-amenities/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-minpaku-noise/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-photo-manners/</loc></url>
 <url><loc>https://truenorthlab.github.io/when-in-japan/hi/item/travel-shrine-temple/</loc></url>

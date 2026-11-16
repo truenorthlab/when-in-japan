@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "content_version": "2026.11.11-1071",
+ "content_version": "2026.11.16-1043",
  "packs": {
   "ja": {
    "url": "ja.json",
-   "sha256": "23bcd7442f8154eed083c8569d049fa5896dbf83ede196faf7e994024487c7d3",
-   "items": 98
+   "sha256": "122d265e3d304e8c10fa69b8f71be2440de1c3b0ada4b62d375dfe4c14827902",
+   "items": 104
   },
   "en": {
    "url": "en.json",
-   "sha256": "a14a98fc4f3c514c9a3d3d21a90e5fb8eca57ebb7accc298d499b22641c6c804",
-   "items": 98
+   "sha256": "d0655dcd65fa5a1b13ecc825a7e4eb4fb5fd158358ece269525e0e06ca5e1333",
+   "items": 104
   },
   "zh-Hans": {
    "url": "zh-Hans.json",
-   "sha256": "26e02a216de4d9352cb126cda0b801b34fd95b45350071005eb8d6b22e252ca9",
-   "items": 98
+   "sha256": "1e068ca04de1eefda0660eb328efc76c08cb516cc070557b79ad5f9791c01961",
+   "items": 104
   },
   "vi": {
    "url": "vi.json",
-   "sha256": "6e563946c951e9e7f99ac434f7e2ce757bac6d7c8ecc7d97f857c8c01b55bedc",
-   "items": 98
+   "sha256": "bb97f37da82607847682a8c46c7b2281149dc5b81b67f6a61af2d3cdc6ad91ac",
+   "items": 104
   },
   "ko": {
    "url": "ko.json",
-   "sha256": "96d5bbf4688258ed84c15dcfaa5e794a1181c90a27db02068b8fad6a97d4f338",
-   "items": 98
+   "sha256": "bbb542148fc12ec7e56258415d03edd4b5c4181549d0c83ef70ab55c5066b407",
+   "items": 104
   },
   "hi": {
    "url": "hi.json",
-   "sha256": "779d54d905e0d5c58a5f2adc224afaa09d0f1e03d7ca76e95a79d33ed42527cf",
-   "items": 98
+   "sha256": "3c673b4e2bfd2debb696355407defb21a619b5fe5041504293a40302b01cdcc2",
+   "items": 104
   }
  }
 }
