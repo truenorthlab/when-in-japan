@@ -15,7 +15,7 @@
   {
    "id": "daily",
    "symbol": "hand.wave",
-   "title": "毎日のマナー"
+   "title": "日常生活"
   },
   {
    "id": "moving",
@@ -367,6 +367,63 @@
    "see_also": []
   },
   {
+   "id": "home-minpaku-registration",
+   "category": "home",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/minpaku/overview/minpaku/index.html",
+   "sources": [
+    {
+     "title": "はじめに「民泊」とは | 民泊制度ポータルサイト「minpaku」（観光庁）",
+     "url": "https://www.mlit.go.jp/kankocho/minpaku/overview/minpaku/index.html"
+    },
+    {
+     "title": "住宅宿泊事業者の届出に必要な情報、手続きについて | 民泊制度ポータルサイト「minpaku」（観光庁）",
+     "url": "https://www.mlit.go.jp/kankocho/minpaku/business/host/procedure.html"
+    },
+    {
+     "title": "民泊サービスと旅館業法に関するＱ＆Ａ | 厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000111008.html"
+    },
+    {
+     "title": "住宅宿泊事業法",
+     "url": "https://laws.e-gov.go.jp/law/429AC0000000065"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "届け出をせずに、部屋を旅行者に貸して泊めない（民泊）",
+   "summary": "住宅にお金をもらって旅行者などを泊めるには、住宅宿泊事業法の届け出や、旅館業法の許可などが必要です。借りている部屋で行うには貸主の承諾が必要で、マンションでは管理規約で禁止されていることもあります。手続きは、部屋のある自治体の窓口や国の民泊制度のページで確かめます。",
+   "do": [
+    "民泊をする前に、必要な手続きを自治体の窓口で確かめる",
+    "借りている部屋なら、先に貸主の承諾と管理規約を確かめる"
+   ],
+   "dont": [
+    "届け出や許可なしに、旅行者を泊めてお金を受け取る",
+    "借りている部屋を、貸主に断らずに民泊に使う"
+   ],
+   "keywords": [
+    "民泊",
+    "住宅宿泊事業法",
+    "旅館業法",
+    "届け出",
+    "又貸し",
+    "賃貸",
+    "マンション",
+    "管理規約"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "届け出をせずに、部屋を旅行者に貸して泊めない（民泊）",
+    "summary": "住宅にお金をもらって旅行者などを泊めるには、住宅宿泊事業法の届け出や、旅館業法の許可などが必要です。借りている部屋で行うには貸主の承諾が必要で、マンションでは管理規約で禁止されていることもあります。手続きは、部屋のある自治体の窓口や国の民泊制度のページで確かめます。"
+   },
+   "see_also": [
+    "home-lease-rules",
+    "travel-minpaku-noise"
+   ]
+  },
+  {
    "id": "home-lease-rules",
    "category": "home",
    "label": "local_rule",
@@ -412,7 +469,9 @@
     "title": "無断で同居させない・又貸ししない",
     "summary": "届け出のない人を無断で同居させると、退去を求められる場合があります。部屋を他の人に又貸しするには、貸主の承諾が必要です（民法）。"
    },
-   "see_also": []
+   "see_also": [
+    "home-minpaku-registration"
+   ]
   },
   {
    "id": "home-moveout-notice",
@@ -810,6 +869,60 @@
    "see_also": []
   },
   {
+   "id": "daily-bbq-fire",
+   "category": "daily",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.qsr.mlit.go.jp/kikuti/qanda.html",
+   "sources": [
+    {
+     "title": "よくある質問 | 菊池川河川事務所（国土交通省 九州地方整備局）",
+     "url": "https://www.qsr.mlit.go.jp/kikuti/qanda.html"
+    },
+    {
+     "title": "バーベキューや芋煮会をしたいんですが… | 京浜河川事務所（国土交通省 関東地方整備局）",
+     "url": "https://www.ktr.mlit.go.jp/keihin/keihin00275.html"
+    },
+    {
+     "title": "公園・緑地などでバーベキューなど火の使えるところを教えてください | 広島市",
+     "url": "https://www.city.hiroshima.lg.jp/faq/community/1001651/1028197/1002570.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "河川敷や公園でバーベキューをする前に、できる場所か確かめる",
+   "summary": "河川敷や公園でバーベキューができるかどうかは、場所ごとに決まっています。バーベキューができない区域や、火の使用が禁止されている場所があります。地面で直接火をたく「直火」は、多くの場所で禁止されています。使う前に、河川事務所や自治体、施設の管理者の案内で確かめます。河川敷では、川の急な増水にも気をつけます。",
+   "do": [
+    "使う前に、管理者の案内でできる場所か確かめる",
+    "河川敷では、川の急な増水に気をつける"
+   ],
+   "dont": [
+    "禁止されている場所でバーベキューやたき火をする",
+    "地面で直接火をたく（直火）"
+   ],
+   "keywords": [
+    "バーベキュー",
+    "BBQ",
+    "河川敷",
+    "公園",
+    "直火",
+    "たき火",
+    "火気",
+    "芋煮会"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "河川敷や公園でバーベキューをする前に、できる場所か確かめる",
+    "summary": "河川敷や公園でバーベキューができるかどうかは、場所ごとに決まっています。バーベキューができない区域や、火の使用が禁止されている場所があります。地面で直接火をたく「直火」は、多くの場所で禁止されています。使う前に、河川事務所や自治体、施設の管理者の案内で確かめます。河川敷では、川の急な増水にも気をつけます。"
+   },
+   "see_also": [
+    "daily-park-rules",
+    "garbage-illegal-dumping",
+    "travel-water-safety"
+   ]
+  },
+  {
    "id": "daily-park-rules",
    "category": "daily",
    "label": "local_rule",
@@ -845,7 +958,9 @@
     "title": "公園の花火は、その公園のルールを確かめる",
     "summary": "公園で花火ができるかどうかは、自治体や公園によって違います。できる公園でも、水の用意やごみの持ち帰りなどの条件があり、打ち上げ花火や音の出る花火を禁じているところがあります。リンク先は一つの市の例です。その公園の案内や自治体のページで確かめます。"
    },
-   "see_also": []
+   "see_also": [
+    "daily-bbq-fire"
+   ]
   },
   {
    "id": "daily-about-manners",
@@ -873,7 +988,7 @@
    ],
    "last_verified": "2026-11-16",
    "title": "一人のマナー違反が、外国人みんなへの見方につながることがある",
-   "summary": "生活のルールやマナーは、国や地域によって違います。マナー違反の多くは、日本では違うと知らなかったり、うっかりしたりして起きます。それでも、電車の中の大声や列への割り込み、ごみの出し方のように目につきやすい行動は、ニュースやSNSで取り上げられることもあり、「外国人は…」という見方につながって、ルールを守って暮らす外国人みんなが厳しい目で見られることがあります。その見方が正しいという意味ではありません。よく問題になる行動を先に知っておけば、誤解や摩擦を避けやすくなります。下の関連項目から確かめられます。",
+   "summary": "生活のルールやマナーは、国や地域によって違います。マナー違反の多くは、日本では違うと知らなかったり、うっかりしたりして起きます。それでも、電車の中の大声や列への割り込み、ごみの出し方のように目につきやすい行動は、ニュースやSNSで取り上げられることもあり、「外国人は…」という見方につながって、ルールを守って暮らす外国人みんなが厳しい目で見られることがあります。その見方が正しいという意味ではありません。慣れない土地で同じような失敗をすることは、どこの国の人にもあります。よく問題になる行動を先に知っておけば、誤解や摩擦を避けやすくなります。下の関連項目から確かめられます。",
    "do": [
     "「日本では違うかもしれない」と考え、先に確かめる",
     "掲示や案内があれば、それに従う",
@@ -898,7 +1013,7 @@
    "translation_status": "original",
    "ja": {
     "title": "一人のマナー違反が、外国人みんなへの見方につながることがある",
-    "summary": "生活のルールやマナーは、国や地域によって違います。マナー違反の多くは、日本では違うと知らなかったり、うっかりしたりして起きます。それでも、電車の中の大声や列への割り込み、ごみの出し方のように目につきやすい行動は、ニュースやSNSで取り上げられることもあり、「外国人は…」という見方につながって、ルールを守って暮らす外国人みんなが厳しい目で見られることがあります。その見方が正しいという意味ではありません。よく問題になる行動を先に知っておけば、誤解や摩擦を避けやすくなります。下の関連項目から確かめられます。"
+    "summary": "生活のルールやマナーは、国や地域によって違います。マナー違反の多くは、日本では違うと知らなかったり、うっかりしたりして起きます。それでも、電車の中の大声や列への割り込み、ごみの出し方のように目につきやすい行動は、ニュースやSNSで取り上げられることもあり、「外国人は…」という見方につながって、ルールを守って暮らす外国人みんなが厳しい目で見られることがあります。その見方が正しいという意味ではありません。慣れない土地で同じような失敗をすることは、どこの国の人にもあります。よく問題になる行動を先に知っておけば、誤解や摩擦を避けやすくなります。下の関連項目から確かめられます。"
    },
    "see_also": [
     "transit-loud-talk",
@@ -912,9 +1027,97 @@
     "home-noise-night",
     "bath-wash-first",
     "travel-photo-manners",
+    "travel-residential-areas",
+    "travel-private-land",
     "residence-tax-insurance",
     "crime-one-person"
    ]
+  },
+  {
+   "id": "daily-accessible-parking",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.pref.chiba.lg.jp/kenshidou/machizukuri/barrier-free-setsubi.html",
+   "sources": [
+    {
+     "title": "バリアフリー設備の適正利用について／千葉県",
+     "url": "https://www.pref.chiba.lg.jp/kenshidou/machizukuri/barrier-free-setsubi.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "障害者用駐車場は必要な人のために空けておく",
+   "summary": "店や施設の出入口の近くにある、幅の広い障害者用駐車場（障害者等用駐車区画）は、車椅子を使う人、障害のある人、高齢の人、妊産婦など、乗り降りや移動に配慮が必要な人のための区画です。特に車椅子を使う人は、車から乗り降りするのにドアを全開にする必要があり、普通の区画を使えません。空いていても、必要のない人は停めずに空けておきます。",
+   "do": [
+    "必要のない人は普通の区画に停める"
+   ],
+   "dont": [
+    "空いているから、すぐ戻るからと障害者用駐車場に停める"
+   ],
+   "keywords": [
+    "障害者用駐車場",
+    "駐車場",
+    "車椅子",
+    "車",
+    "バリアフリー"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "障害者用駐車場は必要な人のために空けておく",
+    "summary": "店や施設の出入口の近くにある、幅の広い障害者用駐車場（障害者等用駐車区画）は、車椅子を使う人、障害のある人、高齢の人、妊産婦など、乗り降りや移動に配慮が必要な人のための区画です。特に車椅子を使う人は、車から乗り降りするのにドアを全開にする必要があり、普通の区画を使えません。空いていても、必要のない人は停めずに空けておきます。"
+   },
+   "see_also": [
+    "travel-driving-rules"
+   ]
+  },
+  {
+   "id": "daily-assistance-dogs",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/hojoken/index.html",
+   "sources": [
+    {
+     "title": "身体障害者補助犬｜厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/hojoken/index.html"
+    },
+    {
+     "title": "もっと知ってほじょ犬（テキスト形式）｜厚生労働省",
+     "url": "https://www.mhlw.go.jp/content/001688763.txt"
+    },
+    {
+     "title": "7.盲導犬ユーザーが移動できずに困っています｜仙台市",
+     "url": "https://www.city.sendai.jp/chiikifukushi/hitoyasa/kaisetu7.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "仕事中のほじょ犬に触ったり話しかけたり食べ物をあげたりしない",
+   "summary": "盲導犬、介助犬、聴導犬の「ほじょ犬」は、障害のある人の大切なパートナーで、ペットではありません。ほじょ犬はユーザーの指示に集中する必要があるため、話しかける、じっと見つめる、触るなど気を引く行為は避けるよう呼びかけられています。食べ物や水もあげません。気が散ると、ユーザーが安全に歩けなくなります。",
+   "do": [
+    "ほじょ犬はユーザーと一緒に乗り物や店を使えることを知っておく",
+    "ユーザーが困っていそうなら、犬ではなくユーザーに「何かお手伝いしましょうか」と声をかける"
+   ],
+   "dont": [
+    "話しかける、じっと見つめる、触る",
+    "食べ物や水をあげる"
+   ],
+   "keywords": [
+    "ほじょ犬",
+    "補助犬",
+    "盲導犬",
+    "介助犬",
+    "聴導犬"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "仕事中のほじょ犬に触ったり話しかけたり食べ物をあげたりしない",
+    "summary": "盲導犬、介助犬、聴導犬の「ほじょ犬」は、障害のある人の大切なパートナーで、ペットではありません。ほじょ犬はユーザーの指示に集中する必要があるため、話しかける、じっと見つめる、触るなど気を引く行為は避けるよう呼びかけられています。食べ物や水もあげません。気が散ると、ユーザーが安全に歩けなくなります。"
+   },
+   "see_also": []
   },
   {
    "id": "daily-cough-etiquette",
@@ -1001,6 +1204,51 @@
    "see_also": []
   },
   {
+   "id": "daily-help-mark",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.fukushi.metro.tokyo.lg.jp/shougai/shougai_shisaku/helpmark",
+   "sources": [
+    {
+     "title": "ヘルプマーク｜障害者施策｜東京都福祉局",
+     "url": "https://www.fukushi.metro.tokyo.lg.jp/shougai/shougai_shisaku/helpmark"
+    },
+    {
+     "title": "ご存知ですか？ マタニティマーク - 埼玉県",
+     "url": "https://www.pref.saitama.lg.jp/a0704/boshi/maternitymark.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "ヘルプマークとマタニティマークの意味を知っておく",
+   "summary": "ヘルプマークは、義足や人工関節を使っている人、内部障害や難病のある人、妊娠初期の人など、外見では分からなくても助けや配慮が必要な人が身に着けるマークです。マタニティマークは、妊娠していることを周りに知らせるマークです。見かけたら、電車やバスで席を譲る、困っていそうなら声をかけるなど、思いやりのある行動が呼びかけられています。",
+   "do": [
+    "電車やバスで席を譲る",
+    "駅や店で困っていそうなら声をかける",
+    "妊娠している人の近くではたばこを控える"
+   ],
+   "dont": [
+    "元気そうに見えるからと、優先席に座る人を疑いの目で見る"
+   ],
+   "keywords": [
+    "ヘルプマーク",
+    "マタニティマーク",
+    "妊娠",
+    "障害",
+    "優先席"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "ヘルプマークとマタニティマークの意味を知っておく",
+    "summary": "ヘルプマークは、義足や人工関節を使っている人、内部障害や難病のある人、妊娠初期の人など、外見では分からなくても助けや配慮が必要な人が身に着けるマークです。マタニティマークは、妊娠していることを周りに知らせるマークです。見かけたら、電車やバスで席を譲る、困っていそうなら声をかけるなど、思いやりのある行動が呼びかけられています。"
+   },
+   "see_also": [
+    "transit-priority-seats"
+   ]
+  },
+  {
    "id": "daily-hospital",
    "category": "daily",
    "label": "manner",
@@ -1038,7 +1286,9 @@
     "title": "軽い病気やけがは近くの診療所へ",
     "summary": "日本の医療機関は役割が分かれていて、軽い病気やけがなら、まず身近な診療所に行きます。マイナ保険証などを提示しないと、医療費が全額自己負担になります。日本語が話せないときは、市区町村や国際交流協会、NPO に相談できます。"
    },
-   "see_also": []
+   "see_also": [
+    "travel-insurance"
+   ]
   },
   {
    "id": "daily-public-voice",
@@ -1087,6 +1337,46 @@
     "summary": "道や駅の通路など人の多い場所で大声で話したり、大勢で道をふさいだりすると、迷惑な行為と受け取られます。話すこと自体がいけないわけではなく、小さな声なら問題ありません。"
    },
    "see_also": []
+  },
+  {
+   "id": "daily-tactile-paving",
+   "category": "daily",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.pref.chiba.lg.jp/kenshidou/machizukuri/barrier-free-setsubi.html",
+   "sources": [
+    {
+     "title": "バリアフリー設備の適正利用について／千葉県",
+     "url": "https://www.pref.chiba.lg.jp/kenshidou/machizukuri/barrier-free-setsubi.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "点字ブロックの上で立ち止まったり物を置いたりしない",
+   "summary": "道や駅の床にある、表面に突起のある点字ブロック（視覚障害者誘導用ブロック）は、目の不自由な人が足の裏で感じながら歩くための道しるべです。線状のブロックは進む方向を、点状のブロックは階段や横断歩道の前など注意が必要な場所を示します。上や周りに自転車や看板が置かれていたり、人が立ち止まっていたりすると、転倒や衝突の原因になります。",
+   "do": [
+    "立ち止まるときや待ち合わせは、点字ブロックから離れた場所でする"
+   ],
+   "dont": [
+    "点字ブロックの上や周りに自転車、荷物、看板を置く",
+    "点字ブロックの上で立ち止まる"
+   ],
+   "keywords": [
+    "点字ブロック",
+    "視覚障害",
+    "目の不自由な人",
+    "自転車",
+    "駅"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "点字ブロックの上で立ち止まったり物を置いたりしない",
+    "summary": "道や駅の床にある、表面に突起のある点字ブロック（視覚障害者誘導用ブロック）は、目の不自由な人が足の裏で感じながら歩くための道しるべです。線状のブロックは進む方向を、点状のブロックは階段や横断歩道の前など注意が必要な場所を示します。上や周りに自転車や看板が置かれていたり、人が立ち止まっていたりすると、転倒や衝突の原因になります。"
+   },
+   "see_also": [
+    "transit-platform-line"
+   ]
   },
   {
    "id": "daily-toilet",
@@ -1418,6 +1708,59 @@
    "see_also": []
   },
   {
+   "id": "transit-shirotaku",
+   "category": "transit",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/jidosha/jidosha_fr3_000069.html",
+   "sources": [
+    {
+     "title": "自動車：白タク・違法ハイヤーの撲滅に向けた啓発動画等 | 国土交通省",
+     "url": "https://www.mlit.go.jp/jidosha/jidosha_fr3_000069.html"
+    },
+    {
+     "title": "白タクは違法ですよ | 北海道運輸局",
+     "url": "https://wwwtb.mlit.go.jp/hokkaido/content/000341085.pdf"
+    },
+    {
+     "title": "道路運送法 第78条",
+     "url": "https://laws.e-gov.go.jp/law/326AC0000000183"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "許可のない車（白タク）に乗らない・自分で客を運ばない",
+   "summary": "国の許可なく、自家用車でお金をもらって客を運ぶことは「白タク」と呼ばれ、道路運送法で禁止されています。空港や観光地で声をかけられたり、配車アプリで手配されたりすることがあります。白タクでは、事故にあっても十分な補償を受けられないおそれがあります。正規のタクシーや、許可を受けたサービスを使います。",
+   "do": [
+    "タクシー乗り場の正規のタクシーを使う",
+    "配車アプリは、正規のタクシーや許可を受けたサービスか確かめる"
+   ],
+   "dont": [
+    "空港や駅で声をかけてきた自家用車に乗る",
+    "自分の車で、お金をもらって人を運ぶ"
+   ],
+   "keywords": [
+    "白タク",
+    "タクシー",
+    "ライドシェア",
+    "配車アプリ",
+    "空港",
+    "自家用車",
+    "違法",
+    "道路運送法"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "許可のない車（白タク）に乗らない・自分で客を運ばない",
+    "summary": "国の許可なく、自家用車でお金をもらって客を運ぶことは「白タク」と呼ばれ、道路運送法で禁止されています。空港や観光地で声をかけられたり、配車アプリで手配されたりすることがあります。白タクでは、事故にあっても十分な補償を受けられないおそれがあります。正規のタクシーや、許可を受けたサービスを使います。"
+   },
+   "see_also": [
+    "travel-driving-rules",
+    "crime-driving-license"
+   ]
+  },
+  {
    "id": "transit-escalator",
    "category": "transit",
    "label": "local_rule",
@@ -1602,7 +1945,53 @@
     "title": "バスの運賃の払い方は路線で違う",
     "summary": "距離で運賃が変わるバスでは、乗るときに番号の書かれた整理券を受け取り、降りるときにボードで番号を確かめて運賃を払います。どこまで乗っても同じ運賃のバスでは、乗るときに払います。IC カードが使えないバスや、おつりが出ない機械もあります。"
    },
-   "see_also": []
+   "see_also": [
+    "transit-bus-standing"
+   ]
+  },
+  {
+   "id": "transit-bus-standing",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/common/001011268.pdf",
+   "sources": [
+    {
+     "title": "路線バスでの転倒事故にご注意ください！｜国土交通省",
+     "url": "https://www.mlit.go.jp/common/001011268.pdf"
+    },
+    {
+     "title": "バス車内事故防止のお願い｜国土交通省北海道運輸局",
+     "url": "https://wwwtb.mlit.go.jp/hokkaido/content/000377054.pdf"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "バスでは、止まってから席を立つ",
+   "summary": "路線バスでは、発車や停車、急ブレーキのときの揺れで乗客が転び、けがをする事故が起きています。けがをする人には高齢の人が多くいます。降りる停留所が近づいても、バスが完全に止まってから席を立ちます。立っているときは、手すりやつり革をしっかり持ちます。",
+   "do": [
+    "バスが完全に止まってから席を立つ",
+    "立っているときは手すりやつり革をしっかり持つ"
+   ],
+   "dont": [
+    "走っているバスの中で席を移ったり出口へ歩いたりする"
+   ],
+   "keywords": [
+    "バス",
+    "転倒",
+    "つり革",
+    "手すり",
+    "降りる"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "バスでは、止まってから席を立つ",
+    "summary": "路線バスでは、発車や停車、急ブレーキのときの揺れで乗客が転び、けがをする事故が起きています。けがをする人には高齢の人が多くいます。降りる停留所が近づいても、バスが完全に止まってから席を立ちます。立っているときは、手すりやつり革をしっかり持ちます。"
+   },
+   "see_also": [
+    "transit-bus-boarding"
+   ]
   },
   {
    "id": "transit-earphone-sound",
@@ -1867,7 +2256,9 @@
     "title": "ホームでは黄色い線の内側を歩く",
     "summary": "駅のホームの端は、電車と接触したり線路に落ちたりするおそれがあります。目の不自由な人のための黄色い点字ブロックより内側を歩き、内側で電車を待ちます。"
    },
-   "see_also": []
+   "see_also": [
+    "daily-tactile-paving"
+   ]
   },
   {
    "id": "transit-priority-seats",
@@ -1918,7 +2309,10 @@
     "title": "席を必要としている人に譲る",
     "summary": "高齢の方、体の不自由な方、内部障害のある方、乳幼児を連れた方、妊娠している方に席を譲りましょう。見た目では分からない場合もあります。優先席に限りません。"
    },
-   "see_also": []
+   "see_also": [
+    "daily-help-mark",
+    "transit-strollers"
+   ]
   },
   {
    "id": "transit-queue",
@@ -2068,6 +2462,49 @@
    "see_also": []
   },
   {
+   "id": "transit-strollers",
+   "category": "transit",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/sogoseisaku/barrierfree/sosei_barrierfree_tk_000091.html",
+   "sources": [
+    {
+     "title": "ベビーカーマークについてのお知らせ - 国土交通省",
+     "url": "https://www.mlit.go.jp/sogoseisaku/barrierfree/sosei_barrierfree_tk_000091.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "電車やバスのベビーカーを温かく見守る",
+   "summary": "ベビーカーマークは、エレベーターや電車・バスの車内スペースなど、ベビーカーを使う人が安心して使える場所や設備を示します。エスカレーターなどには、ベビーカーを使ってはいけないことを示すベビーカー使用禁止マークがあります。周りの人は温かく見守り、エレベーターのない場所などで困っていそうなら手伝いを申し出ます。ベビーカーを使う人も、周りの人にぶつけたり通路をふさいだりしないよう気をつけ、困ったときは遠慮せずに手助けを頼みます。",
+   "do": [
+    "ベビーカーを使う人を温かく見守る",
+    "エレベーターのない階段などで困っていそうなら手伝いを申し出る",
+    "ベビーカーを使うときは、ベビーカーマークのある場所を使う"
+   ],
+   "dont": [
+    "エスカレーターでベビーカーを使う",
+    "ベビーカーで通路やドアの前をふさぐ"
+   ],
+   "keywords": [
+    "ベビーカー",
+    "ベビーカーマーク",
+    "子ども",
+    "赤ちゃん",
+    "エレベーター"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "電車やバスのベビーカーを温かく見守る",
+    "summary": "ベビーカーマークは、エレベーターや電車・バスの車内スペースなど、ベビーカーを使う人が安心して使える場所や設備を示します。エスカレーターなどには、ベビーカーを使ってはいけないことを示すベビーカー使用禁止マークがあります。周りの人は温かく見守り、エレベーターのない場所などで困っていそうなら手伝いを申し出ます。ベビーカーを使う人も、周りの人にぶつけたり通路をふさいだりしないよう気をつけ、困ったときは遠慮せずに手助けを頼みます。"
+   },
+   "see_also": [
+    "transit-priority-seats",
+    "transit-escalator"
+   ]
+  },
+  {
    "id": "transit-taxi-door",
    "category": "transit",
    "label": "manner",
@@ -2205,6 +2642,57 @@
     "summary": "道路交通法は「何人も、酒気を帯びて車両等を運転してはならない」と定めており、自転車も含まれます。運転した人だけでなく、自転車やお酒を提供した人、同乗した人も処罰の対象になります。"
    },
    "see_also": []
+  },
+  {
+   "id": "bicycle-e-scooter",
+   "category": "bicycle",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.npa.go.jp/bureau/traffic/anzen/tokuteikogata.html",
+   "sources": [
+    {
+     "title": "特定小型原動機付自転車に関する交通ルール等について | 警察庁",
+     "url": "https://www.npa.go.jp/bureau/traffic/anzen/tokuteikogata.html"
+    },
+    {
+     "title": "道路交通法",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000105"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "電動キックボードは交通ルールを確かめてから乗る",
+   "summary": "電動キックボードの多くは「特定小型原動機付自転車」として、道路交通法のルールが決まっています。16歳未満は運転できません。原則として車道の左側を走り、歩道を走れるのは、決められた速度に切り替えて最高速度表示灯を点滅させ、通行できる表示がある歩道だけです。信号を守り、お酒を飲んだら乗らず、二人乗りはしません。自分で持つ車体には、自賠責保険とナンバープレートが必要です。基準に合わない車体を運転するには運転免許が必要で、歩道は走れません。",
+   "do": [
+    "原則として車道の左側を走る",
+    "ヘルメットをかぶる",
+    "レンタルの前に、アプリや店の案内でルールを確かめる"
+   ],
+   "dont": [
+    "16歳未満が運転する",
+    "お酒を飲んで乗る・二人乗りをする",
+    "通行できる表示のない歩道を走る"
+   ],
+   "keywords": [
+    "電動キックボード",
+    "キックボード",
+    "特定小型原動機付自転車",
+    "特定小型原付",
+    "シェアリング",
+    "レンタル",
+    "ヘルメット",
+    "歩道"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "電動キックボードは交通ルールを確かめてから乗る",
+    "summary": "電動キックボードの多くは「特定小型原動機付自転車」として、道路交通法のルールが決まっています。16歳未満は運転できません。原則として車道の左側を走り、歩道を走れるのは、決められた速度に切り替えて最高速度表示灯を点滅させ、通行できる表示がある歩道だけです。信号を守り、お酒を飲んだら乗らず、二人乗りはしません。自分で持つ車体には、自賠責保険とナンバープレートが必要です。基準に合わない車体を運転するには運転免許が必要で、歩道は走れません。"
+   },
+   "see_also": [
+    "travel-driving-rules",
+    "drunk-driving"
+   ]
   },
   {
    "id": "bicycle-left-side",
@@ -2880,6 +3368,50 @@
     "summary": "入れ墨・タトゥーのある人への対応は施設によって大きく異なり、入浴を断られることもあります。シールで隠す、時間帯をずらす、貸切風呂を使うといった方法が案内されることもあります。"
    },
    "see_also": []
+  },
+  {
+   "id": "bath-after-drinking",
+   "category": "bath",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.pref.hokkaido.lg.jp/hf/kse/sei/nyuuyokujounotyuui.html",
+   "sources": [
+    {
+     "title": "温泉入浴施設において安全に入浴するための注意事項｜北海道",
+     "url": "https://www.pref.hokkaido.lg.jp/hf/kse/sei/nyuuyokujounotyuui.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "お酒を飲んだ後や食事の直前・直後は湯船に入らない",
+   "summary": "温泉施設などに掲示されている入浴上の注意では、食事の直前・直後や飲酒後の入浴を避け、酔った状態での入浴は特に避けるよう求めています。ひどく疲れているときや運動の後は、先に体を休めます。入る前に水分をとります。高齢の人、子ども、体の不自由な人は、一人で入らないことが望まれます。湯船から出るときは立ちくらみをしないようゆっくり出て、めまいや気分が悪くなったら近くの人に助けを求めます。",
+   "do": [
+    "入る前に水分をとる",
+    "湯船からはゆっくり出る",
+    "めまいや気分が悪くなったら近くの人に助けを求める"
+   ],
+   "dont": [
+    "お酒を飲んだ後や食事の直前・直後に湯船に入る",
+    "ひどく疲れているときや運動の直後に入る"
+   ],
+   "keywords": [
+    "温泉",
+    "お風呂",
+    "飲酒",
+    "お酒",
+    "めまい",
+    "銭湯"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "お酒を飲んだ後や食事の直前・直後は湯船に入らない",
+    "summary": "温泉施設などに掲示されている入浴上の注意では、食事の直前・直後や飲酒後の入浴を避け、酔った状態での入浴は特に避けるよう求めています。ひどく疲れているときや運動の後は、先に体を休めます。入る前に水分をとります。高齢の人、子ども、体の不自由な人は、一人で入らないことが望まれます。湯船から出るときは立ちくらみをしないようゆっくり出て、めまいや気分が悪くなったら近くの人に助けを求めます。"
+   },
+   "see_also": [
+    "bath-wash-first",
+    "drinking-public-nuisance"
+   ]
   },
   {
    "id": "bath-dry-off",
@@ -3679,6 +4211,59 @@
    "see_also": []
   },
   {
+   "id": "crime-counterfeit-goods",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.customs.go.jp/mizugiwa/chiteki/pages/d_010/index.html",
+   "sources": [
+    {
+     "title": "模倣品の水際取締り強化！令和4年(2022年)10月1日施行 | 税関",
+     "url": "https://www.customs.go.jp/mizugiwa/chiteki/pages/d_010/index.html"
+    },
+    {
+     "title": "不正商品にご用心 | 秋田県警察",
+     "url": "https://www.police.pref.akita.lg.jp/kenkei/osirase/crime/fake"
+    },
+    {
+     "title": "商標法 第2条・第78条",
+     "url": "https://laws.e-gov.go.jp/law/334AC0000000127"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "偽ブランド品を売らない・取り寄せない",
+   "summary": "本物のブランドに似せた偽ブランド品を売ることは、商標権の侵害として商標法で処罰されます。フリマアプリやSNSで売ることも同じです。海外の事業者から送られてくる偽ブランド品は、自分で使うためでも、税関で没収の対象になります。安すぎる品物は、買う前に本物か確かめます。",
+   "do": [
+    "正規の店や公式サイトで買う",
+    "安すぎる品物は、本物か確かめてから買う"
+   ],
+   "dont": [
+    "偽ブランド品をフリマアプリやSNSで売る",
+    "海外の通販で偽ブランド品を注文する"
+   ],
+   "keywords": [
+    "偽ブランド",
+    "コピー品",
+    "偽物",
+    "商標権",
+    "フリマアプリ",
+    "税関",
+    "通販",
+    "没収"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "偽ブランド品を売らない・取り寄せない",
+    "summary": "本物のブランドに似せた偽ブランド品を売ることは、商標権の侵害として商標法で処罰されます。フリマアプリやSNSで売ることも同じです。海外の事業者から送られてくる偽ブランド品は、自分で使うためでも、税関で没収の対象になります。安すぎる品物は、買う前に本物か確かめます。"
+   },
+   "see_also": [
+    "crime-medicine-sales",
+    "travel-ticket-resale"
+   ]
+  },
+  {
    "id": "crime-driving-license",
    "category": "crime",
    "label": "law",
@@ -3968,6 +4553,64 @@
    "see_also": []
   },
   {
+   "id": "crime-medicine-sales",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1.html",
+   "sources": [
+    {
+     "title": "医薬品等の個人輸入について | 厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1.html"
+    },
+    {
+     "title": "フリマ・オークションサイト・SNS等で許可なく医薬品を販売することはできません | 大阪府",
+     "url": "https://www.pref.osaka.lg.jp/o100100/yakumu/tyuuikannki/mukyoka.html"
+    },
+    {
+     "title": "フリマ・オークションサイト（アプリ）で許可なく医薬品等を販売することはできません | 東京都保健医療局",
+     "url": "https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/koukokukisei/zenpanfrima/furimakisei"
+    },
+    {
+     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律 第24条",
+     "url": "https://laws.e-gov.go.jp/law/335AC0000000145"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "母国から持ってきた薬を売ったり、人に渡したりしない",
+   "summary": "許可なく医薬品を売ったり人に渡したりすることは、医薬品医療機器等法で禁止されています。SNSやフリマアプリで売ることも同じです。余った薬を一度だけ売る場合でも、違法になることがあります。自分で使うために持ち込んだり取り寄せたりした薬は、本人が使うためのもので、家族や友人であっても売ったり渡したりできません。具合が悪い人には、病院や薬局を勧めます。",
+   "do": [
+    "持ち込んだ薬は、自分の分だけ使う",
+    "薬が必要な人には、病院や薬局を勧める"
+   ],
+   "dont": [
+    "SNSやフリマアプリで薬を売る",
+    "持ち込んだ薬を、家族や友人に売ったりあげたりする"
+   ],
+   "keywords": [
+    "薬",
+    "医薬品",
+    "個人輸入",
+    "転売",
+    "SNS",
+    "フリマアプリ",
+    "薬機法",
+    "母国の薬"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "母国から持ってきた薬を売ったり、人に渡したりしない",
+    "summary": "許可なく医薬品を売ったり人に渡したりすることは、医薬品医療機器等法で禁止されています。SNSやフリマアプリで売ることも同じです。余った薬を一度だけ売る場合でも、違法になることがあります。自分で使うために持ち込んだり取り寄せたりした薬は、本人が使うためのもので、家族や友人であっても売ったり渡したりできません。具合が悪い人には、病院や薬局を勧めます。"
+   },
+   "see_also": [
+    "travel-medicine-check",
+    "crime-drugs",
+    "daily-hospital"
+   ]
+  },
+  {
    "id": "crime-non-consent",
    "category": "crime",
    "label": "law",
@@ -4104,6 +4747,61 @@
     "summary": "契約した携帯電話を、携帯電話会社の承諾を得ずに人に譲り渡すと、法律違反として処罰されることがあります。使うつもりがないのに契約して端末を渡し、お金を受け取ることは、販売店をだます詐欺にあたります。帰国などで使わなくなるときは、携帯電話会社に連絡して解約します。"
    },
    "see_also": []
+  },
+  {
+   "id": "crime-prank-streaming",
+   "category": "crime",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/140AC0000000045",
+   "sources": [
+    {
+     "title": "刑法 第233条・第234条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    },
+    {
+     "title": "自分の名前や顔写真を無断で使用された | 警視庁",
+     "url": "https://www.keishicho.metro.tokyo.lg.jp/sodan/nettrouble/jirei/syozoken.html"
+    },
+    {
+     "title": "インターネット上の人権侵害防止について | 北海道",
+     "url": "https://www.pref.hokkaido.lg.jp/ks/dms/jinken/jinken-hp/jinken-internet.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "撮影や配信のために、人や店に迷惑をかけない",
+   "summary": "動画の撮影や配信のために、店や電車などで騒ぎを起こしたり、いたずらをしたりして仕事を妨げると、刑法の業務妨害罪になることがあります。知らない人を勝手に撮って配信すると、その人の肖像権やプライバシーを侵害するおそれがあります。撮影するときは店や施設のルールに従い、映る人の許可を取ります。",
+   "do": [
+    "店や施設で撮影するときは、先に許可を取る",
+    "映る人には、配信してよいか先に聞く"
+   ],
+   "dont": [
+    "再生数のために、店や電車、通行人にいたずらをする",
+    "知らない人を勝手に撮って配信する",
+    "撮影禁止の場所で撮る"
+   ],
+   "keywords": [
+    "配信",
+    "ライブ配信",
+    "迷惑系",
+    "ユーチューバー",
+    "撮影",
+    "業務妨害",
+    "肖像権",
+    "いたずら"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "撮影や配信のために、人や店に迷惑をかけない",
+    "summary": "動画の撮影や配信のために、店や電車などで騒ぎを起こしたり、いたずらをしたりして仕事を妨げると、刑法の業務妨害罪になることがあります。知らない人を勝手に撮って配信すると、その人の肖像権やプライバシーを侵害するおそれがあります。撮影するときは店や施設のルールに従い、映る人の許可を取ります。"
+   },
+   "see_also": [
+    "travel-photo-manners",
+    "crime-secret-filming",
+    "travel-residential-areas"
+   ]
   },
   {
    "id": "crime-residence-card",
@@ -4350,7 +5048,7 @@
    ],
    "last_verified": "2026-11-09",
    "title": "一人の犯罪が、外国人みんなへの非難に広がることがある",
-   "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。",
+   "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。どの国にも、罪を犯す人もいれば、法律を守って暮らす人もいます。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。",
    "do": [
     "「これくらい」と軽く考えず、日本のルールを確かめる",
     "違法なことに誘われたら断り、公式の窓口に相談する",
@@ -4373,7 +5071,7 @@
    "translation_status": "original",
    "ja": {
     "title": "一人の犯罪が、外国人みんなへの非難に広がることがある",
-    "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。"
+    "summary": "一人の外国人が起こした犯罪は、その人だけの問題で終わらず、「外国人は…」という言葉で、ルールを守って暮らす外国人みんなへの非難に広がることがあります。その非難が正しいという意味ではありません。どの国にも、罪を犯す人もいれば、法律を守って暮らす人もいます。法律を守ることは、自分だけでなく、一緒に暮らす人たちを守ることにもつながります。差別を受けたときのために、法務省の人権相談窓口があります。"
    },
    "see_also": [
     "daily-about-manners"
@@ -4540,7 +5238,53 @@
     "title": "事件・事故は110番、火事・救急は119番",
     "summary": "事件や事故は警察の110番、火事や急病・けがは消防の119番です。緊急でない警察への相談は「#9110」です。救急車を呼ぶときは、最初に「救急です」と伝えます。"
    },
-   "see_also": []
+   "see_also": [
+    "emergency-aed"
+   ]
+  },
+  {
+   "id": "emergency-aed",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.fdma.go.jp/relocation/e-college/cat65/cat65/cat44/1-15.html",
+   "sources": [
+    {
+     "title": "1.救命処置 - 防災危機管理eカレッジ（総務省消防庁）",
+     "url": "https://www.fdma.go.jp/relocation/e-college/cat65/cat65/cat44/1-15.html"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "倒れている人を見たら、人を呼んで119番とAEDを頼む",
+   "summary": "突然倒れた人や反応のない人を見たら、まず周りの安全を確かめてから、大きな声で「誰か来て！人が倒れています！」と助けを求めます。来た人には「あなたは119番へ通報してください」「あなたはAEDを持ってきてください」と具体的に頼みます。やり方が分からなくても、119番の電話で通信指令員が手当ての方法を教えてくれます。電話はスピーカーにすると両手が使えます。AEDは駅や空港、公共施設などに置かれていて、ふたを開けると音声とランプで操作を教えてくれます。",
+   "do": [
+    "まず周りの安全を確かめる",
+    "大きな声で人を呼び、119番とAEDを人を決めて頼む",
+    "119番では落ち着いて質問に答え、指示に従う",
+    "AEDは音声とランプの案内に従って使う"
+   ],
+   "dont": [
+    "やり方が分からないからと、何もせずに立ち去る"
+   ],
+   "keywords": [
+    "AED",
+    "救命",
+    "心肺蘇生",
+    "倒れている",
+    "119番",
+    "救急"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "倒れている人を見たら、人を呼んで119番とAEDを頼む",
+    "summary": "突然倒れた人や反応のない人を見たら、まず周りの安全を確かめてから、大きな声で「誰か来て！人が倒れています！」と助けを求めます。来た人には「あなたは119番へ通報してください」「あなたはAEDを持ってきてください」と具体的に頼みます。やり方が分からなくても、119番の電話で通信指令員が手当ての方法を教えてくれます。電話はスピーカーにすると両手が使えます。AEDは駅や空港、公共施設などに置かれていて、ふたを開けると音声とランプで操作を教えてくれます。"
+   },
+   "see_also": [
+    "emergency-110-119",
+    "emergency-ambulance-use"
+   ]
   },
   {
    "id": "emergency-ambulance-use",
@@ -4647,6 +5391,51 @@
     "summary": "大きな災害のときは電話がつながりにくくなり、音声で伝言を残せる「171」が運用されます。普段は使えず、音声案内は日本語のみで、海外からは使えません。文字で伝言を残せる「web171」もあります。電話はなるべく控え、データ通信を使いましょう。"
    },
    "see_also": []
+  },
+  {
+   "id": "emergency-earthquake-safety",
+   "category": "emergency",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.jma.go.jp/jma/kishou/know/jishin/jishin_bosai",
+   "sources": [
+    {
+     "title": "地震から身を守るために | 気象庁",
+     "url": "https://www.jma.go.jp/jma/kishou/know/jishin/jishin_bosai"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "揺れたら、まず身の安全を守る",
+   "summary": "緊急地震速報を見聞きしたときや揺れを感じたときは、あわてずに、まず身の安全を守ります。家の中では頭を守り、丈夫な机の下などに隠れます。あわてて外へ飛び出したり、無理に火を消しに行ったりしません。外では、ブロック塀や看板、割れたガラスの落下に気をつけます。エレベーターでは最寄りの階で止めて降り、電車やバスではつり革や手すりをしっかり持ちます。",
+   "do": [
+    "頭を守り、丈夫な机の下などに隠れる",
+    "外ではブロック塀や看板、ガラスから離れる",
+    "エレベーターでは最寄りの階で止めて降りる",
+    "電車やバスではつり革や手すりをしっかり持つ"
+   ],
+   "dont": [
+    "あわてて外へ飛び出す",
+    "揺れている間に無理に火を消しに行く"
+   ],
+   "keywords": [
+    "地震",
+    "緊急地震速報",
+    "揺れ",
+    "防災",
+    "身を守る"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "揺れたら、まず身の安全を守る",
+    "summary": "緊急地震速報を見聞きしたときや揺れを感じたときは、あわてずに、まず身の安全を守ります。家の中では頭を守り、丈夫な机の下などに隠れます。あわてて外へ飛び出したり、無理に火を消しに行ったりしません。外では、ブロック塀や看板、割れたガラスの落下に気をつけます。エレベーターでは最寄りの階で止めて降り、電車やバスではつり革や手すりをしっかり持ちます。"
+   },
+   "see_also": [
+    "emergency-evacuation-info",
+    "emergency-disaster-171",
+    "emergency-hazard-map"
+   ]
   },
   {
    "id": "emergency-heatstroke",
@@ -4850,7 +5639,59 @@
     "title": "薬を持ち込む前にルールを確認する",
     "summary": "海外から持ち込む薬には、数量の決まりや事前の手続きが必要なものがあります。アンフェタミンなどの覚醒剤や大麻は、治療のためでも持ち込めません。"
    },
-   "see_also": []
+   "see_also": [
+    "crime-medicine-sales"
+   ]
+  },
+  {
+   "id": "travel-national-park-plants",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/np/plant_prot/index.html",
+   "sources": [
+    {
+     "title": "国立・国定公園における植物の保護対策について（指定植物） | 環境省",
+     "url": "https://www.env.go.jp/nature/np/plant_prot/index.html"
+    },
+    {
+     "title": "自然公園法 第20条・第21条",
+     "url": "https://laws.e-gov.go.jp/law/332AC0000000161"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "国立公園などで植物や石を持ち帰らない",
+   "summary": "国立公園や国定公園の特別地域などでは、自然公園法で、指定された植物を採ることや、石や土を採ることなどが規制されています。どこが規制されているかは見た目では分からないので、花や枝、石を持ち帰らず、決められた道を歩きます。",
+   "do": [
+    "決められた道を歩く",
+    "花や景色は写真で楽しむ"
+   ],
+   "dont": [
+    "花や枝、苗を採って持ち帰る",
+    "石や砂を記念に持ち帰る"
+   ],
+   "keywords": [
+    "国立公園",
+    "国定公園",
+    "自然公園法",
+    "高山植物",
+    "植物",
+    "採取",
+    "石",
+    "持ち帰り"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "国立公園などで植物や石を持ち帰らない",
+    "summary": "国立公園や国定公園の特別地域などでは、自然公園法で、指定された植物を採ることや、石や土を採ることなどが規制されています。どこが規制されているかは見た目では分からないので、花や枝、石を持ち帰らず、決められた道を歩きます。"
+   },
+   "see_also": [
+    "travel-wildlife-feeding",
+    "travel-wild-animal-capture",
+    "travel-trash-carry"
+   ]
   },
   {
    "id": "travel-passport-carry",
@@ -4890,6 +5731,340 @@
     "summary": "在留カードを持たない旅行者は、パスポートを常に携帯する決まりです。警察官などに求められたら提示します。例外もあるので、詳しくは公式情報で確認してください。"
    },
    "see_also": []
+  },
+  {
+   "id": "travel-poaching",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.jfa.maff.go.jp/j/enoki/mitsuryotaisaku.html",
+   "sources": [
+    {
+     "title": "密漁を許さない ～水産庁の密漁対策～ | 水産庁",
+     "url": "https://www.jfa.maff.go.jp/j/enoki/mitsuryotaisaku.html"
+    },
+    {
+     "title": "密漁対策のパンフレット（PDF） | 水産庁",
+     "url": "https://www.jfa.maff.go.jp/j/enoki/attach/pdf/mitsuryotaisaku-19.pdf"
+    },
+    {
+     "title": "遊漁・海面利用の基本的ルール | 水産庁",
+     "url": "https://www.jfa.maff.go.jp/j/yugyo/y_kisei/index.html"
+    },
+    {
+     "title": "外国人による遊漁について | 水産庁",
+     "url": "https://www.jfa.maff.go.jp/j/kanri/gaikokujin_yugyo.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "海の貝やナマコなどを勝手に採らない（密漁）",
+   "summary": "アワビとナマコは、許可などなしに採ると、漁業者かどうか、採った量や場所にかかわらず処罰されます。サザエやイセエビなど漁業権の対象になっている生き物を、権限なく採ることも密漁です。浜辺や磯で見つけたものでも同じです。釣りや潮干狩りにも法律や都道府県のルールがあり、使える道具や禁止の区域・時期、大きさの制限などが決められています。日本の国籍がない人の釣りなどは認められる範囲が限られているため、事前に都道府県や釣り船の業者に確かめます。",
+   "do": [
+    "釣りや潮干狩りの前に、都道府県のルールを確かめる",
+    "日本の国籍がない人は、釣りの前に都道府県や釣り船の業者に確かめる"
+   ],
+   "dont": [
+    "アワビやナマコを採る",
+    "サザエやイセエビなどを、漁業権のある場所で採る"
+   ],
+   "keywords": [
+    "密漁",
+    "アワビ",
+    "サザエ",
+    "ナマコ",
+    "イセエビ",
+    "潮干狩り",
+    "釣り",
+    "漁業権"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "海の貝やナマコなどを勝手に採らない（密漁）",
+    "summary": "アワビとナマコは、許可などなしに採ると、漁業者かどうか、採った量や場所にかかわらず処罰されます。サザエやイセエビなど漁業権の対象になっている生き物を、権限なく採ることも密漁です。浜辺や磯で見つけたものでも同じです。釣りや潮干狩りにも法律や都道府県のルールがあり、使える道具や禁止の区域・時期、大きさの制限などが決められています。日本の国籍がない人の釣りなどは認められる範囲が限られているため、事前に都道府県や釣り船の業者に確かめます。"
+   },
+   "see_also": [
+    "travel-water-safety",
+    "travel-wild-animal-capture"
+   ]
+  },
+  {
+   "id": "travel-private-land",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://laws.e-gov.go.jp/law/323AC0000000039",
+   "sources": [
+    {
+     "title": "軽犯罪法 第1条第32号",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    },
+    {
+     "title": "持続可能な観光の推進に向けて | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/jpn.html"
+    },
+    {
+     "title": "複数の者が所有する私道の工事において必要な所有者の同意に関する研究報告書 | 法務省",
+     "url": "https://www.moj.go.jp/content/001266072.pdf"
+    },
+    {
+     "title": "刑法 第130条",
+     "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "立入禁止の場所や他人の畑、私道に勝手に入らない",
+   "summary": "入ることを禁じられた場所や他人の田畑に、正当な理由なく入ることは、軽犯罪法で禁止されています。人の家などに勝手に入ると、刑法の住居侵入罪になることもあります。誰でも通れる道でも、国や自治体ではなく個人などが持っている「私道」があります。通行止めや撮影禁止の表示があれば従います。写真や近道のためでも、表示があれば入りません。",
+   "do": [
+    "「立入禁止」「私有地」「私道」の表示を確かめる",
+    "入ってよいか分からなければ、入らずに引き返す"
+   ],
+   "dont": [
+    "写真や近道のために、柵やロープを越える",
+    "畑や田んぼ、牧草地に入る",
+    "私道で立ち止まって撮影したり、たむろしたりする"
+   ],
+   "keywords": [
+    "立入禁止",
+    "私有地",
+    "私道",
+    "田畑",
+    "畑",
+    "軽犯罪法",
+    "住居侵入",
+    "撮影"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "立入禁止の場所や他人の畑、私道に勝手に入らない",
+    "summary": "入ることを禁じられた場所や他人の田畑に、正当な理由なく入ることは、軽犯罪法で禁止されています。人の家などに勝手に入ると、刑法の住居侵入罪になることもあります。誰でも通れる道でも、国や自治体ではなく個人などが持っている「私道」があります。通行止めや撮影禁止の表示があれば従います。写真や近道のためでも、表示があれば入りません。"
+   },
+   "see_also": [
+    "travel-residential-areas",
+    "travel-photo-manners",
+    "travel-gion-manners",
+    "travel-biei-fields"
+   ]
+  },
+  {
+   "id": "travel-tax-free",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html",
+   "sources": [
+    {
+     "title": "旅行者向け特設ページ | 消費税免税店サイト（観光庁）",
+     "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html"
+    },
+    {
+     "title": "旅行者向け よくある質問（リファンド方式） | 消費税免税店サイト（観光庁）",
+     "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html"
+    },
+    {
+     "title": "輸出物品販売場制度のリファンド方式への見直し | 国税庁",
+     "url": "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/format/002.htm"
+    },
+    {
+     "title": "免税対象物品を購入する外国人旅行者の方へ 出国時の注意点（PDF） | 国税庁・税関・観光庁",
+     "url": "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/pdf/caution_jp.pdf"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "免税で買った物は、出国時に税関の確認を受けて国外に持ち出す",
+   "summary": "免税店での買い物は、税込みの値段で払い、出国するときに空港や港の端末でパスポートを見せて税関の確認を受けると、消費税分が返金される仕組みです。確認は、荷物を預ける前に受けます。1枚の領収書の物を1つでも持っていないと、その領収書の分は返金されません。日本で食べたり使ったりした消耗品も返金されません。税関の確認を受けた物を国外に持ち出さないと、消費税を取られ、罰則の対象にもなります。期限や返金の方法は、公式ページやお店で確かめます。",
+   "do": [
+    "出国の日は、荷物を預ける前に税関の確認を受ける",
+    "1枚の領収書の物は、全部まとめて持って出国する"
+   ],
+   "dont": [
+    "税関の確認を受けた物を、日本で売ったり人に渡したりする",
+    "確認を受けた物を国外に持ち出さない"
+   ],
+   "keywords": [
+    "免税",
+    "タックスフリー",
+    "消費税",
+    "返金",
+    "リファンド",
+    "税関",
+    "出国",
+    "空港"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "免税で買った物は、出国時に税関の確認を受けて国外に持ち出す",
+    "summary": "免税店での買い物は、税込みの値段で払い、出国するときに空港や港の端末でパスポートを見せて税関の確認を受けると、消費税分が返金される仕組みです。確認は、荷物を預ける前に受けます。1枚の領収書の物を1つでも持っていないと、その領収書の分は返金されません。日本で食べたり使ったりした消耗品も返金されません。税関の確認を受けた物を国外に持ち出さないと、消費税を取られ、罰則の対象にもなります。期限や返金の方法は、公式ページやお店で確かめます。"
+   },
+   "see_also": [
+    "travel-passport-carry",
+    "crime-counterfeit-goods"
+   ]
+  },
+  {
+   "id": "travel-ticket-resale",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.bunka.go.jp/seisaku/bunka_gyosei/ticket_resale_ban/index.html",
+   "sources": [
+    {
+     "title": "チケット不正転売禁止法 | 文化庁",
+     "url": "https://www.bunka.go.jp/seisaku/bunka_gyosei/ticket_resale_ban/index.html"
+    },
+    {
+     "title": "チケット不正転売禁止法をわかりやすく！Q&A【チケットを購入する消費者編】 | 文化庁",
+     "url": "https://www.bunka.go.jp/seisaku/bunka_gyosei/ticket_resale_ban/pdf/ticket-resale-qa-customer.pdf"
+    },
+    {
+     "title": "特定興行入場券の不正転売の禁止等による興行入場券の適正な流通の確保に関する法律 第3条・第4条",
+     "url": "https://laws.e-gov.go.jp/law/430AC1000000103"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "コンサートやスポーツのチケットを、定価より高く転売しない",
+   "summary": "チケット不正転売禁止法で、条件を満たすコンサートやスポーツなどのチケットを、主催者の同意なく、定価より高い値段で、商売として転売することは禁止されています。一度だけの転売でも、商売として判断されることがあります。転売するために買うことも禁止です。転売されたチケットでは、入場を断られることがあります。行けなくなったら、主催者が認めた公式のリセールを使います。",
+   "do": [
+    "チケットは公式の販売先で買う",
+    "行けなくなったら、主催者が認めた公式リセールを使う"
+   ],
+   "dont": [
+    "定価より高い値段でチケットを転売する",
+    "転売するためにチケットを買う"
+   ],
+   "keywords": [
+    "チケット",
+    "転売",
+    "高額転売",
+    "チケット不正転売禁止法",
+    "コンサート",
+    "ライブ",
+    "スポーツ",
+    "リセール"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "コンサートやスポーツのチケットを、定価より高く転売しない",
+    "summary": "チケット不正転売禁止法で、条件を満たすコンサートやスポーツなどのチケットを、主催者の同意なく、定価より高い値段で、商売として転売することは禁止されています。一度だけの転売でも、商売として判断されることがあります。転売するために買うことも禁止です。転売されたチケットでは、入場を断られることがあります。行けなくなったら、主催者が認めた公式のリセールを使います。"
+   },
+   "see_also": [
+    "crime-counterfeit-goods"
+   ]
+  },
+  {
+   "id": "travel-wild-animal-capture",
+   "category": "travel",
+   "label": "law",
+   "region": "nationwide",
+   "official_link": "https://www.env.go.jp/nature/choju/capture/capture1.html",
+   "sources": [
+    {
+     "title": "捕獲許可制度の概要 | 野生鳥獣の保護及び管理（環境省）",
+     "url": "https://www.env.go.jp/nature/choju/capture/capture1.html"
+    },
+    {
+     "title": "鳥獣の保護及び管理並びに狩猟の適正化に関する法律 第8条",
+     "url": "https://laws.e-gov.go.jp/law/414AC0000000088"
+    },
+    {
+     "title": "鳥類の捕獲について | 熊本市",
+     "url": "https://www.city.kumamoto.jp/kiji00345206/index.html"
+    },
+    {
+     "title": "野生鳥獣の密猟は犯罪です!! | 静岡県",
+     "url": "https://www.pref.shizuoka.jp/kurashikankyo/shizenkankyo/wild/1017694.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "野生の鳥や動物を勝手に捕まえない",
+   "summary": "野生の鳥や哺乳類は、原則として鳥獣保護管理法で守られていて、許可なく捕まえたり傷つけたりすることは禁止されています。鳥の卵を採ることも同じです。街や公園にいるハトやスズメ、カラスなど、身近な鳥も対象です。卵やひながいる巣を取り除くことも禁止されています。食べるためや飼うためでも捕まえず、見るだけにします。",
+   "do": [
+    "野生の鳥や動物は、離れて見るだけにする"
+   ],
+   "dont": [
+    "公園や川の鳥を、網やわなで捕まえる",
+    "鳥の巣から卵やひなを持ち去る",
+    "食べるためや飼うために、野生の動物を捕まえる"
+   ],
+   "keywords": [
+    "野鳥",
+    "野生動物",
+    "捕獲",
+    "鳥獣保護管理法",
+    "ハト",
+    "カラス",
+    "卵",
+    "わな"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "野生の鳥や動物を勝手に捕まえない",
+    "summary": "野生の鳥や哺乳類は、原則として鳥獣保護管理法で守られていて、許可なく捕まえたり傷つけたりすることは禁止されています。鳥の卵を採ることも同じです。街や公園にいるハトやスズメ、カラスなど、身近な鳥も対象です。卵やひながいる巣を取り除くことも禁止されています。食べるためや飼うためでも捕まえず、見るだけにします。"
+   },
+   "see_also": [
+    "travel-wildlife-feeding",
+    "travel-poaching",
+    "travel-national-park-plants"
+   ]
+  },
+  {
+   "id": "travel-biei-fields",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "01",
+   "official_link": "https://www.biei-hokkaido.jp/ja/bieikankou-manner110",
+   "sources": [
+    {
+     "title": "観光客の皆様へのおねがい | 一般社団法人 美瑛町観光協会",
+     "url": "https://www.biei-hokkaido.jp/ja/bieikankou-manner110"
+    },
+    {
+     "title": "軽犯罪法 第1条第32号",
+     "url": "https://laws.e-gov.go.jp/law/323AC0000000039"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "北海道・美瑛の丘では畑に入らない",
+   "summary": "美瑛の丘の美しい景色は、すべて農家の畑です。畑は農家の私有地で、勝手に入ることは違法です。雪に覆われた丘も畑で、雪の下では小麦などの作物が育っています。靴についた土を通して、作物に害を与えるおそれもあります。砂利道や農道にも入りません。町の中でドローンを飛ばすことや空からの撮影は、原則として禁止されています。",
+   "do": [
+    "景色は畑の外から楽しむ"
+   ],
+   "dont": [
+    "写真のために畑や雪の丘に入る",
+    "砂利道や農道に入る",
+    "許可なくドローンを飛ばす"
+   ],
+   "keywords": [
+    "美瑛",
+    "北海道",
+    "畑",
+    "丘",
+    "農地",
+    "私有地",
+    "撮影",
+    "ドローン"
+   ],
+   "area": "北海道美瑛町",
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "北海道・美瑛の丘では畑に入らない",
+    "summary": "美瑛の丘の美しい景色は、すべて農家の畑です。畑は農家の私有地で、勝手に入ることは違法です。雪に覆われた丘も畑で、雪の下では小麦などの作物が育っています。靴についた土を通して、作物に害を与えるおそれもあります。砂利道や農道にも入りません。町の中でドローンを飛ばすことや空からの撮影は、原則として禁止されています。"
+   },
+   "see_also": [
+    "travel-private-land",
+    "travel-drone-rules",
+    "travel-photo-manners"
+   ]
   },
   {
    "id": "travel-fuji-climbing",
@@ -4933,7 +6108,112 @@
     "title": "富士山は公式サイトでルールを確かめてから登る",
     "summary": "夏の登山期間の富士山では、山梨県と静岡県がそれぞれ登山道のルールを設けています。事前の登録や予約、入山料の支払い、夜の時間帯の通行規制などがあり、山小屋に泊まらずに夜通しで登る「弾丸登山」はしないよう求められています。内容は年ごとに変わるので、登る前に公式サイトで確認してください。"
    },
-   "see_also": []
+   "see_also": [
+    "travel-mountain-plan"
+   ]
+  },
+  {
+   "id": "travel-gion-manners",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "26",
+   "official_link": "https://ja.kyoto.travel/news/format.php?id=428",
+   "sources": [
+    {
+     "title": "祇園町南側地区からのメッセージ | 【京都市公式】京都観光Navi",
+     "url": "https://ja.kyoto.travel/news/format.php?id=428"
+    },
+    {
+     "title": "祇園町南側地区からのメッセージ（PDF） | 京都府",
+     "url": "https://www.pref.kyoto.jp/kanko/documents/messezi.pdf"
+    },
+    {
+     "title": "マナーを守って素晴らしい京都観光を | 【京都市公式】京都観光Navi",
+     "url": "https://ja.kyoto.travel/news/format.php?id=497"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "祇園では芸妓さん・舞妓さんを止めたり、勝手に撮ったりしない",
+   "summary": "京都・祇園の祇園町南側地区では、住民やお茶屋、芸妓の組合などが、観光客にマナーを守るよう呼びかけています。歩いている芸妓さんや舞妓さんを止めたり、触ったり、付きまとったり、勝手に撮ったりしてはいけません。店の前などの私有地での撮影や、勝手に入ることも問題になっています。ここは住む人の日常生活の場で、テーマパークではありません。住民の通報で警察官が駆けつけることもあります。",
+   "do": [
+    "芸妓さんや舞妓さんは、離れて見守る",
+    "大きな声を出さず、静かに歩く"
+   ],
+   "dont": [
+    "芸妓さんや舞妓さんを止める・触る・付きまとう・勝手に撮る",
+    "店の前などの私有地で撮影したり、勝手に入ったりする"
+   ],
+   "keywords": [
+    "祇園",
+    "京都",
+    "舞妓",
+    "芸妓",
+    "花見小路",
+    "撮影",
+    "私有地",
+    "観光公害"
+   ],
+   "area": "京都府京都市東山区（祇園町南側地区など）",
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "祇園では芸妓さん・舞妓さんを止めたり、勝手に撮ったりしない",
+    "summary": "京都・祇園の祇園町南側地区では、住民やお茶屋、芸妓の組合などが、観光客にマナーを守るよう呼びかけています。歩いている芸妓さんや舞妓さんを止めたり、触ったり、付きまとったり、勝手に撮ったりしてはいけません。店の前などの私有地での撮影や、勝手に入ることも問題になっています。ここは住む人の日常生活の場で、テーマパークではありません。住民の通報で警察官が駆けつけることもあります。"
+   },
+   "see_also": [
+    "travel-residential-areas",
+    "travel-private-land",
+    "travel-photo-manners"
+   ]
+  },
+  {
+   "id": "travel-mountain-plan",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "20",
+   "official_link": "https://www.pref.nagano.lg.jp/kankoki/tozanjorei/tozanjorei.html",
+   "sources": [
+    {
+     "title": "長野県登山安全条例 | 長野県",
+     "url": "https://www.pref.nagano.lg.jp/kankoki/tozanjorei/tozanjorei.html"
+    },
+    {
+     "title": "登山計画書を届出しましょう | 長野県",
+     "url": "https://www.pref.nagano.lg.jp/kankoki/smartphone/tozankeikakusho.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "指定された登山道では、登山計画書を出してから登る",
+   "summary": "長野県は条例で、遭難のおそれが高い山の登山道を「指定登山道」とし、そこを通るときは登山計画書の届け出を求めています。岐阜県にも、登山届が義務になっている山があります。届け出はオンラインがすすめられていて、郵送や登山口の登山ポストでも出せます。登山ポストがない登山口もあります。登山の日は、作った計画書を持って行きます。",
+   "do": [
+    "登る前に、その登山道が指定されているか県のページで確かめる",
+    "オンラインなどで登山計画書を出し、当日も持って行く"
+   ],
+   "dont": [
+    "届け出をせずに、指定登山道を登る"
+   ],
+   "keywords": [
+    "登山",
+    "登山計画書",
+    "登山届",
+    "指定登山道",
+    "長野",
+    "岐阜",
+    "北アルプス",
+    "遭難"
+   ],
+   "area": "長野県・岐阜県などの指定された登山道",
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "指定された登山道では、登山計画書を出してから登る",
+    "summary": "長野県は条例で、遭難のおそれが高い山の登山道を「指定登山道」とし、そこを通るときは登山計画書の届け出を求めています。岐阜県にも、登山届が義務になっている山があります。届け出はオンラインがすすめられていて、郵送や登山口の登山ポストでも出せます。登山ポストがない登山口もあります。登山の日は、作った計画書を持って行きます。"
+   },
+   "see_also": [
+    "travel-fuji-climbing",
+    "travel-bears",
+    "travel-ski-off-course"
+   ]
   },
   {
    "id": "travel-shinkansen-luggage",
@@ -4982,6 +6262,55 @@
     "summary": "東海道・山陽・九州・西九州新幹線では、一定より大きな荷物を持ち込むとき、荷物スペースつきの座席の予約が必要です。大きさの基準は公式案内で確認します。"
    },
    "see_also": []
+  },
+  {
+   "id": "travel-ski-off-course",
+   "category": "travel",
+   "label": "local_rule",
+   "region": "nationwide",
+   "official_link": "https://www.pref.hokkaido.lg.jp/sm/ktk/243867.html",
+   "sources": [
+    {
+     "title": "バックカントリースキーヤーの皆様へ（日本語） | 北海道",
+     "url": "https://www.pref.hokkaido.lg.jp/sm/ktk/243867.html"
+    },
+    {
+     "title": "バックカントリー等における事故防止 ～雪崩に巻き込まれる事故が発生～（PDF） | 石川県警察",
+     "url": "https://www2.police.pref.ishikawa.lg.jp/security/backcountrytouniokerujikobousi.pdf"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "スキー場のルールを守り、管理区域の外に気軽に出ない",
+   "summary": "スキー場の管理区域の外は、整備されたゲレンデとはまったく違う冬山です。天気の急変や雪崩、道迷い、木への衝突など、予測しにくい危険があります。コースの表示やロープなどの目印がないため、気づかないうちに入ってしまうこともあります。救助を頼むと多額の捜索費用を請求されることがあり、天気が悪いと救助できないこともあります。スキー場のルールを守り、立入禁止の場所には入りません。",
+   "do": [
+    "スキー場のルールとコースマップを確かめる",
+    "管理区域の外に出るなら、地域のルールを確かめ、登山届を出す"
+   ],
+   "dont": [
+    "ロープや立入禁止の表示を越えて、コースの外に出る",
+    "準備や情報なしに、管理区域の外を滑る"
+   ],
+   "keywords": [
+    "スキー",
+    "スノーボード",
+    "コース外",
+    "バックカントリー",
+    "雪崩",
+    "立入禁止",
+    "遭難",
+    "捜索費用"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "スキー場のルールを守り、管理区域の外に気軽に出ない",
+    "summary": "スキー場の管理区域の外は、整備されたゲレンデとはまったく違う冬山です。天気の急変や雪崩、道迷い、木への衝突など、予測しにくい危険があります。コースの表示やロープなどの目印がないため、気づかないうちに入ってしまうこともあります。救助を頼むと多額の捜索費用を請求されることがあり、天気が悪いと救助できないこともあります。スキー場のルールを守り、立入禁止の場所には入りません。"
+   },
+   "see_also": [
+    "travel-mountain-plan",
+    "travel-bears"
+   ]
   },
   {
    "id": "travel-bears",
@@ -5109,6 +6438,60 @@
    "see_also": []
   },
   {
+   "id": "travel-insurance",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.jnto.go.jp/emergency/jpn/mi_guide.html",
+   "sources": [
+    {
+     "title": "日本を安心して旅していただくために―具合が悪くなったときに役立つガイド | JNTO",
+     "url": "https://www.jnto.go.jp/emergency/jpn/mi_guide.html"
+    },
+    {
+     "title": "外国人患者受入体制の充実及び医療費不払の防止 | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/inbound_kaifuku/ukeire/kankochi/kanja.html"
+    },
+    {
+     "title": "訪日外国人受診者による医療費不払い防止のための支援資料の紹介及び不払い情報報告システムへの協力の御願いについて | 厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00012.html"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "旅行保険に入り、病院の費用は必ず払う",
+   "summary": "日本の公的医療保険に入っていない旅行者は、病院の費用が全額自己負担になることがあります。旅行の前に、十分な補償のある旅行保険に入ります。日本に来てから入れる旅行保険もあります。医療費を払わないままにすると、次に日本に来るときの入国審査が厳しくなり、入国を断られることもあります。",
+   "do": [
+    "旅行の前に、十分な補償のある旅行保険に入る",
+    "病院で受けた治療の費用は、その場で払う"
+   ],
+   "dont": [
+    "保険に入らずに旅行する",
+    "医療費を払わずに帰国する"
+   ],
+   "keywords": [
+    "旅行保険",
+    "海外旅行保険",
+    "医療費",
+    "病院",
+    "自己負担",
+    "未払い",
+    "入国審査",
+    "けが"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "旅行保険に入り、病院の費用は必ず払う",
+    "summary": "日本の公的医療保険に入っていない旅行者は、病院の費用が全額自己負担になることがあります。旅行の前に、十分な補償のある旅行保険に入ります。日本に来てから入れる旅行保険もあります。医療費を払わないままにすると、次に日本に来るときの入国審査が厳しくなり、入国を断られることもあります。"
+   },
+   "see_also": [
+    "daily-hospital",
+    "emergency-ambulance-use",
+    "travel-medicine-check"
+   ]
+  },
+  {
    "id": "travel-minpaku-noise",
    "category": "travel",
    "label": "manner",
@@ -5151,7 +6534,9 @@
     "title": "民泊では夜の音に気をつける",
     "summary": "民泊は住宅街にあることが多く、まわりで人が暮らしています。法律で、民泊の事業者は宿泊者に騒音を防ぐための注意を説明することになっています。説明された決まりを守り、夜や早朝は静かに過ごします。"
    },
-   "see_also": []
+   "see_also": [
+    "home-minpaku-registration"
+   ]
   },
   {
    "id": "travel-photo-manners",
@@ -5203,7 +6588,70 @@
     "title": "写真を撮るときは人と場所に配慮する",
     "summary": "知らない人を撮るときは、先に声をかけます。写真のために私有地や柵の中に入らず、撮影禁止の表示に従います。"
    },
-   "see_also": []
+   "see_also": [
+    "travel-residential-areas",
+    "travel-private-land",
+    "travel-gion-manners",
+    "crime-prank-streaming"
+   ]
+  },
+  {
+   "id": "travel-residential-areas",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.mlit.go.jp/kankocho/responsible-traveler/jpn.html",
+   "sources": [
+    {
+     "title": "持続可能な観光の推進に向けて | 観光庁",
+     "url": "https://www.mlit.go.jp/kankocho/responsible-traveler/jpn.html"
+    },
+    {
+     "title": "マナーを守って素晴らしい京都観光を | 【京都市公式】京都観光Navi",
+     "url": "https://ja.kyoto.travel/news/format.php?id=497"
+    },
+    {
+     "title": "京都観光におけるマナー（ツーリストシップ）に関する協力要請 | 京都市",
+     "url": "https://www.pref.kyoto.jp/kanko/documents/tuuchi.pdf"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "title": "住宅街では静かにし、住む人を勝手に撮らない",
+   "summary": "観光地のすぐそばにも、人が暮らす住宅街があります。そこは住む人の日常生活の場です。大きな声を出したり、立ち止まって道をふさいだり、住む人や子どもを勝手に撮ったりすると、暮らしの迷惑になり、不安を感じさせることもあります。景色や建物を撮るためでも、私有地には許可なく入りません。地図アプリの近道で住宅街を通るときも、静かに通り過ぎます。",
+   "do": [
+    "住宅街では声を落として歩く",
+    "人を撮るときは、先に許可を取る",
+    "「私有地」「撮影禁止」などの表示に従う"
+   ],
+   "dont": [
+    "家の敷地や店の前など、私有地に許可なく入る",
+    "住む人や子どもに、勝手にカメラを向ける",
+    "立ち止まって道をふさぐ・ごみを置いていく"
+   ],
+   "keywords": [
+    "住宅街",
+    "住宅地",
+    "観光公害",
+    "オーバーツーリズム",
+    "撮影",
+    "大声",
+    "私有地",
+    "近所迷惑"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "住宅街では静かにし、住む人を勝手に撮らない",
+    "summary": "観光地のすぐそばにも、人が暮らす住宅街があります。そこは住む人の日常生活の場です。大きな声を出したり、立ち止まって道をふさいだり、住む人や子どもを勝手に撮ったりすると、暮らしの迷惑になり、不安を感じさせることもあります。景色や建物を撮るためでも、私有地には許可なく入りません。地図アプリの近道で住宅街を通るときも、静かに通り過ぎます。"
+   },
+   "see_also": [
+    "travel-private-land",
+    "travel-gion-manners",
+    "travel-photo-manners",
+    "home-noise-night",
+    "daily-public-voice"
+   ]
   },
   {
    "id": "travel-shrine-temple",
@@ -5307,6 +6755,48 @@
    "see_also": []
   },
   {
+   "id": "travel-water-safety",
+   "category": "travel",
+   "label": "manner",
+   "region": "nationwide",
+   "official_link": "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_051",
+   "sources": [
+    {
+     "title": "外出先での子どもの水の事故に御注意ください！｜消費者庁",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_051"
+    }
+   ],
+   "last_verified": "2026-11-21",
+   "title": "海や川では、遊泳禁止の場所で泳がず、ライフジャケットを着る",
+   "summary": "海では、ライフセーバーや監視員がいる海水浴場で、決められた遊泳エリアの中で泳ぎます。遊泳禁止の場所では絶対に泳ぎません。風の向きや波の高さを確かめ、沖へ向かう強い流れ（離岸流）が起きやすい河口付近、堤防沿い、岩場には入りません。川は穏やかに見えても流れが一定でないことがあり、上流で雨が降ると一気に水位が上がることがあります。水辺ではライフジャケットを着て、子どもから目を離さず、体調が悪いときは遊びません。",
+   "do": [
+    "監視員がいる海水浴場の決められたエリアで泳ぐ",
+    "水辺ではライフジャケットを着る",
+    "子どもから目を離さず、手の届く範囲で見守る"
+   ],
+   "dont": [
+    "遊泳禁止の場所で泳ぐ",
+    "河口付近や堤防沿い、岩場で水に入る",
+    "天気が悪いときや上流で雨が降っているときに川に近づく"
+   ],
+   "keywords": [
+    "海水浴",
+    "川遊び",
+    "水の事故",
+    "離岸流",
+    "ライフジャケット",
+    "遊泳禁止"
+   ],
+   "area": null,
+   "text_language": "ja",
+   "translation_status": "original",
+   "ja": {
+    "title": "海や川では、遊泳禁止の場所で泳がず、ライフジャケットを着る",
+    "summary": "海では、ライフセーバーや監視員がいる海水浴場で、決められた遊泳エリアの中で泳ぎます。遊泳禁止の場所では絶対に泳ぎません。風の向きや波の高さを確かめ、沖へ向かう強い流れ（離岸流）が起きやすい河口付近、堤防沿い、岩場には入りません。川は穏やかに見えても流れが一定でないことがあり、上流で雨が降ると一気に水位が上がることがあります。水辺ではライフジャケットを着て、子どもから目を離さず、体調が悪いときは遊びません。"
+   },
+   "see_also": []
+  },
+  {
    "id": "travel-wildlife-feeding",
    "category": "travel",
    "label": "manner",
@@ -5349,7 +6839,10 @@
     "title": "野生動物に餌をあげない",
     "summary": "国立公園などでは、野生動物に餌を与えないよう求められています。国立公園・国定公園には、野生動物に餌を与えることや、著しく近づいたり付きまとったりすることが法律で規制される場所があります。食べ物やごみを置いていくことも、動物を引き寄せる原因になります。"
    },
-   "see_also": []
+   "see_also": [
+    "travel-wild-animal-capture",
+    "travel-national-park-plants"
+   ]
   },
   {
    "id": "travel-yukata",

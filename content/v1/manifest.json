@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "content_version": "2026.11.16-1265",
+ "content_version": "2026.11.24-457",
  "packs": {
   "ja": {
    "url": "ja.json",
-   "sha256": "1aa193dec6cfeb5e82a826fcd890d485956971aa25c95fbe026b9fd7e97ccea7",
-   "items": 114
+   "sha256": "13be4be827e095cbe253d9b9405c9b480618c85dfe1791a4d104ebba77270e76",
+   "items": 143
   },
   "en": {
    "url": "en.json",
-   "sha256": "0d143a33aac98a8e9b5ea1628b6316905fe27cfa8c86aa667dea9a372f83c2da",
-   "items": 114
+   "sha256": "2ed8e80471cf2d24ef6ce9b7bd059722eea51c128c7d0d548d001014a654524d",
+   "items": 143
   },
   "zh-Hans": {
    "url": "zh-Hans.json",
-   "sha256": "e7c23eab3567dc555cb800d0d061cbdc0c8795afc3547058e0048e4de65b0993",
-   "items": 114
+   "sha256": "fb0129ad8daf99d89afc614736fd2f0de9fb008cd5e85aa7eba451d6b8442df4",
+   "items": 143
   },
   "vi": {
    "url": "vi.json",
-   "sha256": "bfa05d1b2920f8aa16b1e685f8d2fd3b92823309d17e618b86d33470752afc4f",
-   "items": 114
+   "sha256": "8c3a18094491ce25049a1ed77e9b31570d6c84aa8f65bad99251e14653fe7948",
+   "items": 143
   },
   "ko": {
    "url": "ko.json",
-   "sha256": "84b63a06320c90f5508dfc9b8a85fafd0c26aa0ca09ea732268aa65fa4777ceb",
-   "items": 114
+   "sha256": "aa3e047a2cc6c1a697405584b7e43f0c8d4e3fe37323423142c969d3c63801e4",
+   "items": 143
   },
   "hi": {
    "url": "hi.json",
-   "sha256": "1c9acf48936a8c786875812ff8ec935e39a1319fbd712edfe75af2f67392bc9f",
-   "items": 114
+   "sha256": "cac4bf7cfb0329f0c3ee27dbb0b66fc0ad73adf53918f063c9a48571d733b8ac",
+   "items": 143
   }
  }
 }
